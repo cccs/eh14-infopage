@@ -25,12 +25,18 @@
       </div>
     </div>
 
-    <div class="container">
-      <div class="hero-unit" id="eh14">
-        <h1>Eeasterhegg 2014 - Codename „kEHrwoche“</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-      </div>
+    <div id="menuspacer"></div>
 
+    <div id="eh14">
+      <div id="logo">
+        <img src="images/eh2014.png" alt="Easterhegg 2014 - Codename „kEHrwoche“" />
+      </div>
+      <div id="silhouette">
+        <img src="images/silhouette.png" width="100%" />
+      </div>
+    </div>
+
+    <div class="container">
       <div class="hero-unit" id="wann">
         <h1>Wann?</h1>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
@@ -70,6 +76,7 @@
       <script src="/javascripts/bootstrap-typeahead.js"></script>
       <script src="/javascripts/jquery.scrollTo.js"></script>
       <script src="/javascripts/jquery.nav.js"></script>
+      <script src="/javascripts/jquery.parallax.js"></script>
       <script type="text/javascript">
         $(document).ready(function() {
           $('#nav').onePageNav({
@@ -77,6 +84,8 @@
             changeHash: true,
             scrollSpeed: 1500
           });
+          $('#logo').parallax({"coeff":0.6});
+          // $('#silhouette').parallax({"coeff":1.25});
         });
       </script>
    </body>

@@ -4,3 +4,26 @@
 // Include responsive Bootstrap styles
 @import "bootstrap-responsive";
 
+#menuspacer {
+  height: 40px;
+  min-height: 40px;
+}
+
+#eh14 {
+  background-color: #42b8fb;
+  padding: 20px;
+  height: 800px;
+  position: relative;
+}
+
+#eh14 #logo {
+  position:absolute;
+  top:0;
+  padding-top:20px;
+  width:40%;
+  right:10%;
+}
+
+#eh14 #silhouette {
+  width:100%;
+}
