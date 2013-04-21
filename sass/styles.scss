@@ -2,28 +2,98 @@
 @import "bootstrap";
 
 // Include responsive Bootstrap styles
-@import "bootstrap-responsive";
+//@import "bootstrap-responsive";
 
 #menuspacer {
   height: 40px;
   min-height: 40px;
 }
 
-#eh14 {
-  background-color: #42b8fb;
-  padding: 20px;
-  height: 800px;
+.sectionspacer {
+  height: 20px;
+  min-height: 20px;
+  width: 100%;
+  background-color: black;
+}
+
+@mixin section {
   position: relative;
+  height: 80%;
+  padding-top: 40px;
 }
 
-#eh14 #logo {
-  position:absolute;
-  top:0;
-  padding-top:20px;
-  width:40%;
-  right:10%;
+#eh14 {
+  @include section;
+  $toppadding: 40px;
+
+  background-color: #cdeafb;
+  padding-top: $toppadding;
+
+  #logo {
+    position:absolute;
+    top:0;
+    padding-top: $toppadding;
+    width: 45%;
+    right: 5%;
+  }
+
+  #silhouette {
+    position:absolute;
+    width:100%;
+    bottom:0;
+    z-index: 1;
+  }
 }
 
-#eh14 #silhouette {
-  width:100%;
+#wann {
+  @include section;
+
+  background-color: #faffad;
+
+  #calendar {
+    position: absolute;
+    top:0;
+    padding-top: 180px;
+    left: 5%;
+  }
 }
+
+#wo {
+  @include section;
+
+  background-color: #fabead;
+
+  #location {
+    position: absolute;
+    top:0;
+    padding-top: 260px;
+    right: 5%;
+  }
+}
+
+#uebernachtung {
+  @include section;
+
+  background-color: #9be5d0;
+
+  #schlafen {
+    position: absolute;
+    top:0;
+    padding-top: 330px;
+    left: 5%;
+  }
+}
+
+#kontakt {
+  @include section;
+
+  background-color: #9b9dd0;
+
+  #contact {
+    position: absolute;
+    top:0;
+    padding-top: 440px;
+    right: 5%;
+  }
+}
+
