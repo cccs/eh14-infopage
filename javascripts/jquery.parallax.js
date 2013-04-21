@@ -16,8 +16,6 @@
                     $$.css({
                         "top": newCoord + "px"
                     });
-                    console.log("new top: " + newCoord + "px")
-                    console.log($$.css('top'))
                 }
             });
         });
