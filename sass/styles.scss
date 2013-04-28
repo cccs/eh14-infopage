@@ -18,12 +18,13 @@
 
 @mixin section {
   position: relative;
-  height: 80%;
+  height: 60%;
   padding-top: 40px;
 }
 
 #eh14 {
   @include section;
+  height: 80%;
   $toppadding: 40px;
 
   background-color: #cdeafb;
@@ -51,10 +52,7 @@
   background-color: #faffad;
 
   #calendar {
-    position: absolute;
-    top:0;
-    padding-top: 180px;
-    left: 5%;
+    padding-top: 50px;
   }
 }
 
@@ -64,10 +62,7 @@
   background-color: #fabead;
 
   #location {
-    position: absolute;
-    top:0;
-    padding-top: 260px;
-    right: 5%;
+    padding-top: 50px;
   }
 }
 
@@ -77,10 +72,7 @@
   background-color: #9be5d0;
 
   #schlafen {
-    position: absolute;
-    top:0;
-    padding-top: 330px;
-    left: 5%;
+    padding-top: 50px;
   }
 }
 
@@ -90,10 +82,7 @@
   background-color: #9b9dd0;
 
   #contact {
-    position: absolute;
-    top:0;
-    padding-top: 440px;
-    right: 5%;
+    padding-top: 50px;
   }
 }
 
