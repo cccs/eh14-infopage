@@ -4,6 +4,24 @@
 // Include responsive Bootstrap styles
 //@import "bootstrap-responsive";
 
+@font-face {
+    font-family: 'AirstreamRegular';
+    src: url('Airstream-webfont.woff') format('woff'),
+         url('Airstream-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1,h2,h3 {
+  font-family: 'AirstreamRegular',Helvetica,Arial,sans-serif;
+  font-size: 450%;
+}
+
+.container p {
+  font-size: 150%;
+  line-height: 170%;
+}
+
 #menuspacer {
   height: 40px;
   min-height: 40px;
