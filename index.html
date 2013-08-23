@@ -113,6 +113,15 @@
     <script src="javascripts/jquery.nav.js"></script>
     <script src="javascripts/jquery.parallax.js"></script>
     <script type="text/javascript">
+      //JQuery seems to have a bug in newes Firefox- an Chromium-Browsers. See: http://bugs.jquery.com/ticket/3046
+      //This is the temporary solution:
+      var height_ = jQuery.fn.height;
+      jQuery.fn.height = function() {
+          if ( this[0] == window)
+              return window.innerHeight;
+          else return height_.apply(this,arguments);
+      };
+    
       $(document).ready(function() {
         $('#nav').onePageNav({
           currentClass: 'active',
