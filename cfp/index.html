@@ -1,0 +1,124 @@
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <title>Easterhegg 2014 - Codename „kEHrwoche“</title>
+    <link href="../stylesheets/styles.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <div class="nav-collapse collapse">
+            <ul class="nav" id="nav">
+              <li class="active"><a href="../index.html#eh14">EH14</a></li>
+              <li><a href="../index.html#wann">Wann</a></li>
+              <li><a href="../index.html#wo">Wo</a></li>
+              <li><a href="#cfp">CfP</a></li>
+              <li><a href="../index.html#uebernachtung">Übernachtung</a></li>
+              <li><a href="../index.html#kontakt">Kontakt</a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <div id="menuspacer"></div>
+
+    <div id="eh14">
+      <div id="logo">
+        <img src="../images/eh2014.png" alt="Easterhegg 2014 - Codename „kEHrwoche“" />
+      </div>
+      <div id="silhouette">
+        <img src="../images/silhouette.png" width="100%" />
+      </div>
+    </div>
+
+    <div class="sectionspacer"></div>
+
+    <div id="cfp">
+      <div class="container row-fluid">
+        <div class="offset2 span7">
+          <h1>Call for Papers</h1>
+          <p>
+          <p>
+        </div>
+        <div class="clearfix"></div>
+        <div class="offset2 span7" style="background-color:#ffaacc">
+          <p>
+          Werte Mithacker,
+          <p>
+          leider mussten wir zum wiederholten Male feststellen, dass nicht alle
+          Mithacker ihrem kEHrwochendienst Folge leisten.
+          <br>
+          Darum fordern wir mit Nachdruck alle Mithacker auf, zur jährlichen
+          kEHrwoche vom 18. bis 21. April 2014 in Stuttgart zu erscheinen.
+          <br>
+          Datenrückstände sind in den dafür vorgesehenen Behältern zu sammeln.
+          Wir bitten die Trennung in die Kategorien Vorträge, Workshops und
+          Sonstiges strikt zu befolgen.
+          <br>
+          Die Leerung der Behälter erfolgt letztmalig zum 01.02.2014.
+          <p>
+          Mit freundlichen Grüßen,
+          <p>
+          gez. die Veranstaltungsverwaltung
+          </p>
+        </div>
+        <div class="clearfix"></div>
+        <div class="offset2 span7">
+          <p>
+          <p>
+          <p>
+          Für alle, die solche Aushänge im Hausgang nicht kennen: Das Easterhegg
+          2014 (Codename kEHrwoche) sucht Vorträge! Bitte reicht eure Talk- und
+          Workshop-Vorschläge bis 01.02.2014 <a href="https://frab.cccv.de/en/EH2014/cfp/session/new ">hier im frab</a> ein.
+        </div>
+      </div>
+    </div>
+
+    <!--<footer>
+      <p>&copy; Company 2013</p>
+    </footer>-->
+
+    <script src="../javascripts/jquery-1.9.1.min.js"></script>
+    <script src="../javascripts/bootstrap-transition.js"></script>
+    <script src="../javascripts/bootstrap-alert.js"></script>
+    <script src="../javascripts/bootstrap-modal.js"></script>
+    <script src="../javascripts/bootstrap-dropdown.js"></script>
+    <script src="../javascripts/bootstrap-scrollspy.js"></script>
+    <script src="../javascripts/bootstrap-tab.js"></script>
+    <script src="../javascripts/bootstrap-tooltip.js"></script>
+    <script src="../javascripts/bootstrap-popover.js"></script>
+    <script src="../javascripts/bootstrap-button.js"></script>
+    <script src="../javascripts/bootstrap-collapse.js"></script>
+    <script src="../javascripts/bootstrap-carousel.js"></script>
+    <script src="../javascripts/bootstrap-typeahead.js"></script>
+    <script src="../javascripts/jquery.scrollTo.js"></script>
+    <script src="../javascripts/jquery.nav.js"></script>
+    <script src=../"javascripts/jquery.parallax.js"></script>
+    <script type="text/javascript">
+      //JQuery seems to have a bug in newes Firefox- an Chromium-Browsers. See: http://bugs.jquery.com/ticket/3046
+      //This is the temporary solution:
+      var height_ = jQuery.fn.height;
+      jQuery.fn.height = function() {
+          if ( this[0] == window)
+              return window.innerHeight;
+          else return height_.apply(this,arguments);
+      };
+
+      $(document).ready(function() {
+        $('#nav').onePageNav({
+          currentClass: 'active',
+          changeHash: true,
+          scrollSpeed: 1000
+        });
+        $('#logo').parallax({"coeff":0.6});
+      });
+    </script>
+  </body>
+</html>
