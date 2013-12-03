@@ -15,12 +15,9 @@
           </button>
           <div class="nav-collapse collapse">
             <ul class="nav" id="nav">
-              <li class="active"><a href="#eh14">EH14</a></li>
-              <li><a href="#wann">Wann</a></li>
-              <li><a href="#wo">Wo</a></li>
-              <li><a href="cfp/">CfP</a></li>
-              <li><a href="#uebernachtung">Übernachtung</a></li>
-              <li><a href="#kontakt">Kontakt</a></li>
+              <%= menu_link("/", "EH14") %>
+              <%= menu_link("/cfp", "Call for Papers") %>
+              <%= menu_link("/faq", "FAQ") %>
             </ul>
           </div><!--/.nav-collapse -->
         </div>
@@ -61,19 +58,6 @@
     </footer>-->
 
     <script src="javascripts/jquery-1.9.1.min.js"></script>
-    <script src="javascripts/bootstrap-transition.js"></script>
-    <script src="javascripts/bootstrap-alert.js"></script>
-    <script src="javascripts/bootstrap-modal.js"></script>
-    <script src="javascripts/bootstrap-dropdown.js"></script>
-    <script src="javascripts/bootstrap-scrollspy.js"></script>
-    <script src="javascripts/bootstrap-tab.js"></script>
-    <script src="javascripts/bootstrap-tooltip.js"></script>
-    <script src="javascripts/bootstrap-popover.js"></script>
-    <script src="javascripts/bootstrap-button.js"></script>
-    <script src="javascripts/bootstrap-collapse.js"></script>
-    <script src="javascripts/bootstrap-carousel.js"></script>
-    <script src="javascripts/bootstrap-typeahead.js"></script>
-    <script src="javascripts/jquery.scrollTo.js"></script>
     <script src="javascripts/jquery.nav.js"></script>
     <script src="javascripts/jquery.parallax.js"></script>
     <script type="text/javascript">
@@ -93,10 +77,6 @@
           scrollSpeed: 1000
         });
         $('#logo').parallax({"coeff":0.6});
-        //$('#calendar').parallax({"coeff":-0.2});
-        //$('#location').parallax({"coeff":-0.2});
-        //$('#schlafen').parallax({"coeff":-0.2});
-        //$('#contact').parallax({"coeff":-0.2});
       });
     </script>
   </body>
