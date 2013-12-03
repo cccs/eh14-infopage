@@ -1,3 +1,7 @@
 .sass-cache
 .*.swp
 
+/tmp
+/output
+crash.log
+

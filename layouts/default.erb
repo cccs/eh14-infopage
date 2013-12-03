@@ -2,7 +2,7 @@
   <head>
     <meta charset="utf-8" />
     <title>Easterhegg 2014 - Codename „kEHrwoche“</title>
-    <link href="stylesheets/styles.css" rel="stylesheet" type="text/css" />
+    <link href="/stylesheets/styles.css" rel="stylesheet" type="text/css" />
   </head>
   <body>
     <div class="navbar navbar-inverse navbar-fixed-top">
@@ -31,54 +31,16 @@
 
     <div id="eh14">
       <div id="logo">
-        <img src="images/eh2014.png" alt="Easterhegg 2014 - Codename „kEHrwoche“" />
+        <img src="/images/eh2014.png" alt="Easterhegg 2014 - Codename „kEHrwoche“" />
       </div>
       <div id="silhouette">
-        <img src="images/silhouette.png" width="100%" />
+        <img src="/images/silhouette.png" width="100%" />
       </div>
     </div>
 
     <div class="sectionspacer"></div>
 
-    <div id="wann">
-      <div class="container row-fluid">
-        <div id="calendar" class="span3">
-          <center><img src="images/calendar.png" width="70%" /></center>
-        </div>
-        <div class="offset1 span7">
-          <h1>Wann?</h1>
-          <p>Das EasterHegg 2014 (aka kEHrwoche) wird vom 18.04. bis zum 21.04.2014 in Stuttgart stattfinden.</p>
-        </div>
-      </div>
-    </div>
-
-    <div class="sectionspacer"></div>
-
-    <div id="wo">
-      <div class="container row-fluid">
-        <div class="offset1 span7">
-          <h1>Wo?</h1>
-          <p><a href="http://kulturhausarena.de/">Kulturhaus-Arena</a> Wangen, 48.777764,9.235627</p>
-        </div>
-        <div id="location" class="offset1 span3">
-            <center><img src="images/ort.jpg" width="70%" /></center>
-        </div>
-      </div>
-    </div>
-
-    <div class="sectionspacer"></div>
-
-    <div id="uebernachtung">
-      <div class="container row-fluid">
-        <div id="schlafen" class="span3">
-          <center><img src="images/schlafen.png" width="70%" /></center>
-        </div>
-        <div class="offset1 span7">
-          <h1>Übernachtung?</h1>
-          <p>Es wird ein Betten-Kontingent über die Jugendherberge Stuttgart geben.</p>
-        </div>
-      </div>
-    </div>
+    <%= yield %>
 
     <div class="sectionspacer"></div>
 
@@ -89,7 +51,7 @@
           <p>Ihr habt Fragen? Stellt sie uns! Ihr erreicht uns unter <a href="mailto:eh2014-orga@cccs.de?Subject=Anfrage via Web">eh2014-orga@cccs.de</a></p>
         </div>
         <div id="contact" class="offset1 span3">
-            <center><img src="images/contact.jpg" width="70%" /></center>
+            <center><img src="/images/contact.jpg" width="70%" /></center>
         </div>
       </div>
     </div>
