@@ -1,0 +1,83 @@
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <title>Easterhegg 2014 - Codename „kEHrwoche“</title>
+    <link href="/stylesheets/styles.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <div class="nav-collapse collapse">
+            <ul class="nav" id="nav">
+              <%= menu_link("/", "EH14") %>
+              <%= menu_link("/cfp", "Call for Papers") %>
+              <%= menu_link("/faq", "FAQ") %>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <div id="menuspacer"></div>
+
+    <div id="eh14">
+      <div id="logo">
+        <img src="/images/eh2014.png" alt="Easterhegg 2014 - Codename „kEHrwoche“" />
+      </div>
+      <div id="silhouette">
+        <img src="/images/silhouette.png" width="100%" />
+      </div>
+    </div>
+
+    <div class="sectionspacer"></div>
+
+    <%= yield %>
+
+    <div class="sectionspacer"></div>
+
+    <div id="kontakt">
+      <div class="container row-fluid">
+        <div class="offset1 span7">
+          <h1>Kontakt</h1>
+          <p>Ihr habt Fragen? Stellt sie uns! Ihr erreicht uns unter <a href="mailto:eh2014-orga@cccs.de?Subject=Anfrage via Web">eh2014-orga@cccs.de</a></p>
+        </div>
+        <div id="contact" class="offset1 span3">
+            <center><img src="/images/contact.jpg" width="70%" /></center>
+        </div>
+      </div>
+    </div>
+
+    <!--<footer>
+      <p>&copy; Company 2013</p>
+    </footer>-->
+
+    <script src="/javascripts/jquery-1.9.1.min.js"></script>
+    <script src="/javascripts/jquery.nav.js"></script>
+    <script src="/javascripts/jquery.parallax.js"></script>
+    <script type="text/javascript">
+      //JQuery seems to have a bug in newes Firefox- an Chromium-Browsers. See: http://bugs.jquery.com/ticket/3046
+      //This is the temporary solution:
+      var height_ = jQuery.fn.height;
+      jQuery.fn.height = function() {
+          if ( this[0] == window)
+              return window.innerHeight;
+          else return height_.apply(this,arguments);
+      };
+
+      $(document).ready(function() {
+        $('#nav').onePageNav({
+          currentClass: 'active',
+          changeHash: true,
+          scrollSpeed: 1000
+        });
+        $('#logo').parallax({"coeff":0.6});
+      });
+    </script>
+  </body>
+</html>
