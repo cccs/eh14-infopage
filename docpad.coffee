@@ -2,6 +2,8 @@
 # It is simply a CoffeeScript Object which is parsed by CSON
 docpadConfig =
 
+  regenerateDelay: 50
+
   # Template Data
   # =============
   # These are variables that will be accessible via our templates
@@ -12,16 +14,16 @@ docpadConfig =
     # Specify some site properties
     site:
       # The production url of our website
-      url: "http://website.com"
+      url: "http://http://eh14.easterhegg.eu/"
 
       # Here are some old site urls that you would like to redirect from
-      oldUrls: [
-        'www.website.com',
-        'website.herokuapp.com'
-      ]
+      # oldUrls: [
+      #   'www.website.com',
+      #   'website.herokuapp.com'
+      # ]
 
       # The default title of our website
-      title: "Your Website"
+      title: "Easterhegg 2014"
 
       # The website description (for SEO)
       description: """

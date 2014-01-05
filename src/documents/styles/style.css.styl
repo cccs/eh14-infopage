@@ -1,13 +1,84 @@
+@font-face
+	font-family 'aller'
+	src url('/fonts/allerdisplay-webfont.woff') format('woff')
+	font-weight normal
+	font-style normal
+
+h1, h2, h3, h4, h5, h6
+	font-family 'aller', 'Helvetica Neue', Helvetica, Arial, sans serif
+
 a, a:link
-  cursor pointer
+	cursor pointer
+
+html
+	height 100%
 
 body
-  padding-top 60px
+	height 100%
+	color #112211
 
 table
-  tfoot, tbody
-    th
-      border-top 1px solid #DDD
+	tfoot, tbody
+		th
+			border-top 1px solid #DDD
+
+.wrap
+	min-height 100%
+	height auto
+	margin 0px auto -60px
+	padding 0px 0px 60px
+	//background-color rgba(255, 255, 255, 0.75)
 
 footer
-  padding-bottom: 30px
+	height 60px
+	background-color rgba(255,255,255,0.2)
+
+	.container
+		padding-top 1em
+
+body
+	background-color #55C01A
+	// background-image url('/images/silhouette.svg')
+	// background-position bottom
+	// background-attachment fixed
+	// background-size 100% auto
+	// background-repeat no-repeat
+
+.background-silhouette
+	position fixed
+	bottom -5px //aus gründen
+	z-index -9000
+	width 100%
+
+	svg 
+		max-height 846px
+
+		path
+			fill #83CE12 //#6DC50C
+
+#main-container
+	padding-top 60px
+
+.jumbotron
+	background none
+
+	img
+		margin-left -150px
+		width 75%
+		float left
+
+.navbar-fixed-top
+	border-width 0 0 4px
+
+.navbar-default
+	background-color #6DC50C
+	border-color #83CE12
+
+	a
+		color #112211 !important
+		font-family 'aller', 'Helvetica Neue', Helvetica, Arial, sans serif
+
+.navbar-brand
+	img
+		margin -30px 0 -60px 0
+		height 108px
