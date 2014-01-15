@@ -1,0 +1,108 @@
+background-green = #88C000
+navbar-green = #5A0
+foreground-green = #9C0
+text-dark = #112211
+aller-font = 'aller', 'Helvetica Neue', Helvetica, Arial, sans serif
+
+@font-face
+	font-family 'aller'
+	src url('/fonts/allerdisplay-webfont.woff') format('woff')
+	font-weight normal
+	font-style normal
+
+h1, h2, h3, h4, h5, h6
+	font-family aller-font
+
+a, a:link
+	cursor pointer
+
+a
+	color #FFF
+
+a:hover, a:focus
+	color #190
+
+html
+	height 100%
+
+body
+	height 100%
+	color text-dark
+
+table
+	tfoot, tbody
+		th
+			border-top 1px solid #DDD
+
+.wrap
+	min-height 100%
+	height auto
+	margin 0px auto -60px
+	padding 0px 0px 60px
+	//background-color rgba(255, 255, 255, 0.75)
+
+footer
+	height 60px
+	background-color rgba(255,255,255,0.2)
+
+	.container
+		padding-top 1em
+
+body
+	background-color background-green
+	// background-image url('/images/silhouette.svg')
+	// background-position bottom
+	// background-attachment fixed
+	// background-size 100% auto
+	// background-repeat no-repeat
+
+.background-silhouette
+	position fixed
+	bottom -5px //aus gründen
+	z-index -9000
+	width 100%
+
+	svg 
+		max-height 846px
+
+		path
+			fill foreground-green //#6DC50C
+
+#main-container
+	padding-top 80px
+
+.jumbotron
+	background none
+	text-align right
+
+	img
+		margin-left -150px
+		width 75%
+		float left
+
+.well
+	background-color navbar-green
+	border 4px solid foreground-green
+// NAVBAR
+
+.navbar-fixed-top
+	border-width 0 0 4px
+
+.navbar-default
+	background-color navbar-green
+	border-color foreground-green
+
+	a
+		color text-dark !important
+		font-family aller-font
+
+.navbar-brand
+	img
+		margin -40px 0 -60px 0
+		height 115px
+
+.navbar-default .navbar-nav > .active > a
+.navbar-default .navbar-nav > .active > a:hover
+.navbar-default .navbar-nav > .active > a:focus
+	background-color foreground-green
+
