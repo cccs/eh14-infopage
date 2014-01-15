@@ -75,7 +75,7 @@ html(lang="en")
 				section#content.content!= content
 		footer
 			.container
-				div= site.copyright
+				div: a(href='/impressum') Impressum
 				div(style="font-style:italic; font-size: 12px") This website was last updated at #{site.date}
 		.background-silhouette
 			svg(viewBox='0 0 1981 846', preserveAspectRatio='xMaxYMax slice')
