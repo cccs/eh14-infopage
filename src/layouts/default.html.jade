@@ -70,12 +70,14 @@ html(lang="en")
 							- clazz = (document.url === doc.url) ? 'active' : null
 							li(typeof="sioc:Page", about=doc.url, class=clazz)
 								a(href=doc.url, property="dc:title")= doc.title
+						li(typeof="sioc:Page", about="FRAB")
+							a(href="https://frab.cccv.de/de/EH2014", property="dc:title") FRAB
 		
 			#main-container.container
 				section#content.content!= content
 		footer
 			.container
-				div= site.copyright
+				div: a(href='/impressum') Impressum
 				div(style="font-style:italic; font-size: 12px") This website was last updated at #{site.date}
 		.background-silhouette
 			svg(viewBox='0 0 1981 846', preserveAspectRatio='xMaxYMax slice')
