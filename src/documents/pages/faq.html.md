@@ -10,4 +10,4 @@ Haustiere sind auf dem Easterhegg leider nicht gestattet. Ausgenommen sind natü
 
 ### Ich habe eine Frage, die Antwort ist offenbar (noch) nicht "frequently asked"
 
-Schreib' bitte eine Mail an das Orga-Team (Kontakt unten).
+Schreib' bitte eine Mail an das Orga-Team (siehe [Kontaktseite](/pages/kontakt/)).
