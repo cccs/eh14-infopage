@@ -10,7 +10,7 @@ Haustiere sind auf dem Easterhegg leider nicht gestattet. Ausgenommen sind natü
 
 ### Ich bin (noch) kein CCC-Mitglied, kann ich trotzdem kommen?
 
-Ja! Alle Interessierten sind herzlich eingeladen
+Ja! Alle Interessierten sind herzlich eingeladen.
 
 ### Ich habe eine Frage, die Antwort ist aber (noch) nicht „frequently asked“.
 
