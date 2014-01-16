@@ -64,15 +64,19 @@ html(lang="en")
 			nav.navbar.navbar-default.navbar-fixed-top
 				.container
 					.navbar-header
+						button.navbar-toggle(type="button", data-toggle="collapse", data-target=".navbar-collapse")
+							span.sr-only Toggle navigation
+							span.glyphicon.glyphicon-chevron-down
 						a.navbar-brand(href="/"): img(src='/images/logo-navbar.svg')
-					ul.nav.navbar-nav
-						each doc in getCollection('pages').toJSON()
-							- clazz = (document.url === doc.url) ? 'active' : null
-							li(typeof="sioc:Page", about=doc.url, class=clazz)
-								a(href=doc.url, property="dc:title")= doc.title
-						li(typeof="sioc:Page", about="FRAB")
-							a(href="https://frab.cccv.de/de/EH2014", property="dc:title") FRAB
-		
+					.navbar-collapse.collapse
+						ul.nav.navbar-nav
+							each doc in getCollection('pages').toJSON()
+								- clazz = (document.url === doc.url) ? 'active' : null
+								li(typeof="sioc:Page", about=doc.url, class=clazz)
+									a(href=doc.url, property="dc:title")= doc.title
+							li(typeof="sioc:Page", about="FRAB")
+								a(href="https://frab.cccv.de/de/EH2014", property="dc:title") FRAB
+
 			#main-container.container
 				section#content.content!= content
 		footer
@@ -86,3 +90,4 @@ html(lang="en")
 
 		// Scripts
 		!= scripts.toHTML()
+// vim: tabstop=2 softtabstop=2 shiftwidth=2 noexpandtab
