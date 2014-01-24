@@ -1,5 +1,5 @@
 # Easterhegg 2014 Website
-This repository holds the sources to eh14.easterhegg.eu.
+This repository holds the sources to [eh14.easterhegg.eu](http://eh14.easterhegg.eu/).
 
 The website is based on Twitter Bootstrap for DocPad.
 
