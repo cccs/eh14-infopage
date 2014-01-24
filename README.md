@@ -1,8 +1,14 @@
-# [Twitter Bootstrap](http://twitter.github.com/bootstrap/) skeleton for [DocPad](https://github.com/bevry/docpad)
+# Easterhegg 2014 Website
+This repository holds the sources to eh14.easterhegg.eu.
+
+The website is based on Twitter Bootstrap for DocPad.
+
+
+## [Twitter Bootstrap](http://twitter.github.com/bootstrap/) skeleton for [DocPad](https://github.com/bevry/docpad)
 Simple and flexible HTML, CSS, and Javascript for popular user interface components and interactions.
 
 
-## Getting Started
+### Getting Started
 
 1. [Install DocPad](https://github.com/bevry/docpad)
 
@@ -20,7 +26,7 @@ Simple and flexible HTML, CSS, and Javascript for popular user interface compone
 1. Start hacking away by modifying the `src` directory
 
 
-## License
+### License
 
 This skeleton is made ["public domain"](http://en.wikipedia.org/wiki/Public_domain) using the [Creative Commons Zero](http://creativecommons.org/publicdomain/zero/1.0/), as such before you publish your website you should place your desired license here and within the `LICENSE.md` file.
 
