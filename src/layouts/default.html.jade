@@ -74,6 +74,8 @@ html(lang="en")
 								- clazz = (document.url === doc.url) ? 'active' : null
 								li(typeof="sioc:Page", about=doc.url, class=clazz)
 									a(href=doc.url, property="dc:title")= doc.title
+							li(typeof="sioc:Page", about="Fahrplan")
+								a(href="/pages/fahrplan/", property="dc:title") Fahrplan
 							li(typeof="sioc:Page", about="FRAB")
 								a(href="https://frab.cccv.de/de/EH2014", property="dc:title") FRAB
 							li(typeof="sioc:Page", about="Wiki")
