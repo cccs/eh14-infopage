@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20140330T020000
+RDATE:20140330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T223000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T213000
+DTSTAMP;VALUE=DATE-TIME:20140322T112202Z
+UID:rkDHniUlFfF3l-9uRzoBBw@frab.cccv.de
+DESCRIPTION:This talk is supposed to introduce the current discussion reg
+ arding Bitcoins security. We want to give an overview of cryptographic i
+ ssues\, wallet security etc. We also want to discuss some of the more re
+ cent events regardig Bitcoins (Mt. Gox etc.)
+URL:/pages/fahrplan/events/5763.html
+SUMMARY:Security aspects of Bitcoin
+ORGANIZER:EH2014
+LOCATION:Degerloch
+END:VEVENT
+END:VCALENDAR

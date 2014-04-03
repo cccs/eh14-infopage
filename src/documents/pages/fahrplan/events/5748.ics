@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20140330T020000
+RDATE:20140330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T233000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T220000
+DTSTAMP;VALUE=DATE-TIME:20140330T180618Z
+UID:cw1kWo5jKcQug7gM1AvNGA@frab.cccv.de
+DESCRIPTION:While recent events have finally made the world at large real
+ ize that the exhaustive deployment and use of cryptography throughout th
+ e Internet can no longer be deferred\, there is now a good chance that p
+ eople will be given a false sense of security once cryptographic support
+  has been added and enabled.  This talk points out the limitations inher
+ ent in real-world cryptography\, from its underlying principles to its o
+ peration\,
+URL:/pages/fahrplan/events/5748.html
+SUMMARY:The Limits of Cryptography
+ORGANIZER:EH2014
+LOCATION:Degerloch
+END:VEVENT
+END:VCALENDAR

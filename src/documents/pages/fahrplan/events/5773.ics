@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20140330T020000
+RDATE:20140330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T200000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T191500
+DTSTAMP;VALUE=DATE-TIME:20140331T150428Z
+UID:VkBGg2nUmqm32PqT7MkhSg@frab.cccv.de
+DESCRIPTION:Estimates are part of our daily live. Every single day we ask
+  and answer questions like: "when will it be done?"\, "how much does it 
+ cost?" and use that "data" to plan the future of our projects. Some of u
+ s using rigorously formalised processes with heaps of excel sheets\, som
+ e applying more agile methods like planning poker. While doing that\, we
+  do not realise\, how estimates are harmful!\n#NoEstimates is about expl
+ oring alternative ways of planning our work\, of assigning value to feat
+ ures and a different approach about what we want to deliver.
+URL:/pages/fahrplan/events/5773.html
+SUMMARY:#NoEstimates
+ORGANIZER:EH2014
+LOCATION:Großer Saal
+END:VEVENT
+END:VCALENDAR
