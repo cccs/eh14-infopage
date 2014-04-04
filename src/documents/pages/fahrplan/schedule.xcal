@@ -176,7 +176,7 @@
 <method>PUBLISH</method>
 <uid>5726@EH2014@pentabarf.org</uid>
 <pentabarf:event-id>5726</pentabarf:event-id>
-<pentabarf:event-slug>EH2014_-_5726_-_de_-_degerloch_-_201404202015_-_infrastructure_review_-_eh-orga</pentabarf:event-slug>
+<pentabarf:event-slug>EH2014_-_5726_-_de_-_degerloch_-_201404202015_-_infrastructure_review_-_momo</pentabarf:event-slug>
 <pentabarf:title>infrastructure review</pentabarf:title>
 <pentabarf:subtitle>what happened, what went wrong</pentabarf:subtitle>
 <pentabarf:language>German</pentabarf:language>
@@ -191,7 +191,7 @@
 <category>Lecture</category>
 <url>/pages/fahrplan/events/5726.html</url>
 <location>Degerloch</location>
-<attendee>eh-orga</attendee>
+<attendee>momo</attendee>
 </vevent>
 <vevent>
 <method>PUBLISH</method>
@@ -472,13 +472,13 @@ Und Sauron wüsste von Anfang an, wohin er Orks &amp; Nazgul schicken müsste, u
 <method>PUBLISH</method>
 <uid>5747@EH2014@pentabarf.org</uid>
 <pentabarf:event-id>5747</pentabarf:event-id>
-<pentabarf:event-slug>EH2014_-_5747_-_de_-_schalldruckkammer_-_201404191330_-_prismcamp_-_musevg</pentabarf:event-slug>
+<pentabarf:event-slug>EH2014_-_5747_-_de_-_grosser_saal_-_201404191430_-_prismcamp_-_musevg</pentabarf:event-slug>
 <pentabarf:title>PrismCamp</pentabarf:title>
 <pentabarf:subtitle>Politik, Technik und Gesellschaft in Zeiten der Totalüberwachung</pentabarf:subtitle>
 <pentabarf:language>German</pentabarf:language>
 <pentabarf:language-code>de</pentabarf:language-code>
-<dtstart>20140419T133000</dtstart>
-<dtend>20140419T140000</dtend>
+<dtstart>20140419T143000</dtstart>
+<dtend>20140419T150000</dtend>
 <duration>003000</duration>
 <summary>PrismCamp- Politik, Technik und Gesellschaft in Zeiten der Totalüberwachung</summary>
 <description>PrismCamp - Wider die Ohnmacht.
@@ -488,7 +488,7 @@ Warum wir ein Barcamp zu NSA-Überwachung, Vorratsdatenspeicherung etc. veransta
 <status>CONFIRMED</status>
 <category>Lecture</category>
 <url>/pages/fahrplan/events/5747.html</url>
-<location>Schalldruckkammer</location>
+<location>Großer Saal</location>
 <attendee>musevg</attendee>
 </vevent>
 <vevent>
@@ -538,13 +538,13 @@ Warum wir ein Barcamp zu NSA-Überwachung, Vorratsdatenspeicherung etc. veransta
 <method>PUBLISH</method>
 <uid>5751@EH2014@pentabarf.org</uid>
 <pentabarf:event-id>5751</pentabarf:event-id>
-<pentabarf:event-slug>EH2014_-_5751_-_de_-_degerloch_-_201404191015_-_semi_automatisierung_der_kardiopulmonalen_reanimation_als_-_abdo</pentabarf:event-slug>
+<pentabarf:event-slug>EH2014_-_5751_-_de_-_degerloch_-_201404191145_-_semi_automatisierung_der_kardiopulmonalen_reanimation_als_-_abdo</pentabarf:event-slug>
 <pentabarf:title>(semi)Automatisierung der kardiopulmonalen Reanimation (ALS)</pentabarf:title>
 <pentabarf:subtitle>a work in progress</pentabarf:subtitle>
 <pentabarf:language>German</pentabarf:language>
 <pentabarf:language-code>de</pentabarf:language-code>
-<dtstart>20140419T101500</dtstart>
-<dtend>20140419T103000</dtend>
+<dtstart>20140419T114500</dtstart>
+<dtend>20140419T120000</dtend>
 <duration>001500</duration>
 <summary>(semi)Automatisierung der kardiopulmonalen Reanimation (ALS)- a work in progress</summary>
 <description>Software- und hardwaregestütztes proof-of-concept. Umbau bestehender Medizintechnikprodukte zur Steuerung mittels eigens entwickeltem Softwareprogramm.</description>
@@ -603,13 +603,13 @@ Für Verbrauchsmaterial wird ein kleiner Unkostenbeitrag erhoben.</description>
 <method>PUBLISH</method>
 <uid>5754@EH2014@pentabarf.org</uid>
 <pentabarf:event-id>5754</pentabarf:event-id>
-<pentabarf:event-slug>EH2014_-_5754_-_de_-_degerloch_-_201404191630_-_regiotreffen_-_martin_haase_maha</pentabarf:event-slug>
+<pentabarf:event-slug>EH2014_-_5754_-_de_-_degerloch_-_201404191600_-_regiotreffen_-_martin_haase_maha</pentabarf:event-slug>
 <pentabarf:title>Regiotreffen</pentabarf:title>
 <pentabarf:subtitle>Erfa-Beirat und das regionale Chaos treffen sich</pentabarf:subtitle>
 <pentabarf:language>German</pentabarf:language>
 <pentabarf:language-code>de</pentabarf:language-code>
-<dtstart>20140419T163000</dtstart>
-<dtend>20140419T193000</dtend>
+<dtstart>20140419T160000</dtstart>
+<dtend>20140419T190000</dtend>
 <duration>030000</duration>
 <summary>Regiotreffen- Erfa-Beirat und das regionale Chaos treffen sich</summary>
 <description>Auf dem Easterhegg soll wieder ein Regiotreffen stattfindet. Es treffen sich die Vertreter der Erfa-Kreise und Chaostreffs.</description>
@@ -717,7 +717,7 @@ Für Verbrauchsmaterial wird ein kleiner Unkostenbeitrag erhoben.</description>
 <dtend>20140420T200000</dtend>
 <duration>004500</duration>
 <summary>Hacker &amp; Nerds vs. People- Ergebnisse einer Vergleichsstudie</summary>
-<description>Emacs oder VIM? Foo oder Bar? Wie beantworten Nicht-Hacker diese Fragen? Und sind wirklich die meisten Hacker My Little Pony Fans?</description>
+<description>Emacs oder VIM? Foo oder Bar? Wie beantworten Hacker und Nicht-Hacker diese Fragen? Und sind wirklich die meisten Hacker My Little Pony Fans?</description>
 <class>PUBLIC</class>
 <status>CONFIRMED</status>
 <category>Lecture</category>
@@ -902,21 +902,21 @@ hc ist seit 2008 admin im hackint, und hat dort unter anderem an der Umstellung 
 <method>PUBLISH</method>
 <uid>5771@EH2014@pentabarf.org</uid>
 <pentabarf:event-id>5771</pentabarf:event-id>
-<pentabarf:event-slug>EH2014_-_5771_-_de_-_degerloch_-_201404200945_-_fuhrung_und_kommunikation_-_laird_dave</pentabarf:event-slug>
+<pentabarf:event-slug>EH2014_-_5771_-_de_-_parkplatz_-_201404191000_-_fuhrung_und_kommunikation_-_laird_dave</pentabarf:event-slug>
 <pentabarf:title>Führung und Kommunikation</pentabarf:title>
 <pentabarf:subtitle>Der Katastrophenschutz im Einsatz</pentabarf:subtitle>
 <pentabarf:language>German</pentabarf:language>
 <pentabarf:language-code>de</pentabarf:language-code>
-<dtstart>20140420T094500</dtstart>
-<dtend>20140420T114500</dtend>
-<duration>020000</duration>
+<dtstart>20140419T100000</dtstart>
+<dtend>20140419T130000</dtend>
+<duration>030000</duration>
 <summary>Führung und Kommunikation- Der Katastrophenschutz im Einsatz</summary>
 <description>Wir zeigen euch die Arbeit und die Ausstattung der THW-Fachgruppe Führung und Kommunikation</description>
 <class>PUBLIC</class>
 <status>CONFIRMED</status>
 <category>Lecture</category>
 <url>/pages/fahrplan/events/5771.html</url>
-<location>Degerloch</location>
+<location>Parkplatz</location>
 <attendee>Laird_Dave</attendee>
 </vevent>
 <vevent>
@@ -1115,18 +1115,20 @@ Erklärung dazu im Workshop mit praktischen Beispielen und Hardware zum anfassen
 <method>PUBLISH</method>
 <uid>5788@EH2014@pentabarf.org</uid>
 <pentabarf:event-id>5788</pentabarf:event-id>
-<pentabarf:event-slug>EH2014_-_5788_-_de_-_degerloch_-_201404191945_-_anti-cyber_realitatsabgleich_-_robert_haist</pentabarf:event-slug>
-<pentabarf:title>Anti-Cyber Realitätsabgleich</pentabarf:title>
-<pentabarf:subtitle>Howto not suck at Incident Response</pentabarf:subtitle>
+<pentabarf:event-slug>EH2014_-_5788_-_de_-_degerloch_-_201404191945_-_anti_-cyber-realitatsabgleich_-_robert_haist</pentabarf:event-slug>
+<pentabarf:title>(Anti)-Cyber-Realitätsabgleich</pentabarf:title>
+<pentabarf:subtitle>HowTo not suck at Incident Response</pentabarf:subtitle>
 <pentabarf:language>German</pentabarf:language>
 <pentabarf:language-code>de</pentabarf:language-code>
 <dtstart>20140419T194500</dtstart>
 <dtend>20140419T203000</dtend>
 <duration>004500</duration>
-<summary>Anti-Cyber Realitätsabgleich- Howto not suck at Incident Response</summary>
-<description>Anhand realitätsnaher Beispiele wird erklärt, auf was man bei einem Sicherheitsvorfall im Netzwerk und dessen Behandlung achten sollte. Es werden Dinge besprochen welche bei solchen Vorfällen funktionieren und helfen - außerdem sind da noch eher hinderliche Dinge.
+<summary>(Anti)-Cyber-Realitätsabgleich- HowTo not suck at Incident Response</summary>
+<description>Anhand realitätsnaher Beispiele wird erklärt, auf was man bei einem Sicherheitsvorfall im Netzwerk und dessen Behandlung (Incident Response) zu Beginn achten sollte. Hierbei spielen vor allem die bestmögliche Nutzung vorhandener Ressourcen und die Einforderung von Marketingversprechen eine große Rolle.
 
-Gute Ironie und Sarkasmusdetektoren werden unbedingt vorausgesetzt.</description>
+Also eine Art: &lt;buzzwords&gt; First-Response Best-Practice Guide &lt;/buzzwords&gt;
+
+Gute Ironie- und Sarkasmusdetektoren werden unbedingt vorausgesetzt.</description>
 <class>PUBLIC</class>
 <status>CONFIRMED</status>
 <category>Lecture</category>
@@ -1138,13 +1140,13 @@ Gute Ironie und Sarkasmusdetektoren werden unbedingt vorausgesetzt.</description
 <method>PUBLISH</method>
 <uid>5790@EH2014@pentabarf.org</uid>
 <pentabarf:event-id>5790</pentabarf:event-id>
-<pentabarf:event-slug>EH2014_-_5790_-_de_-_grosser_saal_-_201404202230_-_nerd-tabu_-_skyr</pentabarf:event-slug>
+<pentabarf:event-slug>EH2014_-_5790_-_de_-_grosser_saal_-_201404202200_-_nerd-tabu_-_skyr</pentabarf:event-slug>
 <pentabarf:title>Nerd-Tabu</pentabarf:title>
 <pentabarf:subtitle>Das Gesellschaftsspiel für Nerds</pentabarf:subtitle>
 <pentabarf:language>German</pentabarf:language>
 <pentabarf:language-code>de</pentabarf:language-code>
-<dtstart>20140420T223000</dtstart>
-<dtend>20140421T003000</dtend>
+<dtstart>20140420T220000</dtstart>
+<dtend>20140421T000000</dtend>
 <duration>020000</duration>
 <summary>Nerd-Tabu- Das Gesellschaftsspiel für Nerds</summary>
 <description>Das Gesellschaftsspiel &quot;Tabu&quot; für Nerds!</description>

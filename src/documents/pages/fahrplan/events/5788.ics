@@ -15,15 +15,17 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T203000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T194500
-DTSTAMP;VALUE=DATE-TIME:20140330T180737Z
+DTSTAMP;VALUE=DATE-TIME:20140402T205936Z
 UID:SUy5iEpNWx9zyqfQIG7caQ@frab.cccv.de
 DESCRIPTION:Anhand realitätsnaher Beispiele wird erklärt\, auf was man be
- i einem Sicherheitsvorfall im Netzwerk und dessen Behandlung achten soll
- te. Es werden Dinge besprochen welche bei solchen Vorfällen funktioniere
- n und helfen - außerdem sind da noch eher hinderliche Dinge.\n\nGute Iro
- nie und Sarkasmusdetektoren werden unbedingt vorausgesetzt.
+ i einem Sicherheitsvorfall im Netzwerk und dessen Behandlung (Incident R
+ esponse) zu Beginn achten sollte. Hierbei spielen vor allem die bestmögl
+ iche Nutzung vorhandener Ressourcen und die Einforderung von Marketingve
+ rsprechen eine große Rolle.\n\nAlso eine Art: <buzzwords> First-Response
+  Best-Practice Guide </buzzwords>\n\nGute Ironie- und Sarkasmusdetektore
+ n werden unbedingt vorausgesetzt.
 URL:/pages/fahrplan/events/5788.html
-SUMMARY:Anti-Cyber Realitätsabgleich
+SUMMARY:(Anti)-Cyber-Realitätsabgleich
 ORGANIZER:EH2014
 LOCATION:Degerloch
 END:VEVENT

@@ -13,9 +13,26 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T103000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T101500
-DTSTAMP;VALUE=DATE-TIME:20140318T085347Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T203000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T194500
+DTSTAMP;VALUE=DATE-TIME:20140402T205936Z
+UID:SUy5iEpNWx9zyqfQIG7caQ@frab.cccv.de
+DESCRIPTION:Anhand realitätsnaher Beispiele wird erklärt\, auf was man be
+ i einem Sicherheitsvorfall im Netzwerk und dessen Behandlung (Incident R
+ esponse) zu Beginn achten sollte. Hierbei spielen vor allem die bestmögl
+ iche Nutzung vorhandener Ressourcen und die Einforderung von Marketingve
+ rsprechen eine große Rolle.\n\nAlso eine Art: <buzzwords> First-Response
+  Best-Practice Guide </buzzwords>\n\nGute Ironie- und Sarkasmusdetektore
+ n werden unbedingt vorausgesetzt.
+URL:/pages/fahrplan/events/5788.html
+SUMMARY:(Anti)-Cyber-Realitätsabgleich
+ORGANIZER:EH2014
+LOCATION:Degerloch
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T120000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T114500
+DTSTAMP;VALUE=DATE-TIME:20140404T103438Z
 UID:GnA8_-5g-pXihZxu381Vvw@frab.cccv.de
 DESCRIPTION:Software- und hardwaregestütztes proof-of-concept. Umbau best
  ehender Medizintechnikprodukte zur Steuerung mittels eigens entwickeltem
@@ -74,21 +91,6 @@ URL:/pages/fahrplan/events/5758.html
 SUMMARY:Angriffe auf Mikrochips durch die Rueckseite
 ORGANIZER:EH2014
 LOCATION:Großer Saal
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T203000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T194500
-DTSTAMP;VALUE=DATE-TIME:20140330T180737Z
-UID:SUy5iEpNWx9zyqfQIG7caQ@frab.cccv.de
-DESCRIPTION:Anhand realitätsnaher Beispiele wird erklärt\, auf was man be
- i einem Sicherheitsvorfall im Netzwerk und dessen Behandlung achten soll
- te. Es werden Dinge besprochen welche bei solchen Vorfällen funktioniere
- n und helfen - außerdem sind da noch eher hinderliche Dinge.\n\nGute Iro
- nie und Sarkasmusdetektoren werden unbedingt vorausgesetzt.
-URL:/pages/fahrplan/events/5788.html
-SUMMARY:Anti-Cyber Realitätsabgleich
-ORGANIZER:EH2014
-LOCATION:Degerloch
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T140000
@@ -338,16 +340,16 @@ ORGANIZER:EH2014
 LOCATION:Degerloch
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T114500
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T094500
-DTSTAMP;VALUE=DATE-TIME:20140402T175555Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T130000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T100000
+DTSTAMP;VALUE=DATE-TIME:20140403T142848Z
 UID:bulR4arlsKteT7IbNoGZMw@frab.cccv.de
 DESCRIPTION:Wir zeigen euch die Arbeit und die Ausstattung der THW-Fachgr
  uppe Führung und Kommunikation
 URL:/pages/fahrplan/events/5771.html
 SUMMARY:Führung und Kommunikation
 ORGANIZER:EH2014
-LOCATION:Degerloch
+LOCATION:Parkplatz
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T154500
@@ -392,10 +394,11 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T200000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T191500
-DTSTAMP;VALUE=DATE-TIME:20140309T155031Z
+DTSTAMP;VALUE=DATE-TIME:20140402T184915Z
 UID:BMHG--qlBegRyPZpO85-ng@frab.cccv.de
-DESCRIPTION:Emacs oder VIM? Foo oder Bar? Wie beantworten Nicht-Hacker di
- ese Fragen? Und sind wirklich die meisten Hacker My Little Pony Fans?
+DESCRIPTION:Emacs oder VIM? Foo oder Bar? Wie beantworten Hacker und Nich
+ t-Hacker diese Fragen? Und sind wirklich die meisten Hacker My Little Po
+ ny Fans?
 URL:/pages/fahrplan/events/5759.html
 SUMMARY:Hacker & Nerds vs. People
 ORGANIZER:EH2014
@@ -523,9 +526,9 @@ ORGANIZER:EH2014
 LOCATION:Degerloch
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140421T003000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T223000
-DTSTAMP;VALUE=DATE-TIME:20140330T181805Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140421T000000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T220000
+DTSTAMP;VALUE=DATE-TIME:20140403T175432Z
 UID:XgccTFEtnOihaFeuPBtVqw@frab.cccv.de
 DESCRIPTION:Das Gesellschaftsspiel "Tabu" für Nerds!
 URL:/pages/fahrplan/events/5790.html
@@ -588,16 +591,16 @@ ORGANIZER:EH2014
 LOCATION:Schalldruckkammer
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T140000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T133000
-DTSTAMP;VALUE=DATE-TIME:20140401T205206Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T150000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T143000
+DTSTAMP;VALUE=DATE-TIME:20140403T084747Z
 UID:2v8guLMfWAGh50zRNrY8rg@frab.cccv.de
 DESCRIPTION:PrismCamp - Wider die Ohnmacht.\nWarum wir ein Barcamp zu NSA
  -Überwachung\, Vorratsdatenspeicherung etc. veranstalten.\n
 URL:/pages/fahrplan/events/5747.html
 SUMMARY:PrismCamp
 ORGANIZER:EH2014
-LOCATION:Schalldruckkammer
+LOCATION:Großer Saal
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T160000
@@ -662,9 +665,9 @@ ORGANIZER:EH2014
 LOCATION:Großer Saal
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T193000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T163000
-DTSTAMP;VALUE=DATE-TIME:20140330T180620Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T190000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T160000
+DTSTAMP;VALUE=DATE-TIME:20140404T103306Z
 UID:K5mcp1IIjauHp8lJG9mZ5Q@frab.cccv.de
 DESCRIPTION:Auf dem Easterhegg soll wieder ein Regiotreffen stattfindet. 
  Es treffen sich die Vertreter der Erfa-Kreise und Chaostreffs.
@@ -793,7 +796,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T113000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T104500
-DTSTAMP;VALUE=DATE-TIME:20140330T180521Z
+DTSTAMP;VALUE=DATE-TIME:20140403T084802Z
 UID:MSQd41AhyJrm13_cCTRCYw@frab.cccv.de
 DESCRIPTION:In TLS sind in letzter Zeit zahlreiche Probleme aufgetaucht\,
   Die BEAST- und die Lucky Thirteen-Attacke\, Probleme mit RC4 und Mißtra
