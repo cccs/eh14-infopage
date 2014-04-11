@@ -13,9 +13,9 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T200000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T191500
-DTSTAMP;VALUE=DATE-TIME:20140331T150428Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T203000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T194500
+DTSTAMP;VALUE=DATE-TIME:20140409T193030Z
 UID:VkBGg2nUmqm32PqT7MkhSg@frab.cccv.de
 DESCRIPTION:Estimates are part of our daily live. Every single day we ask
   and answer questions like: "when will it be done?"\, "how much does it 
@@ -28,6 +28,6 @@ DESCRIPTION:Estimates are part of our daily live. Every single day we ask
 URL:/pages/fahrplan/events/5773.html
 SUMMARY:#NoEstimates
 ORGANIZER:EH2014
-LOCATION:Großer Saal
+LOCATION:Degerloch
 END:VEVENT
 END:VCALENDAR

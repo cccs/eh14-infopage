@@ -13,9 +13,9 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T120000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T114500
-DTSTAMP;VALUE=DATE-TIME:20140404T103438Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T111500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T110000
+DTSTAMP;VALUE=DATE-TIME:20140410T202930Z
 UID:GnA8_-5g-pXihZxu381Vvw@frab.cccv.de
 DESCRIPTION:Software- und hardwaregestütztes proof-of-concept. Umbau best
  ehender Medizintechnikprodukte zur Steuerung mittels eigens entwickeltem
@@ -23,6 +23,6 @@ DESCRIPTION:Software- und hardwaregestütztes proof-of-concept. Umbau best
 URL:/pages/fahrplan/events/5751.html
 SUMMARY:(semi)Automatisierung der kardiopulmonalen Reanimation (ALS)
 ORGANIZER:EH2014
-LOCATION:Degerloch
+LOCATION:Workshopraum
 END:VEVENT
 END:VCALENDAR

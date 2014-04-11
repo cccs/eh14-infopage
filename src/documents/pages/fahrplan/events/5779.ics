@@ -13,9 +13,9 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T223000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T214500
-DTSTAMP;VALUE=DATE-TIME:20140313T213836Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T221500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T213000
+DTSTAMP;VALUE=DATE-TIME:20140409T173349Z
 UID:WmJOPc_l2FQAQOf5FE2XjQ@frab.cccv.de
 DESCRIPTION:Die Kulturmenschen der Piratenfraktion im NRW-Landtag wollen 
  den Hacker- und Makerspaces sowie den Fablabs gerne die Möglichkeit biet
@@ -26,6 +26,6 @@ DESCRIPTION:Die Kulturmenschen der Piratenfraktion im NRW-Landtag wollen
 URL:/pages/fahrplan/events/5779.html
 SUMMARY:Hack(er)spaces und Kulturpolitik
 ORGANIZER:EH2014
-LOCATION:Schalldruckkammer
+LOCATION:Workshopraum
 END:VEVENT
 END:VCALENDAR

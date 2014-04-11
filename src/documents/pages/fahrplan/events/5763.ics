@@ -13,9 +13,9 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T223000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T213000
-DTSTAMP;VALUE=DATE-TIME:20140322T112202Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T221500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T211500
+DTSTAMP;VALUE=DATE-TIME:20140409T195841Z
 UID:rkDHniUlFfF3l-9uRzoBBw@frab.cccv.de
 DESCRIPTION:This talk is supposed to introduce the current discussion reg
  arding Bitcoins security. We want to give an overview of cryptographic i
@@ -24,6 +24,6 @@ DESCRIPTION:This talk is supposed to introduce the current discussion reg
 URL:/pages/fahrplan/events/5763.html
 SUMMARY:Security aspects of Bitcoin
 ORGANIZER:EH2014
-LOCATION:Degerloch
+LOCATION:Workshopraum
 END:VEVENT
 END:VCALENDAR

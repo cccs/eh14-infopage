@@ -13,9 +13,9 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140418T180000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140418T173000
-DTSTAMP;VALUE=DATE-TIME:20140318T091657Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140418T204500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140418T201500
+DTSTAMP;VALUE=DATE-TIME:20140410T211630Z
 UID:kOCQTPjFipbqkzw-f61yXw@frab.cccv.de
 DESCRIPTION:The talk is about the process of mapping (reading) and shapin
  g (writing) reality with data in the contemporary age of big data\, open
@@ -24,6 +24,6 @@ DESCRIPTION:The talk is about the process of mapping (reading) and shapin
 URL:/pages/fahrplan/events/5784.html
 SUMMARY:Reading and Writing Landscape – Framing Reality with Data
 ORGANIZER:EH2014
-LOCATION:Großer Saal
+LOCATION:shack-Seminarraum
 END:VEVENT
 END:VCALENDAR

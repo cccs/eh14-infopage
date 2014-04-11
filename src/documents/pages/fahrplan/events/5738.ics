@@ -13,9 +13,9 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T200000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T191500
-DTSTAMP;VALUE=DATE-TIME:20140401T204728Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T201500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T193000
+DTSTAMP;VALUE=DATE-TIME:20140409T181148Z
 UID:B77OoDw7uvop7-4N7zZ9Ig@frab.cccv.de
 DESCRIPTION:Ich möchte mit dem Vortrag den Hörern einen kurzen Überblick 
  über die Probleme der Nachrichtenübermittlung geben\, moderne Modulation
@@ -28,6 +28,6 @@ DESCRIPTION:Ich möchte mit dem Vortrag den Hörern einen kurzen Überblick
 URL:/pages/fahrplan/events/5738.html
 SUMMARY:Datenübertragung per Ultraschall im Turbomodus
 ORGANIZER:EH2014
-LOCATION:Schalldruckkammer
+LOCATION:Workshopraum
 END:VEVENT
 END:VCALENDAR

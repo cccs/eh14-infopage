@@ -13,9 +13,9 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T133000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T124500
-DTSTAMP;VALUE=DATE-TIME:20140401T205147Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T134500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T130000
+DTSTAMP;VALUE=DATE-TIME:20140409T173951Z
 UID:Ojp_w3Q3JFeV8ubOtMkloQ@frab.cccv.de
 DESCRIPTION:I'll bring my mobile CNC milling machine and will give an int
  roduction to DIY CNC machining focusing on the differences to 3d printin
@@ -23,6 +23,6 @@ DESCRIPTION:I'll bring my mobile CNC milling machine and will give an int
 URL:/pages/fahrplan/events/5721.html
 SUMMARY:CNC machining for 3D printer users
 ORGANIZER:EH2014
-LOCATION:Schalldruckkammer
+LOCATION:Degerloch
 END:VEVENT
 END:VCALENDAR

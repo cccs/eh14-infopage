@@ -13,26 +13,26 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T203000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T194500
-DTSTAMP;VALUE=DATE-TIME:20140402T205936Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T221500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T213000
+DTSTAMP;VALUE=DATE-TIME:20140409T193935Z
 UID:SUy5iEpNWx9zyqfQIG7caQ@frab.cccv.de
 DESCRIPTION:Anhand realitätsnaher Beispiele wird erklärt\, auf was man be
  i einem Sicherheitsvorfall im Netzwerk und dessen Behandlung (Incident R
  esponse) zu Beginn achten sollte. Hierbei spielen vor allem die bestmögl
  iche Nutzung vorhandener Ressourcen und die Einforderung von Marketingve
- rsprechen eine große Rolle.\n\nAlso eine Art: <buzzwords> First-Response
-  Best-Practice Guide </buzzwords>\n\nGute Ironie- und Sarkasmusdetektore
- n werden unbedingt vorausgesetzt.
+ rsprechen eine große Rolle.\n\nAlso eine Art: &lt\;buzzwords&gt\; First-
+ Response Best-Practice Guide &lt\;/buzzwords&gt\;\n\nGute Ironie- und Sa
+ rkasmusdetektoren werden unbedingt vorausgesetzt.
 URL:/pages/fahrplan/events/5788.html
 SUMMARY:(Anti)-Cyber-Realitätsabgleich
 ORGANIZER:EH2014
-LOCATION:Degerloch
+LOCATION:shack-Seminarraum
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T120000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T114500
-DTSTAMP;VALUE=DATE-TIME:20140404T103438Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T111500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T110000
+DTSTAMP;VALUE=DATE-TIME:20140410T202930Z
 UID:GnA8_-5g-pXihZxu381Vvw@frab.cccv.de
 DESCRIPTION:Software- und hardwaregestütztes proof-of-concept. Umbau best
  ehender Medizintechnikprodukte zur Steuerung mittels eigens entwickeltem
@@ -40,12 +40,12 @@ DESCRIPTION:Software- und hardwaregestütztes proof-of-concept. Umbau best
 URL:/pages/fahrplan/events/5751.html
 SUMMARY:(semi)Automatisierung der kardiopulmonalen Reanimation (ALS)
 ORGANIZER:EH2014
-LOCATION:Degerloch
+LOCATION:Workshopraum
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T200000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T191500
-DTSTAMP;VALUE=DATE-TIME:20140331T150428Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T203000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T194500
+DTSTAMP;VALUE=DATE-TIME:20140409T193030Z
 UID:VkBGg2nUmqm32PqT7MkhSg@frab.cccv.de
 DESCRIPTION:Estimates are part of our daily live. Every single day we ask
   and answer questions like: "when will it be done?"\, "how much does it 
@@ -58,12 +58,12 @@ DESCRIPTION:Estimates are part of our daily live. Every single day we ask
 URL:/pages/fahrplan/events/5773.html
 SUMMARY:#NoEstimates
 ORGANIZER:EH2014
-LOCATION:Großer Saal
+LOCATION:Degerloch
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T134500
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T130000
-DTSTAMP;VALUE=DATE-TIME:20140401T180215Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T211500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T203000
+DTSTAMP;VALUE=DATE-TIME:20140409T195812Z
 UID:iGfZkp0SYGQfeKbb-WgS7w@frab.cccv.de
 DESCRIPTION:The talks presents a journey through digital forensics\, name
  ly non-volatile and volatile analysis. It will show how one can analyze 
@@ -73,12 +73,12 @@ DESCRIPTION:The talks presents a journey through digital forensics\, name
 URL:/pages/fahrplan/events/5719.html
 SUMMARY:Adventures in Digital Forensics
 ORGANIZER:EH2014
-LOCATION:Großer Saal
+LOCATION:Workshopraum
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T210000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T201500
-DTSTAMP;VALUE=DATE-TIME:20140401T200859Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T220000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T211500
+DTSTAMP;VALUE=DATE-TIME:20140409T195834Z
 UID:PWBg7vdclEAw8nNOeVAfFA@frab.cccv.de
 DESCRIPTION:Hersteller von Sicherheits-ICs haben in den letzten Jahren vi
  el Arbeit in die Absicherung ihrer Produkte gesteckt. Dabei konzentriert
@@ -90,7 +90,7 @@ DESCRIPTION:Hersteller von Sicherheits-ICs haben in den letzten Jahren vi
 URL:/pages/fahrplan/events/5758.html
 SUMMARY:Angriffe auf Mikrochips durch die Rueckseite
 ORGANIZER:EH2014
-LOCATION:Großer Saal
+LOCATION:Degerloch
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T140000
@@ -108,9 +108,9 @@ ORGANIZER:EH2014
 LOCATION:shackspace Küche
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T190000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T181500
-DTSTAMP;VALUE=DATE-TIME:20140401T204948Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T193000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T184500
+DTSTAMP;VALUE=DATE-TIME:20140409T181040Z
 UID:S7UkbUP51mZC_pZ6JhuPIA@frab.cccv.de
 DESCRIPTION:Aus einer kleinen Projektidee einen großen Erfolg zu produzie
  ren ist nicht einfach. Wie das für Bausätze geht\, erfahrt ihr in diesem
@@ -118,23 +118,23 @@ DESCRIPTION:Aus einer kleinen Projektidee einen großen Erfolg zu produzie
 URL:/pages/fahrplan/events/5723.html
 SUMMARY:Bausätze in Hackerspaces
 ORGANIZER:EH2014
-LOCATION:Schalldruckkammer
+LOCATION:Workshopraum
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T190000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T160000
-DTSTAMP;VALUE=DATE-TIME:20140310T074018Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T160000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T130000
+DTSTAMP;VALUE=DATE-TIME:20140409T172021Z
 UID:KANPsCX14nqSoSQihFC2hA@frab.cccv.de
 DESCRIPTION:Ich bin da in so nem Verein - wir machen Verwaltung so und so
 URL:/pages/fahrplan/events/5733.html
 SUMMARY:Bürokratielevel: >9000
 ORGANIZER:EH2014
-LOCATION:Schalldruckkammer
+LOCATION:Workshopraum
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T164500
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T151500
-DTSTAMP;VALUE=DATE-TIME:20140318T084107Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T160000
+DTSTAMP;VALUE=DATE-TIME:20140409T192849Z
 UID:i_2Q9xJIHxx4iu3WUcRfcg@frab.cccv.de
 DESCRIPTION:Was hat die Kommunikation im Auto\, Flurförderfahrzeugen auto
  matische Schiebetüren gemeinsam.  Wie kann ich in diesen Systemen Mitspr
@@ -142,18 +142,18 @@ DESCRIPTION:Was hat die Kommunikation im Auto\, Flurförderfahrzeugen auto
 URL:/pages/fahrplan/events/5739.html
 SUMMARY:CAN & CAN-OPEN
 ORGANIZER:EH2014
-LOCATION:Großer Saal
+LOCATION:Degerloch
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T000000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T223000
-DTSTAMP;VALUE=DATE-TIME:20140330T180022Z
+DTSTAMP;VALUE=DATE-TIME:20140409T190203Z
 UID:-B0Dzw8Zh-3wzHsuOqtuLw@frab.cccv.de
 DESCRIPTION:
 URL:/pages/fahrplan/events/5762.html
 SUMMARY:ChaosFamilienDuell
 ORGANIZER:EH2014
-LOCATION:Großer Saal
+LOCATION:Degerloch
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140421T140000
@@ -167,9 +167,9 @@ ORGANIZER:EH2014
 LOCATION:Großer Saal
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T133000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T124500
-DTSTAMP;VALUE=DATE-TIME:20140401T205147Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T134500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T130000
+DTSTAMP;VALUE=DATE-TIME:20140409T173951Z
 UID:Ojp_w3Q3JFeV8ubOtMkloQ@frab.cccv.de
 DESCRIPTION:I'll bring my mobile CNC milling machine and will give an int
  roduction to DIY CNC machining focusing on the differences to 3d printin
@@ -177,24 +177,24 @@ DESCRIPTION:I'll bring my mobile CNC milling machine and will give an int
 URL:/pages/fahrplan/events/5721.html
 SUMMARY:CNC machining for 3D printer users
 ORGANIZER:EH2014
-LOCATION:Schalldruckkammer
+LOCATION:Degerloch
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T151500
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T143000
-DTSTAMP;VALUE=DATE-TIME:20140330T171347Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T124500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T120000
+DTSTAMP;VALUE=DATE-TIME:20140409T174120Z
 UID:IwCebCSIG3MUYG0ILVF_Mw@frab.cccv.de
 DESCRIPTION:The goal of the AYAB project is to provide an alternative way
   to control the famous Brother KH-9xx knitting machines.
 URL:/pages/fahrplan/events/5742.html
 SUMMARY:Computer-aided knitting with AYAB
 ORGANIZER:EH2014
-LOCATION:Großer Saal
+LOCATION:Workshopraum
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T220000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T211500
-DTSTAMP;VALUE=DATE-TIME:20140401T204243Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T164500
+DTSTAMP;VALUE=DATE-TIME:20140409T193512Z
 UID:Q8j9xkOW_50eqh8kf62gkQ@frab.cccv.de
 DESCRIPTION:IRC gibt's schon lange\, aber zum Teil ist bis heute relativ 
  wenig ueber die Details des Protokolls bekannt\, obwohl es IMHO zu einem
@@ -215,12 +215,12 @@ DESCRIPTION:IRC gibt's schon lange\, aber zum Teil ist bis heute relativ
 URL:/pages/fahrplan/events/5766.html
 SUMMARY:Das IRC-Protokoll
 ORGANIZER:EH2014
-LOCATION:Großer Saal
+LOCATION:shack-Seminarraum
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T200000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T191500
-DTSTAMP;VALUE=DATE-TIME:20140401T204728Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T201500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T193000
+DTSTAMP;VALUE=DATE-TIME:20140409T181148Z
 UID:B77OoDw7uvop7-4N7zZ9Ig@frab.cccv.de
 DESCRIPTION:Ich möchte mit dem Vortrag den Hörern einen kurzen Überblick 
  über die Probleme der Nachrichtenübermittlung geben\, moderne Modulation
@@ -233,12 +233,12 @@ DESCRIPTION:Ich möchte mit dem Vortrag den Hörern einen kurzen Überblick
 URL:/pages/fahrplan/events/5738.html
 SUMMARY:Datenübertragung per Ultraschall im Turbomodus
 ORGANIZER:EH2014
-LOCATION:Schalldruckkammer
+LOCATION:Workshopraum
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T190000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T180000
-DTSTAMP;VALUE=DATE-TIME:20140309T154532Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T154500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T144500
+DTSTAMP;VALUE=DATE-TIME:20140409T175825Z
 UID:Pog-i70PJh9MHdjRklCL-A@frab.cccv.de
 DESCRIPTION:vhosts einrichten und manuelles aufsetzen von webservices wie
   z.b. mediawiki ist von gestern! mit NixOS kann man LXC\, virtualisierun
@@ -250,9 +250,9 @@ ORGANIZER:EH2014
 LOCATION:Degerloch
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T180000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T171500
-DTSTAMP;VALUE=DATE-TIME:20140309T155046Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T201500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T193000
+DTSTAMP;VALUE=DATE-TIME:20140409T180904Z
 UID:yVDTF34ENlCW816DcsQnWw@frab.cccv.de
 DESCRIPTION:Bereits seit dem Sommer 2001 gibt es den Stuttgarter Ableger 
  des CCC. Was sich seitdem aus einem Stammtisch einmal im Monat bis zum h
@@ -262,7 +262,7 @@ DESCRIPTION:Bereits seit dem Sommer 2001 gibt es den Stuttgarter Ableger
 URL:/pages/fahrplan/events/5760.html
 SUMMARY:Die Geschichte des CCC Stuttgart
 ORGANIZER:EH2014
-LOCATION:Schalldruckkammer
+LOCATION:Degerloch
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T201500
@@ -277,9 +277,9 @@ ORGANIZER:EH2014
 LOCATION:shackspace Küche
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T174500
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T161500
-DTSTAMP;VALUE=DATE-TIME:20140325T202359Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T181500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T164500
+DTSTAMP;VALUE=DATE-TIME:20140409T180054Z
 UID:Flzrumwrj-VRdCRoKzwufQ@frab.cccv.de
 DESCRIPTION:Um in der Lichttechnik wie sie in Discos hängt  die Strahler\
  , Lichter\, Scheinwerfer anzusteuern gibt es das DMX Protokoll.\nFür was
@@ -288,12 +288,12 @@ DESCRIPTION:Um in der Lichttechnik wie sie in Discos hängt  die Strahler\
 URL:/pages/fahrplan/events/5772.html
 SUMMARY:DMX Workshop
 ORGANIZER:EH2014
-LOCATION:Degerloch
+LOCATION:Workshopraum
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T144500
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T141500
-DTSTAMP;VALUE=DATE-TIME:20140309T155132Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T143000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T140000
+DTSTAMP;VALUE=DATE-TIME:20140409T173950Z
 UID:j7CaXrKoiL1iM3_CuDvkFg@frab.cccv.de
 DESCRIPTION:Ein kurzer Überblick über das Python-Webframework Django. Was
   nimmt einem das Framework ab - was muss man selber machen?
@@ -305,7 +305,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T114500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T110000
-DTSTAMP;VALUE=DATE-TIME:20140309T154953Z
+DTSTAMP;VALUE=DATE-TIME:20140410T202837Z
 UID:zHUMdREGj80m7zLS_xkzAg@frab.cccv.de
 DESCRIPTION:Sie wurden laut\, die Rufe nach einer neuen "Hacker-Elite". S
  ie wird spürbar\, die Ablehnung der "DAUs". Der Konflikt ist da: Hackere
@@ -316,16 +316,16 @@ ORGANIZER:EH2014
 LOCATION:Degerloch
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140421T113000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140421T111500
-DTSTAMP;VALUE=DATE-TIME:20140309T155413Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T114500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T113000
+DTSTAMP;VALUE=DATE-TIME:20140409T182034Z
 UID:mDZ9Fjkd0FlbKoFkLlOF9w@frab.cccv.de
 DESCRIPTION:Wann nehme ich ein Micro-Webframework (am Beispiel von Flask)
   und wann ein volles Webframework (z.B. Django)?
 URL:/pages/fahrplan/events/5778.html
 SUMMARY:Flask
 ORGANIZER:EH2014
-LOCATION:Degerloch
+LOCATION:Workshopraum
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140421T123000
@@ -340,9 +340,9 @@ ORGANIZER:EH2014
 LOCATION:Degerloch
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T130000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T100000
-DTSTAMP;VALUE=DATE-TIME:20140403T142848Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T140000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T110000
+DTSTAMP;VALUE=DATE-TIME:20140410T212427Z
 UID:bulR4arlsKteT7IbNoGZMw@frab.cccv.de
 DESCRIPTION:Wir zeigen euch die Arbeit und die Ausstattung der THW-Fachgr
  uppe Führung und Kommunikation
@@ -352,9 +352,23 @@ ORGANIZER:EH2014
 LOCATION:Parkplatz
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T154500
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T124500
-DTSTAMP;VALUE=DATE-TIME:20140309T120627Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T114500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T111500
+DTSTAMP;VALUE=DATE-TIME:20140410T202841Z
+UID:3QAXrIW9VSGsxgT6ivgZdA@frab.cccv.de
+DESCRIPTION:Tabellen\, gleichermaßen gehasst wie geliebt. Vor allem wenn 
+ wir über responsive Design sprechen stoßen Tabellen schnell an ihre Gren
+ zen. Ich werde eine mögliche Lösung für das Problem präsentieren die wir
+  auf DaWanda einsetzen.
+URL:/pages/fahrplan/events/5798.html
+SUMMARY:Fun with responsive tables
+ORGANIZER:EH2014
+LOCATION:Workshopraum
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T150000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T120000
+DTSTAMP;VALUE=DATE-TIME:20140409T174315Z
 UID:3u_SQuKFB067VX3mNMn8iw@frab.cccv.de
 DESCRIPTION:Ca. 3-stündiger Workshop im Freien\, wo wir Geocaches in der 
  Umgebung der Eventlocation suchen werden. 
@@ -376,9 +390,9 @@ ORGANIZER:EH2014
 LOCATION:Hackcenter
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T223000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T214500
-DTSTAMP;VALUE=DATE-TIME:20140313T213836Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T221500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T213000
+DTSTAMP;VALUE=DATE-TIME:20140409T173349Z
 UID:WmJOPc_l2FQAQOf5FE2XjQ@frab.cccv.de
 DESCRIPTION:Die Kulturmenschen der Piratenfraktion im NRW-Landtag wollen 
  den Hacker- und Makerspaces sowie den Fablabs gerne die Möglichkeit biet
@@ -389,12 +403,12 @@ DESCRIPTION:Die Kulturmenschen der Piratenfraktion im NRW-Landtag wollen
 URL:/pages/fahrplan/events/5779.html
 SUMMARY:Hack(er)spaces und Kulturpolitik
 ORGANIZER:EH2014
-LOCATION:Schalldruckkammer
+LOCATION:Workshopraum
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T200000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T191500
-DTSTAMP;VALUE=DATE-TIME:20140402T184915Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T193000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T184500
+DTSTAMP;VALUE=DATE-TIME:20140409T180735Z
 UID:BMHG--qlBegRyPZpO85-ng@frab.cccv.de
 DESCRIPTION:Emacs oder VIM? Foo oder Bar? Wie beantworten Hacker und Nich
  t-Hacker diese Fragen? Und sind wirklich die meisten Hacker My Little Po
@@ -405,27 +419,27 @@ ORGANIZER:EH2014
 LOCATION:Degerloch
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T154500
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T150000
-DTSTAMP;VALUE=DATE-TIME:20140309T154036Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T181500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T173000
+DTSTAMP;VALUE=DATE-TIME:20140409T172958Z
 UID:Lxcqxvik445Gr-GsvHBFyQ@frab.cccv.de
 DESCRIPTION:In diesem Workshop sollen die Teilnehmenden über die Hackeret
  hik und ihre mögliche Neufassung diskutieren.
 URL:/pages/fahrplan/events/5737.html
 SUMMARY:Hackerethik 2.0
 ORGANIZER:EH2014
-LOCATION:Schalldruckkammer
+LOCATION:Workshopraum
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140418T170000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140418T161500
-DTSTAMP;VALUE=DATE-TIME:20140331T120958Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140418T164500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140418T160000
+DTSTAMP;VALUE=DATE-TIME:20140409T184413Z
 UID:O-w9WcQVYddcl20sSP_Lvg@frab.cccv.de
 DESCRIPTION:Anfänger Häkel Workshop.. Boshis-Beanies leicht gehäkelt
 URL:/pages/fahrplan/events/5765.html
 SUMMARY:Häkel Workshop
 ORGANIZER:EH2014
-LOCATION:Degerloch
+LOCATION:shack-Seminarraum
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T113000
@@ -441,23 +455,23 @@ DESCRIPTION:Wie würden "Das Schweigen der Lämmer" oder "Der Herr Der Ring
 URL:/pages/fahrplan/events/5746.html
 SUMMARY:Hannibal Lecter und Sauron in einer totalüberwachten Welt
 ORGANIZER:EH2014
-LOCATION:Schalldruckkammer
+LOCATION:Workshopraum
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T210000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T201500
-DTSTAMP;VALUE=DATE-TIME:20140309T153430Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140421T133000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140421T124500
+DTSTAMP;VALUE=DATE-TIME:20140409T181841Z
 UID:vrxJlMAzQsvsLef4XtJ5_w@frab.cccv.de
 DESCRIPTION:numbers\, graphs\, pictures of easterhegg infrastructure
 URL:/pages/fahrplan/events/5726.html
 SUMMARY:infrastructure review
 ORGANIZER:EH2014
-LOCATION:Degerloch
+LOCATION:Großer Saal
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T133000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T124500
-DTSTAMP;VALUE=DATE-TIME:20140318T211713Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T124500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T120000
+DTSTAMP;VALUE=DATE-TIME:20140409T173820Z
 UID:ni7iin79iA9gscrnBMSJ7Q@frab.cccv.de
 DESCRIPTION:Was verrät der Stacktrace über eines Java-Programms über die 
  verwendeten Bibliotheken - und deren mögliche Schwachstellen?
@@ -467,20 +481,43 @@ ORGANIZER:EH2014
 LOCATION:Degerloch
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T170000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T153000
-DTSTAMP;VALUE=DATE-TIME:20140331T124301Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T130000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T120000
+DTSTAMP;VALUE=DATE-TIME:20140410T220122Z
+UID:2eghMBenSb1fTvFH3D0hWw@frab.cccv.de
+DESCRIPTION:
+URL:/pages/fahrplan/events/5820.html
+SUMMARY:Keynote
+ORGANIZER:EH2014
+LOCATION:Degerloch
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T233000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T223000
+DTSTAMP;VALUE=DATE-TIME:20140410T200047Z
+UID:zAMH8NqahK6Us4P7C1q0MA@frab.cccv.de
+DESCRIPTION:Auf dem Easterhegg 2013 war der Light-Painting-Workshop so gu
+ t besucht\, dass er dieses Jahr wiederholt wird.
+URL:/pages/fahrplan/events/5816.html
+SUMMARY:Light Painting
+ORGANIZER:EH2014
+LOCATION:Workshopraum
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T181500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T164500
+DTSTAMP;VALUE=DATE-TIME:20140409T180534Z
 UID:GTBrWgOJPQ5ymKm_ASGn9w@frab.cccv.de
 DESCRIPTION:Lighning talks
 URL:/pages/fahrplan/events/5811.html
 SUMMARY:Lightning talks
 ORGANIZER:EH2014
-LOCATION:Großer Saal
+LOCATION:Degerloch
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T210000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T201500
-DTSTAMP;VALUE=DATE-TIME:20140401T204754Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T211500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T203000
+DTSTAMP;VALUE=DATE-TIME:20140409T195743Z
 UID:yeqQQddWKSYSu-N6f-ReQQ@frab.cccv.de
 DESCRIPTION:What are the challenges of today's infrastructures\, why cont
  ainers are the right building blocks and Docker the right tool to manage
@@ -488,7 +525,7 @@ DESCRIPTION:What are the challenges of today's infrastructures\, why cont
 URL:/pages/fahrplan/events/5734.html
 SUMMARY:Managing containers with Docker
 ORGANIZER:EH2014
-LOCATION:Schalldruckkammer
+LOCATION:Degerloch
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T154500
@@ -500,69 +537,69 @@ DESCRIPTION:Mitgliederversammlung des DARC Ortsverein D23 - Freunde des C
 URL:/pages/fahrplan/events/5741.html
 SUMMARY:Mitgliederversammlung DARC OV D23 - Freunde des CCC
 ORGANIZER:EH2014
-LOCATION:Seminarraum im shackspace
+LOCATION:shack-Seminarraum
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T204500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T184500
-DTSTAMP;VALUE=DATE-TIME:20140316T161017Z
+DTSTAMP;VALUE=DATE-TIME:20140409T185605Z
 UID:FigCrFi6FA4-1QWtOgucPA@frab.cccv.de
 DESCRIPTION:Wir wollen im CCC über aktuelle Themen reden.
 URL:/pages/fahrplan/events/5800.html
 SUMMARY:Moving Targets: Aktuelle Themen im CCC-Umfeld
 ORGANIZER:EH2014
-LOCATION:Großer Saal
+LOCATION:shack-Seminarraum
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140418T193000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140418T190000
-DTSTAMP;VALUE=DATE-TIME:20140318T211739Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140418T180000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140418T173000
+DTSTAMP;VALUE=DATE-TIME:20140410T211650Z
 UID:tWnCMJuO00KJIKn9LPRleA@frab.cccv.de
 DESCRIPTION:Eine Einführung in Mumble (sowohl technisch als auch für Anwe
  nder).
 URL:/pages/fahrplan/events/5761.html
 SUMMARY:Mumble Workshop
 ORGANIZER:EH2014
-LOCATION:Degerloch
+LOCATION:shack-Seminarraum
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140421T000000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T220000
-DTSTAMP;VALUE=DATE-TIME:20140403T175432Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140421T003000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T223000
+DTSTAMP;VALUE=DATE-TIME:20140409T195527Z
 UID:XgccTFEtnOihaFeuPBtVqw@frab.cccv.de
 DESCRIPTION:Das Gesellschaftsspiel "Tabu" für Nerds!
 URL:/pages/fahrplan/events/5790.html
 SUMMARY:Nerd-Tabu
 ORGANIZER:EH2014
-LOCATION:Großer Saal
+LOCATION:Degerloch
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140418T184500
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140418T174500
-DTSTAMP;VALUE=DATE-TIME:20140318T083749Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140418T201500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140418T191500
+DTSTAMP;VALUE=DATE-TIME:20140410T211657Z
 UID:yB5E1EGkQqkJwEzA-PZdbA@frab.cccv.de
 DESCRIPTION:eine einführung in die verwendung von NixOS z.b. für den serv
  ereinsatz und um eigene dienste zu paketieren. 
 URL:/pages/fahrplan/events/5743.html
 SUMMARY:NixOS als Serversystem in der Praxis
 ORGANIZER:EH2014
-LOCATION:Degerloch
+LOCATION:shack-Seminarraum
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140418T170000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140418T160000
-DTSTAMP;VALUE=DATE-TIME:20140318T090942Z
+DTSTAMP;VALUE=DATE-TIME:20140409T184547Z
 UID:OYZ8oEB79C5A6Lx8N8cq_Q@frab.cccv.de
 DESCRIPTION:
 URL:/pages/fahrplan/events/5791.html
 SUMMARY:Opening & Welcome
 ORGANIZER:EH2014
-LOCATION:Großer Saal
+LOCATION:Hackcenter
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T124500
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T120000
-DTSTAMP;VALUE=DATE-TIME:20140318T083740Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T164500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T160000
+DTSTAMP;VALUE=DATE-TIME:20140409T191129Z
 UID:kxGdCQ5mZxaed5oBlGEdaA@frab.cccv.de
 DESCRIPTION:Nach den Snowden-Enthüllungen erscheint der Notwendigkeit von
   geschützter Kommunikation wichtiger denn je. Wir möchten zeigen\, dass 
@@ -572,12 +609,12 @@ DESCRIPTION:Nach den Snowden-Enthüllungen erscheint der Notwendigkeit von
 URL:/pages/fahrplan/events/5722.html
 SUMMARY:palava.tv
 ORGANIZER:EH2014
-LOCATION:Schalldruckkammer
+LOCATION:Workshopraum
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T114500
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T093000
-DTSTAMP;VALUE=DATE-TIME:20140318T085837Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T141500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T120000
+DTSTAMP;VALUE=DATE-TIME:20140409T190408Z
 UID:AGyCAyesmbxDsIf1BrE-qA@frab.cccv.de
 DESCRIPTION:Du bist also ein Geek und willst eine Präsentation über ein T
  hema geben\, das Dir sehr am Herzen liegt. Du bist folglich sehr enthusi
@@ -588,24 +625,24 @@ DESCRIPTION:Du bist also ein Geek und willst eine Präsentation über ein T
 URL:/pages/fahrplan/events/5735.html
 SUMMARY:Presenting for Geeks
 ORGANIZER:EH2014
-LOCATION:Schalldruckkammer
+LOCATION:shack-Seminarraum
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T150000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T143000
-DTSTAMP;VALUE=DATE-TIME:20140403T084747Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T153000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T150000
+DTSTAMP;VALUE=DATE-TIME:20140409T193635Z
 UID:2v8guLMfWAGh50zRNrY8rg@frab.cccv.de
 DESCRIPTION:PrismCamp - Wider die Ohnmacht.\nWarum wir ein Barcamp zu NSA
  -Überwachung\, Vorratsdatenspeicherung etc. veranstalten.\n
 URL:/pages/fahrplan/events/5747.html
 SUMMARY:PrismCamp
 ORGANIZER:EH2014
-LOCATION:Großer Saal
+LOCATION:shack-Seminarraum
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T160000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T151500
-DTSTAMP;VALUE=DATE-TIME:20140309T153628Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T154500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T150000
+DTSTAMP;VALUE=DATE-TIME:20140409T175720Z
 UID:_GJy2kwqiFx3W88oOuCNCA@frab.cccv.de
 DESCRIPTION:"Privacy" ist ein Begriff\, der immer wieder auftaucht. So ri
  chtig gut ins Deutsche übersetzen lässt er sich aer nicht. "Privatsphäre
@@ -620,12 +657,12 @@ DESCRIPTION:"Privacy" ist ein Begriff\, der immer wieder auftaucht. So ri
 URL:/pages/fahrplan/events/5736.html
 SUMMARY:Privacy\, was ist das? Kann man das (m)essen?
 ORGANIZER:EH2014
-LOCATION:Degerloch
+LOCATION:Workshopraum
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T170000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T163000
-DTSTAMP;VALUE=DATE-TIME:20140313T222851Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T161500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T154500
+DTSTAMP;VALUE=DATE-TIME:20140409T175958Z
 UID:6XEEOuA-of4rIG-7zDUOpQ@frab.cccv.de
 DESCRIPTION:Auch mit Verschlüsselung sind wir nur dann vor Überwachung ge
  feit\, wenn wir uns vor Trojanern schützen können. Es soll diskutiert we
@@ -636,24 +673,24 @@ DESCRIPTION:Auch mit Verschlüsselung sind wir nur dann vor Überwachung ge
 URL:/pages/fahrplan/events/5724.html
 SUMMARY:Privatheit und Trojaner
 ORGANIZER:EH2014
-LOCATION:Schalldruckkammer
+LOCATION:Degerloch
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T154500
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T151500
-DTSTAMP;VALUE=DATE-TIME:20140309T155548Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T143000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T140000
+DTSTAMP;VALUE=DATE-TIME:20140409T174141Z
 UID:E7zNXw_hsDaR3Fc7M3ByPQ@frab.cccv.de
 DESCRIPTION:Ich zeige die Plugins IdeaVIM und  KeyPromoter unter PyCharm 
  im praktischen Einsatz.
 URL:/pages/fahrplan/events/5783.html
 SUMMARY:PyCharm für vim-user
 ORGANIZER:EH2014
-LOCATION:Schalldruckkammer
+LOCATION:Workshopraum
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140418T180000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140418T173000
-DTSTAMP;VALUE=DATE-TIME:20140318T091657Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140418T204500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140418T201500
+DTSTAMP;VALUE=DATE-TIME:20140410T211630Z
 UID:kOCQTPjFipbqkzw-f61yXw@frab.cccv.de
 DESCRIPTION:The talk is about the process of mapping (reading) and shapin
  g (writing) reality with data in the contemporary age of big data\, open
@@ -662,24 +699,24 @@ DESCRIPTION:The talk is about the process of mapping (reading) and shapin
 URL:/pages/fahrplan/events/5784.html
 SUMMARY:Reading and Writing Landscape – Framing Reality with Data
 ORGANIZER:EH2014
-LOCATION:Großer Saal
+LOCATION:shack-Seminarraum
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T190000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T160000
-DTSTAMP;VALUE=DATE-TIME:20140404T103306Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T184500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T154500
+DTSTAMP;VALUE=DATE-TIME:20140409T192644Z
 UID:K5mcp1IIjauHp8lJG9mZ5Q@frab.cccv.de
 DESCRIPTION:Auf dem Easterhegg soll wieder ein Regiotreffen stattfindet. 
  Es treffen sich die Vertreter der Erfa-Kreise und Chaostreffs.
 URL:/pages/fahrplan/events/5754.html
 SUMMARY:Regiotreffen
 ORGANIZER:EH2014
-LOCATION:Degerloch
+LOCATION:shack-Seminarraum
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T174500
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T171500
-DTSTAMP;VALUE=DATE-TIME:20140309T154610Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T161500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T154500
+DTSTAMP;VALUE=DATE-TIME:20140409T175741Z
 UID:kaOF9Bjj3Bg1zEajbkaTkQ@frab.cccv.de
 DESCRIPTION:Anhand eines Seat Ibiza wird ilustriert welche Informationen 
  auf dem CAN-Bus zu finden sind und wie sie reverse engineert wurden. Es 
@@ -688,12 +725,12 @@ DESCRIPTION:Anhand eines Seat Ibiza wird ilustriert welche Informationen
 URL:/pages/fahrplan/events/5755.html
 SUMMARY:Reverse Engineering CAN in Autos
 ORGANIZER:EH2014
-LOCATION:Großer Saal
+LOCATION:Workshopraum
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T144500
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T141500
-DTSTAMP;VALUE=DATE-TIME:20140309T155448Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T171500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T164500
+DTSTAMP;VALUE=DATE-TIME:20140409T172940Z
 UID:kpLKfe9FifKqXbf3hv5vnQ@frab.cccv.de
 DESCRIPTION:<p>Das Infuanfu will durch seine Aufklärungsarbeit dem Unsinn
   der Welt Widerstand leisten.</p> <p>Hier stellen wir unsere erste Studi
@@ -702,12 +739,12 @@ DESCRIPTION:<p>Das Infuanfu will durch seine Aufklärungsarbeit dem Unsinn
 URL:/pages/fahrplan/events/5782.html
 SUMMARY:Science! I love it!
 ORGANIZER:EH2014
-LOCATION:Schalldruckkammer
+LOCATION:Workshopraum
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T223000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T213000
-DTSTAMP;VALUE=DATE-TIME:20140322T112202Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T221500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T211500
+DTSTAMP;VALUE=DATE-TIME:20140409T195841Z
 UID:rkDHniUlFfF3l-9uRzoBBw@frab.cccv.de
 DESCRIPTION:This talk is supposed to introduce the current discussion reg
  arding Bitcoins security. We want to give an overview of cryptographic i
@@ -716,12 +753,12 @@ DESCRIPTION:This talk is supposed to introduce the current discussion reg
 URL:/pages/fahrplan/events/5763.html
 SUMMARY:Security aspects of Bitcoin
 ORGANIZER:EH2014
-LOCATION:Degerloch
+LOCATION:Workshopraum
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140418T204500
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140418T200000
-DTSTAMP;VALUE=DATE-TIME:20140318T083754Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140418T220000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140418T211500
+DTSTAMP;VALUE=DATE-TIME:20140410T211611Z
 UID:UZBI6EVQ63ndlh3g0-cV_A@frab.cccv.de
 DESCRIPTION:Wie entsteht der Tag-Nacht-Rhythmus? Warum schläft man (nicht
  )? Was passiert im Schlaf\, wie wird Schlaf gemessen\, und wie wird in d
@@ -729,46 +766,35 @@ DESCRIPTION:Wie entsteht der Tag-Nacht-Rhythmus? Warum schläft man (nicht
 URL:/pages/fahrplan/events/5725.html
 SUMMARY:Sleep? Ain't nobody got time for that!
 ORGANIZER:EH2014
-LOCATION:Degerloch
+LOCATION:shack-Seminarraum
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T214500
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T210000
-DTSTAMP;VALUE=DATE-TIME:20140330T180101Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T213000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T204500
+DTSTAMP;VALUE=DATE-TIME:20140409T193022Z
 UID:K98afM_8hVVxvDITqqzczQ@frab.cccv.de
 DESCRIPTION:WTF/Minute ist eine reale Metrik. Überhaupt\, Metriken sind e
  twas Gutes. Aber nicht alle Metriken sind gut. Und andere Erkenntnisse.
 URL:/pages/fahrplan/events/5756.html
 SUMMARY:Survival für Softwareprojekte
 ORGANIZER:EH2014
-LOCATION:Degerloch
+LOCATION:Workshopraum
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T174500
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T170000
-DTSTAMP;VALUE=DATE-TIME:20140401T180252Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T193000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T184500
+DTSTAMP;VALUE=DATE-TIME:20140411T083537Z
 UID:X-LlUJ210vf4NMvww86DhQ@frab.cccv.de
 DESCRIPTION:
 URL:/pages/fahrplan/events/5813.html
 SUMMARY:TBA
 ORGANIZER:EH2014
-LOCATION:Großer Saal
+LOCATION:Degerloch
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T130000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T121500
-DTSTAMP;VALUE=DATE-TIME:20140327T104535Z
-UID:fMvJsiRcvro89_CmxrUn1w@frab.cccv.de
-DESCRIPTION:
-URL:/pages/fahrplan/events/5807.html
-SUMMARY:Testevea
-ORGANIZER:EH2014
-LOCATION:Großer Saal
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T233000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T220000
-DTSTAMP;VALUE=DATE-TIME:20140330T180618Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T221500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T204500
+DTSTAMP;VALUE=DATE-TIME:20140409T173250Z
 UID:cw1kWo5jKcQug7gM1AvNGA@frab.cccv.de
 DESCRIPTION:While recent events have finally made the world at large real
  ize that the exhaustive deployment and use of cryptography throughout th
@@ -783,20 +809,20 @@ ORGANIZER:EH2014
 LOCATION:Degerloch
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T144500
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T134500
-DTSTAMP;VALUE=DATE-TIME:20140313T043757Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T140000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T130000
+DTSTAMP;VALUE=DATE-TIME:20140409T174109Z
 UID:q9xZ77GJWVeDCSdD7jd2dw@frab.cccv.de
 DESCRIPTION:Erstellung von Untertiteln für Vorträge.
 URL:/pages/fahrplan/events/5781.html
 SUMMARY:Untertitel-Workshop
 ORGANIZER:EH2014
-LOCATION:Schalldruckkammer
+LOCATION:Workshopraum
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T113000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T104500
-DTSTAMP;VALUE=DATE-TIME:20140403T084802Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T161500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T153000
+DTSTAMP;VALUE=DATE-TIME:20140409T193720Z
 UID:MSQd41AhyJrm13_cCTRCYw@frab.cccv.de
 DESCRIPTION:In TLS sind in letzter Zeit zahlreiche Probleme aufgetaucht\,
   Die BEAST- und die Lucky Thirteen-Attacke\, Probleme mit RC4 und Mißtra
@@ -805,28 +831,28 @@ DESCRIPTION:In TLS sind in letzter Zeit zahlreiche Probleme aufgetaucht\,
 URL:/pages/fahrplan/events/5744.html
 SUMMARY:Wie kaputt ist TLS?
 ORGANIZER:EH2014
-LOCATION:Großer Saal
+LOCATION:shack-Seminarraum
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T210000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T190000
-DTSTAMP;VALUE=DATE-TIME:20140401T205340Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T203000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T183000
+DTSTAMP;VALUE=DATE-TIME:20140409T192928Z
 UID:fH1i8ZTMc9fi3uMV7DBjhw@frab.cccv.de
 DESCRIPTION:
 URL:/pages/fahrplan/events/5814.html
 SUMMARY:Workshop zu We'll make ourselves a GNU one
 ORGANIZER:EH2014
-LOCATION:Schalldruckkammer
+LOCATION:Workshopraum
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140418T230000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140418T221500
-DTSTAMP;VALUE=DATE-TIME:20140330T175518Z
+DTSTAMP;VALUE=DATE-TIME:20140409T184446Z
 UID:lXEhQvkRJSVDLDofUnI4Pg@frab.cccv.de
 DESCRIPTION:
 URL:/pages/fahrplan/events/5767.html
 SUMMARY:zero-cost netsecmon
 ORGANIZER:EH2014
-LOCATION:Degerloch
+LOCATION:shack-Seminarraum
 END:VEVENT
 END:VCALENDAR

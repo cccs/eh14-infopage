@@ -13,9 +13,9 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140418T204500
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140418T200000
-DTSTAMP;VALUE=DATE-TIME:20140318T083754Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140418T220000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140418T211500
+DTSTAMP;VALUE=DATE-TIME:20140410T211611Z
 UID:UZBI6EVQ63ndlh3g0-cV_A@frab.cccv.de
 DESCRIPTION:Wie entsteht der Tag-Nacht-Rhythmus? Warum schläft man (nicht
  )? Was passiert im Schlaf\, wie wird Schlaf gemessen\, und wie wird in d
@@ -23,6 +23,6 @@ DESCRIPTION:Wie entsteht der Tag-Nacht-Rhythmus? Warum schläft man (nicht
 URL:/pages/fahrplan/events/5725.html
 SUMMARY:Sleep? Ain't nobody got time for that!
 ORGANIZER:EH2014
-LOCATION:Degerloch
+LOCATION:shack-Seminarraum
 END:VEVENT
 END:VCALENDAR

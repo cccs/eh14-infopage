@@ -15,7 +15,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T114500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T110000
-DTSTAMP;VALUE=DATE-TIME:20140309T154953Z
+DTSTAMP;VALUE=DATE-TIME:20140410T202837Z
 UID:zHUMdREGj80m7zLS_xkzAg@frab.cccv.de
 DESCRIPTION:Sie wurden laut\, die Rufe nach einer neuen "Hacker-Elite". S
  ie wird spürbar\, die Ablehnung der "DAUs". Der Konflikt ist da: Hackere

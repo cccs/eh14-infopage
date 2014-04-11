@@ -13,9 +13,9 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T114500
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T093000
-DTSTAMP;VALUE=DATE-TIME:20140318T085837Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T141500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T120000
+DTSTAMP;VALUE=DATE-TIME:20140409T190408Z
 UID:AGyCAyesmbxDsIf1BrE-qA@frab.cccv.de
 DESCRIPTION:Du bist also ein Geek und willst eine Präsentation über ein T
  hema geben\, das Dir sehr am Herzen liegt. Du bist folglich sehr enthusi
@@ -26,6 +26,6 @@ DESCRIPTION:Du bist also ein Geek und willst eine Präsentation über ein T
 URL:/pages/fahrplan/events/5735.html
 SUMMARY:Presenting for Geeks
 ORGANIZER:EH2014
-LOCATION:Schalldruckkammer
+LOCATION:shack-Seminarraum
 END:VEVENT
 END:VCALENDAR

@@ -11,12 +11,42 @@
 </conference>
 <day date='2014-04-18' end='2014-04-19T00:00:00+02:00' index='1' start='2014-04-18T16:00:00+02:00'>
 <room name='Degerloch'>
+</room>
+<room name='Großer Saal'>
+</room>
+<room name='Workshopraum'>
+</room>
+<room name='Hackcenter'>
+<event guid='OYZ8oEB79C5A6Lx8N8cq_Q' id='5791'>
+<date>2014-04-18T16:00:00+02:00</date>
+<start>16:00</start>
+<duration>01:00</duration>
+<room>Hackcenter</room>
+<slug>EH2014_-_5791_-_en_-_hackcenter_-_201404181600_-_opening_welcome</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Opening &amp; Welcome</title>
+<subtitle></subtitle>
+<track>Sonstiges</track>
+<type>lecture</type>
+<language>en</language>
+<abstract></abstract>
+<description></description>
+<persons>
+</persons>
+<links>
+</links>
+</event>
+</room>
+<room name='shack-Seminarraum'>
 <event guid='O-w9WcQVYddcl20sSP_Lvg' id='5765'>
-<date>2014-04-18T16:15:00+02:00</date>
-<start>16:15</start>
+<date>2014-04-18T16:00:00+02:00</date>
+<start>16:00</start>
 <duration>00:45</duration>
-<room>Degerloch</room>
-<slug>EH2014_-_5765_-_de_-_degerloch_-_201404181615_-_hakel_workshop_-_kerstin</slug>
+<room>shack-Seminarraum</room>
+<slug>EH2014_-_5765_-_de_-_shack-seminarraum_-_201404181600_-_hakel_workshop_-_kerstin</slug>
 <recording>
 <license></license>
 <optout>false</optout>
@@ -34,12 +64,48 @@
 <links>
 </links>
 </event>
+<event guid='tWnCMJuO00KJIKn9LPRleA' id='5761'>
+<date>2014-04-18T17:30:00+02:00</date>
+<start>17:30</start>
+<duration>00:30</duration>
+<room>shack-Seminarraum</room>
+<slug>EH2014_-_5761_-_de_-_shack-seminarraum_-_201404181730_-_mumble_workshop_-_fohlen</slug>
+<recording>
+<license>http://creativecommons.org/licenses/by-sa/3.0/de/</license>
+<optout>false</optout>
+</recording>
+<title>Mumble Workshop</title>
+<subtitle></subtitle>
+<track>Talk</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Eine Einführung in Mumble (sowohl technisch als auch für Anwender).</abstract>
+<description>Eine Einführung in die Open-Source  Software Mumble.
+Hierbei würde ich auf verschiedene Aspekte der Software eingehen, und sie in einem Resumee Konkurrenten wie Teamspeak/Ventrillo entgegenstellen. Dabei sollen alle 3 Aspekte (Anwender, Administrator, Hoster) zur Geltung kommen, und mit Beispielen sowie technischen Details versehen werden.
+Einige technisch interessante Komponenten wären:
+
+- Offen &amp; frei (Lizenz)
+- Sicher / verschlüsselt (SSL, Protokoll)
+- Low-latency, man setzt auf OPUS
+- Starke Integration des Nutzers (Voiceerkennung, positionsabhängiges Audio, Overlay, Skins)
+- Erweiterbarkeit (ICE-Middleware)
+- Administration ( ACL )
+- Hosting ( Resourcen, Cluster-Hosting )
+
+und schlußendlich auch das portable QT-Konzept zu erwähnen, welches sich z.B: für Web-Rendern lässt.
+</description>
+<persons>
+<person id='4482'>Fohlen</person>
+</persons>
+<links>
+</links>
+</event>
 <event guid='yB5E1EGkQqkJwEzA-PZdbA' id='5743'>
-<date>2014-04-18T17:45:00+02:00</date>
-<start>17:45</start>
+<date>2014-04-18T19:15:00+02:00</date>
+<start>19:15</start>
 <duration>01:00</duration>
-<room>Degerloch</room>
-<slug>EH2014_-_5743_-_de_-_degerloch_-_201404181745_-_nixos_als_serversystem_in_der_praxis_-_joachim_schiele</slug>
+<room>shack-Seminarraum</room>
+<slug>EH2014_-_5743_-_de_-_shack-seminarraum_-_201404181915_-_nixos_als_serversystem_in_der_praxis_-_joachim_schiele</slug>
 <recording>
 <license>Attribution-ShareAlike 4.0 International</license>
 <optout>false</optout>
@@ -84,48 +150,39 @@ zum einlesen sind folgende dokumentationen nützlich:
 <link href='http://nixos.org/nixos/manual/'>NixOS Manual</link>
 </links>
 </event>
-<event guid='tWnCMJuO00KJIKn9LPRleA' id='5761'>
-<date>2014-04-18T19:00:00+02:00</date>
-<start>19:00</start>
+<event guid='kOCQTPjFipbqkzw-f61yXw' id='5784'>
+<date>2014-04-18T20:15:00+02:00</date>
+<start>20:15</start>
 <duration>00:30</duration>
-<room>Degerloch</room>
-<slug>EH2014_-_5761_-_de_-_degerloch_-_201404181900_-_mumble_workshop_-_fohlen</slug>
+<room>shack-Seminarraum</room>
+<slug>EH2014_-_5784_-_en_-_shack-seminarraum_-_201404182015_-_reading_and_writing_landscape_framing_reality_with_data_-_benedikt_gross</slug>
 <recording>
-<license>http://creativecommons.org/licenses/by-sa/3.0/de/</license>
+<license></license>
 <optout>false</optout>
 </recording>
-<title>Mumble Workshop</title>
-<subtitle></subtitle>
+<title>Reading and Writing Landscape – Framing Reality with Data</title>
+<subtitle>How many swimming pools are in Los Angeles? And can you print landscapes?</subtitle>
 <track>Talk</track>
 <type>lecture</type>
-<language>de</language>
-<abstract>Eine Einführung in Mumble (sowohl technisch als auch für Anwender).</abstract>
-<description>Eine Einführung in die Open-Source  Software Mumble.
-Hierbei würde ich auf verschiedene Aspekte der Software eingehen, und sie in einem Resumee Konkurrenten wie Teamspeak/Ventrillo entgegenstellen. Dabei sollen alle 3 Aspekte (Anwender, Administrator, Hoster) zur Geltung kommen, und mit Beispielen sowie technischen Details versehen werden.
-Einige technisch interessante Komponenten wären:
+<language>en</language>
+<abstract>The talk is about the process of mapping (reading) and shaping (writing) reality with data in the contemporary age of big data, open data, crowdsourcing, citizen science, agriculture and precision farming.</abstract>
+<description>The first part of the talk attempts to highlight on one hand the emerging and powerful role of non-domain experts in the discovery of scientifically and socially relevant information, and on the other hand seeks to emphasize the darker, creepier, and more contentious issues surrounding data processing and exploration like for instance data privacy issues etc.
 
-- Offen &amp; frei (Lizenz)
-- Sicher / verschlüsselt (SSL, Protokoll)
-- Low-latency, man setzt auf OPUS
-- Starke Integration des Nutzers (Voiceerkennung, positionsabhängiges Audio, Overlay, Skins)
-- Erweiterbarkeit (ICE-Middleware)
-- Administration ( ACL )
-- Hosting ( Resourcen, Cluster-Hosting )
-
-und schlußendlich auch das portable QT-Konzept zu erwähnen, welches sich z.B: für Web-Rendern lässt.
-</description>
+The second part tries to get on the abstract idea of reading and writing landscape further to the domain of agriculture and precision farming. The talk showcases the project &quot;Avena+ Test Bed&quot; which is an experiment to explore the relationship between landscape, agriculture and digital fabrication.</description>
 <persons>
-<person id='4482'>Fohlen</person>
+<person id='4504'>Benedikt Groß</person>
 </persons>
 <links>
+<link href='http://benedikt-gross.de/log/2013/06/avena-test-bed_agricultural-printing-and-altered-landscapes/'>Avena+ Test Bed — Agricultural Printing and Altered Landscapes (Documentation)</link>
+<link href='http://benedikt-gross.de/log/2013/06/the-big-atlas-of-la-pools/'>The Big Atlas of LA Pools (Documentation)</link>
 </links>
 </event>
 <event guid='UZBI6EVQ63ndlh3g0-cV_A' id='5725'>
-<date>2014-04-18T20:00:00+02:00</date>
-<start>20:00</start>
+<date>2014-04-18T21:15:00+02:00</date>
+<start>21:15</start>
 <duration>00:45</duration>
-<room>Degerloch</room>
-<slug>EH2014_-_5725_-_de_-_degerloch_-_201404182000_-_sleep_ain_t_nobody_got_time_for_that_-_christina</slug>
+<room>shack-Seminarraum</room>
+<slug>EH2014_-_5725_-_de_-_shack-seminarraum_-_201404182115_-_sleep_ain_t_nobody_got_time_for_that_-_christina</slug>
 <recording>
 <license></license>
 <optout>true</optout>
@@ -147,8 +204,8 @@ und schlußendlich auch das portable QT-Konzept zu erwähnen, welches sich z.B: 
 <date>2014-04-18T22:15:00+02:00</date>
 <start>22:15</start>
 <duration>00:45</duration>
-<room>Degerloch</room>
-<slug>EH2014_-_5767_-_en_-_degerloch_-_201404182215_-_zero-cost_netsecmon_-_noaircon</slug>
+<room>shack-Seminarraum</room>
+<slug>EH2014_-_5767_-_en_-_shack-seminarraum_-_201404182215_-_zero-cost_netsecmon_-_noaircon</slug>
 <recording>
 <license></license>
 <optout>false</optout>
@@ -173,63 +230,6 @@ Following the presentation there will be a discussion were we will encourage int
 <link href='http://monilog.info'>Webseiten des 'Nagios/Icinga Kochbuchs'</link>
 </links>
 </event>
-</room>
-<room name='Großer Saal'>
-<event guid='OYZ8oEB79C5A6Lx8N8cq_Q' id='5791'>
-<date>2014-04-18T16:00:00+02:00</date>
-<start>16:00</start>
-<duration>01:00</duration>
-<room>Großer Saal</room>
-<slug>EH2014_-_5791_-_en_-_grosser_saal_-_201404181600_-_opening_welcome</slug>
-<recording>
-<license></license>
-<optout>false</optout>
-</recording>
-<title>Opening &amp; Welcome</title>
-<subtitle></subtitle>
-<track>Sonstiges</track>
-<type>lecture</type>
-<language>en</language>
-<abstract></abstract>
-<description></description>
-<persons>
-</persons>
-<links>
-</links>
-</event>
-<event guid='kOCQTPjFipbqkzw-f61yXw' id='5784'>
-<date>2014-04-18T17:30:00+02:00</date>
-<start>17:30</start>
-<duration>00:30</duration>
-<room>Großer Saal</room>
-<slug>EH2014_-_5784_-_en_-_grosser_saal_-_201404181730_-_reading_and_writing_landscape_framing_reality_with_data_-_benedikt_gross</slug>
-<recording>
-<license></license>
-<optout>false</optout>
-</recording>
-<title>Reading and Writing Landscape – Framing Reality with Data</title>
-<subtitle>How many swimming pools are in Los Angeles? And can you print landscapes?</subtitle>
-<track>Talk</track>
-<type>lecture</type>
-<language>en</language>
-<abstract>The talk is about the process of mapping (reading) and shaping (writing) reality with data in the contemporary age of big data, open data, crowdsourcing, citizen science, agriculture and precision farming.</abstract>
-<description>The first part of the talk attempts to highlight on one hand the emerging and powerful role of non-domain experts in the discovery of scientifically and socially relevant information, and on the other hand seeks to emphasize the darker, creepier, and more contentious issues surrounding data processing and exploration like for instance data privacy issues etc.
-
-The second part tries to get on the abstract idea of reading and writing landscape further to the domain of agriculture and precision farming. The talk showcases the project &quot;Avena+ Test Bed&quot; which is an experiment to explore the relationship between landscape, agriculture and digital fabrication.</description>
-<persons>
-<person id='4504'>Benedikt Groß</person>
-</persons>
-<links>
-<link href='http://benedikt-gross.de/log/2013/06/avena-test-bed_agricultural-printing-and-altered-landscapes/'>Avena+ Test Bed — Agricultural Printing and Altered Landscapes (Documentation)</link>
-<link href='http://benedikt-gross.de/log/2013/06/the-big-atlas-of-la-pools/'>The Big Atlas of LA Pools (Documentation)</link>
-</links>
-</event>
-</room>
-<room name='Schalldruckkammer'>
-</room>
-<room name='Hackcenter'>
-</room>
-<room name='Seminarraum im shackspace'>
 </room>
 <room name='shackspace Küche'>
 </room>
@@ -269,118 +269,119 @@ An Beispielen aus dem realen Leben will ich zeigen, dass das alles gar nicht so 
 <links>
 </links>
 </event>
-<event guid='GnA8_-5g-pXihZxu381Vvw' id='5751'>
-<date>2014-04-19T11:45:00+02:00</date>
-<start>11:45</start>
-<duration>00:15</duration>
+<event guid='2eghMBenSb1fTvFH3D0hWw' id='5820'>
+<date>2014-04-19T12:00:00+02:00</date>
+<start>12:00</start>
+<duration>01:00</duration>
 <room>Degerloch</room>
-<slug>EH2014_-_5751_-_de_-_degerloch_-_201404191145_-_semi_automatisierung_der_kardiopulmonalen_reanimation_als_-_abdo</slug>
+<slug>EH2014_-_5820_-_de_-_degerloch_-_201404191200_-_keynote</slug>
 <recording>
 <license></license>
 <optout>false</optout>
 </recording>
-<title>(semi)Automatisierung der kardiopulmonalen Reanimation (ALS)</title>
-<subtitle>a work in progress</subtitle>
+<title>Keynote</title>
+<subtitle>Das neue Jugendmedienschutzgesetz</subtitle>
 <track>Talk</track>
-<type></type>
+<type>lecture</type>
 <language>de</language>
-<abstract>Software- und hardwaregestütztes proof-of-concept. Umbau bestehender Medizintechnikprodukte zur Steuerung mittels eigens entwickeltem Softwareprogramm.</abstract>
+<abstract></abstract>
 <description></description>
 <persons>
-<person id='4455'>Abdo</person>
 </persons>
 <links>
 </links>
 </event>
-<event guid='K5mcp1IIjauHp8lJG9mZ5Q' id='5754'>
+<event guid='i_2Q9xJIHxx4iu3WUcRfcg' id='5739'>
 <date>2014-04-19T16:00:00+02:00</date>
 <start>16:00</start>
-<duration>03:00</duration>
+<duration>01:30</duration>
 <room>Degerloch</room>
-<slug>EH2014_-_5754_-_de_-_degerloch_-_201404191600_-_regiotreffen_-_martin_haase_maha</slug>
+<slug>EH2014_-_5739_-_de_-_degerloch_-_201404191600_-_can_can-open_-_alex-k</slug>
 <recording>
 <license></license>
 <optout>false</optout>
 </recording>
-<title>Regiotreffen</title>
-<subtitle>Erfa-Beirat und das regionale Chaos treffen sich</subtitle>
-<track>Sonstiges</track>
-<type>meeting</type>
+<title>CAN &amp; CAN-OPEN</title>
+<subtitle>Was hat ein Auto und eine Industrieanlage gemeinsam</subtitle>
+<track>Talk</track>
+<type>lecture</type>
 <language>de</language>
-<abstract>Auf dem Easterhegg soll wieder ein Regiotreffen stattfindet. Es treffen sich die Vertreter der Erfa-Kreise und Chaostreffs.</abstract>
+<abstract>Was hat die Kommunikation im Auto, Flurförderfahrzeugen automatische Schiebetüren gemeinsam.  Wie kann ich in diesen Systemen Mitspracherecht erhalten. </abstract>
+<description>In diesem Vortrag erkläre ich wie CAN und CAN-Open zusammen hängen. Und wie es möglich ist in ein Auto sich einzuklinken und somit Kontrolle zu erlangen. Anhand des CPV3E (Mecanumfahrzeug) und zusätzlicher Hardware werden eindrucksvoll die Nachrichten analysieren und manipuliert. Somit ist ein direkter Einstieg in das Thema einfach nachzuvollziehen. 
+
+Bei Bedarf würde alle Hardware auch für ein Workshop bereitstehen.
+</description>
+<persons>
+<person id='2876'>alex-k</person>
+</persons>
+<links>
+<link href='https://www.youtube.com/watch?v=UA5PyWb1rTg'>MINI CPV3E</link>
+<link href='https://www.youtube.com/watch?v=NRmStZ4uvCk'>der große Bruder vom MINI-CPV3E</link>
+<link href='https://www.youtube.com/watch?v=TgHez5reeHw'>the big bother from the MINI-CPV3E</link>
+</links>
+</event>
+<event guid='X-LlUJ210vf4NMvww86DhQ' id='5813'>
+<date>2014-04-19T18:45:00+02:00</date>
+<start>18:45</start>
+<duration>00:45</duration>
+<room>Degerloch</room>
+<slug>EH2014_-_5813_-__-_degerloch_-_201404191845_-_tba_-_matt_hardy</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>TBA</title>
+<subtitle></subtitle>
+<track>Talk</track>
+<type>lecture</type>
+<language></language>
+<abstract></abstract>
 <description></description>
 <persons>
-<person id='4085'>Martin Haase/maha</person>
+<person id='4550'>Matt Hardy</person>
 </persons>
 <links>
 </links>
 </event>
-<event guid='SUy5iEpNWx9zyqfQIG7caQ' id='5788'>
+<event guid='VkBGg2nUmqm32PqT7MkhSg' id='5773'>
 <date>2014-04-19T19:45:00+02:00</date>
 <start>19:45</start>
 <duration>00:45</duration>
 <room>Degerloch</room>
-<slug>EH2014_-_5788_-_de_-_degerloch_-_201404191945_-_anti_-cyber-realitatsabgleich_-_robert_haist</slug>
+<slug>EH2014_-_5773_-_de_-_degerloch_-_201404191945_-_noestimates_-_robert_we</slug>
 <recording>
 <license></license>
 <optout>false</optout>
 </recording>
-<title>(Anti)-Cyber-Realitätsabgleich</title>
-<subtitle>HowTo not suck at Incident Response</subtitle>
+<title>#NoEstimates</title>
+<subtitle>Why estimates are bad for your software &amp; team &amp; management</subtitle>
 <track>Talk</track>
 <type>lecture</type>
 <language>de</language>
-<abstract>Anhand realitätsnaher Beispiele wird erklärt, auf was man bei einem Sicherheitsvorfall im Netzwerk und dessen Behandlung (Incident Response) zu Beginn achten sollte. Hierbei spielen vor allem die bestmögliche Nutzung vorhandener Ressourcen und die Einforderung von Marketingversprechen eine große Rolle.
+<abstract>Estimates are part of our daily live. Every single day we ask and answer questions like: &quot;when will it be done?&quot;, &quot;how much does it cost?&quot; and use that &quot;data&quot; to plan the future of our projects. Some of us using rigorously formalised processes with heaps of excel sheets, some applying more agile methods like planning poker. While doing that, we do not realise, how estimates are harmful!
+#NoEstimates is about exploring alternative ways of planning our work, of assigning value to features and a different approach about what we want to deliver.</abstract>
+<description>The Talk will cover:
 
-Also eine Art: &lt;buzzwords&gt; First-Response Best-Practice Guide &lt;/buzzwords&gt;
+1) &quot;Bad parts&quot; of estimates e.g.: gaming, team dysfunctions, Parkinsons Law
 
-Gute Ironie- und Sarkasmusdetektoren werden unbedingt vorausgesetzt.</abstract>
-<description></description>
+2) Possible different methods to manage software projects &amp; teams
+
+3) what you should do instead
+
+4) Why &quot;Projects&quot; are even worse: #NoProjects Intro</description>
 <persons>
-<person id='4505'>Robert Haist</person>
+<person id='4495'>robert_we</person>
 </persons>
 <links>
-</links>
-</event>
-<event guid='K98afM_8hVVxvDITqqzczQ' id='5756'>
-<date>2014-04-19T21:00:00+02:00</date>
-<start>21:00</start>
-<duration>00:45</duration>
-<room>Degerloch</room>
-<slug>EH2014_-_5756_-_de_-_degerloch_-_201404192100_-_survival_fur_softwareprojekte_-_h0uz3</slug>
-<recording>
-<license>CC-BY-NC</license>
-<optout>false</optout>
-</recording>
-<title>Survival für Softwareprojekte</title>
-<subtitle>Leichte Unterhaltung für Developers, Developers, Developers</subtitle>
-<track>Talk</track>
-<type>lecture</type>
-<language>de</language>
-<abstract>WTF/Minute ist eine reale Metrik. Überhaupt, Metriken sind etwas Gutes. Aber nicht alle Metriken sind gut. Und andere Erkenntnisse.</abstract>
-<description>Zur Vermeidung von Buzzwords wollte ich auf eine ausführliche Beschreibung verzichten, fürchte aber, dass sonst der Talk abgelehnt wird.
-
-In der Entwicklung von Multi-Tier-Applikationen im Enterprise-Umfeld ist es unmöglich, seinen Alltag zu bestreiten, ohne Collateral Damage anzurichten. Dabei ist es tatsächlich unerheblich, ob das Development für New Media Advertising oder Automotive Banking erfolgt, denn gemeinsam ist immer, dass die Code Quality unter den Beschränkungen für Time and Material leidet.
-
-Diese Erkenntnis kann auch in den bereichen One-Time-Usage-Application-Development und Enterprise Organisation bestätigt werden.
-
-Oft bleibt Object Oriented Analysis and Design auf der Strecke, das Version Control System wird unprofessionel benutzt (oder fehlt gänzlich) und das Augenmerk wird zugunsten von kurzfristigen Erfolgen vom Continual Service Improvement weggelenkt.
-
-Dies führt langfristig zu Frustration, Burn-Out, Bore-Out und trockener Haut, das Personal Commitment der Developer sinkt.
-
-Dieser Vortrag wird Beispiele aus dem Every Day Development anführen und gibt Anregungen, es besser zu machen.</description>
-<persons>
-<person id='2639'>h0uz3</person>
-</persons>
-<links>
+<link href='http://de.slideshare.net/weissgraeber'>Slideshare Example</link>
 </links>
 </event>
 <event guid='cw1kWo5jKcQug7gM1AvNGA' id='5748'>
-<date>2014-04-19T22:00:00+02:00</date>
-<start>22:00</start>
+<date>2014-04-19T20:45:00+02:00</date>
+<start>20:45</start>
 <duration>01:30</duration>
 <room>Degerloch</room>
-<slug>EH2014_-_5748_-_en_-_degerloch_-_201404192200_-_the_limits_of_cryptography_-_benedikt_stockebrand</slug>
+<slug>EH2014_-_5748_-_en_-_degerloch_-_201404192045_-_the_limits_of_cryptography_-_benedikt_stockebrand</slug>
 <recording>
 <license>CC BY</license>
 <optout>false</optout>
@@ -434,231 +435,12 @@ Dieser Vortrag wird Beispiele aus dem Every Day Development anführen und gibt A
 <link href='http://www.stepladder-it.com/'>Business home page</link>
 </links>
 </event>
-</room>
-<room name='Großer Saal'>
-<event guid='MSQd41AhyJrm13_cCTRCYw' id='5744'>
-<date>2014-04-19T10:45:00+02:00</date>
-<start>10:45</start>
-<duration>00:45</duration>
-<room>Großer Saal</room>
-<slug>EH2014_-_5744_-_de_-_grosser_saal_-_201404191045_-_wie_kaputt_ist_tls_-_hanno</slug>
-<recording>
-<license>CC0</license>
-<optout>false</optout>
-</recording>
-<title>Wie kaputt ist TLS?</title>
-<subtitle>Das wichtigste Kryptoprotokoll unter der Lupe</subtitle>
-<track>Talk</track>
-<type>lecture</type>
-<language>de</language>
-<abstract>In TLS sind in letzter Zeit zahlreiche Probleme aufgetaucht, Die BEAST- und die Lucky Thirteen-Attacke, Probleme mit RC4 und Mißtrauen gegenüber Standards aus dem Hause NSA. Wo steht TLS heute und welche Verbesserungen stehen an?</abstract>
-<description>TLS (früher SSL) ist das wichtigste und meistgenutzte Verschlüsselungsprotokoll. HTTPS-Verbindungen nutzen wir alltäglich zum Kommunizieren, um Geld zu überweisen oder einzukaufen.
-
-Man würde sich daher wünschen, dass TLS ein besonders sicheres Protokoll ist. Doch die Realität sieht anders aus: In den letzten Jahren sind zahlreiche Sicherheitsprobleme bekannt geworden. Das besondere an BEAST, Lucky Thirteen und anderen: Es handelt sich nicht um Softwarefehler, sondern um Fehler im Protokoll selbst. Viele der Probleme waren schon lange bekannt, die Schwäche, auf der die Lucky Thirteen-Attacke basiert, ist sogar im TLS 1.2-Standard selbst beschrieben.
-
-Die Probleme von TLS führten teils zu bizarren Situationen: Nachdem immer mehr Schwächen im CBC-Modus von TLS bekannt wurden, empfahlen Sicherheitsexperten einen Umstieg auf RC4. Als dann neue Schwächen in RC4 bekannt wurden, hieß es: Kommando zurück, RC4 ist unsicher, wir verwenden jetzt alle wieder CBC.
-
-Im Vortrag werfe ich einen Blick auf die aktueleln Probleme von TLS und mögliche Lösungsansätze.</description>
-<persons>
-<person id='2462'>hanno</person>
-</persons>
-<links>
-<link href='http://afra-berlin.de/dokuwiki/lib/exe/fetch.php?media=2013-09-13_so_kaputt_ist_ssl.pdf'>Slides von älterem Vortrag</link>
-</links>
-</event>
-<event guid='iGfZkp0SYGQfeKbb-WgS7w' id='5719'>
-<date>2014-04-19T13:00:00+02:00</date>
-<start>13:00</start>
-<duration>00:45</duration>
-<room>Großer Saal</room>
-<slug>EH2014_-_5719_-_en_-_grosser_saal_-_201404191300_-_adventures_in_digital_forensics_-_xhr</slug>
-<recording>
-<license></license>
-<optout>false</optout>
-</recording>
-<title>Adventures in Digital Forensics</title>
-<subtitle></subtitle>
-<track>Talk</track>
-<type>lecture</type>
-<language>en</language>
-<abstract>The talks presents a journey through digital forensics, namely non-volatile and volatile analysis. It will show how one can analyze Linux servers after a successful compromise as well as Windows machines infected with malware. Further, I'll present some goodies found during real-life analyses.</abstract>
-<description></description>
-<persons>
-<person id='173'>xhr</person>
-</persons>
-<links>
-</links>
-</event>
-<event guid='2v8guLMfWAGh50zRNrY8rg' id='5747'>
-<date>2014-04-19T14:30:00+02:00</date>
-<start>14:30</start>
-<duration>00:30</duration>
-<room>Großer Saal</room>
-<slug>EH2014_-_5747_-_de_-_grosser_saal_-_201404191430_-_prismcamp_-_musevg</slug>
-<recording>
-<license></license>
-<optout>false</optout>
-</recording>
-<title>PrismCamp</title>
-<subtitle>Politik, Technik und Gesellschaft in Zeiten der Totalüberwachung</subtitle>
-<track>Talk</track>
-<type>lecture</type>
-<language>de</language>
-<abstract>PrismCamp - Wider die Ohnmacht.
-Warum wir ein Barcamp zu NSA-Überwachung, Vorratsdatenspeicherung etc. veranstalten.
-</abstract>
-<description>Warum wir ein Barcamp zu NSA-Überwachung, Vorratsdatenspeicherung etc. veranstalten: Das PrismCamp bietet Raum und Zeit für die Diskussion des Überwachungsskandals... und des ganz alltäglichen Überwachungswahnsinn von BDA über CCTV bis VDS.
-PrismCamp - Wider die Ohnmacht
-17. &amp; 18. Mai 2014, Literaturhaus Stuttgart.
-www.prismcamp.de
-
-</description>
-<persons>
-<person id='4473'>musevg</person>
-</persons>
-<links>
-</links>
-</event>
-<event guid='i_2Q9xJIHxx4iu3WUcRfcg' id='5739'>
-<date>2014-04-19T15:15:00+02:00</date>
-<start>15:15</start>
-<duration>01:30</duration>
-<room>Großer Saal</room>
-<slug>EH2014_-_5739_-_de_-_grosser_saal_-_201404191515_-_can_can-open_-_alex-k</slug>
-<recording>
-<license></license>
-<optout>false</optout>
-</recording>
-<title>CAN &amp; CAN-OPEN</title>
-<subtitle>Was hat ein Auto und eine Industrieanlage gemeinsam</subtitle>
-<track>Talk</track>
-<type>lecture</type>
-<language>de</language>
-<abstract>Was hat die Kommunikation im Auto, Flurförderfahrzeugen automatische Schiebetüren gemeinsam.  Wie kann ich in diesen Systemen Mitspracherecht erhalten. </abstract>
-<description>In diesem Vortrag erkläre ich wie CAN und CAN-Open zusammen hängen. Und wie es möglich ist in ein Auto sich einzuklinken und somit Kontrolle zu erlangen. Anhand des CPV3E (Mecanumfahrzeug) und zusätzlicher Hardware werden eindrucksvoll die Nachrichten analysieren und manipuliert. Somit ist ein direkter Einstieg in das Thema einfach nachzuvollziehen. 
-
-Bei Bedarf würde alle Hardware auch für ein Workshop bereitstehen.
-</description>
-<persons>
-<person id='2876'>alex-k</person>
-</persons>
-<links>
-<link href='https://www.youtube.com/watch?v=UA5PyWb1rTg'>MINI CPV3E</link>
-<link href='https://www.youtube.com/watch?v=NRmStZ4uvCk'>der große Bruder vom MINI-CPV3E</link>
-<link href='https://www.youtube.com/watch?v=TgHez5reeHw'>the big bother from the MINI-CPV3E</link>
-</links>
-</event>
-<event guid='X-LlUJ210vf4NMvww86DhQ' id='5813'>
-<date>2014-04-19T17:00:00+02:00</date>
-<start>17:00</start>
-<duration>00:45</duration>
-<room>Großer Saal</room>
-<slug>EH2014_-_5813_-__-_grosser_saal_-_201404191700_-_tba</slug>
-<recording>
-<license></license>
-<optout>false</optout>
-</recording>
-<title>TBA</title>
-<subtitle></subtitle>
-<track>Talk</track>
-<type>lecture</type>
-<language></language>
-<abstract></abstract>
-<description></description>
-<persons>
-</persons>
-<links>
-</links>
-</event>
-<event guid='VkBGg2nUmqm32PqT7MkhSg' id='5773'>
-<date>2014-04-19T19:15:00+02:00</date>
-<start>19:15</start>
-<duration>00:45</duration>
-<room>Großer Saal</room>
-<slug>EH2014_-_5773_-_de_-_grosser_saal_-_201404191915_-_noestimates_-_robert_we</slug>
-<recording>
-<license></license>
-<optout>false</optout>
-</recording>
-<title>#NoEstimates</title>
-<subtitle>Why estimates are bad for your software &amp; team &amp; management</subtitle>
-<track>Talk</track>
-<type>lecture</type>
-<language>de</language>
-<abstract>Estimates are part of our daily live. Every single day we ask and answer questions like: &quot;when will it be done?&quot;, &quot;how much does it cost?&quot; and use that &quot;data&quot; to plan the future of our projects. Some of us using rigorously formalised processes with heaps of excel sheets, some applying more agile methods like planning poker. While doing that, we do not realise, how estimates are harmful!
-#NoEstimates is about exploring alternative ways of planning our work, of assigning value to features and a different approach about what we want to deliver.</abstract>
-<description>The Talk will cover:
-
-1) &quot;Bad parts&quot; of estimates e.g.: gaming, team dysfunctions, Parkinsons Law
-
-2) Possible different methods to manage software projects &amp; teams
-
-3) what you should do instead
-
-4) Why &quot;Projects&quot; are even worse: #NoProjects Intro</description>
-<persons>
-<person id='4495'>robert_we</person>
-</persons>
-<links>
-<link href='http://de.slideshare.net/weissgraeber'>Slideshare Example</link>
-</links>
-</event>
-<event guid='PWBg7vdclEAw8nNOeVAfFA' id='5758'>
-<date>2014-04-19T20:15:00+02:00</date>
-<start>20:15</start>
-<duration>00:45</duration>
-<room>Großer Saal</room>
-<slug>EH2014_-_5758_-_de_-_grosser_saal_-_201404192015_-_angriffe_auf_mikrochips_durch_die_rueckseite_-_starbug</slug>
-<recording>
-<license></license>
-<optout>false</optout>
-</recording>
-<title>Angriffe auf Mikrochips durch die Rueckseite</title>
-<subtitle></subtitle>
-<track>Talk</track>
-<type>lecture</type>
-<language>de</language>
-<abstract>Hersteller von Sicherheits-ICs haben in den letzten Jahren viel Arbeit in die Absicherung ihrer Produkte gesteckt. Dabei konzentrierten sie sich aber hauptsächlich auf die Vorderseite des Chips. Der Vortrag beschäftigt sich mit der nächsten großen Spielwiese von Chip-Hackern. Er beleuchtet Probingangriffe mittels Focused Ion Beam und die direkte Überwachung von schaltenden Transistoren durch die Analyse von optischen Seitenkanälen.</abstract>
-<description></description>
-<persons>
-<person id='4477'>starbug</person>
-</persons>
-<links>
-</links>
-</event>
-<event guid='Q8j9xkOW_50eqh8kf62gkQ' id='5766'>
-<date>2014-04-19T21:15:00+02:00</date>
-<start>21:15</start>
-<duration>00:45</duration>
-<room>Großer Saal</room>
-<slug>EH2014_-_5766_-__-_grosser_saal_-_201404192115_-_das_irc-protokoll_-_hc</slug>
-<recording>
-<license></license>
-<optout>true</optout>
-</recording>
-<title>Das IRC-Protokoll</title>
-<subtitle></subtitle>
-<track>Talk</track>
-<type>lecture</type>
-<language></language>
-<abstract>IRC gibt's schon lange, aber zum Teil ist bis heute relativ wenig ueber die Details des Protokolls bekannt, obwohl es IMHO zu einem der faszinierenderen gehoert. Das IRC hatte im Laufe der Zeit mit vielen Probleme zu kaempfen, und fuer viele davon hat man sich technische Loesungen einfallen lassen. Bis heute sind viele Dinge im IRC aber nicht perfekt geloest, und manches wuerde ein komplettes Redesign des Protokolls erfordern.
-
-Ausserdem: Wie ist ein IRC-Netzwerk heutzutage aufgebaut, was sind User- und Channelmodes? Was ist im modernen IRC noch uebrig vom urspruenglichen Protokoll? Was ist Splitriding, wie funktionieren Netsplits, was verbirgt sich hinter &quot;TS6&quot; und wozu braucht man &quot;Services&quot;?
-
-hc ist seit 2008 admin im hackint, und hat dort unter anderem an der Umstellung von anope auf atheme und von hybrid 7 auf ein aktuelles charybdis mitgewirkt, und betreibt ein paar eigene Services dort, die sich frueher ums Blacklisting und heute nur noch um stats und die Vergabe von Hostnamen fuer Tor- und i2p-Nutzer kuemmert. Der Code dazu ist groesstenteils unter github.com/hce/erlstats zu finden.</abstract>
-<description></description>
-<persons>
-<person id='4487'>hc</person>
-</persons>
-<links>
-</links>
-</event>
 <event guid='-B0Dzw8Zh-3wzHsuOqtuLw' id='5762'>
 <date>2014-04-19T22:30:00+02:00</date>
 <start>22:30</start>
 <duration>01:30</duration>
-<room>Großer Saal</room>
-<slug>EH2014_-_5762_-_de_-_grosser_saal_-_201404192230_-_chaosfamilienduell_-_muzy_-_jiska</slug>
+<room>Degerloch</room>
+<slug>EH2014_-_5762_-_de_-_degerloch_-_201404192230_-_chaosfamilienduell_-_muzy_-_jiska</slug>
 <recording>
 <license></license>
 <optout>false</optout>
@@ -684,68 +466,89 @@ Bitte meldet dazu eure Gruppe per Mail an muzy [no spam plz!] chaosdorf.de an. W
 </links>
 </event>
 </room>
-<room name='Schalldruckkammer'>
-<event guid='AGyCAyesmbxDsIf1BrE-qA' id='5735'>
-<date>2014-04-19T09:30:00+02:00</date>
-<start>09:30</start>
-<duration>02:15</duration>
-<room>Schalldruckkammer</room>
-<slug>EH2014_-_5735_-_de_-_schalldruckkammer_-_201404190930_-_presenting_for_geeks_-_dirk_haun</slug>
+<room name='Großer Saal'>
+</room>
+<room name='Workshopraum'>
+<event guid='GnA8_-5g-pXihZxu381Vvw' id='5751'>
+<date>2014-04-19T11:00:00+02:00</date>
+<start>11:00</start>
+<duration>00:15</duration>
+<room>Workshopraum</room>
+<slug>EH2014_-_5751_-_de_-_workshopraum_-_201404191100_-_semi_automatisierung_der_kardiopulmonalen_reanimation_als_-_abdo</slug>
 <recording>
-<license>CC-BY</license>
+<license></license>
 <optout>false</optout>
 </recording>
-<title>Presenting for Geeks</title>
-<subtitle></subtitle>
+<title>(semi)Automatisierung der kardiopulmonalen Reanimation (ALS)</title>
+<subtitle>a work in progress</subtitle>
+<track>Talk</track>
+<type></type>
+<language>de</language>
+<abstract>Software- und hardwaregestütztes proof-of-concept. Umbau bestehender Medizintechnikprodukte zur Steuerung mittels eigens entwickeltem Softwareprogramm.</abstract>
+<description></description>
+<persons>
+<person id='4455'>Abdo</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='3QAXrIW9VSGsxgT6ivgZdA' id='5798'>
+<date>2014-04-19T11:15:00+02:00</date>
+<start>11:15</start>
+<duration>00:30</duration>
+<room>Workshopraum</room>
+<slug>EH2014_-_5798_-_de_-_workshopraum_-_201404191115_-_fun_with_responsive_tables_-_kathrin_holzmann</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Fun with responsive tables</title>
+<subtitle>Eine crossdevice Lösung für tabelarische Datendarstellung</subtitle>
+<track>Talk</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Tabellen, gleichermaßen gehasst wie geliebt. Vor allem wenn wir über responsive Design sprechen stoßen Tabellen schnell an ihre Grenzen. Ich werde eine mögliche Lösung für das Problem präsentieren die wir auf DaWanda einsetzen.</abstract>
+<description>In meiner Präsentation möchte ich eine Mögliche Lösung für die Darstellung von tabelarischen Daten vorstellen. Angefangen bei  der Design und Usability Problemstellung vor allem für kleinere devices wie z.B. smartphones. Anschließend werde ich das für die Lösung benötigte markup zeigen sowie das CSS, das am Ende den ganzen Zauber bewirkt. 
+
+Am Ende der Präsentation können wir gerne über die Vor und Nachteile dieser Lösung, Verbesserungen oder andere Lösungansätze diskutieren.
+</description>
+<persons>
+<person id='4514'>Kathrin Holzmann</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='KANPsCX14nqSoSQihFC2hA' id='5733'>
+<date>2014-04-19T13:00:00+02:00</date>
+<start>13:00</start>
+<duration>03:00</duration>
+<room>Workshopraum</room>
+<slug>EH2014_-_5733_-_de_-_workshopraum_-_201404191300_-_burokratielevel_9000_-_laird_dave</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Bürokratielevel: &gt;9000</title>
+<subtitle>Vereinsverwaltung</subtitle>
 <track>Workshop</track>
 <type>workshop</type>
 <language>de</language>
-<abstract>Du bist also ein Geek und willst eine Präsentation über ein Thema geben, das Dir sehr am Herzen liegt. Du bist folglich sehr enthusiastisch. Du möchtest Deinem Publikum am liebsten alles über Dein Thema erzählen. Aber aus irgend einem Grund, obwohl Deine Präsentation doch alle Aspekte behandelt, zeigt sich das Publikum weit weniger enthusiastisch als erhofft. Woran liegt das? Kommt Dir diese Situation bekannt vor?</abstract>
-<description>&lt;p&gt;Gute Kommunikation wird auch für Hacker und Geeks immer wichtiger. Als Beispiel kann die NSA-Affäre dienen: Wir verstehen die Technik, die Zusammenhänge und die Konsequenzen. Nun geht es darum, dies technisch weniger bewanderten Mitmenschen zu erklären. Wie man aber etwa in den Videos vom 30C3 sehen kann, werden technische Vorträge immer noch überwiegend beherrscht von Bullet Points, schwer verständlichen Folien und Rednern, die sich hinter dem Rednerpult verschanzen. So werden wir unser Zielpublikum nicht erreichen - und wenn, bleibt dort wenig hängen.&lt;/p&gt;
+<abstract>Ich bin da in so nem Verein - wir machen Verwaltung so und so</abstract>
+<description>Ein Workshop für all die armen Schweine, die in ihrem Hackerspace / Erfa / whatever einen Teil ihrer Zeit für den Verwaltungsfoo opfern müssen.
 
-&lt;p&gt;Es wäre doch schade um all die wichtigen und spannenden Erkenntnisse, die wir mit so viel Mühe und Begeisterung zusammen tragen.&lt;/p&gt;
-
-&lt;p&gt;In diesem Workshop geht es daher um Ansätze, Vorträge so zu gestalten, dass sie visueller und ansprechender (im doppelten Sinne) werden. Dass dabei die Fakten nicht auf der Strecke bleiben und die - vorgeblich - bunten Bilder sehr wohl ihren Sinn haben und dem Zuhörer beim Verstehen und Erinnern helfen, wird dabei ebenso erörtert wie Tipps zur Vorbereitung, zur Foliengestaltung und zum eigentlichen Vortrag.&lt;/p&gt;
-
-&lt;p&gt;Vorbereitung:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Das Publikum steht im Mittelpunkt
-&lt;li&gt;Der Fluch des Wissens
-&lt;li&gt;Weg vom Computer
-&lt;li&gt;Mit SUCCESs gegen das Vergessen
-&lt;/ul&gt;
-
-&lt;p&gt;Folien:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Die wichtigen und die unwichtigen Folien&lt;/li&gt;
-&lt;li&gt;Wie man die Bullet Points los wird&lt;/li&gt;
-&lt;li&gt;Bilder und Visualisierungen&lt;/li&gt;
-&lt;li&gt;3 einfache Designregeln&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Vortrag:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Früh ankommen&lt;/li&gt;
-&lt;li&gt;The Show must go on&lt;/li&gt;
-&lt;li&gt;Mit Fragen und Diskussionen umgehen&lt;/li&gt;
-&lt;li&gt;Nicht überziehen&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Der Workshop enthält Theorie- und Praxisteile, mit Einzel- und Gruppenübungen. Mitzubringen ist lediglich etwas zum Schreiben und Zeichnen (Notizblock und/oder lose Seiten) - ein Laptop wird nicht benötigt.&lt;/p&gt;
-</description>
+Lasst uns über Best Practises reden und Ideen austauschen. Starker Fokus auf Erfahrungsaustausch, das soll KEIN Verwaltung 101 werden.</description>
 <persons>
-<person id='4460'>Dirk Haun</person>
+<person id='4464'>Laird_Dave</person>
 </persons>
 <links>
-<link href='http://www.themobilepresenter.com/article.php/presenting-for-geeks-on-the-road'>Mehr über den Workshop</link>
 </links>
 </event>
 <event guid='kxGdCQ5mZxaed5oBlGEdaA' id='5722'>
-<date>2014-04-19T12:00:00+02:00</date>
-<start>12:00</start>
+<date>2014-04-19T16:00:00+02:00</date>
+<start>16:00</start>
 <duration>00:45</duration>
-<room>Schalldruckkammer</room>
-<slug>EH2014_-_5722_-_de_-_schalldruckkammer_-_201404191200_-_palava_tv_-_marius_melzer</slug>
+<room>Workshopraum</room>
+<slug>EH2014_-_5722_-_de_-_workshopraum_-_201404191600_-_palava_tv_-_marius_melzer</slug>
 <recording>
 <license>CC-BY-SA</license>
 <optout>false</optout>
@@ -767,11 +570,11 @@ Bitte meldet dazu eure Gruppe per Mail an muzy [no spam plz!] chaosdorf.de an. W
 </links>
 </event>
 <event guid='kpLKfe9FifKqXbf3hv5vnQ' id='5782'>
-<date>2014-04-19T14:15:00+02:00</date>
-<start>14:15</start>
+<date>2014-04-19T16:45:00+02:00</date>
+<start>16:45</start>
 <duration>00:30</duration>
-<room>Schalldruckkammer</room>
-<slug>EH2014_-_5782_-_de_-_schalldruckkammer_-_201404191415_-_science_i_love_it_-_bronsen</slug>
+<room>Workshopraum</room>
+<slug>EH2014_-_5782_-_de_-_workshopraum_-_201404191645_-_science_i_love_it_-_bronsen</slug>
 <recording>
 <license>https://creativecommons.org/licenses/by-sa/4.0/</license>
 <optout>false</optout>
@@ -793,11 +596,11 @@ Bitte meldet dazu eure Gruppe per Mail an muzy [no spam plz!] chaosdorf.de an. W
 </links>
 </event>
 <event guid='Lxcqxvik445Gr-GsvHBFyQ' id='5737'>
-<date>2014-04-19T15:00:00+02:00</date>
-<start>15:00</start>
+<date>2014-04-19T17:30:00+02:00</date>
+<start>17:30</start>
 <duration>00:45</duration>
-<room>Schalldruckkammer</room>
-<slug>EH2014_-_5737_-_de_-_schalldruckkammer_-_201404191500_-_hackerethik_2_0_-_y</slug>
+<room>Workshopraum</room>
+<slug>EH2014_-_5737_-_de_-_workshopraum_-_201404191730_-_hackerethik_2_0_-_y</slug>
 <recording>
 <license>CC-BY-SA</license>
 <optout>false</optout>
@@ -818,37 +621,12 @@ Ziel ist es, ggf. eine Anpassung der Neufassung zu erstellen und für die weiter
 <link href='http://www.wauland.de/de/projekte/HackerEthik2.0.html'>Aktueller Arbeitsstand HE2.0</link>
 </links>
 </event>
-<event guid='KANPsCX14nqSoSQihFC2hA' id='5733'>
-<date>2014-04-19T16:00:00+02:00</date>
-<start>16:00</start>
-<duration>03:00</duration>
-<room>Schalldruckkammer</room>
-<slug>EH2014_-_5733_-_de_-_schalldruckkammer_-_201404191600_-_burokratielevel_9000_-_laird_dave</slug>
-<recording>
-<license></license>
-<optout>false</optout>
-</recording>
-<title>Bürokratielevel: &gt;9000</title>
-<subtitle>Vereinsverwaltung</subtitle>
-<track>Workshop</track>
-<type>workshop</type>
-<language>de</language>
-<abstract>Ich bin da in so nem Verein - wir machen Verwaltung so und so</abstract>
-<description>Ein Workshop für all die armen Schweine, die in ihrem Hackerspace / Erfa / whatever einen Teil ihrer Zeit für den Verwaltungsfoo opfern müssen.
-
-Lasst uns über Best Practises reden und Ideen austauschen. Starker Fokus auf Erfahrungsaustausch, das soll KEIN Verwaltung 101 werden.</description>
-<persons>
-<person id='4464'>Laird_Dave</person>
-</persons>
-<links>
-</links>
-</event>
 <event guid='fH1i8ZTMc9fi3uMV7DBjhw' id='5814'>
-<date>2014-04-19T19:00:00+02:00</date>
-<start>19:00</start>
+<date>2014-04-19T18:30:00+02:00</date>
+<start>18:30</start>
 <duration>02:00</duration>
-<room>Schalldruckkammer</room>
-<slug>EH2014_-_5814_-__-_schalldruckkammer_-_201404191900_-_workshop_zu_we_ll_make_ourselves_a_gnu_one</slug>
+<room>Workshopraum</room>
+<slug>EH2014_-_5814_-__-_workshopraum_-_201404191830_-_workshop_zu_we_ll_make_ourselves_a_gnu_one</slug>
 <recording>
 <license></license>
 <optout>false</optout>
@@ -865,12 +643,45 @@ Lasst uns über Best Practises reden und Ideen austauschen. Starker Fokus auf Er
 <links>
 </links>
 </event>
-<event guid='WmJOPc_l2FQAQOf5FE2XjQ' id='5779'>
-<date>2014-04-19T21:45:00+02:00</date>
-<start>21:45</start>
+<event guid='K98afM_8hVVxvDITqqzczQ' id='5756'>
+<date>2014-04-19T20:45:00+02:00</date>
+<start>20:45</start>
 <duration>00:45</duration>
-<room>Schalldruckkammer</room>
-<slug>EH2014_-_5779_-_de_-_schalldruckkammer_-_201404192145_-_hack_er_spaces_und_kulturpolitik_-_forschungstorte</slug>
+<room>Workshopraum</room>
+<slug>EH2014_-_5756_-_de_-_workshopraum_-_201404192045_-_survival_fur_softwareprojekte_-_h0uz3</slug>
+<recording>
+<license>CC-BY-NC</license>
+<optout>false</optout>
+</recording>
+<title>Survival für Softwareprojekte</title>
+<subtitle>Leichte Unterhaltung für Developers, Developers, Developers</subtitle>
+<track>Talk</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>WTF/Minute ist eine reale Metrik. Überhaupt, Metriken sind etwas Gutes. Aber nicht alle Metriken sind gut. Und andere Erkenntnisse.</abstract>
+<description>Zur Vermeidung von Buzzwords wollte ich auf eine ausführliche Beschreibung verzichten, fürchte aber, dass sonst der Talk abgelehnt wird.
+
+In der Entwicklung von Multi-Tier-Applikationen im Enterprise-Umfeld ist es unmöglich, seinen Alltag zu bestreiten, ohne Collateral Damage anzurichten. Dabei ist es tatsächlich unerheblich, ob das Development für New Media Advertising oder Automotive Banking erfolgt, denn gemeinsam ist immer, dass die Code Quality unter den Beschränkungen für Time and Material leidet.
+
+Diese Erkenntnis kann auch in den bereichen One-Time-Usage-Application-Development und Enterprise Organisation bestätigt werden.
+
+Oft bleibt Object Oriented Analysis and Design auf der Strecke, das Version Control System wird unprofessionel benutzt (oder fehlt gänzlich) und das Augenmerk wird zugunsten von kurzfristigen Erfolgen vom Continual Service Improvement weggelenkt.
+
+Dies führt langfristig zu Frustration, Burn-Out, Bore-Out und trockener Haut, das Personal Commitment der Developer sinkt.
+
+Dieser Vortrag wird Beispiele aus dem Every Day Development anführen und gibt Anregungen, es besser zu machen.</description>
+<persons>
+<person id='2639'>h0uz3</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='WmJOPc_l2FQAQOf5FE2XjQ' id='5779'>
+<date>2014-04-19T21:30:00+02:00</date>
+<start>21:30</start>
+<duration>00:45</duration>
+<room>Workshopraum</room>
+<slug>EH2014_-_5779_-_de_-_workshopraum_-_201404192130_-_hack_er_spaces_und_kulturpolitik_-_forschungstorte</slug>
 <recording>
 <license>cc-by-sa 4.0</license>
 <optout>false</optout>
@@ -891,13 +702,13 @@ Lasst uns über Best Practises reden und Ideen austauschen. Starker Fokus auf Er
 </room>
 <room name='Hackcenter'>
 </room>
-<room name='Seminarraum im shackspace'>
+<room name='shack-Seminarraum'>
 <event guid='cA4WgW51r4mor9eBBTkMOQ' id='5741'>
 <date>2014-04-19T12:45:00+02:00</date>
 <start>12:45</start>
 <duration>03:00</duration>
-<room>Seminarraum im shackspace</room>
-<slug>EH2014_-_5741_-_de_-_seminarraum_im_shackspace_-_201404191245_-_mitgliederversammlung_darc_ov_d23_-_freunde_des_ccc_-_tny</slug>
+<room>shack-Seminarraum</room>
+<slug>EH2014_-_5741_-_de_-_shack-seminarraum_-_201404191245_-_mitgliederversammlung_darc_ov_d23_-_freunde_des_ccc_-_tny</slug>
 <recording>
 <license></license>
 <optout>true</optout>
@@ -911,6 +722,62 @@ Lasst uns über Best Practises reden und Ideen austauschen. Starker Fokus auf Er
 <description></description>
 <persons>
 <person id='4469'>Tny</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='K5mcp1IIjauHp8lJG9mZ5Q' id='5754'>
+<date>2014-04-19T15:45:00+02:00</date>
+<start>15:45</start>
+<duration>03:00</duration>
+<room>shack-Seminarraum</room>
+<slug>EH2014_-_5754_-_de_-_shack-seminarraum_-_201404191545_-_regiotreffen_-_martin_haase_maha</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Regiotreffen</title>
+<subtitle>Erfa-Beirat und das regionale Chaos treffen sich</subtitle>
+<track>Sonstiges</track>
+<type>meeting</type>
+<language>de</language>
+<abstract>Auf dem Easterhegg soll wieder ein Regiotreffen stattfindet. Es treffen sich die Vertreter der Erfa-Kreise und Chaostreffs.</abstract>
+<description></description>
+<persons>
+<person id='4085'>Martin Haase/maha</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='SUy5iEpNWx9zyqfQIG7caQ' id='5788'>
+<date>2014-04-19T21:30:00+02:00</date>
+<start>21:30</start>
+<duration>00:45</duration>
+<room>shack-Seminarraum</room>
+<slug>EH2014_-_5788_-_de_-_shack-seminarraum_-_201404192130_-_anti_-cyber-realitatsabgleich_-_robert_haist</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>(Anti)-Cyber-Realitätsabgleich</title>
+<subtitle>HowTo not suck at Incident Response</subtitle>
+<track>Talk</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Anhand realitätsnaher Beispiele wird erklärt, auf was man bei einem Sicherheitsvorfall im Netzwerk und dessen Behandlung (Incident Response) zu Beginn achten sollte. Hierbei spielen vor allem die bestmögliche Nutzung vorhandener Ressourcen und die Einforderung von Marketingversprechen eine große Rolle.
+
+Also eine Art: &amp;lt;buzzwords&amp;gt; First-Response Best-Practice Guide &amp;lt;/buzzwords&amp;gt;
+
+Gute Ironie- und Sarkasmusdetektoren werden unbedingt vorausgesetzt.</abstract>
+<description>&lt;strong&gt;Agenda&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Inventur der Waffenkammer&lt;/li&gt;
+&lt;li&gt;Aktuelle Bedrohungslage&lt;/li&gt;
+&lt;li&gt;Erste-Hilfe ohne Opfer&lt;/li&gt;
+&lt;li&gt;Fragen / Diskussion&lt;/li&gt;
+&lt;/ul&gt;</description>
+<persons>
+<person id='4505'>Robert Haist</person>
 </persons>
 <links>
 </links>
@@ -972,11 +839,11 @@ Teilnahme für jedes Alter, Verkostung erst ab 18. </description>
 </room>
 <room name='Parkplatz'>
 <event guid='bulR4arlsKteT7IbNoGZMw' id='5771'>
-<date>2014-04-19T10:00:00+02:00</date>
-<start>10:00</start>
+<date>2014-04-19T11:00:00+02:00</date>
+<start>11:00</start>
 <duration>03:00</duration>
 <room>Parkplatz</room>
-<slug>EH2014_-_5771_-_de_-_parkplatz_-_201404191000_-_fuhrung_und_kommunikation_-_laird_dave</slug>
+<slug>EH2014_-_5771_-_de_-_parkplatz_-_201404191100_-_fuhrung_und_kommunikation_-_laird_dave</slug>
 <recording>
 <license></license>
 <optout>false</optout>
@@ -1000,14 +867,14 @@ Wir zeigen euch die Standard-Ausstattung nach STAN, was wir in Stuttgart sonst n
 </event>
 </room>
 </day>
-<day date='2014-04-20' end='2014-04-21T00:00:00+02:00' index='3' start='2014-04-20T09:00:00+02:00'>
+<day date='2014-04-20' end='2014-04-21T00:30:00+02:00' index='3' start='2014-04-20T09:00:00+02:00'>
 <room name='Degerloch'>
 <event guid='ni7iin79iA9gscrnBMSJ7Q' id='5633'>
-<date>2014-04-20T12:45:00+02:00</date>
-<start>12:45</start>
+<date>2014-04-20T12:00:00+02:00</date>
+<start>12:00</start>
 <duration>00:45</duration>
 <room>Degerloch</room>
-<slug>EH2014_-_5633_-_de_-_degerloch_-_201404201245_-_java_stacktrace_fingerprinting_-_skyr</slug>
+<slug>EH2014_-_5633_-_de_-_degerloch_-_201404201200_-_java_stacktrace_fingerprinting_-_skyr</slug>
 <recording>
 <license></license>
 <optout>false</optout>
@@ -1027,394 +894,12 @@ Dieser Vortrag möchte der Frage nachgehen, in wiefern ein Stacktrace charakteri
 <links>
 </links>
 </event>
-<event guid='j7CaXrKoiL1iM3_CuDvkFg' id='5764'>
-<date>2014-04-20T14:15:00+02:00</date>
-<start>14:15</start>
-<duration>00:30</duration>
-<room>Degerloch</room>
-<slug>EH2014_-_5764_-_de_-_degerloch_-_201404201415_-_einfuhrung_in_django_-_arne_schauf</slug>
-<recording>
-<license>CC-BY-SA</license>
-<optout>false</optout>
-</recording>
-<title>Einführung in Django</title>
-<subtitle>Was ist Django und wofür braucht man das?</subtitle>
-<track>Talk</track>
-<type>lecture</type>
-<language>de</language>
-<abstract>Ein kurzer Überblick über das Python-Webframework Django. Was nimmt einem das Framework ab - was muss man selber machen?</abstract>
-<description>In diesem Vortrag werde ich das in Python geschriebene Webframework Django vorstellen. Ich werde versuchen die Frage zu beantworten, wann es Sinn macht das Framework einzusetzen und inwiefern es einem die Entwicklung einer Webbapplication erleichtert.</description>
-<persons>
-<person id='4484'>Arne Schauf</person>
-</persons>
-<links>
-</links>
-</event>
-<event guid='_GJy2kwqiFx3W88oOuCNCA' id='5736'>
-<date>2014-04-20T15:15:00+02:00</date>
-<start>15:15</start>
-<duration>00:45</duration>
-<room>Degerloch</room>
-<slug>EH2014_-_5736_-_de_-_degerloch_-_201404201515_-_privacy_was_ist_das_kann_man_das_m_essen_-_annskaja</slug>
-<recording>
-<license>CC BY-SA 3.0 DE</license>
-<optout>false</optout>
-</recording>
-<title>Privacy, was ist das? Kann man das (m)essen?</title>
-<subtitle></subtitle>
-<track>Talk</track>
-<type>lecture</type>
-<language>de</language>
-<abstract>&quot;Privacy&quot; ist ein Begriff, der immer wieder auftaucht. So richtig gut ins Deutsche übersetzen lässt er sich aer nicht. &quot;Privatsphäre&quot; findet man oft als Synonym. Privatsphäre, das ist ein Menschenrecht, in Deutschland aus dem Persönlichkeitsrecht abgeleitet, das im Grundgesetz verankert ist. Aber auch &quot;Privatheit&quot; ist ein häufig auftauchendes Wort, das zur Übersetzung herangezogen wird. Ist &quot;Privatheit&quot; denn das gleiche wie &quot;Privatsphäre&quot;? Und was bedeutet das eigentlich? Kann man formalisieren und quantisieren, wie &quot;privat&quot; - im Wortsinn: &quot;für sich, im Eigenen&quot; - man ist? Oder ist Privacy ein abstraktes Konstrukt, das sich ständig neu definiert?</abstract>
-<description>Der Vortrag wird am Anfang einen kurzen Überblick über die Historie des Begriffs &quot;Privacy&quot; geben. Vom &quot;Right to be let alone&quot;, das 1890 weit vor den Möglichkeiten der elektronischen Massenverarbeitung von Warren und Brandeis formuliert wurde, bis zum Konzept von &quot;Post-Privacy&quot;, in dem Privatsphäre angesichts der vernetzten Welt und dem vollständig online veröffentlichten Leben obsolet wird. 
-
-In der heutigen Zeit suggerieren uns soziale Netzwerke, ständig entstehende Datenpannen und Massenüberwachung durch Geheimdienstapparate, dass unsere Privatheit längst verloren gegangen ist. Dabei ist ersteinmal festzulegen, wann der Verlust von Privatheit überhaupt eintritt und ob es vielleicht doch mehr gibt als die binäre Kategorisierung von keiner und intakter Privatheit. Um das bewerten zu können, muss zunächst betrachtet werden, aus welchen Faktoren sich Privatheit zusammensetzt. Dazu liefern Gesetze, Gesellschaft und Informatik verschiedene Perspektiven und oftmals gibt es Verständnisprobleme zwischen den Vertretern der verschiedenen Bereiche.
-
-Es sollen Ansätze vorgestellt werden, Privacy zu messen und zu formalisieren. Denn das ist letztlich notwendig, um einen Rahmen zu schaffen, indem ein Nutzer einschätzen kann, wie privat er sich in der (digitalen) Welt bewegt; um dem Juristen ein Werkzeug an die Hand zu geben, das Grundrecht auf Privatsphäre wirksam einschätzen und durchsetzen zu können; um für den Entwickler eines Systems zu formulieren, was er wie umsetzen muss, um ein angemessenes Privacy-Niveau zu gewährleisten. 
-
-Hierfür braucht es einen multidiszplinären Dialog. Informationstheoretische Maße, juristische Definitionen und gesellschaftliche Konzepte von Privacy müssen zusammen betrachtet werden. Am Ende der Präsentation wird diskutiert, an welchem Punkt diese Diskussion sich zur Zeit befindet und am Ende steht die Frage, welche Schritte in Zukunft nötig sein werden, um eine gemeinsame Sprache zu finden.</description>
-<persons>
-<person id='4465'>annskaja</person>
-</persons>
-<links>
-</links>
-</event>
-<event guid='Flzrumwrj-VRdCRoKzwufQ' id='5772'>
-<date>2014-04-20T16:15:00+02:00</date>
-<start>16:15</start>
-<duration>01:30</duration>
-<room>Degerloch</room>
-<slug>EH2014_-_5772_-_de_-_degerloch_-_201404201615_-_dmx_workshop_-_dritter</slug>
-<recording>
-<license>is allowed</license>
-<optout>false</optout>
-</recording>
-<title>DMX Workshop</title>
-<subtitle>Was ist DMX, wozu braucht man das, was macht es, ist es nicht der der Musik macht? Naja...fast. Damit steuert man Licht in der Veranstaltungstechnik. wenn euch der Name was sagt, aber nicht wisst was weiter passiert, kommt in den workshop.</subtitle>
-<track>Workshop</track>
-<type>workshop</type>
-<language>de</language>
-<abstract>Um in der Lichttechnik wie sie in Discos hängt  die Strahler, Lichter, Scheinwerfer anzusteuern gibt es das DMX Protokoll.
-Für was gibt es das? Was kann man damit machen?
-Erklärung dazu im Workshop mit praktischen Beispielen und Hardware zum anfassen.</abstract>
-<description>Im Workshop wird erklärt was es mit dem DMX aufsich hat und anhand praktischer beispiele gezeigt.
-Equipment wird ohnehin vorhanden sein an dem einiges gezeigt werden kann.
-Desweiteren wird Hardware vorhanden sein um mal zu sehen was an Technik in dem einen oder anderen Gerät steckt.
-Wie kommt aus einem Scanner z.B. der fast 20 Jahre alte Roboscan 1220 pro licht raus, was passiert im Gerät, was steckt an Technik drin.
-Was sind Gobos, Was sind Farbräder, was sind Shutter ect.
-Die Technik allgemein.
-
-Gezeigt wird wie Licht über ein Lichtpult (creation2 GLP) gesteuert wird. 
-
-Leider wird es voraussichtlich nur ein Lichtpult geben. Dadurch wird die anzahl der Leute begrenzt die damit selbst mal was bedienen bzw programmieren wollen.
-</description>
-<persons>
-<person id='4492'>dritter</person>
-</persons>
-<links>
-<link href='http://www.creationforum.de/download/creation2_release2.jpg'>Lichtpult</link>
-<link href='http://www.gearsourcecdn.com/shared/image/listing/normal/fe04f6e0-aa27-4bca-add4-21fc2e154af0.jpg'>Roboscan1220</link>
-</links>
-</event>
-<event guid='Pog-i70PJh9MHdjRklCL-A' id='5752'>
-<date>2014-04-20T18:00:00+02:00</date>
-<start>18:00</start>
-<duration>01:00</duration>
-<room>Degerloch</room>
-<slug>EH2014_-_5752_-_de_-_degerloch_-_201404201800_-_deklarativ_webservices_unter_nixos_beschreiben_-_joachim_schiele</slug>
-<recording>
-<license>Attribution-ShareAlike 4.0 International</license>
-<optout>false</optout>
-</recording>
-<title>Deklarativ Webservices unter NixOS beschreiben</title>
-<subtitle>Wie man LXC, virtualisierung und reverse proxies deklarativ einsetzt um Webservices zu hosten!</subtitle>
-<track>Talk</track>
-<type>lecture</type>
-<language>de</language>
-<abstract>vhosts einrichten und manuelles aufsetzen von webservices wie z.b. mediawiki ist von gestern! mit NixOS kann man LXC, virtualisierung und reverse proxies deklarativ einsetzen um auf einfache art einen komplexen webservice aufzusetzen.</abstract>
-<description>=== worum geht es hier? ===
-welcher administrator verwendet nicht gerne technologien wie docker um webservices zu entwickeln oder ad-hoc aufzusetzen. docker setzt dabei auf gänige linux distributionen auf und verwaltet programme wie mysql, apache und php scripte. 
-
-docker hat aber auch einige nachteile:
-- wenn man n mal den selben webservice aufsetzt, dann hat man die n-fache menge an programmdaten
-- die ganze konfiguration ist stateful
-- docker integriert nicht in die unterliegende paketverwaltung
-
-=== warum NixOS und nicht docker nehmen? ===
-in diesem talk wird ausführlich beschreiben wie man mittels Nix/NixOS bordmitteln komfortabel webservices beschreibt und dann in virtuellen umgebungen instanziiert.
-
-die idee wird hier etwas näher beschrieben:
-  http://blog.lastlog.de/posts/advanced_webservices_on_nixos/
-
-der vortrag richtet sich an leute, die schon etwas grundkenntnisse in sachen NixOS und webservices haben. 
-
-bei fragen und anregungen gerne via email:
-js@lastlog.de</description>
-<persons>
-<person id='4472'>Joachim Schiele</person>
-</persons>
-<links>
-<link href='http://blog.lastlog.de/posts/advanced_webservices_on_nixos/'>vorhabensbeschreibung</link>
-</links>
-</event>
-<event guid='BMHG--qlBegRyPZpO85-ng' id='5759'>
-<date>2014-04-20T19:15:00+02:00</date>
-<start>19:15</start>
-<duration>00:45</duration>
-<room>Degerloch</room>
-<slug>EH2014_-_5759_-_de_-_degerloch_-_201404201915_-_hacker_nerds_vs_people_-_mirirai</slug>
-<recording>
-<license></license>
-<optout>false</optout>
-</recording>
-<title>Hacker &amp; Nerds vs. People</title>
-<subtitle>Ergebnisse einer Vergleichsstudie</subtitle>
-<track>Talk</track>
-<type>lecture</type>
-<language>de</language>
-<abstract>Emacs oder VIM? Foo oder Bar? Wie beantworten Hacker und Nicht-Hacker diese Fragen? Und sind wirklich die meisten Hacker My Little Pony Fans?</abstract>
-<description>Vor 2 Jahren habe ich als Spaß-, Neugier- und Prokrastinationsprojekt vor meiner Uni-Abschlussarbeit auf dem Easterhegg eine Umfrage unter den dortigen Teilnehmern durchgeführt. Die selben, zum Teil albernen, zum Teil ernsten Fragen habe ich vor kurzem auch meinen Kommilitonen an der Göttinger Uni gestellt.
-Ergebnisse, Gemeinsamkeiten und Unterschiede zwischen diesen beiden Gruppen werden im Vortrag vorgestellt.</description>
-<persons>
-<person id='4479'>mirirai</person>
-</persons>
-<links>
-</links>
-</event>
-<event guid='vrxJlMAzQsvsLef4XtJ5_w' id='5726'>
-<date>2014-04-20T20:15:00+02:00</date>
-<start>20:15</start>
-<duration>00:45</duration>
-<room>Degerloch</room>
-<slug>EH2014_-_5726_-_de_-_degerloch_-_201404202015_-_infrastructure_review_-_momo</slug>
-<recording>
-<license></license>
-<optout>false</optout>
-</recording>
-<title>infrastructure review</title>
-<subtitle>what happened, what went wrong</subtitle>
-<track>Talk</track>
-<type>lecture</type>
-<language>de</language>
-<abstract>numbers, graphs, pictures of easterhegg infrastructure</abstract>
-<description></description>
-<persons>
-<person id='4405'>momo</person>
-</persons>
-<links>
-</links>
-</event>
-<event guid='rkDHniUlFfF3l-9uRzoBBw' id='5763'>
-<date>2014-04-20T21:30:00+02:00</date>
-<start>21:30</start>
-<duration>01:00</duration>
-<room>Degerloch</room>
-<slug>EH2014_-_5763_-_en_-_degerloch_-_201404202130_-_security_aspects_of_bitcoin_-_myshkin</slug>
-<recording>
-<license></license>
-<optout>true</optout>
-</recording>
-<title>Security aspects of Bitcoin</title>
-<subtitle></subtitle>
-<track>Talk</track>
-<type>lecture</type>
-<language>en</language>
-<abstract>This talk is supposed to introduce the current discussion regarding Bitcoins security. We want to give an overview of cryptographic issues, wallet security etc. We also want to discuss some of the more recent events regardig Bitcoins (Mt. Gox etc.)</abstract>
-<description></description>
-<persons>
-<person id='4483'>Myshkin</person>
-</persons>
-<links>
-</links>
-</event>
-</room>
-<room name='Großer Saal'>
-<event guid='fMvJsiRcvro89_CmxrUn1w' id='5807'>
-<date>2014-04-20T12:15:00+02:00</date>
-<start>12:15</start>
-<duration>00:45</duration>
-<room>Großer Saal</room>
-<slug>EH2014_-_5807_-__-_grosser_saal_-_201404201215_-_testevea_-_rince</slug>
-<recording>
-<license></license>
-<optout>false</optout>
-</recording>
-<title>Testevea</title>
-<subtitle>asdad</subtitle>
-<track>Talk</track>
-<type>lecture</type>
-<language></language>
-<abstract></abstract>
-<description></description>
-<persons>
-<person id='4413'>Rince</person>
-</persons>
-<links>
-</links>
-</event>
-<event guid='IwCebCSIG3MUYG0ILVF_Mw' id='5742'>
-<date>2014-04-20T14:30:00+02:00</date>
-<start>14:30</start>
-<duration>00:45</duration>
-<room>Großer Saal</room>
-<slug>EH2014_-_5742_-_de_-_grosser_saal_-_201404201430_-_computer-aided_knitting_with_ayab_-_chris007</slug>
-<recording>
-<license></license>
-<optout>false</optout>
-</recording>
-<title>Computer-aided knitting with AYAB</title>
-<subtitle>How to hack Brother Knitting Machines to be controlled by your computer</subtitle>
-<track>Talk</track>
-<type>lecture</type>
-<language>de</language>
-<abstract>The goal of the AYAB project is to provide an alternative way to control the famous Brother KH-9xx knitting machines.</abstract>
-<description>Now what we achieved is that you can just program the knitting machine with an image from your computer.
-The control of the needles and needed identification of the current position and movement of the knitting carriage is substituted by a common Arduino microntroller, combined with a custom developed shield. You need to open one part of your knitting machine (warranty is void anyway…) and simply substitute the existing control board with the AYAB controller. Connect the Arduino with your computer and start knitting!</description>
-<persons>
-<person id='4452'>chris007</person>
-</persons>
-<links>
-<link href='http://www.ayab-knitting.com'>AYAB-Knitting.com</link>
-</links>
-</event>
-<event guid='GTBrWgOJPQ5ymKm_ASGn9w' id='5811'>
-<date>2014-04-20T15:30:00+02:00</date>
-<start>15:30</start>
-<duration>01:30</duration>
-<room>Großer Saal</room>
-<slug>EH2014_-_5811_-_de_-_grosser_saal_-_201404201530_-_lightning_talks</slug>
-<recording>
-<license></license>
-<optout>false</optout>
-</recording>
-<title>Lightning talks</title>
-<subtitle></subtitle>
-<track>Talk</track>
-<type>lightning_talk</type>
-<language>de</language>
-<abstract>Lighning talks</abstract>
-<description>8-fach Relaisschaltung 230V mit Tinkerforge und node.js implementieren: https://frab.cccv.de/en/EH2014/events/5745
-
-Papierlos: https://frab.cccv.de/en/EH2014/events/5750
-
-bepasty: https://frab.cccv.de/en/EH2014/events/5775
-
-Space API Hosting: https://frab.cccv.de/en/EH2014/events/5777
-
-machinetalk.cc: https://frab.cccv.de/en/EH2014/events/5793
-
-SEPA - Disaster Recovery: https://frab.cccv.de/en/EH2014/events/5805</description>
-<persons>
-</persons>
-<links>
-</links>
-</event>
-<event guid='kaOF9Bjj3Bg1zEajbkaTkQ' id='5755'>
-<date>2014-04-20T17:15:00+02:00</date>
-<start>17:15</start>
-<duration>00:30</duration>
-<room>Großer Saal</room>
-<slug>EH2014_-_5755_-_de_-_grosser_saal_-_201404201715_-_reverse_engineering_can_in_autos_-_hk</slug>
-<recording>
-<license>CC-BY v3.0</license>
-<optout>false</optout>
-</recording>
-<title>Reverse Engineering CAN in Autos</title>
-<subtitle>information is hidden</subtitle>
-<track>Talk</track>
-<type>lecture</type>
-<language>de</language>
-<abstract>Anhand eines Seat Ibiza wird ilustriert welche Informationen auf dem CAN-Bus zu finden sind und wie sie reverse engineert wurden. Es folgen Beispiele die Signale fuer eigene Zwecke zu nutzen. Es wird auch auf den Nutzen und die Gefahren von Schreibzugriffen eingegangen.</abstract>
-<description></description>
-<persons>
-<person id='4476'>hk</person>
-</persons>
-<links>
-</links>
-</event>
-<event guid='FigCrFi6FA4-1QWtOgucPA' id='5800'>
-<date>2014-04-20T18:45:00+02:00</date>
-<start>18:45</start>
-<duration>02:00</duration>
-<room>Großer Saal</room>
-<slug>EH2014_-_5800_-_de_-_grosser_saal_-_201404201845_-_moving_targets_aktuelle_themen_im_ccc-umfeld</slug>
-<recording>
-<license></license>
-<optout>false</optout>
-</recording>
-<title>Moving Targets: Aktuelle Themen im CCC-Umfeld</title>
-<subtitle>Auto-Vernetzung: Ist es Sicherheit oder Überwachung und welcher Art?</subtitle>
-<track>Sonstiges</track>
-<type>meeting</type>
-<language>de</language>
-<abstract>Wir wollen im CCC über aktuelle Themen reden.</abstract>
-<description></description>
-<persons>
-</persons>
-<links>
-</links>
-</event>
-<event guid='XgccTFEtnOihaFeuPBtVqw' id='5790'>
-<date>2014-04-20T22:00:00+02:00</date>
-<start>22:00</start>
-<duration>02:00</duration>
-<room>Großer Saal</room>
-<slug>EH2014_-_5790_-_de_-_grosser_saal_-_201404202200_-_nerd-tabu_-_skyr</slug>
-<recording>
-<license></license>
-<optout>false</optout>
-</recording>
-<title>Nerd-Tabu</title>
-<subtitle>Das Gesellschaftsspiel für Nerds</subtitle>
-<track>Talk</track>
-<type>lecture</type>
-<language>de</language>
-<abstract>Das Gesellschaftsspiel &quot;Tabu&quot; für Nerds!</abstract>
-<description></description>
-<persons>
-<person id='4335'>Skyr</person>
-</persons>
-<links>
-</links>
-</event>
-</room>
-<room name='Schalldruckkammer'>
-<event guid='UZVtLmQsrCIKyrCz0fFyVA' id='5746'>
-<date>2014-04-20T10:45:00+02:00</date>
-<start>10:45</start>
-<duration>00:45</duration>
-<room>Schalldruckkammer</room>
-<slug>EH2014_-_5746_-_de_-_schalldruckkammer_-_201404201045_-_hannibal_lecter_und_sauron_in_einer_totaluberwachten_welt_-_musevg</slug>
-<recording>
-<license></license>
-<optout>false</optout>
-</recording>
-<title>Hannibal Lecter und Sauron in einer totalüberwachten Welt</title>
-<subtitle></subtitle>
-<track>Workshop</track>
-<type>workshop</type>
-<language>de</language>
-<abstract>Wie würden &quot;Das Schweigen der Lämmer&quot; oder &quot;Der Herr Der Ringe&quot; oder $DeinLieblingsbuch in einer komplett überwachten Welt aussehen?
-Clarice Starling könnte Buffalo Bill einfach per Funkzellen-Auswertung finden und bräuchte gar keine die Hilfe von Hannibal Lecter.
-Und Sauron wüsste von Anfang an, wohin er Orks &amp; Nazgul schicken müsste, um die Gemeinschaft des Rings aufzubringen. </abstract>
-<description>Wie würden &quot;Das Schweigen der Lämmer&quot; oder &quot;Der Herr Der Ringe&quot; oder $DeinLieblingsbuch in einer komplett überwachten Welt aussehen?
-Clarice Starling könnte Buffalo Bill einfach per Funkzellen-Auswertung finden und bräuchte gar keine die Hilfe von Hannibal Lecter.
-Und Sauron wüsste von Anfang an, wohin er Orks &amp; Nazgul schicken müsste, um die Gemeinschaft des Rings aufzubringen. 
-
-Literatur in einer totalüberwachten Welt macht also viel weniger Spaß... manche Genres wären sogar völlig sinnlos.
-Ich möchte in diesem experimentellen Workshop zusammen mit den Teilnehmern die Idee weiterspinnen und weitere Bücher in eine Post-Prism-Welt übertragen.</description>
-<persons>
-<person id='4473'>musevg</person>
-</persons>
-<links>
-</links>
-</event>
 <event guid='Ojp_w3Q3JFeV8ubOtMkloQ' id='5721'>
-<date>2014-04-20T12:45:00+02:00</date>
-<start>12:45</start>
+<date>2014-04-20T13:00:00+02:00</date>
+<start>13:00</start>
 <duration>00:45</duration>
-<room>Schalldruckkammer</room>
-<slug>EH2014_-_5721_-__-_schalldruckkammer_-_201404201245_-_cnc_machining_for_3d_printer_users_-_marcus_wolschon</slug>
+<room>Degerloch</room>
+<slug>EH2014_-_5721_-__-_degerloch_-_201404201300_-_cnc_machining_for_3d_printer_users_-_marcus_wolschon</slug>
 <recording>
 <license></license>
 <optout>true</optout>
@@ -1451,12 +936,339 @@ I may also cover:
 <link href='http://marcuswolschon.blogspot.de/2013/07/travel-cnc3d-printervector-cutter.html'>CNC I'll bring</link>
 </links>
 </event>
-<event guid='q9xZ77GJWVeDCSdD7jd2dw' id='5781'>
-<date>2014-04-20T13:45:00+02:00</date>
-<start>13:45</start>
+<event guid='j7CaXrKoiL1iM3_CuDvkFg' id='5764'>
+<date>2014-04-20T14:00:00+02:00</date>
+<start>14:00</start>
+<duration>00:30</duration>
+<room>Degerloch</room>
+<slug>EH2014_-_5764_-_de_-_degerloch_-_201404201400_-_einfuhrung_in_django_-_arne_schauf</slug>
+<recording>
+<license>CC-BY-SA</license>
+<optout>false</optout>
+</recording>
+<title>Einführung in Django</title>
+<subtitle>Was ist Django und wofür braucht man das?</subtitle>
+<track>Talk</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Ein kurzer Überblick über das Python-Webframework Django. Was nimmt einem das Framework ab - was muss man selber machen?</abstract>
+<description>In diesem Vortrag werde ich das in Python geschriebene Webframework Django vorstellen. Ich werde versuchen die Frage zu beantworten, wann es Sinn macht das Framework einzusetzen und inwiefern es einem die Entwicklung einer Webbapplication erleichtert.</description>
+<persons>
+<person id='4484'>Arne Schauf</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='Pog-i70PJh9MHdjRklCL-A' id='5752'>
+<date>2014-04-20T14:45:00+02:00</date>
+<start>14:45</start>
 <duration>01:00</duration>
-<room>Schalldruckkammer</room>
-<slug>EH2014_-_5781_-_de_-_schalldruckkammer_-_201404201345_-_untertitel-workshop_-_c3subtitles</slug>
+<room>Degerloch</room>
+<slug>EH2014_-_5752_-_de_-_degerloch_-_201404201445_-_deklarativ_webservices_unter_nixos_beschreiben_-_joachim_schiele</slug>
+<recording>
+<license>Attribution-ShareAlike 4.0 International</license>
+<optout>false</optout>
+</recording>
+<title>Deklarativ Webservices unter NixOS beschreiben</title>
+<subtitle>Wie man LXC, virtualisierung und reverse proxies deklarativ einsetzt um Webservices zu hosten!</subtitle>
+<track>Talk</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>vhosts einrichten und manuelles aufsetzen von webservices wie z.b. mediawiki ist von gestern! mit NixOS kann man LXC, virtualisierung und reverse proxies deklarativ einsetzen um auf einfache art einen komplexen webservice aufzusetzen.</abstract>
+<description>=== worum geht es hier? ===
+welcher administrator verwendet nicht gerne technologien wie docker um webservices zu entwickeln oder ad-hoc aufzusetzen. docker setzt dabei auf gänige linux distributionen auf und verwaltet programme wie mysql, apache und php scripte. 
+
+docker hat aber auch einige nachteile:
+- wenn man n mal den selben webservice aufsetzt, dann hat man die n-fache menge an programmdaten
+- die ganze konfiguration ist stateful
+- docker integriert nicht in die unterliegende paketverwaltung
+
+=== warum NixOS und nicht docker nehmen? ===
+in diesem talk wird ausführlich beschreiben wie man mittels Nix/NixOS bordmitteln komfortabel webservices beschreibt und dann in virtuellen umgebungen instanziiert.
+
+die idee wird hier etwas näher beschrieben:
+  http://blog.lastlog.de/posts/advanced_webservices_on_nixos/
+
+der vortrag richtet sich an leute, die schon etwas grundkenntnisse in sachen NixOS und webservices haben. 
+
+bei fragen und anregungen gerne via email:
+js@lastlog.de</description>
+<persons>
+<person id='4472'>Joachim Schiele</person>
+</persons>
+<links>
+<link href='http://blog.lastlog.de/posts/advanced_webservices_on_nixos/'>vorhabensbeschreibung</link>
+</links>
+</event>
+<event guid='6XEEOuA-of4rIG-7zDUOpQ' id='5724'>
+<date>2014-04-20T15:45:00+02:00</date>
+<start>15:45</start>
+<duration>00:30</duration>
+<room>Degerloch</room>
+<slug>EH2014_-_5724_-_de_-_degerloch_-_201404201545_-_privatheit_und_trojaner_-_tom_twiddlebit</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Privatheit und Trojaner</title>
+<subtitle>How to bridge the air gap</subtitle>
+<track>Talk</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Auch mit Verschlüsselung sind wir nur dann vor Überwachung gefeit, wenn wir uns vor Trojanern schützen können. Es soll diskutiert werden, wieweit das mit zwei über den &quot;air gap&quot; verbundenen Rechnern und dem Einsatz von USB-Sticks als Kommunikationsmedium möglich ist. Geklärt werden soll, welche technischen Voraussetzungen solch ein USB-Stick und seine Treibersoftware erfüllen muss.</abstract>
+<description></description>
+<persons>
+<person id='4459'>Tom Twiddlebit</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='GTBrWgOJPQ5ymKm_ASGn9w' id='5811'>
+<date>2014-04-20T16:45:00+02:00</date>
+<start>16:45</start>
+<duration>01:30</duration>
+<room>Degerloch</room>
+<slug>EH2014_-_5811_-_de_-_degerloch_-_201404201645_-_lightning_talks</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Lightning talks</title>
+<subtitle></subtitle>
+<track>Talk</track>
+<type>lightning_talk</type>
+<language>de</language>
+<abstract>Lighning talks</abstract>
+<description>8-fach Relaisschaltung 230V mit Tinkerforge und node.js implementieren: https://frab.cccv.de/en/EH2014/events/5745
+
+Papierlos: https://frab.cccv.de/en/EH2014/events/5750
+
+bepasty: https://frab.cccv.de/en/EH2014/events/5775
+
+Space API Hosting: https://frab.cccv.de/en/EH2014/events/5777
+
+machinetalk.cc: https://frab.cccv.de/en/EH2014/events/5793
+
+SEPA - Disaster Recovery: https://frab.cccv.de/en/EH2014/events/5805</description>
+<persons>
+</persons>
+<links>
+</links>
+</event>
+<event guid='BMHG--qlBegRyPZpO85-ng' id='5759'>
+<date>2014-04-20T18:45:00+02:00</date>
+<start>18:45</start>
+<duration>00:45</duration>
+<room>Degerloch</room>
+<slug>EH2014_-_5759_-_de_-_degerloch_-_201404201845_-_hacker_nerds_vs_people_-_mirirai</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Hacker &amp; Nerds vs. People</title>
+<subtitle>Ergebnisse einer Umfrage unter Hacker und Nicht-Hacker</subtitle>
+<track>Talk</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Emacs oder VIM? Foo oder Bar? Wie beantworten Hacker und Nicht-Hacker diese Fragen? Und sind wirklich die meisten Hacker My Little Pony Fans?</abstract>
+<description>Vor 2 Jahren habe ich als Spaß-, Neugier- und Prokrastinationsprojekt vor meiner Uni-Abschlussarbeit auf dem Easterhegg eine Umfrage unter den dortigen Teilnehmern durchgeführt. Die selben, zum Teil albernen, zum Teil ernsten Fragen habe ich vor kurzem auch meinen Kommilitonen an der Göttinger Uni gestellt.
+Ergebnisse, Gemeinsamkeiten und Unterschiede zwischen diesen beiden Gruppen werden im Vortrag vorgestellt.</description>
+<persons>
+<person id='4479'>mirirai</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='yVDTF34ENlCW816DcsQnWw' id='5760'>
+<date>2014-04-20T19:30:00+02:00</date>
+<start>19:30</start>
+<duration>00:45</duration>
+<room>Degerloch</room>
+<slug>EH2014_-_5760_-_de_-_degerloch_-_201404201930_-_die_geschichte_des_ccc_stuttgart_-_princess</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Die Geschichte des CCC Stuttgart</title>
+<subtitle>Der lange Weg zum Ruhm ;-)</subtitle>
+<track>Talk</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Bereits seit dem Sommer 2001 gibt es den Stuttgarter Ableger des CCC. Was sich seitdem aus einem Stammtisch einmal im Monat bis zum heutigen Tage ereignet hat, soll am Easterhegg gewürdigt werden. Nicht zu kurz kommen soll auch die wechselhalfte Geschichte der Eintragung als Verein.</abstract>
+<description>Der CCC Stuttgart brauchte eine ganze Weile, um in Stuttgart &quot;anzukommen&quot; und über die eingeschworenen Kreise der Usergroups und Mailinglisten hinaus bekannt zu werden.
+
+Die nach außen wirksamen Aktivitäten in Form der Vortragsreihe begangen eine Weile bevor wir uns entschlossen, uns als Verein eintragen zu lassen. Allein bei der Vereinseintragung waren mehrere Iterationen notwendig, was im Nachhinein glatt als Realsatire durchgehen könnte.
+
+Mit dem Umzug der Vortragsreihe in die Stadtbibliothek hat der CCCS e.V. sich schließlich als feste Größe in Stuttgart etabliert.
+
+Die Geschichte soll in anekdotischer Weise berichtet werden.</description>
+<persons>
+<person id='4481'>Princess</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='yeqQQddWKSYSu-N6f-ReQQ' id='5734'>
+<date>2014-04-20T20:30:00+02:00</date>
+<start>20:30</start>
+<duration>00:45</duration>
+<room>Degerloch</room>
+<slug>EH2014_-_5734_-_en_-_degerloch_-_201404202030_-_managing_containers_with_docker_-_johannes_fish_ziemke</slug>
+<recording>
+<license>CC BY 4.0</license>
+<optout>false</optout>
+</recording>
+<title>Managing containers with Docker</title>
+<subtitle>...and why you'll love it</subtitle>
+<track>Talk</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>What are the challenges of today's infrastructures, why containers are the right building blocks and Docker the right tool to manage those.</abstract>
+<description>Docker is an open-source project to easily create lightweight, portable, self-sufficient containers from any application. The same container that a developer builds and tests on a laptop can run at scale, in production, on VMs, bare metal, OpenStack clusters, public clouds and more.
+
+I'll talk about the challenges of managing complex infrastructures based on my past experiences, why live state mutation sucks and configuration management is doomed, self-sufficient and light-weight containers are the answer and how Docker manage those.
+
+Last but not least I'll show how to build, ship and run containers and real world examples of what Docker is already used for.</description>
+<persons>
+<person id='4457'>Johannes 'fish' Ziemke</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='PWBg7vdclEAw8nNOeVAfFA' id='5758'>
+<date>2014-04-20T21:15:00+02:00</date>
+<start>21:15</start>
+<duration>00:45</duration>
+<room>Degerloch</room>
+<slug>EH2014_-_5758_-_de_-_degerloch_-_201404202115_-_angriffe_auf_mikrochips_durch_die_rueckseite_-_starbug</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Angriffe auf Mikrochips durch die Rueckseite</title>
+<subtitle></subtitle>
+<track>Talk</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Hersteller von Sicherheits-ICs haben in den letzten Jahren viel Arbeit in die Absicherung ihrer Produkte gesteckt. Dabei konzentrierten sie sich aber hauptsächlich auf die Vorderseite des Chips. Der Vortrag beschäftigt sich mit der nächsten großen Spielwiese von Chip-Hackern. Er beleuchtet Probingangriffe mittels Focused Ion Beam und die direkte Überwachung von schaltenden Transistoren durch die Analyse von optischen Seitenkanälen.</abstract>
+<description></description>
+<persons>
+<person id='4477'>starbug</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='XgccTFEtnOihaFeuPBtVqw' id='5790'>
+<date>2014-04-20T22:30:00+02:00</date>
+<start>22:30</start>
+<duration>02:00</duration>
+<room>Degerloch</room>
+<slug>EH2014_-_5790_-_de_-_degerloch_-_201404202230_-_nerd-tabu_-_skyr</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Nerd-Tabu</title>
+<subtitle>Das Gesellschaftsspiel für Nerds</subtitle>
+<track>Talk</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Das Gesellschaftsspiel &quot;Tabu&quot; für Nerds!</abstract>
+<description></description>
+<persons>
+<person id='4335'>Skyr</person>
+</persons>
+<links>
+</links>
+</event>
+</room>
+<room name='Großer Saal'>
+</room>
+<room name='Workshopraum'>
+<event guid='UZVtLmQsrCIKyrCz0fFyVA' id='5746'>
+<date>2014-04-20T10:45:00+02:00</date>
+<start>10:45</start>
+<duration>00:45</duration>
+<room>Workshopraum</room>
+<slug>EH2014_-_5746_-_de_-_workshopraum_-_201404201045_-_hannibal_lecter_und_sauron_in_einer_totaluberwachten_welt_-_musevg</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Hannibal Lecter und Sauron in einer totalüberwachten Welt</title>
+<subtitle></subtitle>
+<track>Workshop</track>
+<type>workshop</type>
+<language>de</language>
+<abstract>Wie würden &quot;Das Schweigen der Lämmer&quot; oder &quot;Der Herr Der Ringe&quot; oder $DeinLieblingsbuch in einer komplett überwachten Welt aussehen?
+Clarice Starling könnte Buffalo Bill einfach per Funkzellen-Auswertung finden und bräuchte gar keine die Hilfe von Hannibal Lecter.
+Und Sauron wüsste von Anfang an, wohin er Orks &amp; Nazgul schicken müsste, um die Gemeinschaft des Rings aufzubringen. </abstract>
+<description>Wie würden &quot;Das Schweigen der Lämmer&quot; oder &quot;Der Herr Der Ringe&quot; oder $DeinLieblingsbuch in einer komplett überwachten Welt aussehen?
+Clarice Starling könnte Buffalo Bill einfach per Funkzellen-Auswertung finden und bräuchte gar keine die Hilfe von Hannibal Lecter.
+Und Sauron wüsste von Anfang an, wohin er Orks &amp; Nazgul schicken müsste, um die Gemeinschaft des Rings aufzubringen. 
+
+Literatur in einer totalüberwachten Welt macht also viel weniger Spaß... manche Genres wären sogar völlig sinnlos.
+Ich möchte in diesem experimentellen Workshop zusammen mit den Teilnehmern die Idee weiterspinnen und weitere Bücher in eine Post-Prism-Welt übertragen.</description>
+<persons>
+<person id='4473'>musevg</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='mDZ9Fjkd0FlbKoFkLlOF9w' id='5778'>
+<date>2014-04-20T11:30:00+02:00</date>
+<start>11:30</start>
+<duration>00:15</duration>
+<room>Workshopraum</room>
+<slug>EH2014_-_5778_-_de_-_workshopraum_-_201404201130_-_flask_-_andreas_madsack</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Flask</title>
+<subtitle>Wenn Django zu groß ist.</subtitle>
+<track>Talk</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Wann nehme ich ein Micro-Webframework (am Beispiel von Flask) und wann ein volles Webframework (z.B. Django)?</abstract>
+<description></description>
+<persons>
+<person id='4494'>Andreas Madsack</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='IwCebCSIG3MUYG0ILVF_Mw' id='5742'>
+<date>2014-04-20T12:00:00+02:00</date>
+<start>12:00</start>
+<duration>00:45</duration>
+<room>Workshopraum</room>
+<slug>EH2014_-_5742_-_de_-_workshopraum_-_201404201200_-_computer-aided_knitting_with_ayab_-_chris007</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Computer-aided knitting with AYAB</title>
+<subtitle>How to hack Brother Knitting Machines to be controlled by your computer</subtitle>
+<track>Talk</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>The goal of the AYAB project is to provide an alternative way to control the famous Brother KH-9xx knitting machines.</abstract>
+<description>Now what we achieved is that you can just program the knitting machine with an image from your computer.
+The control of the needles and needed identification of the current position and movement of the knitting carriage is substituted by a common Arduino microntroller, combined with a custom developed shield. You need to open one part of your knitting machine (warranty is void anyway…) and simply substitute the existing control board with the AYAB controller. Connect the Arduino with your computer and start knitting!</description>
+<persons>
+<person id='4452'>chris007</person>
+</persons>
+<links>
+<link href='http://www.ayab-knitting.com'>AYAB-Knitting.com</link>
+</links>
+</event>
+<event guid='q9xZ77GJWVeDCSdD7jd2dw' id='5781'>
+<date>2014-04-20T13:00:00+02:00</date>
+<start>13:00</start>
+<duration>01:00</duration>
+<room>Workshopraum</room>
+<slug>EH2014_-_5781_-_de_-_workshopraum_-_201404201300_-_untertitel-workshop_-_c3subtitles</slug>
 <recording>
 <license></license>
 <optout>true</optout>
@@ -1482,11 +1294,11 @@ Wenn du Lust hast zu erfahren wie ein Untertitel erstellt wird und wie du dazu b
 </links>
 </event>
 <event guid='E7zNXw_hsDaR3Fc7M3ByPQ' id='5783'>
-<date>2014-04-20T15:15:00+02:00</date>
-<start>15:15</start>
+<date>2014-04-20T14:00:00+02:00</date>
+<start>14:00</start>
 <duration>00:30</duration>
-<room>Schalldruckkammer</room>
-<slug>EH2014_-_5783_-_de_-_schalldruckkammer_-_201404201515_-_pycharm_fur_vim-user_-_bronsen</slug>
+<room>Workshopraum</room>
+<slug>EH2014_-_5783_-_de_-_workshopraum_-_201404201400_-_pycharm_fur_vim-user_-_bronsen</slug>
 <recording>
 <license>https://creativecommons.org/licenses/by-sa/4.0/</license>
 <optout>false</optout>
@@ -1505,64 +1317,101 @@ Wenn du Lust hast zu erfahren wie ein Untertitel erstellt wird und wie du dazu b
 <link href='http://nrrd.de/'>Ich blogge hier vielleicht</link>
 </links>
 </event>
-<event guid='6XEEOuA-of4rIG-7zDUOpQ' id='5724'>
-<date>2014-04-20T16:30:00+02:00</date>
-<start>16:30</start>
-<duration>00:30</duration>
-<room>Schalldruckkammer</room>
-<slug>EH2014_-_5724_-_de_-_schalldruckkammer_-_201404201630_-_privatheit_und_trojaner_-_tom_twiddlebit</slug>
+<event guid='_GJy2kwqiFx3W88oOuCNCA' id='5736'>
+<date>2014-04-20T15:00:00+02:00</date>
+<start>15:00</start>
+<duration>00:45</duration>
+<room>Workshopraum</room>
+<slug>EH2014_-_5736_-_de_-_workshopraum_-_201404201500_-_privacy_was_ist_das_kann_man_das_m_essen_-_annskaja</slug>
 <recording>
-<license></license>
+<license>CC BY-SA 3.0 DE</license>
 <optout>false</optout>
 </recording>
-<title>Privatheit und Trojaner</title>
-<subtitle>How to bridge the air gap</subtitle>
+<title>Privacy, was ist das? Kann man das (m)essen?</title>
+<subtitle></subtitle>
 <track>Talk</track>
 <type>lecture</type>
 <language>de</language>
-<abstract>Auch mit Verschlüsselung sind wir nur dann vor Überwachung gefeit, wenn wir uns vor Trojanern schützen können. Es soll diskutiert werden, wieweit das mit zwei über den &quot;air gap&quot; verbundenen Rechnern und dem Einsatz von USB-Sticks als Kommunikationsmedium möglich ist. Geklärt werden soll, welche technischen Voraussetzungen solch ein USB-Stick und seine Treibersoftware erfüllen muss.</abstract>
-<description></description>
+<abstract>&quot;Privacy&quot; ist ein Begriff, der immer wieder auftaucht. So richtig gut ins Deutsche übersetzen lässt er sich aer nicht. &quot;Privatsphäre&quot; findet man oft als Synonym. Privatsphäre, das ist ein Menschenrecht, in Deutschland aus dem Persönlichkeitsrecht abgeleitet, das im Grundgesetz verankert ist. Aber auch &quot;Privatheit&quot; ist ein häufig auftauchendes Wort, das zur Übersetzung herangezogen wird. Ist &quot;Privatheit&quot; denn das gleiche wie &quot;Privatsphäre&quot;? Und was bedeutet das eigentlich? Kann man formalisieren und quantisieren, wie &quot;privat&quot; - im Wortsinn: &quot;für sich, im Eigenen&quot; - man ist? Oder ist Privacy ein abstraktes Konstrukt, das sich ständig neu definiert?</abstract>
+<description>Der Vortrag wird am Anfang einen kurzen Überblick über die Historie des Begriffs &quot;Privacy&quot; geben. Vom &quot;Right to be let alone&quot;, das 1890 weit vor den Möglichkeiten der elektronischen Massenverarbeitung von Warren und Brandeis formuliert wurde, bis zum Konzept von &quot;Post-Privacy&quot;, in dem Privatsphäre angesichts der vernetzten Welt und dem vollständig online veröffentlichten Leben obsolet wird. 
+
+In der heutigen Zeit suggerieren uns soziale Netzwerke, ständig entstehende Datenpannen und Massenüberwachung durch Geheimdienstapparate, dass unsere Privatheit längst verloren gegangen ist. Dabei ist ersteinmal festzulegen, wann der Verlust von Privatheit überhaupt eintritt und ob es vielleicht doch mehr gibt als die binäre Kategorisierung von keiner und intakter Privatheit. Um das bewerten zu können, muss zunächst betrachtet werden, aus welchen Faktoren sich Privatheit zusammensetzt. Dazu liefern Gesetze, Gesellschaft und Informatik verschiedene Perspektiven und oftmals gibt es Verständnisprobleme zwischen den Vertretern der verschiedenen Bereiche.
+
+Es sollen Ansätze vorgestellt werden, Privacy zu messen und zu formalisieren. Denn das ist letztlich notwendig, um einen Rahmen zu schaffen, indem ein Nutzer einschätzen kann, wie privat er sich in der (digitalen) Welt bewegt; um dem Juristen ein Werkzeug an die Hand zu geben, das Grundrecht auf Privatsphäre wirksam einschätzen und durchsetzen zu können; um für den Entwickler eines Systems zu formulieren, was er wie umsetzen muss, um ein angemessenes Privacy-Niveau zu gewährleisten. 
+
+Hierfür braucht es einen multidiszplinären Dialog. Informationstheoretische Maße, juristische Definitionen und gesellschaftliche Konzepte von Privacy müssen zusammen betrachtet werden. Am Ende der Präsentation wird diskutiert, an welchem Punkt diese Diskussion sich zur Zeit befindet und am Ende steht die Frage, welche Schritte in Zukunft nötig sein werden, um eine gemeinsame Sprache zu finden.</description>
 <persons>
-<person id='4459'>Tom Twiddlebit</person>
+<person id='4465'>annskaja</person>
 </persons>
 <links>
 </links>
 </event>
-<event guid='yVDTF34ENlCW816DcsQnWw' id='5760'>
-<date>2014-04-20T17:15:00+02:00</date>
-<start>17:15</start>
-<duration>00:45</duration>
-<room>Schalldruckkammer</room>
-<slug>EH2014_-_5760_-_de_-_schalldruckkammer_-_201404201715_-_die_geschichte_des_ccc_stuttgart_-_princess</slug>
+<event guid='kaOF9Bjj3Bg1zEajbkaTkQ' id='5755'>
+<date>2014-04-20T15:45:00+02:00</date>
+<start>15:45</start>
+<duration>00:30</duration>
+<room>Workshopraum</room>
+<slug>EH2014_-_5755_-_de_-_workshopraum_-_201404201545_-_reverse_engineering_can_in_autos_-_hk</slug>
 <recording>
-<license></license>
+<license>CC-BY v3.0</license>
 <optout>false</optout>
 </recording>
-<title>Die Geschichte des CCC Stuttgart</title>
-<subtitle>Der lange Weg zum Ruhm ;-)</subtitle>
+<title>Reverse Engineering CAN in Autos</title>
+<subtitle>information is hidden</subtitle>
 <track>Talk</track>
 <type>lecture</type>
 <language>de</language>
-<abstract>Bereits seit dem Sommer 2001 gibt es den Stuttgarter Ableger des CCC. Was sich seitdem aus einem Stammtisch einmal im Monat bis zum heutigen Tage ereignet hat, soll am Easterhegg gewürdigt werden. Nicht zu kurz kommen soll auch die wechselhalfte Geschichte der Eintragung als Verein.</abstract>
-<description>Der CCC Stuttgart brauchte eine ganze Weile, um in Stuttgart &quot;anzukommen&quot; und über die eingeschworenen Kreise der Usergroups und Mailinglisten hinaus bekannt zu werden.
-
-Die nach außen wirksamen Aktivitäten in Form der Vortragsreihe begangen eine Weile bevor wir uns entschlossen, uns als Verein eintragen zu lassen. Allein bei der Vereinseintragung waren mehrere Iterationen notwendig, was im Nachhinein glatt als Realsatire durchgehen könnte.
-
-Mit dem Umzug der Vortragsreihe in die Stadtbibliothek hat der CCCS e.V. sich schließlich als feste Größe in Stuttgart etabliert.
-
-Die Geschichte soll in anekdotischer Weise berichtet werden.</description>
+<abstract>Anhand eines Seat Ibiza wird ilustriert welche Informationen auf dem CAN-Bus zu finden sind und wie sie reverse engineert wurden. Es folgen Beispiele die Signale fuer eigene Zwecke zu nutzen. Es wird auch auf den Nutzen und die Gefahren von Schreibzugriffen eingegangen.</abstract>
+<description></description>
 <persons>
-<person id='4481'>Princess</person>
+<person id='4476'>hk</person>
 </persons>
 <links>
+</links>
+</event>
+<event guid='Flzrumwrj-VRdCRoKzwufQ' id='5772'>
+<date>2014-04-20T16:45:00+02:00</date>
+<start>16:45</start>
+<duration>01:30</duration>
+<room>Workshopraum</room>
+<slug>EH2014_-_5772_-_de_-_workshopraum_-_201404201645_-_dmx_workshop_-_dritter</slug>
+<recording>
+<license>is allowed</license>
+<optout>false</optout>
+</recording>
+<title>DMX Workshop</title>
+<subtitle>Was ist DMX, wozu braucht man das, was macht es, ist es nicht der der Musik macht? Naja...fast. Damit steuert man Licht in der Veranstaltungstechnik. wenn euch der Name was sagt, aber nicht wisst was weiter passiert, kommt in den workshop.</subtitle>
+<track>Workshop</track>
+<type>workshop</type>
+<language>de</language>
+<abstract>Um in der Lichttechnik wie sie in Discos hängt  die Strahler, Lichter, Scheinwerfer anzusteuern gibt es das DMX Protokoll.
+Für was gibt es das? Was kann man damit machen?
+Erklärung dazu im Workshop mit praktischen Beispielen und Hardware zum anfassen.</abstract>
+<description>Im Workshop wird erklärt was es mit dem DMX aufsich hat und anhand praktischer beispiele gezeigt.
+Equipment wird ohnehin vorhanden sein an dem einiges gezeigt werden kann.
+Desweiteren wird Hardware vorhanden sein um mal zu sehen was an Technik in dem einen oder anderen Gerät steckt.
+Wie kommt aus einem Scanner z.B. der fast 20 Jahre alte Roboscan 1220 pro licht raus, was passiert im Gerät, was steckt an Technik drin.
+Was sind Gobos, Was sind Farbräder, was sind Shutter ect.
+Die Technik allgemein.
+
+Gezeigt wird wie Licht über ein Lichtpult (creation2 GLP) gesteuert wird. 
+
+Leider wird es voraussichtlich nur ein Lichtpult geben. Dadurch wird die anzahl der Leute begrenzt die damit selbst mal was bedienen bzw programmieren wollen.
+</description>
+<persons>
+<person id='4492'>dritter</person>
+</persons>
+<links>
+<link href='http://www.creationforum.de/download/creation2_release2.jpg'>Lichtpult</link>
+<link href='http://www.gearsourcecdn.com/shared/image/listing/normal/fe04f6e0-aa27-4bca-add4-21fc2e154af0.jpg'>Roboscan1220</link>
 </links>
 </event>
 <event guid='S7UkbUP51mZC_pZ6JhuPIA' id='5723'>
-<date>2014-04-20T18:15:00+02:00</date>
-<start>18:15</start>
+<date>2014-04-20T18:45:00+02:00</date>
+<start>18:45</start>
 <duration>00:45</duration>
-<room>Schalldruckkammer</room>
-<slug>EH2014_-_5723_-_de_-_schalldruckkammer_-_201404201815_-_bausatze_in_hackerspaces_-_muzy</slug>
+<room>Workshopraum</room>
+<slug>EH2014_-_5723_-_de_-_workshopraum_-_201404201845_-_bausatze_in_hackerspaces_-_muzy</slug>
 <recording>
 <license></license>
 <optout>true</optout>
@@ -1586,11 +1435,11 @@ Einen kleinen Ausblick auf die Inhalte gibt es bereits im RaumZeitLabor Blog (si
 </links>
 </event>
 <event guid='B77OoDw7uvop7-4N7zZ9Ig' id='5738'>
-<date>2014-04-20T19:15:00+02:00</date>
-<start>19:15</start>
+<date>2014-04-20T19:30:00+02:00</date>
+<start>19:30</start>
 <duration>00:45</duration>
-<room>Schalldruckkammer</room>
-<slug>EH2014_-_5738_-_de_-_schalldruckkammer_-_201404201915_-_datenubertragung_per_ultraschall_im_turbomodus_-_esgeh</slug>
+<room>Workshopraum</room>
+<slug>EH2014_-_5738_-_de_-_workshopraum_-_201404201930_-_datenubertragung_per_ultraschall_im_turbomodus_-_esgeh</slug>
 <recording>
 <license></license>
 <optout>false</optout>
@@ -1608,41 +1457,88 @@ Einen kleinen Ausblick auf die Inhalte gibt es bereits im RaumZeitLabor Blog (si
 <links>
 </links>
 </event>
-<event guid='yeqQQddWKSYSu-N6f-ReQQ' id='5734'>
-<date>2014-04-20T20:15:00+02:00</date>
-<start>20:15</start>
+<event guid='iGfZkp0SYGQfeKbb-WgS7w' id='5719'>
+<date>2014-04-20T20:30:00+02:00</date>
+<start>20:30</start>
 <duration>00:45</duration>
-<room>Schalldruckkammer</room>
-<slug>EH2014_-_5734_-_en_-_schalldruckkammer_-_201404202015_-_managing_containers_with_docker_-_johannes_fish_ziemke</slug>
+<room>Workshopraum</room>
+<slug>EH2014_-_5719_-_en_-_workshopraum_-_201404202030_-_adventures_in_digital_forensics_-_xhr</slug>
 <recording>
-<license>CC BY 4.0</license>
+<license></license>
 <optout>false</optout>
 </recording>
-<title>Managing containers with Docker</title>
-<subtitle>...and why you'll love it</subtitle>
+<title>Adventures in Digital Forensics</title>
+<subtitle></subtitle>
 <track>Talk</track>
 <type>lecture</type>
 <language>en</language>
-<abstract>What are the challenges of today's infrastructures, why containers are the right building blocks and Docker the right tool to manage those.</abstract>
-<description>Docker is an open-source project to easily create lightweight, portable, self-sufficient containers from any application. The same container that a developer builds and tests on a laptop can run at scale, in production, on VMs, bare metal, OpenStack clusters, public clouds and more.
-
-I'll talk about the challenges of managing complex infrastructures based on my past experiences, why live state mutation sucks and configuration management is doomed, self-sufficient and light-weight containers are the answer and how Docker manage those.
-
-Last but not least I'll show how to build, ship and run containers and real world examples of what Docker is already used for.</description>
+<abstract>The talks presents a journey through digital forensics, namely non-volatile and volatile analysis. It will show how one can analyze Linux servers after a successful compromise as well as Windows machines infected with malware. Further, I'll present some goodies found during real-life analyses.</abstract>
+<description></description>
 <persons>
-<person id='4457'>Johannes 'fish' Ziemke</person>
+<person id='173'>xhr</person>
 </persons>
 <links>
+</links>
+</event>
+<event guid='rkDHniUlFfF3l-9uRzoBBw' id='5763'>
+<date>2014-04-20T21:15:00+02:00</date>
+<start>21:15</start>
+<duration>01:00</duration>
+<room>Workshopraum</room>
+<slug>EH2014_-_5763_-_en_-_workshopraum_-_201404202115_-_security_aspects_of_bitcoin_-_myshkin</slug>
+<recording>
+<license></license>
+<optout>true</optout>
+</recording>
+<title>Security aspects of Bitcoin</title>
+<subtitle></subtitle>
+<track>Talk</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>This talk is supposed to introduce the current discussion regarding Bitcoins security. We want to give an overview of cryptographic issues, wallet security etc. We also want to discuss some of the more recent events regardig Bitcoins (Mt. Gox etc.)</abstract>
+<description></description>
+<persons>
+<person id='4483'>Myshkin</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='zAMH8NqahK6Us4P7C1q0MA' id='5816'>
+<date>2014-04-20T22:30:00+02:00</date>
+<start>22:30</start>
+<duration>01:00</duration>
+<room>Workshopraum</room>
+<slug>EH2014_-_5816_-_de_-_workshopraum_-_201404202230_-_light_painting_-_coco</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Light Painting</title>
+<subtitle></subtitle>
+<track>Workshop</track>
+<type>workshop</type>
+<language>de</language>
+<abstract>Auf dem Easterhegg 2013 war der Light-Painting-Workshop so gut besucht, dass er dieses Jahr wiederholt wird.</abstract>
+<description>Light-Painting bedeutet, gezielt mit Licht auf ein Foto zu malen. Meistens wird mit Lichtquellen (LEDs, Taschenlampen, Glitzerdeko etc.) während einer Langzeitbelichtung direkt auf den Film oder Bildsensor gezeichnet. Je mehr Maler und Lichtquellen beteiligt sind, desto komplexer werden die Choreografien, in denen sich das Bild über mehrere Minuten hinweg aufbaut.
+Die Maler selbst tragen schwarze Kleidung und bleiben ständig in Bewegung, so dass sie vom Bild überstrahlt werden und damit komplett &quot;unsichtbar&quot; bleiben.
+
+Bringt alles mit was leuchten kann! Wirklich alles. Eigene Kameras und Stative ebenso.</description>
+<persons>
+<person id='3491'>coco</person>
+</persons>
+<links>
+<link href='http://eh13.c3pb.de/LightPainting.html'>Bilder vom letzten Workshop (Easterhegg 2013)</link>
+<link href='https://secure.flickr.com/photos/binarycoco/sets/72157631814869111/'>Bilder vom vorletzten Workshop (Hackover 2012)</link>
 </links>
 </event>
 </room>
 <room name='Hackcenter'>
 <event guid='3u_SQuKFB067VX3mNMn8iw' id='5720'>
-<date>2014-04-20T12:45:00+02:00</date>
-<start>12:45</start>
+<date>2014-04-20T12:00:00+02:00</date>
+<start>12:00</start>
 <duration>03:00</duration>
 <room>Hackcenter</room>
-<slug>EH2014_-_5720_-_de_-_hackcenter_-_201404201245_-_geocaching_-_martl</slug>
+<slug>EH2014_-_5720_-_de_-_hackcenter_-_201404201200_-_geocaching_-_martl</slug>
 <recording>
 <license></license>
 <optout>false</optout>
@@ -1701,7 +1597,171 @@ https://en.wikipedia.org/wiki/Zimmermann%E2%80%93Sassaman_key-signing_protocol
 </links>
 </event>
 </room>
-<room name='Seminarraum im shackspace'>
+<room name='shack-Seminarraum'>
+<event guid='AGyCAyesmbxDsIf1BrE-qA' id='5735'>
+<date>2014-04-20T12:00:00+02:00</date>
+<start>12:00</start>
+<duration>02:15</duration>
+<room>shack-Seminarraum</room>
+<slug>EH2014_-_5735_-_de_-_shack-seminarraum_-_201404201200_-_presenting_for_geeks_-_dirk_haun</slug>
+<recording>
+<license>CC-BY</license>
+<optout>false</optout>
+</recording>
+<title>Presenting for Geeks</title>
+<subtitle></subtitle>
+<track>Workshop</track>
+<type>workshop</type>
+<language>de</language>
+<abstract>Du bist also ein Geek und willst eine Präsentation über ein Thema geben, das Dir sehr am Herzen liegt. Du bist folglich sehr enthusiastisch. Du möchtest Deinem Publikum am liebsten alles über Dein Thema erzählen. Aber aus irgend einem Grund, obwohl Deine Präsentation doch alle Aspekte behandelt, zeigt sich das Publikum weit weniger enthusiastisch als erhofft. Woran liegt das? Kommt Dir diese Situation bekannt vor?</abstract>
+<description>&lt;p&gt;Gute Kommunikation wird auch für Hacker und Geeks immer wichtiger. Als Beispiel kann die NSA-Affäre dienen: Wir verstehen die Technik, die Zusammenhänge und die Konsequenzen. Nun geht es darum, dies technisch weniger bewanderten Mitmenschen zu erklären. Wie man aber etwa in den Videos vom 30C3 sehen kann, werden technische Vorträge immer noch überwiegend beherrscht von Bullet Points, schwer verständlichen Folien und Rednern, die sich hinter dem Rednerpult verschanzen. So werden wir unser Zielpublikum nicht erreichen - und wenn, bleibt dort wenig hängen.&lt;/p&gt;
+
+&lt;p&gt;Es wäre doch schade um all die wichtigen und spannenden Erkenntnisse, die wir mit so viel Mühe und Begeisterung zusammen tragen.&lt;/p&gt;
+
+&lt;p&gt;In diesem Workshop geht es daher um Ansätze, Vorträge so zu gestalten, dass sie visueller und ansprechender (im doppelten Sinne) werden. Dass dabei die Fakten nicht auf der Strecke bleiben und die - vorgeblich - bunten Bilder sehr wohl ihren Sinn haben und dem Zuhörer beim Verstehen und Erinnern helfen, wird dabei ebenso erörtert wie Tipps zur Vorbereitung, zur Foliengestaltung und zum eigentlichen Vortrag.&lt;/p&gt;
+
+&lt;p&gt;Vorbereitung:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Das Publikum steht im Mittelpunkt
+&lt;li&gt;Der Fluch des Wissens
+&lt;li&gt;Weg vom Computer
+&lt;li&gt;Mit SUCCESs gegen das Vergessen
+&lt;/ul&gt;
+
+&lt;p&gt;Folien:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Die wichtigen und die unwichtigen Folien&lt;/li&gt;
+&lt;li&gt;Wie man die Bullet Points los wird&lt;/li&gt;
+&lt;li&gt;Bilder und Visualisierungen&lt;/li&gt;
+&lt;li&gt;3 einfache Designregeln&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Vortrag:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Früh ankommen&lt;/li&gt;
+&lt;li&gt;The Show must go on&lt;/li&gt;
+&lt;li&gt;Mit Fragen und Diskussionen umgehen&lt;/li&gt;
+&lt;li&gt;Nicht überziehen&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Der Workshop enthält Theorie- und Praxisteile, mit Einzel- und Gruppenübungen. Mitzubringen ist lediglich etwas zum Schreiben und Zeichnen (Notizblock und/oder lose Seiten) - ein Laptop wird nicht benötigt.&lt;/p&gt;
+</description>
+<persons>
+<person id='4460'>Dirk Haun</person>
+</persons>
+<links>
+<link href='http://www.themobilepresenter.com/article.php/presenting-for-geeks-on-the-road'>Mehr über den Workshop</link>
+</links>
+</event>
+<event guid='2v8guLMfWAGh50zRNrY8rg' id='5747'>
+<date>2014-04-20T15:00:00+02:00</date>
+<start>15:00</start>
+<duration>00:30</duration>
+<room>shack-Seminarraum</room>
+<slug>EH2014_-_5747_-_de_-_shack-seminarraum_-_201404201500_-_prismcamp_-_musevg</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>PrismCamp</title>
+<subtitle>Politik, Technik und Gesellschaft in Zeiten der Totalüberwachung</subtitle>
+<track>Talk</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>PrismCamp - Wider die Ohnmacht.
+Warum wir ein Barcamp zu NSA-Überwachung, Vorratsdatenspeicherung etc. veranstalten.
+</abstract>
+<description>Warum wir ein Barcamp zu NSA-Überwachung, Vorratsdatenspeicherung etc. veranstalten: Das PrismCamp bietet Raum und Zeit für die Diskussion des Überwachungsskandals... und des ganz alltäglichen Überwachungswahnsinn von BDA über CCTV bis VDS.
+PrismCamp - Wider die Ohnmacht
+17. &amp; 18. Mai 2014, Literaturhaus Stuttgart.
+www.prismcamp.de
+
+</description>
+<persons>
+<person id='4473'>musevg</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='MSQd41AhyJrm13_cCTRCYw' id='5744'>
+<date>2014-04-20T15:30:00+02:00</date>
+<start>15:30</start>
+<duration>00:45</duration>
+<room>shack-Seminarraum</room>
+<slug>EH2014_-_5744_-_de_-_shack-seminarraum_-_201404201530_-_wie_kaputt_ist_tls_-_hanno</slug>
+<recording>
+<license>CC0</license>
+<optout>false</optout>
+</recording>
+<title>Wie kaputt ist TLS?</title>
+<subtitle>Das wichtigste Kryptoprotokoll unter der Lupe</subtitle>
+<track>Talk</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>In TLS sind in letzter Zeit zahlreiche Probleme aufgetaucht, Die BEAST- und die Lucky Thirteen-Attacke, Probleme mit RC4 und Mißtrauen gegenüber Standards aus dem Hause NSA. Wo steht TLS heute und welche Verbesserungen stehen an?</abstract>
+<description>TLS (früher SSL) ist das wichtigste und meistgenutzte Verschlüsselungsprotokoll. HTTPS-Verbindungen nutzen wir alltäglich zum Kommunizieren, um Geld zu überweisen oder einzukaufen.
+
+Man würde sich daher wünschen, dass TLS ein besonders sicheres Protokoll ist. Doch die Realität sieht anders aus: In den letzten Jahren sind zahlreiche Sicherheitsprobleme bekannt geworden. Das besondere an BEAST, Lucky Thirteen und anderen: Es handelt sich nicht um Softwarefehler, sondern um Fehler im Protokoll selbst. Viele der Probleme waren schon lange bekannt, die Schwäche, auf der die Lucky Thirteen-Attacke basiert, ist sogar im TLS 1.2-Standard selbst beschrieben.
+
+Die Probleme von TLS führten teils zu bizarren Situationen: Nachdem immer mehr Schwächen im CBC-Modus von TLS bekannt wurden, empfahlen Sicherheitsexperten einen Umstieg auf RC4. Als dann neue Schwächen in RC4 bekannt wurden, hieß es: Kommando zurück, RC4 ist unsicher, wir verwenden jetzt alle wieder CBC.
+
+Im Vortrag werfe ich einen Blick auf die aktueleln Probleme von TLS und mögliche Lösungsansätze.</description>
+<persons>
+<person id='2462'>hanno</person>
+</persons>
+<links>
+<link href='http://afra-berlin.de/dokuwiki/lib/exe/fetch.php?media=2013-09-13_so_kaputt_ist_ssl.pdf'>Slides von älterem Vortrag</link>
+</links>
+</event>
+<event guid='Q8j9xkOW_50eqh8kf62gkQ' id='5766'>
+<date>2014-04-20T16:45:00+02:00</date>
+<start>16:45</start>
+<duration>00:45</duration>
+<room>shack-Seminarraum</room>
+<slug>EH2014_-_5766_-__-_shack-seminarraum_-_201404201645_-_das_irc-protokoll_-_hc</slug>
+<recording>
+<license></license>
+<optout>true</optout>
+</recording>
+<title>Das IRC-Protokoll</title>
+<subtitle></subtitle>
+<track>Talk</track>
+<type>lecture</type>
+<language></language>
+<abstract>IRC gibt's schon lange, aber zum Teil ist bis heute relativ wenig ueber die Details des Protokolls bekannt, obwohl es IMHO zu einem der faszinierenderen gehoert. Das IRC hatte im Laufe der Zeit mit vielen Probleme zu kaempfen, und fuer viele davon hat man sich technische Loesungen einfallen lassen. Bis heute sind viele Dinge im IRC aber nicht perfekt geloest, und manches wuerde ein komplettes Redesign des Protokolls erfordern.
+
+Ausserdem: Wie ist ein IRC-Netzwerk heutzutage aufgebaut, was sind User- und Channelmodes? Was ist im modernen IRC noch uebrig vom urspruenglichen Protokoll? Was ist Splitriding, wie funktionieren Netsplits, was verbirgt sich hinter &quot;TS6&quot; und wozu braucht man &quot;Services&quot;?
+
+hc ist seit 2008 admin im hackint, und hat dort unter anderem an der Umstellung von anope auf atheme und von hybrid 7 auf ein aktuelles charybdis mitgewirkt, und betreibt ein paar eigene Services dort, die sich frueher ums Blacklisting und heute nur noch um stats und die Vergabe von Hostnamen fuer Tor- und i2p-Nutzer kuemmert. Der Code dazu ist groesstenteils unter github.com/hce/erlstats zu finden.</abstract>
+<description></description>
+<persons>
+<person id='4487'>hc</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='FigCrFi6FA4-1QWtOgucPA' id='5800'>
+<date>2014-04-20T18:45:00+02:00</date>
+<start>18:45</start>
+<duration>02:00</duration>
+<room>shack-Seminarraum</room>
+<slug>EH2014_-_5800_-_de_-_shack-seminarraum_-_201404201845_-_moving_targets_aktuelle_themen_im_ccc-umfeld</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Moving Targets: Aktuelle Themen im CCC-Umfeld</title>
+<subtitle>Auto-Vernetzung: Ist es Sicherheit oder Überwachung und welcher Art?</subtitle>
+<track>Sonstiges</track>
+<type>meeting</type>
+<language>de</language>
+<abstract>Wir wollen im CCC über aktuelle Themen reden.</abstract>
+<description></description>
+<persons>
+</persons>
+<links>
+</links>
+</event>
 </room>
 <room name='shackspace Küche'>
 </room>
@@ -1710,29 +1770,6 @@ https://en.wikipedia.org/wiki/Zimmermann%E2%80%93Sassaman_key-signing_protocol
 </day>
 <day date='2014-04-21' end='2014-04-21T15:00:00+02:00' index='4' start='2014-04-21T09:00:00+02:00'>
 <room name='Degerloch'>
-<event guid='mDZ9Fjkd0FlbKoFkLlOF9w' id='5778'>
-<date>2014-04-21T11:15:00+02:00</date>
-<start>11:15</start>
-<duration>00:15</duration>
-<room>Degerloch</room>
-<slug>EH2014_-_5778_-_de_-_degerloch_-_201404211115_-_flask_-_andreas_madsack</slug>
-<recording>
-<license></license>
-<optout>false</optout>
-</recording>
-<title>Flask</title>
-<subtitle>Wenn Django zu groß ist.</subtitle>
-<track>Talk</track>
-<type>lecture</type>
-<language>de</language>
-<abstract>Wann nehme ich ein Micro-Webframework (am Beispiel von Flask) und wann ein volles Webframework (z.B. Django)?</abstract>
-<description></description>
-<persons>
-<person id='4494'>Andreas Madsack</person>
-</persons>
-<links>
-</links>
-</event>
 <event guid='Ca5THaHLyWqIsy45P1lNXA' id='5749'>
 <date>2014-04-21T12:00:00+02:00</date>
 <start>12:00</start>
@@ -1764,6 +1801,29 @@ Und wie kriegt mehr davon?
 </event>
 </room>
 <room name='Großer Saal'>
+<event guid='vrxJlMAzQsvsLef4XtJ5_w' id='5726'>
+<date>2014-04-21T12:45:00+02:00</date>
+<start>12:45</start>
+<duration>00:45</duration>
+<room>Großer Saal</room>
+<slug>EH2014_-_5726_-_de_-_grosser_saal_-_201404211245_-_infrastructure_review_-_momo</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>infrastructure review</title>
+<subtitle>what happened, what went wrong</subtitle>
+<track>Talk</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>numbers, graphs, pictures of easterhegg infrastructure</abstract>
+<description></description>
+<persons>
+<person id='4405'>momo</person>
+</persons>
+<links>
+</links>
+</event>
 <event guid='BH5BB7F84Us6N9JQoNZj_Q' id='5792'>
 <date>2014-04-21T13:30:00+02:00</date>
 <start>13:30</start>
@@ -1787,11 +1847,11 @@ Und wie kriegt mehr davon?
 </links>
 </event>
 </room>
-<room name='Schalldruckkammer'>
+<room name='Workshopraum'>
 </room>
 <room name='Hackcenter'>
 </room>
-<room name='Seminarraum im shackspace'>
+<room name='shack-Seminarraum'>
 </room>
 <room name='shackspace Küche'>
 </room>

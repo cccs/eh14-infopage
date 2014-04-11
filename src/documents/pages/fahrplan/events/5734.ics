@@ -13,9 +13,9 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T210000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T201500
-DTSTAMP;VALUE=DATE-TIME:20140401T204754Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T211500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T203000
+DTSTAMP;VALUE=DATE-TIME:20140409T195743Z
 UID:yeqQQddWKSYSu-N6f-ReQQ@frab.cccv.de
 DESCRIPTION:What are the challenges of today's infrastructures\, why cont
  ainers are the right building blocks and Docker the right tool to manage
@@ -23,6 +23,6 @@ DESCRIPTION:What are the challenges of today's infrastructures\, why cont
 URL:/pages/fahrplan/events/5734.html
 SUMMARY:Managing containers with Docker
 ORGANIZER:EH2014
-LOCATION:Schalldruckkammer
+LOCATION:Degerloch
 END:VEVENT
 END:VCALENDAR

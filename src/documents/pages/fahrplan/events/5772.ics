@@ -13,9 +13,9 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T174500
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T161500
-DTSTAMP;VALUE=DATE-TIME:20140325T202359Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T181500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T164500
+DTSTAMP;VALUE=DATE-TIME:20140409T180054Z
 UID:Flzrumwrj-VRdCRoKzwufQ@frab.cccv.de
 DESCRIPTION:Um in der Lichttechnik wie sie in Discos hängt  die Strahler\
  , Lichter\, Scheinwerfer anzusteuern gibt es das DMX Protokoll.\nFür was
@@ -24,6 +24,6 @@ DESCRIPTION:Um in der Lichttechnik wie sie in Discos hängt  die Strahler\
 URL:/pages/fahrplan/events/5772.html
 SUMMARY:DMX Workshop
 ORGANIZER:EH2014
-LOCATION:Degerloch
+LOCATION:Workshopraum
 END:VEVENT
 END:VCALENDAR

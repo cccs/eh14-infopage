@@ -13,9 +13,9 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T210000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T201500
-DTSTAMP;VALUE=DATE-TIME:20140401T200859Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T220000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T211500
+DTSTAMP;VALUE=DATE-TIME:20140409T195834Z
 UID:PWBg7vdclEAw8nNOeVAfFA@frab.cccv.de
 DESCRIPTION:Hersteller von Sicherheits-ICs haben in den letzten Jahren vi
  el Arbeit in die Absicherung ihrer Produkte gesteckt. Dabei konzentriert
@@ -27,6 +27,6 @@ DESCRIPTION:Hersteller von Sicherheits-ICs haben in den letzten Jahren vi
 URL:/pages/fahrplan/events/5758.html
 SUMMARY:Angriffe auf Mikrochips durch die Rueckseite
 ORGANIZER:EH2014
-LOCATION:Großer Saal
+LOCATION:Degerloch
 END:VEVENT
 END:VCALENDAR

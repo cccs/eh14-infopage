@@ -13,9 +13,9 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T170000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T163000
-DTSTAMP;VALUE=DATE-TIME:20140313T222851Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T161500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T154500
+DTSTAMP;VALUE=DATE-TIME:20140409T175958Z
 UID:6XEEOuA-of4rIG-7zDUOpQ@frab.cccv.de
 DESCRIPTION:Auch mit Verschlüsselung sind wir nur dann vor Überwachung ge
  feit\, wenn wir uns vor Trojanern schützen können. Es soll diskutiert we
@@ -26,6 +26,6 @@ DESCRIPTION:Auch mit Verschlüsselung sind wir nur dann vor Überwachung ge
 URL:/pages/fahrplan/events/5724.html
 SUMMARY:Privatheit und Trojaner
 ORGANIZER:EH2014
-LOCATION:Schalldruckkammer
+LOCATION:Degerloch
 END:VEVENT
 END:VCALENDAR

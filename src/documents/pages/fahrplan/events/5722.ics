@@ -13,9 +13,9 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T124500
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T120000
-DTSTAMP;VALUE=DATE-TIME:20140318T083740Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T164500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T160000
+DTSTAMP;VALUE=DATE-TIME:20140409T191129Z
 UID:kxGdCQ5mZxaed5oBlGEdaA@frab.cccv.de
 DESCRIPTION:Nach den Snowden-Enthüllungen erscheint der Notwendigkeit von
   geschützter Kommunikation wichtiger denn je. Wir möchten zeigen\, dass 
@@ -25,6 +25,6 @@ DESCRIPTION:Nach den Snowden-Enthüllungen erscheint der Notwendigkeit von
 URL:/pages/fahrplan/events/5722.html
 SUMMARY:palava.tv
 ORGANIZER:EH2014
-LOCATION:Schalldruckkammer
+LOCATION:Workshopraum
 END:VEVENT
 END:VCALENDAR
