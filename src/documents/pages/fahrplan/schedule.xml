@@ -100,6 +100,29 @@ und schlußendlich auch das portable QT-Konzept zu erwähnen, welches sich z.B: 
 <links>
 </links>
 </event>
+<event guid='5nVPkE5Jo2aczq82Q9oz0w' id='5817'>
+<date>2014-04-18T18:15:00+02:00</date>
+<start>18:15</start>
+<duration>00:45</duration>
+<room>shack-Seminarraum</room>
+<slug>EH2014_-_5817_-_de_-_shack-seminarraum_-_201404181815_-_karfreitagsandacht_-_timm</slug>
+<recording>
+<license></license>
+<optout>true</optout>
+</recording>
+<title>Karfreitagsandacht</title>
+<subtitle></subtitle>
+<track></track>
+<type></type>
+<language>de</language>
+<abstract>Karfreitagsandacht - Thema: tbd</abstract>
+<description>Der Theologe (Staatsexamen) Thomas Piehler wird am Karfreitag eine Andacht zum Thema Karfreitag halten. Die Andacht werde ich organisieren.</description>
+<persons>
+<person id='4544'>timm</person>
+</persons>
+<links>
+</links>
+</event>
 <event guid='yB5E1EGkQqkJwEzA-PZdbA' id='5743'>
 <date>2014-04-18T19:15:00+02:00</date>
 <start>19:15</start>
@@ -211,18 +234,16 @@ The second part tries to get on the abstract idea of reading and writing landsca
 <optout>false</optout>
 </recording>
 <title>zero-cost netsecmon</title>
-<subtitle>network security monitoring with Icinga</subtitle>
+<subtitle>network security monitoring (with Icinga)</subtitle>
 <track>Talk</track>
 <type>lecture</type>
 <language>en</language>
-<abstract></abstract>
-<description>An increasing number of network and system administrators use Icinga (or Nagios and Shinken respectively) to cover their monitoring needs. These systems are highly customisable with various add-ons and plugins proven in years of application.
-
-In this talk we will share a selection of plugins and ideas for monitoring security relevant activity and events. This includes reminding on outstanding maintenance operations, detecting anomalous activity, monitoring (and control) of brute force attacks running, and most certainly the security of Web, DNS, Email and DHCP-services in general.
+<abstract>Make your (slightly) network more secure by pimping your Icinga/Nagios-based monitoring system.</abstract>
+<description>In this presentation we will discuss ideas for monitoring security relevant activity and events. This includes reminding on still outstanding maintenance operations, detecting anomalous activity, monitoring (and control) of brute force attacks running, and most certainly the security of Web, DNS, Email and other services in general.
 
 Given an existing Icinga monitoring system (like we documented in our 'Nagios/Icinga Kochbuch' recently published by O'Reilly) and not the resources to setup a proper security monitoring solution (like it is unfortunately under normal circumstances the case); why not at least improve network security by adding few more plugins?
 
-Following the presentation there will be a discussion were we will encourage interested individuals to propose (or even contribute) security relevant checks missing. The most interesting contributions might get implemented, documented and published. Resulting plugins will be made freely available.</description>
+Following a short talk there will be a discussion were we will encourage interested individuals to propose (or even contribute) security relevant checks missing. The most interesting contributions might get implemented, documented and published. Resulting plugins will be made freely available.</description>
 <persons>
 <person id='4488'>noaircon</person>
 </persons>
@@ -291,6 +312,30 @@ An Beispielen aus dem realen Leben will ich zeigen, dass das alles gar nicht so 
 <links>
 </links>
 </event>
+<event guid='-Bz_TUchSqDqhjChm_8CFQ' id='5799'>
+<date>2014-04-19T13:00:00+02:00</date>
+<start>13:00</start>
+<duration>03:00</duration>
+<room>Degerloch</room>
+<slug>EH2014_-_5799_-_en_-_degerloch_-_201404191300_-_wikipedia_for_dummies_-_garfieldairlines</slug>
+<recording>
+<license></license>
+<optout>true</optout>
+</recording>
+<title>Wikipedia, for dummies</title>
+<subtitle>How do I edit wikipedia ?</subtitle>
+<track>Workshop</track>
+<type>workshop</type>
+<language>en</language>
+<abstract>Everyone use wikipedia to get information, but how do you edit it ?
+Speaker can understand german, but will answer (mainly) in english or french (if you want to).</abstract>
+<description>This workshop is here to help beginners on wikipedia and to explain the main rules and how to edit it. Please bring with you your laptop so we can edit together ;)</description>
+<persons>
+<person id='4515'>garfieldairlines</person>
+</persons>
+<links>
+</links>
+</event>
 <event guid='i_2Q9xJIHxx4iu3WUcRfcg' id='5739'>
 <date>2014-04-19T16:00:00+02:00</date>
 <start>16:00</start>
@@ -318,6 +363,34 @@ Bei Bedarf würde alle Hardware auch für ein Workshop bereitstehen.
 <link href='https://www.youtube.com/watch?v=UA5PyWb1rTg'>MINI CPV3E</link>
 <link href='https://www.youtube.com/watch?v=NRmStZ4uvCk'>der große Bruder vom MINI-CPV3E</link>
 <link href='https://www.youtube.com/watch?v=TgHez5reeHw'>the big bother from the MINI-CPV3E</link>
+</links>
+</event>
+<event guid='PQ-HhE1awzRaFzm0Zvzh5A' id='5808'>
+<date>2014-04-19T17:45:00+02:00</date>
+<start>17:45</start>
+<duration>00:45</duration>
+<room>Degerloch</room>
+<slug>EH2014_-_5808_-_de_-_degerloch_-_201404191745_-_we_ll_make_ourselves_a_gnu_one_-_tom_twiddlebit</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>We'll make ourselves a GNU one</title>
+<subtitle>#youbroketheinternet</subtitle>
+<track>Talk</track>
+<type>podium</type>
+<language>de</language>
+<abstract>Das Internet ist kaputt.
+
+Wir brauchen eine fundamentale Überarbeitung der Internetprotokolle, um die heute üblichen Dienste demokratiefähig zu machen.</abstract>
+<description>&quot;Redesigning the Internet for the 21st Century&quot; ist der Masterplan der Arbeitsgruppe YBTI: http://wauland.de/files/2014-03-25_InternetForThe21stCentury.pdf
+
+Auf dem Podium: Carlo von lynX, Daniel Reusche, Tom Twiddlebit</description>
+<persons>
+<person id='4459'>Tom Twiddlebit</person>
+</persons>
+<links>
+<link href='http://wauland.de/files/2014-03-25_InternetForThe21stCentury.pdf'>Redesigning the Internet for the 21st Century</link>
 </links>
 </event>
 <event guid='X-LlUJ210vf4NMvww86DhQ' id='5813'>
@@ -518,29 +591,59 @@ Am Ende der Präsentation können wir gerne über die Vor und Nachteile dieser L
 <links>
 </links>
 </event>
-<event guid='KANPsCX14nqSoSQihFC2hA' id='5733'>
+<event guid='AGyCAyesmbxDsIf1BrE-qA' id='5735'>
 <date>2014-04-19T13:00:00+02:00</date>
 <start>13:00</start>
-<duration>03:00</duration>
+<duration>02:15</duration>
 <room>Workshopraum</room>
-<slug>EH2014_-_5733_-_de_-_workshopraum_-_201404191300_-_burokratielevel_9000_-_laird_dave</slug>
+<slug>EH2014_-_5735_-_de_-_workshopraum_-_201404191300_-_presenting_for_geeks_-_dirk_haun</slug>
 <recording>
-<license></license>
+<license>CC-BY</license>
 <optout>false</optout>
 </recording>
-<title>Bürokratielevel: &gt;9000</title>
-<subtitle>Vereinsverwaltung</subtitle>
+<title>Presenting for Geeks</title>
+<subtitle></subtitle>
 <track>Workshop</track>
 <type>workshop</type>
 <language>de</language>
-<abstract>Ich bin da in so nem Verein - wir machen Verwaltung so und so</abstract>
-<description>Ein Workshop für all die armen Schweine, die in ihrem Hackerspace / Erfa / whatever einen Teil ihrer Zeit für den Verwaltungsfoo opfern müssen.
+<abstract>Du bist also ein Geek und willst eine Präsentation über ein Thema geben, das Dir sehr am Herzen liegt. Du bist folglich sehr enthusiastisch. Du möchtest Deinem Publikum am liebsten alles über Dein Thema erzählen. Aber aus irgend einem Grund, obwohl Deine Präsentation doch alle Aspekte behandelt, zeigt sich das Publikum weit weniger enthusiastisch als erhofft. Woran liegt das? Kommt Dir diese Situation bekannt vor?</abstract>
+<description>&lt;p&gt;Gute Kommunikation wird auch für Hacker und Geeks immer wichtiger. Als Beispiel kann die NSA-Affäre dienen: Wir verstehen die Technik, die Zusammenhänge und die Konsequenzen. Nun geht es darum, dies technisch weniger bewanderten Mitmenschen zu erklären. Wie man aber etwa in den Videos vom 30C3 sehen kann, werden technische Vorträge immer noch überwiegend beherrscht von Bullet Points, schwer verständlichen Folien und Rednern, die sich hinter dem Rednerpult verschanzen. So werden wir unser Zielpublikum nicht erreichen - und wenn, bleibt dort wenig hängen.&lt;/p&gt;
 
-Lasst uns über Best Practises reden und Ideen austauschen. Starker Fokus auf Erfahrungsaustausch, das soll KEIN Verwaltung 101 werden.</description>
+&lt;p&gt;Es wäre doch schade um all die wichtigen und spannenden Erkenntnisse, die wir mit so viel Mühe und Begeisterung zusammen tragen.&lt;/p&gt;
+
+&lt;p&gt;In diesem Workshop geht es daher um Ansätze, Vorträge so zu gestalten, dass sie visueller und ansprechender (im doppelten Sinne) werden. Dass dabei die Fakten nicht auf der Strecke bleiben und die - vorgeblich - bunten Bilder sehr wohl ihren Sinn haben und dem Zuhörer beim Verstehen und Erinnern helfen, wird dabei ebenso erörtert wie Tipps zur Vorbereitung, zur Foliengestaltung und zum eigentlichen Vortrag.&lt;/p&gt;
+
+&lt;p&gt;Vorbereitung:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Das Publikum steht im Mittelpunkt
+&lt;li&gt;Der Fluch des Wissens
+&lt;li&gt;Weg vom Computer
+&lt;li&gt;Mit SUCCESs gegen das Vergessen
+&lt;/ul&gt;
+
+&lt;p&gt;Folien:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Die wichtigen und die unwichtigen Folien&lt;/li&gt;
+&lt;li&gt;Wie man die Bullet Points los wird&lt;/li&gt;
+&lt;li&gt;Bilder und Visualisierungen&lt;/li&gt;
+&lt;li&gt;3 einfache Designregeln&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Vortrag:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Früh ankommen&lt;/li&gt;
+&lt;li&gt;The Show must go on&lt;/li&gt;
+&lt;li&gt;Mit Fragen und Diskussionen umgehen&lt;/li&gt;
+&lt;li&gt;Nicht überziehen&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Der Workshop enthält Theorie- und Praxisteile, mit Einzel- und Gruppenübungen. Mitzubringen ist lediglich etwas zum Schreiben und Zeichnen (Notizblock und/oder lose Seiten) - ein Laptop wird nicht benötigt.&lt;/p&gt;
+</description>
 <persons>
-<person id='4464'>Laird_Dave</person>
+<person id='4460'>Dirk Haun</person>
 </persons>
 <links>
+<link href='http://www.themobilepresenter.com/article.php/presenting-for-geeks-on-the-road'>Mehr über den Workshop</link>
 </links>
 </event>
 <event guid='kxGdCQ5mZxaed5oBlGEdaA' id='5722'>
@@ -703,6 +806,33 @@ Dieser Vortrag wird Beispiele aus dem Every Day Development anführen und gibt A
 <room name='Hackcenter'>
 </room>
 <room name='shack-Seminarraum'>
+<event guid='O5dZbewtyxtapS4NfNPysw' id='5806'>
+<date>2014-04-19T11:00:00+02:00</date>
+<start>11:00</start>
+<duration>00:45</duration>
+<room>shack-Seminarraum</room>
+<slug>EH2014_-_5806_-_de_-_shack-seminarraum_-_201404191100_-_erfa_-_vereinssoftware_-_dan</slug>
+<recording>
+<license>darf jeder sehen. Creative Commons oder so.</license>
+<optout>false</optout>
+</recording>
+<title>Erfa - Vereinssoftware</title>
+<subtitle>Austausch ueber Vereinsarbeit</subtitle>
+<track>Workshop</track>
+<type>workshop</type>
+<language>de</language>
+<abstract>Wir benutzen im Erfa verschiedene Software um Mitglieder und Konten zu fuehren. Sind aber nicht sonderlich gluecklich damit.
+Ein Treffen zum Erfahrungsaustausch und evtl. gemeinsam was voranzubringen.</abstract>
+<description>Ein Treffen der Erfa Schatzmeister und/oder Schriftfuehrer.
+Wir benutzen im Erfa verschiedene Software um Mitglieder und Konten zu fuehren. Sind aber nicht sonderlich gluecklich damit.
+Ein Treffen zum Erfahrungsaustausch und evtl. gemeinsam was voranzubringen.
+Vielleicht gelingt es ein gemeinsames Projekt zu stemmen um eigene Software zu schreiben die die Verwaltung vereinfacht und Datenschutzkonform ist. Wahlweise auch kommerzielle Software zu kaufen.</description>
+<persons>
+<person id='4536'>DaN</person>
+</persons>
+<links>
+</links>
+</event>
 <event guid='cA4WgW51r4mor9eBBTkMOQ' id='5741'>
 <date>2014-04-19T12:45:00+02:00</date>
 <start>12:45</start>
@@ -745,6 +875,62 @@ Dieser Vortrag wird Beispiele aus dem Every Day Development anführen und gibt A
 <description></description>
 <persons>
 <person id='4085'>Martin Haase/maha</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='AlKXl1csxCOVpuh34LgKaQ' id='5810'>
+<date>2014-04-19T19:00:00+02:00</date>
+<start>19:00</start>
+<duration>01:00</duration>
+<room>shack-Seminarraum</room>
+<slug>EH2014_-_5810_-_de_-_shack-seminarraum_-_201404191900_-_neues_aus_tor-land_-_mo</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Neues aus Tor-Land</title>
+<subtitle></subtitle>
+<track>Sonstiges</track>
+<type>meeting</type>
+<language>de</language>
+<abstract>Lasset uns über Tor sprechen.</abstract>
+<description>Moritz betreibt mit inzwischen vielen anderen zusammen Tor exit relays, hängt mit den Tor-Entwicklern ab, und spricht ständig mit Menschen über Tor. Hier lädt er ein zu einem netten Matekränzchen, eine Gelegenheit, um mit anderen Tor-Fans in Kontakt zu treten, näheres über Tor zu erfahren, was so in letzter Zeit passiert ist usw.
+
+Begonnen wird mit einer Kurzpräsentation, aber primär geht es um das Zusammenkommen.</description>
+<persons>
+<person id='3988'>Mo</person>
+</persons>
+<links>
+<link href='https://www.torproject.org/'>Torproject</link>
+<link href='https://www.torservers.net/'>Torservers.net</link>
+</links>
+</event>
+<event guid='DwUD_PH34Rl32e0otBb5Tw' id='5803'>
+<date>2014-04-19T20:00:00+02:00</date>
+<start>20:00</start>
+<duration>01:30</duration>
+<room>shack-Seminarraum</room>
+<slug>EH2014_-_5803_-_de_-_shack-seminarraum_-_201404192000_-_making_fair_hardware_-_xian</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Making fair hardware</title>
+<subtitle>Entdecke deine Lieferkette</subtitle>
+<track>Workshop</track>
+<type>workshop</type>
+<language>de</language>
+<abstract>Wir alle wollen faire Hardware. Also sollten wir uns welche machen! Der Workshop soll dazu dienen, die praktischen Probleme auf dem Weg zu einer sozialverträglichen Lieferkette zu diskutieren und sich untereinander zu vernetzen.</abstract>
+<description>Viele Hacker sind sich der dystopischen Bedingungen bewusst, die bei der Herstellung und Entsorgung elektronischer Geräte häufig herrschen – von Konfliktmineralien über Leukämiefälle bis hin zu Hinterhofrecycling. Eine ganze Reihe von Organisationen und Initiativen widmet sich daher dem Ziel, die Elektronikindustrie fairer zu machen.
+
+Was aber ist mit unseren eigenen Projekten? Ist dein Lötzinn konfliktfrei? Weißt du, woher deine LEDs kommen?
+
+In diesem Workshop widmen wir uns den Aufgaben, die sich plötzlich stellen, wenn man sich über solche Fragen Gedanken macht. Wie recherchiere, dokumentiere und beurteile ich meine Lieferkette, wie kann ich Verbesserungen erreichen? Als praktisches Beispiel betrachten wir NagerIT, das Projekt mit der derzeit fairsten und transparentesten Computermaus.
+
+Dann denken wir einen Schritt weiter. Wie schaffen wir es, dass jedes Hardwareprojekt einfach zu einer fairen Lieferkette kommt? Wie vernetzen wir uns, regeln den Austausch von Informationen? Am Ende des Workshops haben wir hoffentlich eine Basis gelegt, um unsere Erfahrungen mit dem Machen fairer Hardware untereinander und mit der Welt zu teilen.</description>
+<persons>
+<person id='4516'>xian</person>
 </persons>
 <links>
 </links>
@@ -1185,55 +1371,27 @@ Last but not least I'll show how to build, ship and run containers and real worl
 <room name='Großer Saal'>
 </room>
 <room name='Workshopraum'>
-<event guid='UZVtLmQsrCIKyrCz0fFyVA' id='5746'>
+<event guid='57KK2aVaYXc9TL5nftKVRA' id='5812'>
 <date>2014-04-20T10:45:00+02:00</date>
 <start>10:45</start>
-<duration>00:45</duration>
+<duration>00:30</duration>
 <room>Workshopraum</room>
-<slug>EH2014_-_5746_-_de_-_workshopraum_-_201404201045_-_hannibal_lecter_und_sauron_in_einer_totaluberwachten_welt_-_musevg</slug>
+<slug>EH2014_-_5812_-_en_-_workshopraum_-_201404201045_-_clatchian_combat_coffee_-_marcus_wolschon</slug>
 <recording>
 <license></license>
 <optout>false</optout>
 </recording>
-<title>Hannibal Lecter und Sauron in einer totalüberwachten Welt</title>
-<subtitle></subtitle>
-<track>Workshop</track>
-<type>workshop</type>
-<language>de</language>
-<abstract>Wie würden &quot;Das Schweigen der Lämmer&quot; oder &quot;Der Herr Der Ringe&quot; oder $DeinLieblingsbuch in einer komplett überwachten Welt aussehen?
-Clarice Starling könnte Buffalo Bill einfach per Funkzellen-Auswertung finden und bräuchte gar keine die Hilfe von Hannibal Lecter.
-Und Sauron wüsste von Anfang an, wohin er Orks &amp; Nazgul schicken müsste, um die Gemeinschaft des Rings aufzubringen. </abstract>
-<description>Wie würden &quot;Das Schweigen der Lämmer&quot; oder &quot;Der Herr Der Ringe&quot; oder $DeinLieblingsbuch in einer komplett überwachten Welt aussehen?
-Clarice Starling könnte Buffalo Bill einfach per Funkzellen-Auswertung finden und bräuchte gar keine die Hilfe von Hannibal Lecter.
-Und Sauron wüsste von Anfang an, wohin er Orks &amp; Nazgul schicken müsste, um die Gemeinschaft des Rings aufzubringen. 
-
-Literatur in einer totalüberwachten Welt macht also viel weniger Spaß... manche Genres wären sogar völlig sinnlos.
-Ich möchte in diesem experimentellen Workshop zusammen mit den Teilnehmern die Idee weiterspinnen und weitere Bücher in eine Post-Prism-Welt übertragen.</description>
+<title>Clatchian Combat Coffee</title>
+<subtitle>making strong, arabian mocca</subtitle>
+<track>Sonstiges</track>
+<type>other</type>
+<language>en</language>
+<abstract>What: Making strong, arabian mocca.
+When: Morning. No specific time slot.
+</abstract>
+<description>When a double, italian Espresso just doesn't cut it.</description>
 <persons>
-<person id='4473'>musevg</person>
-</persons>
-<links>
-</links>
-</event>
-<event guid='mDZ9Fjkd0FlbKoFkLlOF9w' id='5778'>
-<date>2014-04-20T11:30:00+02:00</date>
-<start>11:30</start>
-<duration>00:15</duration>
-<room>Workshopraum</room>
-<slug>EH2014_-_5778_-_de_-_workshopraum_-_201404201130_-_flask_-_andreas_madsack</slug>
-<recording>
-<license></license>
-<optout>false</optout>
-</recording>
-<title>Flask</title>
-<subtitle>Wenn Django zu groß ist.</subtitle>
-<track>Talk</track>
-<type>lecture</type>
-<language>de</language>
-<abstract>Wann nehme ich ein Micro-Webframework (am Beispiel von Flask) und wann ein volles Webframework (z.B. Django)?</abstract>
-<description></description>
-<persons>
-<person id='4494'>Andreas Madsack</person>
+<person id='4454'>Marcus Wolschon</person>
 </persons>
 <links>
 </links>
@@ -1584,11 +1742,7 @@ Eine vorherige Anmeldung ist nicht erforderlich. </description>
 <type></type>
 <language>de</language>
 <abstract>Lasse Deinen GPG-Schluessel signieren / signiere anderer Leute's GPG-Schluessel.</abstract>
-<description>Es waere hierfuer ziemlich wichtig, die Teilnehmerzahl deutlich vor dem Event zu bestimmen.
-
-Key-Signing mit relativ wenigen Teilnehmern kann man einfach ad-hoc durchfuehren, fuer mehr Teilnehmer bietet sich das Sassaman-Protokoll an, das muss man aber vor dem Event vorbereiten.
-
-https://en.wikipedia.org/wiki/Zimmermann%E2%80%93Sassaman_key-signing_protocol
+<description>Bitte &quot;GPG-VIsitenkarten&quot; / Streifen und Ausweis(e) mitbringen.
 </description>
 <persons>
 <person id='4463'>Thomas Waldmann</person>
@@ -1598,59 +1752,82 @@ https://en.wikipedia.org/wiki/Zimmermann%E2%80%93Sassaman_key-signing_protocol
 </event>
 </room>
 <room name='shack-Seminarraum'>
-<event guid='AGyCAyesmbxDsIf1BrE-qA' id='5735'>
-<date>2014-04-20T12:00:00+02:00</date>
-<start>12:00</start>
-<duration>02:15</duration>
+<event guid='UZVtLmQsrCIKyrCz0fFyVA' id='5746'>
+<date>2014-04-20T10:45:00+02:00</date>
+<start>10:45</start>
+<duration>00:45</duration>
 <room>shack-Seminarraum</room>
-<slug>EH2014_-_5735_-_de_-_shack-seminarraum_-_201404201200_-_presenting_for_geeks_-_dirk_haun</slug>
+<slug>EH2014_-_5746_-_de_-_shack-seminarraum_-_201404201045_-_hannibal_lecter_und_sauron_in_einer_totaluberwachten_welt_-_musevg</slug>
 <recording>
-<license>CC-BY</license>
+<license></license>
 <optout>false</optout>
 </recording>
-<title>Presenting for Geeks</title>
+<title>Hannibal Lecter und Sauron in einer totalüberwachten Welt</title>
 <subtitle></subtitle>
 <track>Workshop</track>
 <type>workshop</type>
 <language>de</language>
-<abstract>Du bist also ein Geek und willst eine Präsentation über ein Thema geben, das Dir sehr am Herzen liegt. Du bist folglich sehr enthusiastisch. Du möchtest Deinem Publikum am liebsten alles über Dein Thema erzählen. Aber aus irgend einem Grund, obwohl Deine Präsentation doch alle Aspekte behandelt, zeigt sich das Publikum weit weniger enthusiastisch als erhofft. Woran liegt das? Kommt Dir diese Situation bekannt vor?</abstract>
-<description>&lt;p&gt;Gute Kommunikation wird auch für Hacker und Geeks immer wichtiger. Als Beispiel kann die NSA-Affäre dienen: Wir verstehen die Technik, die Zusammenhänge und die Konsequenzen. Nun geht es darum, dies technisch weniger bewanderten Mitmenschen zu erklären. Wie man aber etwa in den Videos vom 30C3 sehen kann, werden technische Vorträge immer noch überwiegend beherrscht von Bullet Points, schwer verständlichen Folien und Rednern, die sich hinter dem Rednerpult verschanzen. So werden wir unser Zielpublikum nicht erreichen - und wenn, bleibt dort wenig hängen.&lt;/p&gt;
+<abstract>Wie würden &quot;Das Schweigen der Lämmer&quot; oder &quot;Der Herr Der Ringe&quot; oder $DeinLieblingsbuch in einer komplett überwachten Welt aussehen?
+Clarice Starling könnte Buffalo Bill einfach per Funkzellen-Auswertung finden und bräuchte gar keine die Hilfe von Hannibal Lecter.
+Und Sauron wüsste von Anfang an, wohin er Orks &amp; Nazgul schicken müsste, um die Gemeinschaft des Rings aufzubringen. </abstract>
+<description>Wie würden &quot;Das Schweigen der Lämmer&quot; oder &quot;Der Herr Der Ringe&quot; oder $DeinLieblingsbuch in einer komplett überwachten Welt aussehen?
+Clarice Starling könnte Buffalo Bill einfach per Funkzellen-Auswertung finden und bräuchte gar keine die Hilfe von Hannibal Lecter.
+Und Sauron wüsste von Anfang an, wohin er Orks &amp; Nazgul schicken müsste, um die Gemeinschaft des Rings aufzubringen. 
 
-&lt;p&gt;Es wäre doch schade um all die wichtigen und spannenden Erkenntnisse, die wir mit so viel Mühe und Begeisterung zusammen tragen.&lt;/p&gt;
-
-&lt;p&gt;In diesem Workshop geht es daher um Ansätze, Vorträge so zu gestalten, dass sie visueller und ansprechender (im doppelten Sinne) werden. Dass dabei die Fakten nicht auf der Strecke bleiben und die - vorgeblich - bunten Bilder sehr wohl ihren Sinn haben und dem Zuhörer beim Verstehen und Erinnern helfen, wird dabei ebenso erörtert wie Tipps zur Vorbereitung, zur Foliengestaltung und zum eigentlichen Vortrag.&lt;/p&gt;
-
-&lt;p&gt;Vorbereitung:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Das Publikum steht im Mittelpunkt
-&lt;li&gt;Der Fluch des Wissens
-&lt;li&gt;Weg vom Computer
-&lt;li&gt;Mit SUCCESs gegen das Vergessen
-&lt;/ul&gt;
-
-&lt;p&gt;Folien:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Die wichtigen und die unwichtigen Folien&lt;/li&gt;
-&lt;li&gt;Wie man die Bullet Points los wird&lt;/li&gt;
-&lt;li&gt;Bilder und Visualisierungen&lt;/li&gt;
-&lt;li&gt;3 einfache Designregeln&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Vortrag:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Früh ankommen&lt;/li&gt;
-&lt;li&gt;The Show must go on&lt;/li&gt;
-&lt;li&gt;Mit Fragen und Diskussionen umgehen&lt;/li&gt;
-&lt;li&gt;Nicht überziehen&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Der Workshop enthält Theorie- und Praxisteile, mit Einzel- und Gruppenübungen. Mitzubringen ist lediglich etwas zum Schreiben und Zeichnen (Notizblock und/oder lose Seiten) - ein Laptop wird nicht benötigt.&lt;/p&gt;
-</description>
+Literatur in einer totalüberwachten Welt macht also viel weniger Spaß... manche Genres wären sogar völlig sinnlos.
+Ich möchte in diesem experimentellen Workshop zusammen mit den Teilnehmern die Idee weiterspinnen und weitere Bücher in eine Post-Prism-Welt übertragen.</description>
 <persons>
-<person id='4460'>Dirk Haun</person>
+<person id='4473'>musevg</person>
 </persons>
 <links>
-<link href='http://www.themobilepresenter.com/article.php/presenting-for-geeks-on-the-road'>Mehr über den Workshop</link>
+</links>
+</event>
+<event guid='mDZ9Fjkd0FlbKoFkLlOF9w' id='5778'>
+<date>2014-04-20T11:30:00+02:00</date>
+<start>11:30</start>
+<duration>00:15</duration>
+<room>shack-Seminarraum</room>
+<slug>EH2014_-_5778_-_de_-_shack-seminarraum_-_201404201130_-_flask_-_andreas_madsack</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Flask</title>
+<subtitle>Wenn Django zu groß ist.</subtitle>
+<track>Talk</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Wann nehme ich ein Micro-Webframework (am Beispiel von Flask) und wann ein volles Webframework (z.B. Django)?</abstract>
+<description></description>
+<persons>
+<person id='4494'>Andreas Madsack</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='KANPsCX14nqSoSQihFC2hA' id='5733'>
+<date>2014-04-20T12:00:00+02:00</date>
+<start>12:00</start>
+<duration>03:00</duration>
+<room>shack-Seminarraum</room>
+<slug>EH2014_-_5733_-_de_-_shack-seminarraum_-_201404201200_-_burokratielevel_9000_-_laird_dave</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Bürokratielevel: &gt;9000</title>
+<subtitle>Vereinsverwaltung</subtitle>
+<track>Workshop</track>
+<type>workshop</type>
+<language>de</language>
+<abstract>Ich bin da in so nem Verein - wir machen Verwaltung so und so</abstract>
+<description>Ein Workshop für all die armen Schweine, die in ihrem Hackerspace / Erfa / whatever einen Teil ihrer Zeit für den Verwaltungsfoo opfern müssen.
+
+Lasst uns über Best Practises reden und Ideen austauschen. Starker Fokus auf Erfahrungsaustausch, das soll KEIN Verwaltung 101 werden.</description>
+<persons>
+<person id='4464'>Laird_Dave</person>
+</persons>
+<links>
 </links>
 </event>
 <event guid='2v8guLMfWAGh50zRNrY8rg' id='5747'>
@@ -1738,6 +1915,35 @@ hc ist seit 2008 admin im hackint, und hat dort unter anderem an der Umstellung 
 <person id='4487'>hc</person>
 </persons>
 <links>
+</links>
+</event>
+<event guid='Wm57wGvjLxfiXcENn6XOdw' id='5802'>
+<date>2014-04-20T17:30:00+02:00</date>
+<start>17:30</start>
+<duration>00:45</duration>
+<room>shack-Seminarraum</room>
+<slug>EH2014_-_5802_-_de_-_shack-seminarraum_-_201404201730_-_smartos_-_drscream</slug>
+<recording>
+<license>MIT</license>
+<optout>false</optout>
+</recording>
+<title>SmartOS</title>
+<subtitle>Zones + ZFS + KVM + DTrace = Awesome</subtitle>
+<track>Talk</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Vorstellung von SmartOS eines Illumos basiertem Cloud OS mit KVM Support.</abstract>
+<description>Es werden Vorteile von SmartOS bzw. Illumos angesprochen unter anderem ZFS, Zones und dem KVM Support.
+
+- Was ist SmartOS?
+- Thinking SmartOS (Installation, Konfiguration, Tipps)
+- Paketmanagement in Zones
+- Project FiFo</description>
+<persons>
+<person id='4519'>drscream</person>
+</persons>
+<links>
+<link href='http://smartos.org'>SmartOS</link>
 </links>
 </event>
 <event guid='FigCrFi6FA4-1QWtOgucPA' id='5800'>

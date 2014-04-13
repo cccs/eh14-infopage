@@ -15,7 +15,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T113000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T104500
-DTSTAMP;VALUE=DATE-TIME:20140318T091625Z
+DTSTAMP;VALUE=DATE-TIME:20140411T194011Z
 UID:UZVtLmQsrCIKyrCz0fFyVA@frab.cccv.de
 DESCRIPTION:Wie würden "Das Schweigen der Lämmer" oder "Der Herr Der Ring
  e" oder $DeinLieblingsbuch in einer komplett überwachten Welt aussehen?\
@@ -26,6 +26,6 @@ DESCRIPTION:Wie würden "Das Schweigen der Lämmer" oder "Der Herr Der Ring
 URL:/pages/fahrplan/events/5746.html
 SUMMARY:Hannibal Lecter und Sauron in einer totalüberwachten Welt
 ORGANIZER:EH2014
-LOCATION:Workshopraum
+LOCATION:shack-Seminarraum
 END:VEVENT
 END:VCALENDAR

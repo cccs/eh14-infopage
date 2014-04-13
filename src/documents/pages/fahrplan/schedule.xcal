@@ -218,13 +218,13 @@
 <method>PUBLISH</method>
 <uid>5733@EH2014@pentabarf.org</uid>
 <pentabarf:event-id>5733</pentabarf:event-id>
-<pentabarf:event-slug>EH2014_-_5733_-_de_-_workshopraum_-_201404191300_-_burokratielevel_9000_-_laird_dave</pentabarf:event-slug>
+<pentabarf:event-slug>EH2014_-_5733_-_de_-_shack-seminarraum_-_201404201200_-_burokratielevel_9000_-_laird_dave</pentabarf:event-slug>
 <pentabarf:title>Bürokratielevel: &gt;9000</pentabarf:title>
 <pentabarf:subtitle>Vereinsverwaltung</pentabarf:subtitle>
 <pentabarf:language>German</pentabarf:language>
 <pentabarf:language-code>de</pentabarf:language-code>
-<dtstart>20140419T130000</dtstart>
-<dtend>20140419T160000</dtend>
+<dtstart>20140420T120000</dtstart>
+<dtend>20140420T150000</dtend>
 <duration>030000</duration>
 <summary>Bürokratielevel: &gt;9000- Vereinsverwaltung</summary>
 <description>Ich bin da in so nem Verein - wir machen Verwaltung so und so</description>
@@ -232,7 +232,7 @@
 <status>CONFIRMED</status>
 <category>Lecture</category>
 <url>/pages/fahrplan/events/5733.html</url>
-<location>Workshopraum</location>
+<location>shack-Seminarraum</location>
 <attendee>Laird_Dave</attendee>
 </vevent>
 <vevent>
@@ -260,13 +260,13 @@
 <method>PUBLISH</method>
 <uid>5735@EH2014@pentabarf.org</uid>
 <pentabarf:event-id>5735</pentabarf:event-id>
-<pentabarf:event-slug>EH2014_-_5735_-_de_-_shack-seminarraum_-_201404201200_-_presenting_for_geeks_-_dirk_haun</pentabarf:event-slug>
+<pentabarf:event-slug>EH2014_-_5735_-_de_-_workshopraum_-_201404191300_-_presenting_for_geeks_-_dirk_haun</pentabarf:event-slug>
 <pentabarf:title>Presenting for Geeks</pentabarf:title>
 <pentabarf:subtitle></pentabarf:subtitle>
 <pentabarf:language>German</pentabarf:language>
 <pentabarf:language-code>de</pentabarf:language-code>
-<dtstart>20140420T120000</dtstart>
-<dtend>20140420T141500</dtend>
+<dtstart>20140419T130000</dtstart>
+<dtend>20140419T151500</dtend>
 <duration>021500</duration>
 <summary>Presenting for Geeks- </summary>
 <description>Du bist also ein Geek und willst eine Präsentation über ein Thema geben, das Dir sehr am Herzen liegt. Du bist folglich sehr enthusiastisch. Du möchtest Deinem Publikum am liebsten alles über Dein Thema erzählen. Aber aus irgend einem Grund, obwohl Deine Präsentation doch alle Aspekte behandelt, zeigt sich das Publikum weit weniger enthusiastisch als erhofft. Woran liegt das? Kommt Dir diese Situation bekannt vor?</description>
@@ -274,7 +274,7 @@
 <status>CONFIRMED</status>
 <category>Lecture</category>
 <url>/pages/fahrplan/events/5735.html</url>
-<location>shack-Seminarraum</location>
+<location>Workshopraum</location>
 <attendee>Dirk Haun</attendee>
 </vevent>
 <vevent>
@@ -449,7 +449,7 @@
 <method>PUBLISH</method>
 <uid>5746@EH2014@pentabarf.org</uid>
 <pentabarf:event-id>5746</pentabarf:event-id>
-<pentabarf:event-slug>EH2014_-_5746_-_de_-_workshopraum_-_201404201045_-_hannibal_lecter_und_sauron_in_einer_totaluberwachten_welt_-_musevg</pentabarf:event-slug>
+<pentabarf:event-slug>EH2014_-_5746_-_de_-_shack-seminarraum_-_201404201045_-_hannibal_lecter_und_sauron_in_einer_totaluberwachten_welt_-_musevg</pentabarf:event-slug>
 <pentabarf:title>Hannibal Lecter und Sauron in einer totalüberwachten Welt</pentabarf:title>
 <pentabarf:subtitle></pentabarf:subtitle>
 <pentabarf:language>German</pentabarf:language>
@@ -465,7 +465,7 @@ Und Sauron wüsste von Anfang an, wohin er Orks &amp; Nazgul schicken müsste, u
 <status>CONFIRMED</status>
 <category>Lecture</category>
 <url>/pages/fahrplan/events/5746.html</url>
-<location>Workshopraum</location>
+<location>shack-Seminarraum</location>
 <attendee>musevg</attendee>
 </vevent>
 <vevent>
@@ -883,14 +883,14 @@ hc ist seit 2008 admin im hackint, und hat dort unter anderem an der Umstellung 
 <pentabarf:event-id>5767</pentabarf:event-id>
 <pentabarf:event-slug>EH2014_-_5767_-_en_-_shack-seminarraum_-_201404182215_-_zero-cost_netsecmon_-_noaircon</pentabarf:event-slug>
 <pentabarf:title>zero-cost netsecmon</pentabarf:title>
-<pentabarf:subtitle>network security monitoring with Icinga</pentabarf:subtitle>
+<pentabarf:subtitle>network security monitoring (with Icinga)</pentabarf:subtitle>
 <pentabarf:language>English</pentabarf:language>
 <pentabarf:language-code>en</pentabarf:language-code>
 <dtstart>20140418T221500</dtstart>
 <dtend>20140418T230000</dtend>
 <duration>004500</duration>
-<summary>zero-cost netsecmon- network security monitoring with Icinga</summary>
-<description></description>
+<summary>zero-cost netsecmon- network security monitoring (with Icinga)</summary>
+<description>Make your (slightly) network more secure by pimping your Icinga/Nagios-based monitoring system.</description>
 <class>PUBLIC</class>
 <status>CONFIRMED</status>
 <category>Lecture</category>
@@ -989,7 +989,7 @@ Erklärung dazu im Workshop mit praktischen Beispielen und Hardware zum anfassen
 <method>PUBLISH</method>
 <uid>5778@EH2014@pentabarf.org</uid>
 <pentabarf:event-id>5778</pentabarf:event-id>
-<pentabarf:event-slug>EH2014_-_5778_-_de_-_workshopraum_-_201404201130_-_flask_-_andreas_madsack</pentabarf:event-slug>
+<pentabarf:event-slug>EH2014_-_5778_-_de_-_shack-seminarraum_-_201404201130_-_flask_-_andreas_madsack</pentabarf:event-slug>
 <pentabarf:title>Flask</pentabarf:title>
 <pentabarf:subtitle>Wenn Django zu groß ist.</pentabarf:subtitle>
 <pentabarf:language>German</pentabarf:language>
@@ -1003,7 +1003,7 @@ Erklärung dazu im Workshop mit praktischen Beispielen und Hardware zum anfassen
 <status>CONFIRMED</status>
 <category>Lecture</category>
 <url>/pages/fahrplan/events/5778.html</url>
-<location>Workshopraum</location>
+<location>shack-Seminarraum</location>
 <attendee>Andreas Madsack</attendee>
 </vevent>
 <vevent>
@@ -1220,6 +1220,28 @@ Gute Ironie- und Sarkasmusdetektoren werden unbedingt vorausgesetzt.</descriptio
 </vevent>
 <vevent>
 <method>PUBLISH</method>
+<uid>5799@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5799</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5799_-_en_-_degerloch_-_201404191300_-_wikipedia_for_dummies_-_garfieldairlines</pentabarf:event-slug>
+<pentabarf:title>Wikipedia, for dummies</pentabarf:title>
+<pentabarf:subtitle>How do I edit wikipedia ?</pentabarf:subtitle>
+<pentabarf:language>English</pentabarf:language>
+<pentabarf:language-code>en</pentabarf:language-code>
+<dtstart>20140419T130000</dtstart>
+<dtend>20140419T160000</dtend>
+<duration>030000</duration>
+<summary>Wikipedia, for dummies- How do I edit wikipedia ?</summary>
+<description>Everyone use wikipedia to get information, but how do you edit it ?
+Speaker can understand german, but will answer (mainly) in english or french (if you want to).</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5799.html</url>
+<location>Degerloch</location>
+<attendee>garfieldairlines</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
 <uid>5800@EH2014@pentabarf.org</uid>
 <pentabarf:event-id>5800</pentabarf:event-id>
 <pentabarf:event-slug>EH2014_-_5800_-_de_-_shack-seminarraum_-_201404201845_-_moving_targets_aktuelle_themen_im_ccc-umfeld</pentabarf:event-slug>
@@ -1240,6 +1262,114 @@ Gute Ironie- und Sarkasmusdetektoren werden unbedingt vorausgesetzt.</descriptio
 </vevent>
 <vevent>
 <method>PUBLISH</method>
+<uid>5802@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5802</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5802_-_de_-_shack-seminarraum_-_201404201730_-_smartos_-_drscream</pentabarf:event-slug>
+<pentabarf:title>SmartOS</pentabarf:title>
+<pentabarf:subtitle>Zones + ZFS + KVM + DTrace = Awesome</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140420T173000</dtstart>
+<dtend>20140420T181500</dtend>
+<duration>004500</duration>
+<summary>SmartOS- Zones + ZFS + KVM + DTrace = Awesome</summary>
+<description>Vorstellung von SmartOS eines Illumos basiertem Cloud OS mit KVM Support.</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5802.html</url>
+<location>shack-Seminarraum</location>
+<attendee>drscream</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5803@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5803</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5803_-_de_-_shack-seminarraum_-_201404192000_-_making_fair_hardware_-_xian</pentabarf:event-slug>
+<pentabarf:title>Making fair hardware</pentabarf:title>
+<pentabarf:subtitle>Entdecke deine Lieferkette</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140419T200000</dtstart>
+<dtend>20140419T213000</dtend>
+<duration>013000</duration>
+<summary>Making fair hardware- Entdecke deine Lieferkette</summary>
+<description>Wir alle wollen faire Hardware. Also sollten wir uns welche machen! Der Workshop soll dazu dienen, die praktischen Probleme auf dem Weg zu einer sozialverträglichen Lieferkette zu diskutieren und sich untereinander zu vernetzen.</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5803.html</url>
+<location>shack-Seminarraum</location>
+<attendee>xian</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5806@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5806</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5806_-_de_-_shack-seminarraum_-_201404191100_-_erfa_-_vereinssoftware_-_dan</pentabarf:event-slug>
+<pentabarf:title>Erfa - Vereinssoftware</pentabarf:title>
+<pentabarf:subtitle>Austausch ueber Vereinsarbeit</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140419T110000</dtstart>
+<dtend>20140419T114500</dtend>
+<duration>004500</duration>
+<summary>Erfa - Vereinssoftware- Austausch ueber Vereinsarbeit</summary>
+<description>Wir benutzen im Erfa verschiedene Software um Mitglieder und Konten zu fuehren. Sind aber nicht sonderlich gluecklich damit.
+Ein Treffen zum Erfahrungsaustausch und evtl. gemeinsam was voranzubringen.</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5806.html</url>
+<location>shack-Seminarraum</location>
+<attendee>DaN</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5808@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5808</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5808_-_de_-_degerloch_-_201404191745_-_we_ll_make_ourselves_a_gnu_one_-_tom_twiddlebit</pentabarf:event-slug>
+<pentabarf:title>We'll make ourselves a GNU one</pentabarf:title>
+<pentabarf:subtitle>#youbroketheinternet</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140419T174500</dtstart>
+<dtend>20140419T183000</dtend>
+<duration>004500</duration>
+<summary>We'll make ourselves a GNU one- #youbroketheinternet</summary>
+<description>Das Internet ist kaputt.
+
+Wir brauchen eine fundamentale Überarbeitung der Internetprotokolle, um die heute üblichen Dienste demokratiefähig zu machen.</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5808.html</url>
+<location>Degerloch</location>
+<attendee>Tom Twiddlebit</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5810@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5810</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5810_-_de_-_shack-seminarraum_-_201404191900_-_neues_aus_tor-land_-_mo</pentabarf:event-slug>
+<pentabarf:title>Neues aus Tor-Land</pentabarf:title>
+<pentabarf:subtitle></pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140419T190000</dtstart>
+<dtend>20140419T200000</dtend>
+<duration>010000</duration>
+<summary>Neues aus Tor-Land- </summary>
+<description>Lasset uns über Tor sprechen.</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5810.html</url>
+<location>shack-Seminarraum</location>
+<attendee>Mo</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
 <uid>5811@EH2014@pentabarf.org</uid>
 <pentabarf:event-id>5811</pentabarf:event-id>
 <pentabarf:event-slug>EH2014_-_5811_-_de_-_degerloch_-_201404201645_-_lightning_talks</pentabarf:event-slug>
@@ -1257,6 +1387,29 @@ Gute Ironie- und Sarkasmusdetektoren werden unbedingt vorausgesetzt.</descriptio
 <category>Lecture</category>
 <url>/pages/fahrplan/events/5811.html</url>
 <location>Degerloch</location>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5812@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5812</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5812_-_en_-_workshopraum_-_201404201045_-_clatchian_combat_coffee_-_marcus_wolschon</pentabarf:event-slug>
+<pentabarf:title>Clatchian Combat Coffee</pentabarf:title>
+<pentabarf:subtitle>making strong, arabian mocca</pentabarf:subtitle>
+<pentabarf:language>English</pentabarf:language>
+<pentabarf:language-code>en</pentabarf:language-code>
+<dtstart>20140420T104500</dtstart>
+<dtend>20140420T111500</dtend>
+<duration>003000</duration>
+<summary>Clatchian Combat Coffee- making strong, arabian mocca</summary>
+<description>What: Making strong, arabian mocca.
+When: Morning. No specific time slot.
+</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5812.html</url>
+<location>Workshopraum</location>
+<attendee>Marcus Wolschon</attendee>
 </vevent>
 <vevent>
 <method>PUBLISH</method>
@@ -1319,6 +1472,27 @@ Gute Ironie- und Sarkasmusdetektoren werden unbedingt vorausgesetzt.</descriptio
 <url>/pages/fahrplan/events/5816.html</url>
 <location>Workshopraum</location>
 <attendee>coco</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5817@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5817</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5817_-_de_-_shack-seminarraum_-_201404181815_-_karfreitagsandacht_-_timm</pentabarf:event-slug>
+<pentabarf:title>Karfreitagsandacht</pentabarf:title>
+<pentabarf:subtitle></pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140418T181500</dtstart>
+<dtend>20140418T190000</dtend>
+<duration>004500</duration>
+<summary>Karfreitagsandacht- </summary>
+<description>Karfreitagsandacht - Thema: tbd</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5817.html</url>
+<location>shack-Seminarraum</location>
+<attendee>timm</attendee>
 </vevent>
 <vevent>
 <method>PUBLISH</method>
