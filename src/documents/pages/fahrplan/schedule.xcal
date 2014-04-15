@@ -17,7 +17,7 @@
 <dtend>20140420T124500</dtend>
 <duration>004500</duration>
 <summary>Java Stacktrace Fingerprinting- </summary>
-<description>Was verrät der Stacktrace über eines Java-Programms über die verwendeten Bibliotheken - und deren mögliche Schwachstellen?</description>
+<description>Was verrät der Stacktrace über eines Java-Programms über die verwendeten Bibliotheken - und deren mögliche Schwachstellen? Eine Anekdote über eine Wette und welche Knüppel dem „das skripte ich doch mal kurz“ im Wege liegen.</description>
 <class>PUBLIC</class>
 <status>CONFIRMED</status>
 <category>Lecture</category>
@@ -197,22 +197,24 @@
 <method>PUBLISH</method>
 <uid>5731@EH2014@pentabarf.org</uid>
 <pentabarf:event-id>5731</pentabarf:event-id>
-<pentabarf:event-slug>EH2014_-_5731_-_de_-_hackcenter_-_201404201845_-_gpg_pgp_key_signing_-_thomas_waldmann</pentabarf:event-slug>
-<pentabarf:title>GPG / PGP Key Signing</pentabarf:title>
+<pentabarf:event-slug>EH2014_-_5731_-_de_-_hackcenter_-_201404201845_-_gpg_pgp_key_signing_cacert_assurer-treffen_-_thomas_waldmann_-_rixx</pentabarf:event-slug>
+<pentabarf:title>GPG / PGP Key Signing, CAcert Assurer-Treffen</pentabarf:title>
 <pentabarf:subtitle></pentabarf:subtitle>
 <pentabarf:language>German</pentabarf:language>
 <pentabarf:language-code>de</pentabarf:language-code>
 <dtstart>20140420T184500</dtstart>
 <dtend>20140420T194500</dtend>
 <duration>010000</duration>
-<summary>GPG / PGP Key Signing- </summary>
-<description>Lasse Deinen GPG-Schluessel signieren / signiere anderer Leute's GPG-Schluessel.</description>
+<summary>GPG / PGP Key Signing, CAcert Assurer-Treffen- </summary>
+<description>Lasse Deinen GPG-Schluessel signieren / signiere anderer Leute's GPG-Schluessel.
+Treffe dich mit CAcert-Assurern und sammle CAcert-Assurerpunkte.</description>
 <class>PUBLIC</class>
 <status>CONFIRMED</status>
 <category>Lecture</category>
 <url>/pages/fahrplan/events/5731.html</url>
 <location>Hackcenter</location>
 <attendee>Thomas Waldmann</attendee>
+<attendee>rixx</attendee>
 </vevent>
 <vevent>
 <method>PUBLISH</method>
@@ -1146,8 +1148,8 @@ Gute Ironie- und Sarkasmusdetektoren werden unbedingt vorausgesetzt.</descriptio
 <pentabarf:language>German</pentabarf:language>
 <pentabarf:language-code>de</pentabarf:language-code>
 <dtstart>20140420T223000</dtstart>
-<dtend>20140421T003000</dtend>
-<duration>020000</duration>
+<dtend>20140420T234500</dtend>
+<duration>011500</duration>
 <summary>Nerd-Tabu- Das Gesellschaftsspiel für Nerds</summary>
 <description>Das Gesellschaftsspiel &quot;Tabu&quot; für Nerds!</description>
 <class>PUBLIC</class>

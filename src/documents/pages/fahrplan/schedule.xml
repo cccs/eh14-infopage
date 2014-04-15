@@ -1070,10 +1070,11 @@ Wir zeigen euch die Standard-Ausstattung nach STAN, was wir in Stuttgart sonst n
 <track>Talk</track>
 <type>lecture</type>
 <language>de</language>
-<abstract>Was verrät der Stacktrace über eines Java-Programms über die verwendeten Bibliotheken - und deren mögliche Schwachstellen?</abstract>
+<abstract>Was verrät der Stacktrace über eines Java-Programms über die verwendeten Bibliotheken - und deren mögliche Schwachstellen? Eine Anekdote über eine Wette und welche Knüppel dem „das skripte ich doch mal kurz“ im Wege liegen.</abstract>
 <description>Admins werden aus Sicherheitsgründen angemahnt, seine Server so zu konfigurieren, dass nach außen keine Fehlermeldungen sichtbar sind. Was aber verrät der Stacktrace eines Java-Programms?
 In der Javawelt ist es Usus, sich am reichhaltigen Schatz an Bibliotheken und Frameworks zu bedienen. Das hat den Vorteil, dass insbesondere Security-(Anfänger)fehler nur 1x gemacht werden... dafür haben solche Fehler, wenn sie dann doch auftreten, eine große Streuwirkung. Schlimmer noch sehen Sysadmins oft nur die Anwendung an sich, nicht aber die darin verborgenen, möglicherweise problembehafteten Bibliotheken.
-Dieser Vortrag möchte der Frage nachgehen, in wiefern ein Stacktrace charakteristisch für bestimmte Bibliotheken oder gar Bibliotheksversionen ist - und in wie weit ein Angreifer so seine Angriffe gezielter ausrichten kann.</description>
+
+Der Vortrag erzählt die Idee und den Hintergrund sowie die Geschichte der etwas holprigen Entwicklung - und natürlich den Ausgang, wie charakteristisch ein Stacktrace für bestimmte Bibliotheken oder gar Bibliotheksversionen ist.</description>
 <persons>
 <person id='4335'>Skyr</person>
 </persons>
@@ -1347,7 +1348,7 @@ Last but not least I'll show how to build, ship and run containers and real worl
 <event guid='XgccTFEtnOihaFeuPBtVqw' id='5790'>
 <date>2014-04-20T22:30:00+02:00</date>
 <start>22:30</start>
-<duration>02:00</duration>
+<duration>01:15</duration>
 <room>Degerloch</room>
 <slug>EH2014_-_5790_-_de_-_degerloch_-_201404202230_-_nerd-tabu_-_skyr</slug>
 <recording>
@@ -1731,21 +1732,23 @@ Eine vorherige Anmeldung ist nicht erforderlich. </description>
 <start>18:45</start>
 <duration>01:00</duration>
 <room>Hackcenter</room>
-<slug>EH2014_-_5731_-_de_-_hackcenter_-_201404201845_-_gpg_pgp_key_signing_-_thomas_waldmann</slug>
+<slug>EH2014_-_5731_-_de_-_hackcenter_-_201404201845_-_gpg_pgp_key_signing_cacert_assurer-treffen_-_thomas_waldmann_-_rixx</slug>
 <recording>
 <license></license>
 <optout>false</optout>
 </recording>
-<title>GPG / PGP Key Signing</title>
+<title>GPG / PGP Key Signing, CAcert Assurer-Treffen</title>
 <subtitle></subtitle>
 <track></track>
 <type></type>
 <language>de</language>
-<abstract>Lasse Deinen GPG-Schluessel signieren / signiere anderer Leute's GPG-Schluessel.</abstract>
+<abstract>Lasse Deinen GPG-Schluessel signieren / signiere anderer Leute's GPG-Schluessel.
+Treffe dich mit CAcert-Assurern und sammle CAcert-Assurerpunkte.</abstract>
 <description>Bitte &quot;GPG-VIsitenkarten&quot; / Streifen und Ausweis(e) mitbringen.
-</description>
+Für CAcert bitte Kopien der CAcert-Formulare sowie die von CACert geforderten amtlichen Dokumente mit.</description>
 <persons>
 <person id='4463'>Thomas Waldmann</person>
+<person id='4554'>rixx</person>
 </persons>
 <links>
 </links>

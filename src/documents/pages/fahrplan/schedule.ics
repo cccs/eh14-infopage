@@ -405,12 +405,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T194500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T184500
-DTSTAMP;VALUE=DATE-TIME:20140414T174506Z
+DTSTAMP;VALUE=DATE-TIME:20140415T071347Z
 UID:rcvpfBO76J9o_SbjN5iakg@frab.cccv.de
 DESCRIPTION:Lasse Deinen GPG-Schluessel signieren / signiere anderer Leut
- e's GPG-Schluessel.
+ e's GPG-Schluessel.\nTreffe dich mit CAcert-Assurern und sammle CAcert-A
+ ssurerpunkte.
 URL:/pages/fahrplan/events/5731.html
-SUMMARY:GPG / PGP Key Signing
+SUMMARY:GPG / PGP Key Signing\, CAcert Assurer-Treffen
 ORGANIZER:EH2014
 LOCATION:Hackcenter
 END:VEVENT
@@ -496,10 +497,12 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T124500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T120000
-DTSTAMP;VALUE=DATE-TIME:20140409T173820Z
+DTSTAMP;VALUE=DATE-TIME:20140415T070940Z
 UID:ni7iin79iA9gscrnBMSJ7Q@frab.cccv.de
 DESCRIPTION:Was verrät der Stacktrace über eines Java-Programms über die 
- verwendeten Bibliotheken - und deren mögliche Schwachstellen?
+ verwendeten Bibliotheken - und deren mögliche Schwachstellen? Eine Anekd
+ ote über eine Wette und welche Knüppel dem „das skripte ich doch mal kur
+ z“ im Wege liegen.
 URL:/pages/fahrplan/events/5633.html
 SUMMARY:Java Stacktrace Fingerprinting
 ORGANIZER:EH2014
@@ -613,9 +616,9 @@ ORGANIZER:EH2014
 LOCATION:shack-Seminarraum
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140421T003000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T234500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T223000
-DTSTAMP;VALUE=DATE-TIME:20140415T064649Z
+DTSTAMP;VALUE=DATE-TIME:20140415T070352Z
 UID:XgccTFEtnOihaFeuPBtVqw@frab.cccv.de
 DESCRIPTION:Das Gesellschaftsspiel "Tabu" für Nerds!
 URL:/pages/fahrplan/events/5790.html

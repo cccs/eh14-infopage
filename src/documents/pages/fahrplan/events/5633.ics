@@ -15,10 +15,12 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T124500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T120000
-DTSTAMP;VALUE=DATE-TIME:20140409T173820Z
+DTSTAMP;VALUE=DATE-TIME:20140415T070940Z
 UID:ni7iin79iA9gscrnBMSJ7Q@frab.cccv.de
 DESCRIPTION:Was verrät der Stacktrace über eines Java-Programms über die 
- verwendeten Bibliotheken - und deren mögliche Schwachstellen?
+ verwendeten Bibliotheken - und deren mögliche Schwachstellen? Eine Anekd
+ ote über eine Wette und welche Knüppel dem „das skripte ich doch mal kur
+ z“ im Wege liegen.
 URL:/pages/fahrplan/events/5633.html
 SUMMARY:Java Stacktrace Fingerprinting
 ORGANIZER:EH2014
