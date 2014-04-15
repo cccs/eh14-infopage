@@ -15,7 +15,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T160000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T130000
-DTSTAMP;VALUE=DATE-TIME:20140412T180151Z
+DTSTAMP;VALUE=DATE-TIME:20140414T090901Z
 UID:-Bz_TUchSqDqhjChm_8CFQ@frab.cccv.de
 DESCRIPTION:Everyone use wikipedia to get information\, but how do you ed
  it it ?\nSpeaker can understand german\, but will answer (mainly) in eng

@@ -15,9 +15,9 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140418T230000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140418T221500
-DTSTAMP;VALUE=DATE-TIME:20140413T044211Z
+DTSTAMP;VALUE=DATE-TIME:20140414T053623Z
 UID:lXEhQvkRJSVDLDofUnI4Pg@frab.cccv.de
-DESCRIPTION:Make your (slightly) network more secure by pimping your Icin
+DESCRIPTION:Make your network (slightly) more secure by pimping your Icin
  ga/Nagios-based monitoring system.
 URL:/pages/fahrplan/events/5767.html
 SUMMARY:zero-cost netsecmon

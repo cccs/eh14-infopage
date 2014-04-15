@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20140330T020000
+RDATE:20140330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T120000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T114500
+DTSTAMP;VALUE=DATE-TIME:20140414T174816Z
+UID:FQEHQ6j05XN39J5N-Dd56w@frab.cccv.de
+DESCRIPTION:Die Einfuehrung von SEPA war schlimm\, bzw. ist immer noch sc
+ hlimm.\nEin kurzer Abriss darueber was passiert wenn eine Bank die Spezi
+ fikation nicht genau liest\, anschliessend die Software falsch anpasst u
+ nd dann der CCC kommt und ueberweisen will.
+URL:/pages/fahrplan/events/5805.html
+SUMMARY:SEPA - Disaster Recovery
+ORGANIZER:EH2014
+LOCATION:shack-Seminarraum
+END:VEVENT
+END:VCALENDAR

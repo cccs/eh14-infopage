@@ -238,7 +238,7 @@ The second part tries to get on the abstract idea of reading and writing landsca
 <track>Talk</track>
 <type>lecture</type>
 <language>en</language>
-<abstract>Make your (slightly) network more secure by pimping your Icinga/Nagios-based monitoring system.</abstract>
+<abstract>Make your network (slightly) more secure by pimping your Icinga/Nagios-based monitoring system.</abstract>
 <description>In this presentation we will discuss ideas for monitoring security relevant activity and events. This includes reminding on still outstanding maintenance operations, detecting anomalous activity, monitoring (and control) of brute force attacks running, and most certainly the security of Web, DNS, Email and other services in general.
 
 Given an existing Icinga monitoring system (like we documented in our 'Nagios/Icinga Kochbuch' recently published by O'Reilly) and not the resources to setup a proper security monitoring solution (like it is unfortunately under normal circumstances the case); why not at least improve network security by adding few more plugins?
@@ -416,37 +416,37 @@ Auf dem Podium: Carlo von lynX, Daniel Reusche, Tom Twiddlebit</description>
 <links>
 </links>
 </event>
-<event guid='VkBGg2nUmqm32PqT7MkhSg' id='5773'>
+<event guid='SUy5iEpNWx9zyqfQIG7caQ' id='5788'>
 <date>2014-04-19T19:45:00+02:00</date>
 <start>19:45</start>
 <duration>00:45</duration>
 <room>Degerloch</room>
-<slug>EH2014_-_5773_-_de_-_degerloch_-_201404191945_-_noestimates_-_robert_we</slug>
+<slug>EH2014_-_5788_-_de_-_degerloch_-_201404191945_-_anti_-cyber-realitatsabgleich_-_robert_haist</slug>
 <recording>
 <license></license>
 <optout>false</optout>
 </recording>
-<title>#NoEstimates</title>
-<subtitle>Why estimates are bad for your software &amp; team &amp; management</subtitle>
+<title>(Anti)-Cyber-Realitätsabgleich</title>
+<subtitle>HowTo not suck at Incident Response</subtitle>
 <track>Talk</track>
 <type>lecture</type>
 <language>de</language>
-<abstract>Estimates are part of our daily live. Every single day we ask and answer questions like: &quot;when will it be done?&quot;, &quot;how much does it cost?&quot; and use that &quot;data&quot; to plan the future of our projects. Some of us using rigorously formalised processes with heaps of excel sheets, some applying more agile methods like planning poker. While doing that, we do not realise, how estimates are harmful!
-#NoEstimates is about exploring alternative ways of planning our work, of assigning value to features and a different approach about what we want to deliver.</abstract>
-<description>The Talk will cover:
+<abstract>Anhand realitätsnaher Beispiele wird erklärt, auf was man bei einem Sicherheitsvorfall im Netzwerk und dessen Behandlung (Incident Response) zu Beginn achten sollte. Hierbei spielen vor allem die bestmögliche Nutzung vorhandener Ressourcen und die Einforderung von Marketingversprechen eine große Rolle.
 
-1) &quot;Bad parts&quot; of estimates e.g.: gaming, team dysfunctions, Parkinsons Law
+Also eine Art: &amp;lt;buzzwords&amp;gt; First-Response Best-Practice Guide &amp;lt;/buzzwords&amp;gt;
 
-2) Possible different methods to manage software projects &amp; teams
-
-3) what you should do instead
-
-4) Why &quot;Projects&quot; are even worse: #NoProjects Intro</description>
+Gute Ironie- und Sarkasmusdetektoren werden unbedingt vorausgesetzt.</abstract>
+<description>&lt;strong&gt;Agenda&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Inventur der Waffenkammer&lt;/li&gt;
+&lt;li&gt;Aktuelle Bedrohungslage&lt;/li&gt;
+&lt;li&gt;Erste-Hilfe ohne Opfer&lt;/li&gt;
+&lt;li&gt;Fragen / Diskussion&lt;/li&gt;
+&lt;/ul&gt;</description>
 <persons>
-<person id='4495'>robert_we</person>
+<person id='4505'>Robert Haist</person>
 </persons>
 <links>
-<link href='http://de.slideshare.net/weissgraeber'>Slideshare Example</link>
 </links>
 </event>
 <event guid='cw1kWo5jKcQug7gM1AvNGA' id='5748'>
@@ -725,11 +725,11 @@ Ziel ist es, ggf. eine Anpassung der Neufassung zu erstellen und für die weiter
 </links>
 </event>
 <event guid='fH1i8ZTMc9fi3uMV7DBjhw' id='5814'>
-<date>2014-04-19T18:30:00+02:00</date>
-<start>18:30</start>
+<date>2014-04-19T18:45:00+02:00</date>
+<start>18:45</start>
 <duration>02:00</duration>
 <room>Workshopraum</room>
-<slug>EH2014_-_5814_-__-_workshopraum_-_201404191830_-_workshop_zu_we_ll_make_ourselves_a_gnu_one</slug>
+<slug>EH2014_-_5814_-__-_workshopraum_-_201404191845_-_workshop_zu_we_ll_make_ourselves_a_gnu_one</slug>
 <recording>
 <license></license>
 <optout>false</optout>
@@ -827,6 +827,33 @@ Ein Treffen zum Erfahrungsaustausch und evtl. gemeinsam was voranzubringen.</abs
 Wir benutzen im Erfa verschiedene Software um Mitglieder und Konten zu fuehren. Sind aber nicht sonderlich gluecklich damit.
 Ein Treffen zum Erfahrungsaustausch und evtl. gemeinsam was voranzubringen.
 Vielleicht gelingt es ein gemeinsames Projekt zu stemmen um eigene Software zu schreiben die die Verwaltung vereinfacht und Datenschutzkonform ist. Wahlweise auch kommerzielle Software zu kaufen.</description>
+<persons>
+<person id='4536'>DaN</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='FQEHQ6j05XN39J5N-Dd56w' id='5805'>
+<date>2014-04-19T11:45:00+02:00</date>
+<start>11:45</start>
+<duration>00:15</duration>
+<room>shack-Seminarraum</room>
+<slug>EH2014_-_5805_-_de_-_shack-seminarraum_-_201404191145_-_sepa_-_disaster_recovery_-_dan</slug>
+<recording>
+<license></license>
+<optout>true</optout>
+</recording>
+<title>SEPA - Disaster Recovery</title>
+<subtitle>Wie man eine Bank (fast) kaputt macht</subtitle>
+<track>Talk</track>
+<type>lightning_talk</type>
+<language>de</language>
+<abstract>Die Einfuehrung von SEPA war schlimm, bzw. ist immer noch schlimm.
+Ein kurzer Abriss darueber was passiert wenn eine Bank die Spezifikation nicht genau liest, anschliessend die Software falsch anpasst und dann der CCC kommt und ueberweisen will.</abstract>
+<description>Die Komplikationen der SEPA Umstellung mit dem Vereinskonto.
+Bei der Umstellung des Vereinskonto auf SEPA, im speziellen, das Lastschriftverfahren, sind einige Fehler aufgetaucht die bei der Umsetzung der Software in der Bank wohl so nicht bedacht waren.
+Dies fuehrte zu mehrere Komplikationen und letztendlich sogar zu Verdaechtigungen boeswilliger Absicht die Bank zu sabotieren.
+Die Geschichte wie aus einer vermeintlich einfachen Umstellung ein monatelanger Streit bis hin zu Bundesbank wurde mit teilweise amuesanten aber auch ernsten Stellen.</description>
 <persons>
 <person id='4536'>DaN</person>
 </persons>
@@ -935,68 +962,41 @@ Dann denken wir einen Schritt weiter. Wie schaffen wir es, dass jedes Hardwarepr
 <links>
 </links>
 </event>
-<event guid='SUy5iEpNWx9zyqfQIG7caQ' id='5788'>
+<event guid='VkBGg2nUmqm32PqT7MkhSg' id='5773'>
 <date>2014-04-19T21:30:00+02:00</date>
 <start>21:30</start>
 <duration>00:45</duration>
 <room>shack-Seminarraum</room>
-<slug>EH2014_-_5788_-_de_-_shack-seminarraum_-_201404192130_-_anti_-cyber-realitatsabgleich_-_robert_haist</slug>
+<slug>EH2014_-_5773_-_de_-_shack-seminarraum_-_201404192130_-_noestimates_-_robert_we</slug>
 <recording>
 <license></license>
 <optout>false</optout>
 </recording>
-<title>(Anti)-Cyber-Realitätsabgleich</title>
-<subtitle>HowTo not suck at Incident Response</subtitle>
+<title>#NoEstimates</title>
+<subtitle>Why estimates are bad for your software &amp; team &amp; management</subtitle>
 <track>Talk</track>
 <type>lecture</type>
 <language>de</language>
-<abstract>Anhand realitätsnaher Beispiele wird erklärt, auf was man bei einem Sicherheitsvorfall im Netzwerk und dessen Behandlung (Incident Response) zu Beginn achten sollte. Hierbei spielen vor allem die bestmögliche Nutzung vorhandener Ressourcen und die Einforderung von Marketingversprechen eine große Rolle.
+<abstract>Estimates are part of our daily live. Every single day we ask and answer questions like: &quot;when will it be done?&quot;, &quot;how much does it cost?&quot; and use that &quot;data&quot; to plan the future of our projects. Some of us using rigorously formalised processes with heaps of excel sheets, some applying more agile methods like planning poker. While doing that, we do not realise, how estimates are harmful!
+#NoEstimates is about exploring alternative ways of planning our work, of assigning value to features and a different approach about what we want to deliver.</abstract>
+<description>The Talk will cover:
 
-Also eine Art: &amp;lt;buzzwords&amp;gt; First-Response Best-Practice Guide &amp;lt;/buzzwords&amp;gt;
+1) &quot;Bad parts&quot; of estimates e.g.: gaming, team dysfunctions, Parkinsons Law
 
-Gute Ironie- und Sarkasmusdetektoren werden unbedingt vorausgesetzt.</abstract>
-<description>&lt;strong&gt;Agenda&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;Inventur der Waffenkammer&lt;/li&gt;
-&lt;li&gt;Aktuelle Bedrohungslage&lt;/li&gt;
-&lt;li&gt;Erste-Hilfe ohne Opfer&lt;/li&gt;
-&lt;li&gt;Fragen / Diskussion&lt;/li&gt;
-&lt;/ul&gt;</description>
+2) Possible different methods to manage software projects &amp; teams
+
+3) what you should do instead
+
+4) Why &quot;Projects&quot; are even worse: #NoProjects Intro</description>
 <persons>
-<person id='4505'>Robert Haist</person>
+<person id='4495'>robert_we</person>
 </persons>
 <links>
+<link href='http://de.slideshare.net/weissgraeber'>Slideshare Example</link>
 </links>
 </event>
 </room>
 <room name='shackspace Küche'>
-<event guid='djdxYuVfBW7vopEToCmqXQ' id='5753'>
-<date>2014-04-19T12:00:00+02:00</date>
-<start>12:00</start>
-<duration>02:00</duration>
-<room>shackspace Küche</room>
-<slug>EH2014_-_5753_-_en_-_shackspace_kuche_-_201404191200_-_baozi_-_hadez</slug>
-<recording>
-<license>CC-BY</license>
-<optout>false</optout>
-</recording>
-<title>Baozi</title>
-<subtitle>Schnelles Gedämpfes für die Kauleiste</subtitle>
-<track>Workshop</track>
-<type>workshop</type>
-<language>en</language>
-<abstract>In diesem Workshop lernt Ihr, wie man Baozi - chinesische gedämpfte Teigtaschen - schnell und einfach selbst zubereiten kann.
-Baozi lassen sich auch batchprocessen und puffern, was sie zum idealen Zwischendurchsnack oder Mittagessen für zeitknappe Hacker macht.
-Für Verbrauchsmaterial wird ein kleiner Unkostenbeitrag erhoben.</abstract>
-<description></description>
-<persons>
-<person id='4414'>hadez</person>
-</persons>
-<links>
-<link href='http://de.wikipedia.org/wiki/Baozi'>Wikipedia: Baozi</link>
-<link href='http://kombinat23.tumblr.com/post/75469982226/chinese-steamed-pork-buns'>kombinat23: Baozi</link>
-</links>
-</event>
 <event guid='E981zC0GZpPRE7j4JSyIhA' id='5776'>
 <date>2014-04-19T19:30:00+02:00</date>
 <start>19:30</start>
@@ -1727,11 +1727,11 @@ Eine vorherige Anmeldung ist nicht erforderlich. </description>
 </links>
 </event>
 <event guid='rcvpfBO76J9o_SbjN5iakg' id='5731'>
-<date>2014-04-20T17:15:00+02:00</date>
-<start>17:15</start>
+<date>2014-04-20T18:45:00+02:00</date>
+<start>18:45</start>
 <duration>01:00</duration>
 <room>Hackcenter</room>
-<slug>EH2014_-_5731_-_de_-_hackcenter_-_201404201715_-_gpg_pgp_key_signing_-_thomas_waldmann</slug>
+<slug>EH2014_-_5731_-_de_-_hackcenter_-_201404201845_-_gpg_pgp_key_signing_-_thomas_waldmann</slug>
 <recording>
 <license></license>
 <optout>false</optout>
@@ -1970,6 +1970,33 @@ hc ist seit 2008 admin im hackint, und hat dort unter anderem an der Umstellung 
 </event>
 </room>
 <room name='shackspace Küche'>
+<event guid='djdxYuVfBW7vopEToCmqXQ' id='5753'>
+<date>2014-04-20T13:00:00+02:00</date>
+<start>13:00</start>
+<duration>02:00</duration>
+<room>shackspace Küche</room>
+<slug>EH2014_-_5753_-_en_-_shackspace_kuche_-_201404201300_-_baozi_-_hadez</slug>
+<recording>
+<license>CC-BY</license>
+<optout>false</optout>
+</recording>
+<title>Baozi</title>
+<subtitle>Schnelles Gedämpfes für die Kauleiste</subtitle>
+<track>Workshop</track>
+<type>workshop</type>
+<language>en</language>
+<abstract>In diesem Workshop lernt Ihr, wie man Baozi - chinesische gedämpfte Teigtaschen - schnell und einfach selbst zubereiten kann.
+Baozi lassen sich auch batchprocessen und puffern, was sie zum idealen Zwischendurchsnack oder Mittagessen für zeitknappe Hacker macht.
+Für Verbrauchsmaterial wird ein kleiner Unkostenbeitrag erhoben.</abstract>
+<description></description>
+<persons>
+<person id='4414'>hadez</person>
+</persons>
+<links>
+<link href='http://de.wikipedia.org/wiki/Baozi'>Wikipedia: Baozi</link>
+<link href='http://kombinat23.tumblr.com/post/75469982226/chinese-steamed-pork-buns'>kombinat23: Baozi</link>
+</links>
+</event>
 </room>
 <room name='Parkplatz'>
 </room>

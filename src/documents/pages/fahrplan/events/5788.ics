@@ -13,9 +13,9 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T221500
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T213000
-DTSTAMP;VALUE=DATE-TIME:20140409T193935Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T203000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T194500
+DTSTAMP;VALUE=DATE-TIME:20140414T132613Z
 UID:SUy5iEpNWx9zyqfQIG7caQ@frab.cccv.de
 DESCRIPTION:Anhand realitätsnaher Beispiele wird erklärt\, auf was man be
  i einem Sicherheitsvorfall im Netzwerk und dessen Behandlung (Incident R
@@ -27,6 +27,6 @@ DESCRIPTION:Anhand realitätsnaher Beispiele wird erklärt\, auf was man be
 URL:/pages/fahrplan/events/5788.html
 SUMMARY:(Anti)-Cyber-Realitätsabgleich
 ORGANIZER:EH2014
-LOCATION:shack-Seminarraum
+LOCATION:Degerloch
 END:VEVENT
 END:VCALENDAR
