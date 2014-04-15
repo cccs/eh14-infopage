@@ -861,11 +861,11 @@ Die Geschichte wie aus einer vermeintlich einfachen Umstellung ein monatelanger 
 </links>
 </event>
 <event guid='cA4WgW51r4mor9eBBTkMOQ' id='5741'>
-<date>2014-04-19T12:45:00+02:00</date>
-<start>12:45</start>
-<duration>03:00</duration>
+<date>2014-04-19T13:00:00+02:00</date>
+<start>13:00</start>
+<duration>02:45</duration>
 <room>shack-Seminarraum</room>
-<slug>EH2014_-_5741_-_de_-_shack-seminarraum_-_201404191245_-_mitgliederversammlung_darc_ov_d23_-_freunde_des_ccc_-_tny</slug>
+<slug>EH2014_-_5741_-_de_-_shack-seminarraum_-_201404191300_-_mitgliederversammlung_darc_ov_d23_-_freunde_des_ccc_-_tny</slug>
 <recording>
 <license></license>
 <optout>true</optout>
@@ -1732,23 +1732,43 @@ Eine vorherige Anmeldung ist nicht erforderlich. </description>
 <start>18:45</start>
 <duration>01:00</duration>
 <room>Hackcenter</room>
-<slug>EH2014_-_5731_-_de_-_hackcenter_-_201404201845_-_gpg_pgp_key_signing_cacert_assurer-treffen_-_thomas_waldmann_-_rixx</slug>
+<slug>EH2014_-_5731_-_de_-_hackcenter_-_201404201845_-_gpg_pgp_key_signing_-_thomas_waldmann</slug>
 <recording>
 <license></license>
 <optout>false</optout>
 </recording>
-<title>GPG / PGP Key Signing, CAcert Assurer-Treffen</title>
+<title>GPG / PGP Key Signing</title>
 <subtitle></subtitle>
 <track></track>
 <type></type>
 <language>de</language>
-<abstract>Lasse Deinen GPG-Schluessel signieren / signiere anderer Leute's GPG-Schluessel.
-Treffe dich mit CAcert-Assurern und sammle CAcert-Assurerpunkte.</abstract>
-<description>Bitte &quot;GPG-VIsitenkarten&quot; / Streifen und Ausweis(e) mitbringen.
-Für CAcert bitte Kopien der CAcert-Formulare sowie die von CACert geforderten amtlichen Dokumente mit.</description>
+<abstract>Lasse Deinen GPG-Schluessel signieren / signiere anderer Leute's GPG-Schluessel.</abstract>
+<description>Bitte &quot;GPG-VIsitenkarten&quot; / Streifen und Ausweis(e) mitbringen.</description>
 <persons>
 <person id='4463'>Thomas Waldmann</person>
-<person id='4554'>rixx</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='KAN1Nop-HKhrXh8xjyDTjg' id='5823'>
+<date>2014-04-20T19:45:00+02:00</date>
+<start>19:45</start>
+<duration>01:00</duration>
+<room>Hackcenter</room>
+<slug>EH2014_-_5823_-_de_-_hackcenter_-_201404201945_-_cacert_assurer-treffen_-_rixx</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>CAcert Assurer-Treffen</title>
+<subtitle></subtitle>
+<track></track>
+<type></type>
+<language>de</language>
+<abstract>Treffe dich mit CAcert-Assurern und sammle CAcert-Assurerpunkte.</abstract>
+<description>Wenn möglich, bitte Kopien der CAcert-Formulare mitbringen. Nicht vergessen: Die von CACert geforderten amtlichen Dokumente zur Identitätsprüfung!</description>
+<persons>
+<person id='4553'>rixx</person>
 </persons>
 <links>
 </links>

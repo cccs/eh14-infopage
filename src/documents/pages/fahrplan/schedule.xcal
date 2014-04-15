@@ -197,24 +197,22 @@
 <method>PUBLISH</method>
 <uid>5731@EH2014@pentabarf.org</uid>
 <pentabarf:event-id>5731</pentabarf:event-id>
-<pentabarf:event-slug>EH2014_-_5731_-_de_-_hackcenter_-_201404201845_-_gpg_pgp_key_signing_cacert_assurer-treffen_-_thomas_waldmann_-_rixx</pentabarf:event-slug>
-<pentabarf:title>GPG / PGP Key Signing, CAcert Assurer-Treffen</pentabarf:title>
+<pentabarf:event-slug>EH2014_-_5731_-_de_-_hackcenter_-_201404201845_-_gpg_pgp_key_signing_-_thomas_waldmann</pentabarf:event-slug>
+<pentabarf:title>GPG / PGP Key Signing</pentabarf:title>
 <pentabarf:subtitle></pentabarf:subtitle>
 <pentabarf:language>German</pentabarf:language>
 <pentabarf:language-code>de</pentabarf:language-code>
 <dtstart>20140420T184500</dtstart>
 <dtend>20140420T194500</dtend>
 <duration>010000</duration>
-<summary>GPG / PGP Key Signing, CAcert Assurer-Treffen- </summary>
-<description>Lasse Deinen GPG-Schluessel signieren / signiere anderer Leute's GPG-Schluessel.
-Treffe dich mit CAcert-Assurern und sammle CAcert-Assurerpunkte.</description>
+<summary>GPG / PGP Key Signing- </summary>
+<description>Lasse Deinen GPG-Schluessel signieren / signiere anderer Leute's GPG-Schluessel.</description>
 <class>PUBLIC</class>
 <status>CONFIRMED</status>
 <category>Lecture</category>
 <url>/pages/fahrplan/events/5731.html</url>
 <location>Hackcenter</location>
 <attendee>Thomas Waldmann</attendee>
-<attendee>rixx</attendee>
 </vevent>
 <vevent>
 <method>PUBLISH</method>
@@ -367,14 +365,14 @@ Treffe dich mit CAcert-Assurern und sammle CAcert-Assurerpunkte.</description>
 <method>PUBLISH</method>
 <uid>5741@EH2014@pentabarf.org</uid>
 <pentabarf:event-id>5741</pentabarf:event-id>
-<pentabarf:event-slug>EH2014_-_5741_-_de_-_shack-seminarraum_-_201404191245_-_mitgliederversammlung_darc_ov_d23_-_freunde_des_ccc_-_tny</pentabarf:event-slug>
+<pentabarf:event-slug>EH2014_-_5741_-_de_-_shack-seminarraum_-_201404191300_-_mitgliederversammlung_darc_ov_d23_-_freunde_des_ccc_-_tny</pentabarf:event-slug>
 <pentabarf:title>Mitgliederversammlung DARC OV D23 - Freunde des CCC</pentabarf:title>
 <pentabarf:subtitle></pentabarf:subtitle>
 <pentabarf:language>German</pentabarf:language>
 <pentabarf:language-code>de</pentabarf:language-code>
-<dtstart>20140419T124500</dtstart>
+<dtstart>20140419T130000</dtstart>
 <dtend>20140419T154500</dtend>
-<duration>030000</duration>
+<duration>024500</duration>
 <summary>Mitgliederversammlung DARC OV D23 - Freunde des CCC- </summary>
 <description>Mitgliederversammlung des DARC Ortsverein D23 - Freunde des CCC</description>
 <class>PUBLIC</class>
@@ -1537,6 +1535,27 @@ When: Morning. No specific time slot.
 <category>Lecture</category>
 <url>/pages/fahrplan/events/5820.html</url>
 <location>Degerloch</location>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5823@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5823</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5823_-_de_-_hackcenter_-_201404201945_-_cacert_assurer-treffen_-_rixx</pentabarf:event-slug>
+<pentabarf:title>CAcert Assurer-Treffen</pentabarf:title>
+<pentabarf:subtitle></pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140420T194500</dtstart>
+<dtend>20140420T204500</dtend>
+<duration>010000</duration>
+<summary>CAcert Assurer-Treffen- </summary>
+<description>Treffe dich mit CAcert-Assurern und sammle CAcert-Assurerpunkte.</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5823.html</url>
+<location>Hackcenter</location>
+<attendee>rixx</attendee>
 </vevent>
 </vcalendar>
 </iCalendar>
