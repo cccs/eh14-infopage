@@ -10,14 +10,14 @@
 <pentabarf:event-id>5633</pentabarf:event-id>
 <pentabarf:event-slug>EH2014_-_5633_-_de_-_degerloch_-_201404201345_-_java_stacktrace_fingerprinting_-_skyr</pentabarf:event-slug>
 <pentabarf:title>Java Stacktrace Fingerprinting</pentabarf:title>
-<pentabarf:subtitle></pentabarf:subtitle>
+<pentabarf:subtitle>Eine Anekdote über eine Wette und welche Knüppel dem „das skripte ich doch mal kurz“ im Wege liegen.</pentabarf:subtitle>
 <pentabarf:language>German</pentabarf:language>
 <pentabarf:language-code>de</pentabarf:language-code>
 <dtstart>20140420T134500</dtstart>
 <dtend>20140420T143000</dtend>
 <duration>004500</duration>
-<summary>Java Stacktrace Fingerprinting- </summary>
-<description>Was verrät der Stacktrace über eines Java-Programms über die verwendeten Bibliotheken - und deren mögliche Schwachstellen? Eine Anekdote über eine Wette und welche Knüppel dem „das skripte ich doch mal kurz“ im Wege liegen.</description>
+<summary>Java Stacktrace Fingerprinting- Eine Anekdote über eine Wette und welche Knüppel dem „das skripte ich doch mal kurz“ im Wege liegen.</summary>
+<description>Was verrät der Stacktrace eines Java-Programms über die verwendeten Bibliotheken - und deren mögliche Schwachstellen? Eine Anekdote über eine Wette und welche Knüppel dem „das skripte ich doch mal kurz“ im Wege liegen.</description>
 <class>PUBLIC</class>
 <status>CONFIRMED</status>
 <category>Lecture</category>

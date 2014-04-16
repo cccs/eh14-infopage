@@ -520,12 +520,12 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T143000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T134500
-DTSTAMP;VALUE=DATE-TIME:20140415T190239Z
+DTSTAMP;VALUE=DATE-TIME:20140416T184122Z
 UID:ni7iin79iA9gscrnBMSJ7Q@frab.cccv.de
-DESCRIPTION:Was verrät der Stacktrace über eines Java-Programms über die 
- verwendeten Bibliotheken - und deren mögliche Schwachstellen? Eine Anekd
- ote über eine Wette und welche Knüppel dem „das skripte ich doch mal kur
- z“ im Wege liegen.
+DESCRIPTION:Was verrät der Stacktrace eines Java-Programms über die verwe
+ ndeten Bibliotheken - und deren mögliche Schwachstellen? Eine Anekdote ü
+ ber eine Wette und welche Knüppel dem „das skripte ich doch mal kurz“ im
+  Wege liegen.
 URL:/pages/fahrplan/events/5633.html
 SUMMARY:Java Stacktrace Fingerprinting
 ORGANIZER:EH2014

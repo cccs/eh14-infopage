@@ -1127,11 +1127,11 @@ I may also cover:
 <optout>false</optout>
 </recording>
 <title>Java Stacktrace Fingerprinting</title>
-<subtitle></subtitle>
+<subtitle>Eine Anekdote über eine Wette und welche Knüppel dem „das skripte ich doch mal kurz“ im Wege liegen.</subtitle>
 <track>Talk</track>
 <type>lecture</type>
 <language>de</language>
-<abstract>Was verrät der Stacktrace über eines Java-Programms über die verwendeten Bibliotheken - und deren mögliche Schwachstellen? Eine Anekdote über eine Wette und welche Knüppel dem „das skripte ich doch mal kurz“ im Wege liegen.</abstract>
+<abstract>Was verrät der Stacktrace eines Java-Programms über die verwendeten Bibliotheken - und deren mögliche Schwachstellen? Eine Anekdote über eine Wette und welche Knüppel dem „das skripte ich doch mal kurz“ im Wege liegen.</abstract>
 <description>Admins werden aus Sicherheitsgründen angemahnt, seine Server so zu konfigurieren, dass nach außen keine Fehlermeldungen sichtbar sind. Was aber verrät der Stacktrace eines Java-Programms?
 In der Javawelt ist es Usus, sich am reichhaltigen Schatz an Bibliotheken und Frameworks zu bedienen. Das hat den Vorteil, dass insbesondere Security-(Anfänger)fehler nur 1x gemacht werden... dafür haben solche Fehler, wenn sie dann doch auftreten, eine große Streuwirkung. Schlimmer noch sehen Sysadmins oft nur die Anwendung an sich, nicht aber die darin verborgenen, möglicherweise problembehafteten Bibliotheken.
 
