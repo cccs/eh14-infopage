@@ -12,8 +12,6 @@
 <day date='2014-04-18' end='2014-04-19T00:00:00+02:00' index='1' start='2014-04-18T16:00:00+02:00'>
 <room name='Degerloch'>
 </room>
-<room name='Großer Saal'>
-</room>
 <room name='Workshopraum'>
 </room>
 <room name='Hackcenter'>
@@ -42,11 +40,11 @@
 </room>
 <room name='shack-Seminarraum'>
 <event guid='O-w9WcQVYddcl20sSP_Lvg' id='5765'>
-<date>2014-04-18T16:00:00+02:00</date>
-<start>16:00</start>
+<date>2014-04-18T16:45:00+02:00</date>
+<start>16:45</start>
 <duration>00:45</duration>
 <room>shack-Seminarraum</room>
-<slug>EH2014_-_5765_-_de_-_shack-seminarraum_-_201404181600_-_hakel_workshop_-_kerstin</slug>
+<slug>EH2014_-_5765_-_de_-_shack-seminarraum_-_201404181645_-_hakel_workshop_-_kerstin</slug>
 <recording>
 <license></license>
 <optout>false</optout>
@@ -174,11 +172,11 @@ zum einlesen sind folgende dokumentationen nützlich:
 </links>
 </event>
 <event guid='kOCQTPjFipbqkzw-f61yXw' id='5784'>
-<date>2014-04-18T20:15:00+02:00</date>
-<start>20:15</start>
+<date>2014-04-18T20:30:00+02:00</date>
+<start>20:30</start>
 <duration>00:30</duration>
 <room>shack-Seminarraum</room>
-<slug>EH2014_-_5784_-_en_-_shack-seminarraum_-_201404182015_-_reading_and_writing_landscape_framing_reality_with_data_-_benedikt_gross</slug>
+<slug>EH2014_-_5784_-_en_-_shack-seminarraum_-_201404182030_-_reading_and_writing_landscape_framing_reality_with_data_-_benedikt_gross</slug>
 <recording>
 <license></license>
 <optout>false</optout>
@@ -538,8 +536,6 @@ Bitte meldet dazu eure Gruppe per Mail an muzy [no spam plz!] chaosdorf.de an. W
 <links>
 </links>
 </event>
-</room>
-<room name='Großer Saal'>
 </room>
 <room name='Workshopraum'>
 <event guid='GnA8_-5g-pXihZxu381Vvw' id='5751'>
@@ -1055,28 +1051,25 @@ Wir zeigen euch die Standard-Ausstattung nach STAN, was wir in Stuttgart sonst n
 </day>
 <day date='2014-04-20' end='2014-04-21T00:30:00+02:00' index='3' start='2014-04-20T09:00:00+02:00'>
 <room name='Degerloch'>
-<event guid='ni7iin79iA9gscrnBMSJ7Q' id='5633'>
+<event guid='j7CaXrKoiL1iM3_CuDvkFg' id='5764'>
 <date>2014-04-20T12:00:00+02:00</date>
 <start>12:00</start>
-<duration>00:45</duration>
+<duration>00:30</duration>
 <room>Degerloch</room>
-<slug>EH2014_-_5633_-_de_-_degerloch_-_201404201200_-_java_stacktrace_fingerprinting_-_skyr</slug>
+<slug>EH2014_-_5764_-_de_-_degerloch_-_201404201200_-_einfuhrung_in_django_-_arne_schauf</slug>
 <recording>
-<license></license>
+<license>CC-BY-SA</license>
 <optout>false</optout>
 </recording>
-<title>Java Stacktrace Fingerprinting</title>
-<subtitle></subtitle>
+<title>Einführung in Django</title>
+<subtitle>Was ist Django und wofür braucht man das?</subtitle>
 <track>Talk</track>
 <type>lecture</type>
 <language>de</language>
-<abstract>Was verrät der Stacktrace über eines Java-Programms über die verwendeten Bibliotheken - und deren mögliche Schwachstellen? Eine Anekdote über eine Wette und welche Knüppel dem „das skripte ich doch mal kurz“ im Wege liegen.</abstract>
-<description>Admins werden aus Sicherheitsgründen angemahnt, seine Server so zu konfigurieren, dass nach außen keine Fehlermeldungen sichtbar sind. Was aber verrät der Stacktrace eines Java-Programms?
-In der Javawelt ist es Usus, sich am reichhaltigen Schatz an Bibliotheken und Frameworks zu bedienen. Das hat den Vorteil, dass insbesondere Security-(Anfänger)fehler nur 1x gemacht werden... dafür haben solche Fehler, wenn sie dann doch auftreten, eine große Streuwirkung. Schlimmer noch sehen Sysadmins oft nur die Anwendung an sich, nicht aber die darin verborgenen, möglicherweise problembehafteten Bibliotheken.
-
-Der Vortrag erzählt die Idee und den Hintergrund sowie die Geschichte der etwas holprigen Entwicklung - und natürlich den Ausgang, wie charakteristisch ein Stacktrace für bestimmte Bibliotheken oder gar Bibliotheksversionen ist.</description>
+<abstract>Ein kurzer Überblick über das Python-Webframework Django. Was nimmt einem das Framework ab - was muss man selber machen?</abstract>
+<description>In diesem Vortrag werde ich das in Python geschriebene Webframework Django vorstellen. Ich werde versuchen die Frage zu beantworten, wann es Sinn macht das Framework einzusetzen und inwiefern es einem die Entwicklung einer Webbapplication erleichtert.</description>
 <persons>
-<person id='4335'>Skyr</person>
+<person id='4484'>Arne Schauf</person>
 </persons>
 <links>
 </links>
@@ -1123,25 +1116,28 @@ I may also cover:
 <link href='http://marcuswolschon.blogspot.de/2013/07/travel-cnc3d-printervector-cutter.html'>CNC I'll bring</link>
 </links>
 </event>
-<event guid='j7CaXrKoiL1iM3_CuDvkFg' id='5764'>
-<date>2014-04-20T14:00:00+02:00</date>
-<start>14:00</start>
-<duration>00:30</duration>
+<event guid='ni7iin79iA9gscrnBMSJ7Q' id='5633'>
+<date>2014-04-20T13:45:00+02:00</date>
+<start>13:45</start>
+<duration>00:45</duration>
 <room>Degerloch</room>
-<slug>EH2014_-_5764_-_de_-_degerloch_-_201404201400_-_einfuhrung_in_django_-_arne_schauf</slug>
+<slug>EH2014_-_5633_-_de_-_degerloch_-_201404201345_-_java_stacktrace_fingerprinting_-_skyr</slug>
 <recording>
-<license>CC-BY-SA</license>
+<license></license>
 <optout>false</optout>
 </recording>
-<title>Einführung in Django</title>
-<subtitle>Was ist Django und wofür braucht man das?</subtitle>
+<title>Java Stacktrace Fingerprinting</title>
+<subtitle></subtitle>
 <track>Talk</track>
 <type>lecture</type>
 <language>de</language>
-<abstract>Ein kurzer Überblick über das Python-Webframework Django. Was nimmt einem das Framework ab - was muss man selber machen?</abstract>
-<description>In diesem Vortrag werde ich das in Python geschriebene Webframework Django vorstellen. Ich werde versuchen die Frage zu beantworten, wann es Sinn macht das Framework einzusetzen und inwiefern es einem die Entwicklung einer Webbapplication erleichtert.</description>
+<abstract>Was verrät der Stacktrace über eines Java-Programms über die verwendeten Bibliotheken - und deren mögliche Schwachstellen? Eine Anekdote über eine Wette und welche Knüppel dem „das skripte ich doch mal kurz“ im Wege liegen.</abstract>
+<description>Admins werden aus Sicherheitsgründen angemahnt, seine Server so zu konfigurieren, dass nach außen keine Fehlermeldungen sichtbar sind. Was aber verrät der Stacktrace eines Java-Programms?
+In der Javawelt ist es Usus, sich am reichhaltigen Schatz an Bibliotheken und Frameworks zu bedienen. Das hat den Vorteil, dass insbesondere Security-(Anfänger)fehler nur 1x gemacht werden... dafür haben solche Fehler, wenn sie dann doch auftreten, eine große Streuwirkung. Schlimmer noch sehen Sysadmins oft nur die Anwendung an sich, nicht aber die darin verborgenen, möglicherweise problembehafteten Bibliotheken.
+
+Der Vortrag erzählt die Idee und den Hintergrund sowie die Geschichte der etwas holprigen Entwicklung - und natürlich den Ausgang, wie charakteristisch ein Stacktrace für bestimmte Bibliotheken oder gar Bibliotheksversionen ist.</description>
 <persons>
-<person id='4484'>Arne Schauf</person>
+<person id='4335'>Skyr</person>
 </persons>
 <links>
 </links>
@@ -1368,8 +1364,6 @@ Last but not least I'll show how to build, ship and run containers and real worl
 <links>
 </links>
 </event>
-</room>
-<room name='Großer Saal'>
 </room>
 <room name='Workshopraum'>
 <event guid='57KK2aVaYXc9TL5nftKVRA' id='5812'>
@@ -1991,6 +1985,36 @@ hc ist seit 2008 admin im hackint, und hat dort unter anderem an der Umstellung 
 <links>
 </links>
 </event>
+<event guid='6SLKlOa2kCRT1Y2alwwCZA' id='5774'>
+<date>2014-04-20T21:15:00+02:00</date>
+<start>21:15</start>
+<duration>01:00</duration>
+<room>shack-Seminarraum</room>
+<slug>EH2014_-_5774_-_de_-_shack-seminarraum_-_201404202115_-_bettercrypto_org_-_maclemon</slug>
+<recording>
+<license>https://creativecommons.org/licenses/by-sa/</license>
+<optout>false</optout>
+</recording>
+<title>BetterCrypto.org</title>
+<subtitle>Applied Crypto Hardening</subtitle>
+<track>Talk</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Starke Kryptografie für Server korrekt konfiguriert. Ein Leitfaden für die Systemadministration.</abstract>
+<description>Viele reden über starke Verschlüsselung und darüber, daß wir sie brauchen um uns gegen die globale Überwachung im Internet zu verteidigen. Wenn es denn nur so einfach wäre das auf den eigenen Servern korrekt zu konfigurieren. Es ist viel zu leicht gravierende Fehler zu machen.
+
+Das BetterCrypto Projekt gibt eine Anleitung dazu wie gute Verschlüsselung einfach und vor allem korrekt implementiert werden kann.
+
+Die Entstehung des Guides ist komplett transparent in einem Git Repository nachvollziehbar. Die gesamte Diskussion ist öffentlich. Alle Inhalte sind unter CC-BY zur freien Nutzung verfügbar. Alle Leute die zum Projekt beitragen tun dies ehrenamtlich.
+
+Das Ziel ist den Überwachenden keinen Klartext mehr zu schenken!</description>
+<persons>
+<person id='4496'>@MacLemon</person>
+</persons>
+<links>
+<link href='https://bettercrypto.org/'>BetterCrypto.org</link>
+</links>
+</event>
 </room>
 <room name='shackspace Küche'>
 <event guid='djdxYuVfBW7vopEToCmqXQ' id='5753'>
@@ -2056,13 +2080,15 @@ Und wie kriegt mehr davon?
 </links>
 </event>
 </room>
-<room name='Großer Saal'>
+<room name='Workshopraum'>
+</room>
+<room name='Hackcenter'>
 <event guid='vrxJlMAzQsvsLef4XtJ5_w' id='5726'>
 <date>2014-04-21T12:45:00+02:00</date>
 <start>12:45</start>
 <duration>00:45</duration>
-<room>Großer Saal</room>
-<slug>EH2014_-_5726_-_de_-_grosser_saal_-_201404211245_-_infrastructure_review_-_momo</slug>
+<room>Hackcenter</room>
+<slug>EH2014_-_5726_-_de_-_hackcenter_-_201404211245_-_infrastructure_review_-_momo</slug>
 <recording>
 <license></license>
 <optout>false</optout>
@@ -2084,8 +2110,8 @@ Und wie kriegt mehr davon?
 <date>2014-04-21T13:30:00+02:00</date>
 <start>13:30</start>
 <duration>00:30</duration>
-<room>Großer Saal</room>
-<slug>EH2014_-_5792_-_en_-_grosser_saal_-_201404211330_-_closing_event</slug>
+<room>Hackcenter</room>
+<slug>EH2014_-_5792_-_en_-_hackcenter_-_201404211330_-_closing_event</slug>
 <recording>
 <license></license>
 <optout>false</optout>
@@ -2102,10 +2128,6 @@ Und wie kriegt mehr davon?
 <links>
 </links>
 </event>
-</room>
-<room name='Workshopraum'>
-</room>
-<room name='Hackcenter'>
 </room>
 <room name='shack-Seminarraum'>
 </room>

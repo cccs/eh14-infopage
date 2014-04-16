@@ -8,13 +8,13 @@
 <method>PUBLISH</method>
 <uid>5633@EH2014@pentabarf.org</uid>
 <pentabarf:event-id>5633</pentabarf:event-id>
-<pentabarf:event-slug>EH2014_-_5633_-_de_-_degerloch_-_201404201200_-_java_stacktrace_fingerprinting_-_skyr</pentabarf:event-slug>
+<pentabarf:event-slug>EH2014_-_5633_-_de_-_degerloch_-_201404201345_-_java_stacktrace_fingerprinting_-_skyr</pentabarf:event-slug>
 <pentabarf:title>Java Stacktrace Fingerprinting</pentabarf:title>
 <pentabarf:subtitle></pentabarf:subtitle>
 <pentabarf:language>German</pentabarf:language>
 <pentabarf:language-code>de</pentabarf:language-code>
-<dtstart>20140420T120000</dtstart>
-<dtend>20140420T124500</dtend>
+<dtstart>20140420T134500</dtstart>
+<dtend>20140420T143000</dtend>
 <duration>004500</duration>
 <summary>Java Stacktrace Fingerprinting- </summary>
 <description>Was verrät der Stacktrace über eines Java-Programms über die verwendeten Bibliotheken - und deren mögliche Schwachstellen? Eine Anekdote über eine Wette und welche Knüppel dem „das skripte ich doch mal kurz“ im Wege liegen.</description>
@@ -176,7 +176,7 @@
 <method>PUBLISH</method>
 <uid>5726@EH2014@pentabarf.org</uid>
 <pentabarf:event-id>5726</pentabarf:event-id>
-<pentabarf:event-slug>EH2014_-_5726_-_de_-_grosser_saal_-_201404211245_-_infrastructure_review_-_momo</pentabarf:event-slug>
+<pentabarf:event-slug>EH2014_-_5726_-_de_-_hackcenter_-_201404211245_-_infrastructure_review_-_momo</pentabarf:event-slug>
 <pentabarf:title>infrastructure review</pentabarf:title>
 <pentabarf:subtitle>what happened, what went wrong</pentabarf:subtitle>
 <pentabarf:language>German</pentabarf:language>
@@ -190,7 +190,7 @@
 <status>CONFIRMED</status>
 <category>Lecture</category>
 <url>/pages/fahrplan/events/5726.html</url>
-<location>Großer Saal</location>
+<location>Hackcenter</location>
 <attendee>momo</attendee>
 </vevent>
 <vevent>
@@ -814,13 +814,13 @@ Für Verbrauchsmaterial wird ein kleiner Unkostenbeitrag erhoben.</description>
 <method>PUBLISH</method>
 <uid>5764@EH2014@pentabarf.org</uid>
 <pentabarf:event-id>5764</pentabarf:event-id>
-<pentabarf:event-slug>EH2014_-_5764_-_de_-_degerloch_-_201404201400_-_einfuhrung_in_django_-_arne_schauf</pentabarf:event-slug>
+<pentabarf:event-slug>EH2014_-_5764_-_de_-_degerloch_-_201404201200_-_einfuhrung_in_django_-_arne_schauf</pentabarf:event-slug>
 <pentabarf:title>Einführung in Django</pentabarf:title>
 <pentabarf:subtitle>Was ist Django und wofür braucht man das?</pentabarf:subtitle>
 <pentabarf:language>German</pentabarf:language>
 <pentabarf:language-code>de</pentabarf:language-code>
-<dtstart>20140420T140000</dtstart>
-<dtend>20140420T143000</dtend>
+<dtstart>20140420T120000</dtstart>
+<dtend>20140420T123000</dtend>
 <duration>003000</duration>
 <summary>Einführung in Django- Was ist Django und wofür braucht man das?</summary>
 <description>Ein kurzer Überblick über das Python-Webframework Django. Was nimmt einem das Framework ab - was muss man selber machen?</description>
@@ -835,13 +835,13 @@ Für Verbrauchsmaterial wird ein kleiner Unkostenbeitrag erhoben.</description>
 <method>PUBLISH</method>
 <uid>5765@EH2014@pentabarf.org</uid>
 <pentabarf:event-id>5765</pentabarf:event-id>
-<pentabarf:event-slug>EH2014_-_5765_-_de_-_shack-seminarraum_-_201404181600_-_hakel_workshop_-_kerstin</pentabarf:event-slug>
+<pentabarf:event-slug>EH2014_-_5765_-_de_-_shack-seminarraum_-_201404181645_-_hakel_workshop_-_kerstin</pentabarf:event-slug>
 <pentabarf:title>Häkel Workshop</pentabarf:title>
 <pentabarf:subtitle></pentabarf:subtitle>
 <pentabarf:language>German</pentabarf:language>
 <pentabarf:language-code>de</pentabarf:language-code>
-<dtstart>20140418T160000</dtstart>
-<dtend>20140418T164500</dtend>
+<dtstart>20140418T164500</dtstart>
+<dtend>20140418T173000</dtend>
 <duration>004500</duration>
 <summary>Häkel Workshop- </summary>
 <description>Anfänger Häkel Workshop.. Boshis-Beanies leicht gehäkelt</description>
@@ -963,6 +963,27 @@ Erklärung dazu im Workshop mit praktischen Beispielen und Hardware zum anfassen
 <url>/pages/fahrplan/events/5773.html</url>
 <location>shack-Seminarraum</location>
 <attendee>robert_we</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5774@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5774</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5774_-_de_-_shack-seminarraum_-_201404202115_-_bettercrypto_org_-_maclemon</pentabarf:event-slug>
+<pentabarf:title>BetterCrypto.org</pentabarf:title>
+<pentabarf:subtitle>Applied Crypto Hardening</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140420T211500</dtstart>
+<dtend>20140420T221500</dtend>
+<duration>010000</duration>
+<summary>BetterCrypto.org- Applied Crypto Hardening</summary>
+<description>Starke Kryptografie für Server korrekt konfiguriert. Ein Leitfaden für die Systemadministration.</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5774.html</url>
+<location>shack-Seminarraum</location>
+<attendee>@MacLemon</attendee>
 </vevent>
 <vevent>
 <method>PUBLISH</method>
@@ -1094,13 +1115,13 @@ Erklärung dazu im Workshop mit praktischen Beispielen und Hardware zum anfassen
 <method>PUBLISH</method>
 <uid>5784@EH2014@pentabarf.org</uid>
 <pentabarf:event-id>5784</pentabarf:event-id>
-<pentabarf:event-slug>EH2014_-_5784_-_en_-_shack-seminarraum_-_201404182015_-_reading_and_writing_landscape_framing_reality_with_data_-_benedikt_gross</pentabarf:event-slug>
+<pentabarf:event-slug>EH2014_-_5784_-_en_-_shack-seminarraum_-_201404182030_-_reading_and_writing_landscape_framing_reality_with_data_-_benedikt_gross</pentabarf:event-slug>
 <pentabarf:title>Reading and Writing Landscape – Framing Reality with Data</pentabarf:title>
 <pentabarf:subtitle>How many swimming pools are in Los Angeles? And can you print landscapes?</pentabarf:subtitle>
 <pentabarf:language>English</pentabarf:language>
 <pentabarf:language-code>en</pentabarf:language-code>
-<dtstart>20140418T201500</dtstart>
-<dtend>20140418T204500</dtend>
+<dtstart>20140418T203000</dtstart>
+<dtend>20140418T210000</dtend>
 <duration>003000</duration>
 <summary>Reading and Writing Landscape – Framing Reality with Data- How many swimming pools are in Los Angeles? And can you print landscapes?</summary>
 <description>The talk is about the process of mapping (reading) and shaping (writing) reality with data in the contemporary age of big data, open data, crowdsourcing, citizen science, agriculture and precision farming.</description>
@@ -1181,7 +1202,7 @@ Gute Ironie- und Sarkasmusdetektoren werden unbedingt vorausgesetzt.</descriptio
 <method>PUBLISH</method>
 <uid>5792@EH2014@pentabarf.org</uid>
 <pentabarf:event-id>5792</pentabarf:event-id>
-<pentabarf:event-slug>EH2014_-_5792_-_en_-_grosser_saal_-_201404211330_-_closing_event</pentabarf:event-slug>
+<pentabarf:event-slug>EH2014_-_5792_-_en_-_hackcenter_-_201404211330_-_closing_event</pentabarf:event-slug>
 <pentabarf:title>Closing Event</pentabarf:title>
 <pentabarf:subtitle></pentabarf:subtitle>
 <pentabarf:language>English</pentabarf:language>
@@ -1195,7 +1216,7 @@ Gute Ironie- und Sarkasmusdetektoren werden unbedingt vorausgesetzt.</descriptio
 <status>CONFIRMED</status>
 <category>Lecture</category>
 <url>/pages/fahrplan/events/5792.html</url>
-<location>Großer Saal</location>
+<location>Hackcenter</location>
 </vevent>
 <vevent>
 <method>PUBLISH</method>

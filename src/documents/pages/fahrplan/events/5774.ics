@@ -13,13 +13,14 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140418T173000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140418T164500
-DTSTAMP;VALUE=DATE-TIME:20140416T102617Z
-UID:O-w9WcQVYddcl20sSP_Lvg@frab.cccv.de
-DESCRIPTION:Anfänger Häkel Workshop.. Boshis-Beanies leicht gehäkelt
-URL:/pages/fahrplan/events/5765.html
-SUMMARY:Häkel Workshop
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T221500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T211500
+DTSTAMP;VALUE=DATE-TIME:20140415T201349Z
+UID:6SLKlOa2kCRT1Y2alwwCZA@frab.cccv.de
+DESCRIPTION:Starke Kryptografie für Server korrekt konfiguriert. Ein Leit
+ faden für die Systemadministration.
+URL:/pages/fahrplan/events/5774.html
+SUMMARY:BetterCrypto.org
 ORGANIZER:EH2014
 LOCATION:shack-Seminarraum
 END:VEVENT
