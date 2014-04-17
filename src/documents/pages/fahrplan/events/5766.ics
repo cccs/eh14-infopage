@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20140330T020000
+RDATE:20140330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T164500
+DTSTAMP;VALUE=DATE-TIME:20140409T193512Z
+UID:Q8j9xkOW_50eqh8kf62gkQ@frab.cccv.de
+DESCRIPTION:IRC gibt's schon lange\, aber zum Teil ist bis heute relativ 
+ wenig ueber die Details des Protokolls bekannt\, obwohl es IMHO zu einem
+  der faszinierenderen gehoert. Das IRC hatte im Laufe der Zeit mit viele
+ n Probleme zu kaempfen\, und fuer viele davon hat man sich technische Lo
+ esungen einfallen lassen. Bis heute sind viele Dinge im IRC aber nicht p
+ erfekt geloest\, und manches wuerde ein komplettes Redesign des Protokol
+ ls erfordern.\n\nAusserdem: Wie ist ein IRC-Netzwerk heutzutage aufgebau
+ t\, was sind User- und Channelmodes? Was ist im modernen IRC noch uebrig
+  vom urspruenglichen Protokoll? Was ist Splitriding\, wie funktionieren 
+ Netsplits\, was verbirgt sich hinter "TS6" und wozu braucht man "Service
+ s"?\n\nhc ist seit 2008 admin im hackint\, und hat dort unter anderem an
+  der Umstellung von anope auf atheme und von hybrid 7 auf ein aktuelles 
+ charybdis mitgewirkt\, und betreibt ein paar eigene Services dort\, die 
+ sich frueher ums Blacklisting und heute nur noch um stats und die Vergab
+ e von Hostnamen fuer Tor- und i2p-Nutzer kuemmert. Der Code dazu ist gro
+ esstenteils unter github.com/hce/erlstats zu finden.
+URL:/pages/fahrplan/events/5766.html
+SUMMARY:Das IRC-Protokoll
+ORGANIZER:EH2014
+LOCATION:shack-Seminarraum
+END:VEVENT
+END:VCALENDAR

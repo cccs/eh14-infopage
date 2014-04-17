@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20140330T020000
+RDATE:20140330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T143000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T134500
+DTSTAMP;VALUE=DATE-TIME:20140416T184122Z
+UID:ni7iin79iA9gscrnBMSJ7Q@frab.cccv.de
+DESCRIPTION:Was verrät der Stacktrace eines Java-Programms über die verwe
+ ndeten Bibliotheken - und deren mögliche Schwachstellen? Eine Anekdote ü
+ ber eine Wette und welche Knüppel dem „das skripte ich doch mal kurz“ im
+  Wege liegen.
+URL:/pages/fahrplan/events/5633.html
+SUMMARY:Java Stacktrace Fingerprinting
+ORGANIZER:EH2014
+LOCATION:Degerloch
+END:VEVENT
+END:VCALENDAR

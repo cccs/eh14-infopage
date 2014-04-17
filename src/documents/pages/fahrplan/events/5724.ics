@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20140330T020000
+RDATE:20140330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T161500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T154500
+DTSTAMP;VALUE=DATE-TIME:20140409T175958Z
+UID:6XEEOuA-of4rIG-7zDUOpQ@frab.cccv.de
+DESCRIPTION:Auch mit Verschlüsselung sind wir nur dann vor Überwachung ge
+ feit\, wenn wir uns vor Trojanern schützen können. Es soll diskutiert we
+ rden\, wieweit das mit zwei über den "air gap" verbundenen Rechnern und 
+ dem Einsatz von USB-Sticks als Kommunikationsmedium möglich ist. Geklärt
+  werden soll\, welche technischen Voraussetzungen solch ein USB-Stick un
+ d seine Treibersoftware erfüllen muss.
+URL:/pages/fahrplan/events/5724.html
+SUMMARY:Privatheit und Trojaner
+ORGANIZER:EH2014
+LOCATION:Degerloch
+END:VEVENT
+END:VCALENDAR

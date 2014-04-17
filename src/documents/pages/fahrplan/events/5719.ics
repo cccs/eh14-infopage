@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20140330T020000
+RDATE:20140330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T211500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T203000
+DTSTAMP;VALUE=DATE-TIME:20140409T195812Z
+UID:iGfZkp0SYGQfeKbb-WgS7w@frab.cccv.de
+DESCRIPTION:The talks presents a journey through digital forensics\, name
+ ly non-volatile and volatile analysis. It will show how one can analyze 
+ Linux servers after a successful compromise as well as Windows machines 
+ infected with malware. Further\, I'll present some goodies found during 
+ real-life analyses.
+URL:/pages/fahrplan/events/5719.html
+SUMMARY:Adventures in Digital Forensics
+ORGANIZER:EH2014
+LOCATION:Workshopraum
+END:VEVENT
+END:VCALENDAR

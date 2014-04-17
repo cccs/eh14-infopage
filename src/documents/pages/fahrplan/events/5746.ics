@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20140330T020000
+RDATE:20140330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T113000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T104500
+DTSTAMP;VALUE=DATE-TIME:20140411T194011Z
+UID:UZVtLmQsrCIKyrCz0fFyVA@frab.cccv.de
+DESCRIPTION:Wie würden "Das Schweigen der Lämmer" oder "Der Herr Der Ring
+ e" oder $DeinLieblingsbuch in einer komplett überwachten Welt aussehen?\
+ nClarice Starling könnte Buffalo Bill einfach per Funkzellen-Auswertung 
+ finden und bräuchte gar keine die Hilfe von Hannibal Lecter.\nUnd Sauron
+  wüsste von Anfang an\, wohin er Orks & Nazgul schicken müsste\, um die 
+ Gemeinschaft des Rings aufzubringen. 
+URL:/pages/fahrplan/events/5746.html
+SUMMARY:Hannibal Lecter und Sauron in einer totalüberwachten Welt
+ORGANIZER:EH2014
+LOCATION:shack-Seminarraum
+END:VEVENT
+END:VCALENDAR

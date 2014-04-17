@@ -1,0 +1,1646 @@
+<iCalendar xmlns:pentabarf='http://pentabarf.org' xmlns:xCal='urn:ietf:params:xml:ns:xcal'>
+<vcalendar>
+<version>2.0</version>
+<prodid>-//Pentabarf//Schedule//EN</prodid>
+<x-wr-caldesc>EH2014 Schedule</x-wr-caldesc>
+<x-wr-calname>EH2014 Schedule</x-wr-calname>
+<vevent>
+<method>PUBLISH</method>
+<uid>5633@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5633</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5633_-_de_-_degerloch_-_201404201345_-_java_stacktrace_fingerprinting_-_skyr</pentabarf:event-slug>
+<pentabarf:title>Java Stacktrace Fingerprinting</pentabarf:title>
+<pentabarf:subtitle>Eine Anekdote über eine Wette und welche Knüppel dem „das skripte ich doch mal kurz“ im Wege liegen.</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140420T134500</dtstart>
+<dtend>20140420T143000</dtend>
+<duration>004500</duration>
+<summary>Java Stacktrace Fingerprinting- Eine Anekdote über eine Wette und welche Knüppel dem „das skripte ich doch mal kurz“ im Wege liegen.</summary>
+<description>Was verrät der Stacktrace eines Java-Programms über die verwendeten Bibliotheken - und deren mögliche Schwachstellen? Eine Anekdote über eine Wette und welche Knüppel dem „das skripte ich doch mal kurz“ im Wege liegen.</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5633.html</url>
+<location>Degerloch</location>
+<attendee>Skyr</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5719@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5719</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5719_-_en_-_workshopraum_-_201404202030_-_adventures_in_digital_forensics_-_xhr</pentabarf:event-slug>
+<pentabarf:title>Adventures in Digital Forensics</pentabarf:title>
+<pentabarf:subtitle></pentabarf:subtitle>
+<pentabarf:language>English</pentabarf:language>
+<pentabarf:language-code>en</pentabarf:language-code>
+<dtstart>20140420T203000</dtstart>
+<dtend>20140420T211500</dtend>
+<duration>004500</duration>
+<summary>Adventures in Digital Forensics- </summary>
+<description>The talks presents a journey through digital forensics, namely non-volatile and volatile analysis. It will show how one can analyze Linux servers after a successful compromise as well as Windows machines infected with malware. Further, I'll present some goodies found during real-life analyses.</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5719.html</url>
+<location>Workshopraum</location>
+<attendee>xhr</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5720@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5720</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5720_-_de_-_hackcenter_-_201404201200_-_geocaching_-_martl</pentabarf:event-slug>
+<pentabarf:title>Geocaching</pentabarf:title>
+<pentabarf:subtitle>Schatzsuche via GPS</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140420T120000</dtstart>
+<dtend>20140420T150000</dtend>
+<duration>030000</duration>
+<summary>Geocaching- Schatzsuche via GPS</summary>
+<description>Ca. 3-stündiger Workshop im Freien, wo wir Geocaches in der Umgebung der Eventlocation suchen werden. </description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5720.html</url>
+<location>Hackcenter</location>
+<attendee>martl</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5721@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5721</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5721_-__-_degerloch_-_201404201300_-_cnc_machining_for_3d_printer_users_-_marcus_wolschon</pentabarf:event-slug>
+<pentabarf:title>CNC machining for 3D printer users</pentabarf:title>
+<pentabarf:subtitle></pentabarf:subtitle>
+<pentabarf:language>{:ab=&gt;&quot;Abkhazian&quot;, :ace=&gt;&quot;Achinese&quot;, :ach=&gt;&quot;Acoli&quot;, :ada=&gt;&quot;Adangme&quot;, :ady=&gt;&quot;Adyghe&quot;, :ae=&gt;&quot;Avestan&quot;, :af=&gt;&quot;Afrikaans&quot;, :afa=&gt;&quot;Afro-Asiatic Language&quot;, :afh=&gt;&quot;Afrihili&quot;, :ain=&gt;&quot;Ainu&quot;, :ak=&gt;&quot;Akan&quot;, :akk=&gt;&quot;Akkadian&quot;, :ale=&gt;&quot;Aleut&quot;, :alg=&gt;&quot;Algonquian Language&quot;, :alt=&gt;&quot;Southern Altai&quot;, :am=&gt;&quot;Amharic&quot;, :an=&gt;&quot;Aragonese&quot;, :ang=&gt;&quot;Old English&quot;, :anp=&gt;&quot;Angika&quot;, :apa=&gt;&quot;Apache Language&quot;, :ar=&gt;&quot;Arabic&quot;, :arc=&gt;&quot;Aramaic&quot;, :arn=&gt;&quot;Araucanian&quot;, :arp=&gt;&quot;Arapaho&quot;, :art=&gt;&quot;Artificial Language&quot;, :arw=&gt;&quot;Arawak&quot;, :as=&gt;&quot;Assamese&quot;, :ast=&gt;&quot;Asturian&quot;, :ath=&gt;&quot;Athapascan Language&quot;, :aus=&gt;&quot;Australian Language&quot;, :av=&gt;&quot;Avaric&quot;, :awa=&gt;&quot;Awadhi&quot;, :ay=&gt;&quot;Aymara&quot;, :az=&gt;&quot;Azerbaijani&quot;, :ba=&gt;&quot;Bashkir&quot;, :bad=&gt;&quot;Banda&quot;, :bai=&gt;&quot;Bamileke Language&quot;, :bal=&gt;&quot;Baluchi&quot;, :ban=&gt;&quot;Balinese&quot;, :bas=&gt;&quot;Basa&quot;, :bat=&gt;&quot;Baltic Language&quot;, :be=&gt;&quot;Belarusian&quot;, :bej=&gt;&quot;Beja&quot;, :bem=&gt;&quot;Bemba&quot;, :ber=&gt;&quot;Berber&quot;, :bg=&gt;&quot;Bulgarian&quot;, :bh=&gt;&quot;Bihari&quot;, :bho=&gt;&quot;Bhojpuri&quot;, :bi=&gt;&quot;Bislama&quot;, :bik=&gt;&quot;Bikol&quot;, :bin=&gt;&quot;Bini&quot;, :bla=&gt;&quot;Siksika&quot;, :bm=&gt;&quot;Bambara&quot;, :bn=&gt;&quot;Bengali&quot;, :bnt=&gt;&quot;Bantu&quot;, :bo=&gt;&quot;Tibetan&quot;, :br=&gt;&quot;Breton&quot;, :bra=&gt;&quot;Braj&quot;, :bs=&gt;&quot;Bosnian&quot;, :btk=&gt;&quot;Batak&quot;, :bua=&gt;&quot;Buriat&quot;, :bug=&gt;&quot;Buginese&quot;, :byn=&gt;&quot;Blin&quot;, :ca=&gt;&quot;Catalan&quot;, :cad=&gt;&quot;Caddo&quot;, :cai=&gt;&quot;Central American Indian Language&quot;, :car=&gt;&quot;Carib&quot;, :cau=&gt;&quot;Caucasian Language&quot;, :cch=&gt;&quot;Atsam&quot;, :ce=&gt;&quot;Chechen&quot;, :ceb=&gt;&quot;Cebuano&quot;, :cel=&gt;&quot;Celtic Language&quot;, :ch=&gt;&quot;Chamorro&quot;, :chb=&gt;&quot;Chibcha&quot;, :chg=&gt;&quot;Chagatai&quot;, :chk=&gt;&quot;Chuukese&quot;, :chm=&gt;&quot;Mari&quot;, :chn=&gt;&quot;Chinook Jargon&quot;, :cho=&gt;&quot;Choctaw&quot;, :chp=&gt;&quot;Chipewyan&quot;, :chr=&gt;&quot;Cherokee&quot;, :chy=&gt;&quot;Cheyenne&quot;, :cmc=&gt;&quot;Chamic Language&quot;, :co=&gt;&quot;Corsican&quot;, :cop=&gt;&quot;Coptic&quot;, :cpe=&gt;&quot;English-based Creole or Pidgin&quot;, :cpf=&gt;&quot;French-based Creole or Pidgin&quot;, :cpp=&gt;&quot;Portuguese-based Creole or Pidgin&quot;, :cr=&gt;&quot;Cree&quot;, :crh=&gt;&quot;Crimean Turkish&quot;, :crp=&gt;&quot;Creole or Pidgin&quot;, :cs=&gt;&quot;Czech&quot;, :csb=&gt;&quot;Kashubian&quot;, :cu=&gt;&quot;Church Slavic&quot;, :cus=&gt;&quot;Cushitic Language&quot;, :cv=&gt;&quot;Chuvash&quot;, :cy=&gt;&quot;Welsh&quot;, :da=&gt;&quot;Danish&quot;, :dak=&gt;&quot;Dakota&quot;, :dar=&gt;&quot;Dargwa&quot;, :day=&gt;&quot;Dayak&quot;, :de=&gt;&quot;German&quot;, :&quot;de-AT&quot;=&gt;&quot;Austrian German&quot;, :&quot;de-CH&quot;=&gt;&quot;Swiss High German&quot;, :del=&gt;&quot;Delaware&quot;, :den=&gt;&quot;Slave&quot;, :dgr=&gt;&quot;Dogrib&quot;, :din=&gt;&quot;Dinka&quot;, :doi=&gt;&quot;Dogri&quot;, :dra=&gt;&quot;Dravidian Language&quot;, :dsb=&gt;&quot;Lower Sorbian&quot;, :dua=&gt;&quot;Duala&quot;, :dum=&gt;&quot;Middle Dutch&quot;, :dv=&gt;&quot;Divehi&quot;, :dyu=&gt;&quot;Dyula&quot;, :dz=&gt;&quot;Dzongkha&quot;, :ee=&gt;&quot;Ewe&quot;, :efi=&gt;&quot;Efik&quot;, :egy=&gt;&quot;Ancient Egyptian&quot;, :eka=&gt;&quot;Ekajuk&quot;, :el=&gt;&quot;Greek&quot;, :elx=&gt;&quot;Elamite&quot;, :en=&gt;&quot;English&quot;, :&quot;en-AU&quot;=&gt;&quot;Australian English&quot;, :&quot;en-CA&quot;=&gt;&quot;Canadian English&quot;, :&quot;en-GB&quot;=&gt;&quot;British English&quot;, :&quot;en-US&quot;=&gt;&quot;U.S. English&quot;, :enm=&gt;&quot;Middle English&quot;, :eo=&gt;&quot;Esperanto&quot;, :es=&gt;&quot;Spanish&quot;, :&quot;es-ES&quot;=&gt;&quot;Iberian Spanish&quot;, :et=&gt;&quot;Estonian&quot;, :eu=&gt;&quot;Basque&quot;, :ewo=&gt;&quot;Ewondo&quot;, :fa=&gt;&quot;Persian&quot;, :fan=&gt;&quot;Fang&quot;, :fat=&gt;&quot;Fanti&quot;, :ff=&gt;&quot;Fulah&quot;, :fi=&gt;&quot;Finnish&quot;, :fil=&gt;&quot;Filipino&quot;, :fiu=&gt;&quot;Finno-Ugrian Language&quot;, :fj=&gt;&quot;Fijian&quot;, :fo=&gt;&quot;Faroese&quot;, :fon=&gt;&quot;Fon&quot;, :fr=&gt;&quot;French&quot;, :&quot;fr-CA&quot;=&gt;&quot;Canadian French&quot;, :&quot;fr-CH&quot;=&gt;&quot;Swiss French&quot;, :frm=&gt;&quot;Middle French&quot;, :fro=&gt;&quot;Old French&quot;, :frr=&gt;&quot;Northern Frisian&quot;, :frs=&gt;&quot;Eastern Frisian&quot;, :fur=&gt;&quot;Friulian&quot;, :fy=&gt;&quot;Western Frisian&quot;, :ga=&gt;&quot;Irish&quot;, :gaa=&gt;&quot;Ga&quot;, :gay=&gt;&quot;Gayo&quot;, :gba=&gt;&quot;Gbaya&quot;, :gd=&gt;&quot;Scottish Gaelic&quot;, :gem=&gt;&quot;Germanic Language&quot;, :gez=&gt;&quot;Geez&quot;, :gil=&gt;&quot;Gilbertese&quot;, :gl=&gt;&quot;Galician&quot;, :gmh=&gt;&quot;Middle High German&quot;, :gn=&gt;&quot;Guarani&quot;, :goh=&gt;&quot;Old High German&quot;, :gon=&gt;&quot;Gondi&quot;, :gor=&gt;&quot;Gorontalo&quot;, :got=&gt;&quot;Gothic&quot;, :grb=&gt;&quot;Grebo&quot;, :grc=&gt;&quot;Ancient Greek&quot;, :gsw=&gt;&quot;Swiss German&quot;, :gu=&gt;&quot;Gujarati&quot;, :gv=&gt;&quot;Manx&quot;, :gwi=&gt;&quot;Gwichʼin&quot;, :ha=&gt;&quot;Hausa&quot;, :hai=&gt;&quot;Haida&quot;, :haw=&gt;&quot;Hawaiian&quot;, :he=&gt;&quot;Hebrew&quot;, :hi=&gt;&quot;Hindi&quot;, :hil=&gt;&quot;Hiligaynon&quot;, :him=&gt;&quot;Himachali&quot;, :hit=&gt;&quot;Hittite&quot;, :hmn=&gt;&quot;Hmong&quot;, :ho=&gt;&quot;Hiri Motu&quot;, :hr=&gt;&quot;Croatian&quot;, :hsb=&gt;&quot;Upper Sorbian&quot;, :ht=&gt;&quot;Haitian&quot;, :hu=&gt;&quot;Hungarian&quot;, :hup=&gt;&quot;Hupa&quot;, :hy=&gt;&quot;Armenian&quot;, :hz=&gt;&quot;Herero&quot;, :ia=&gt;&quot;Interlingua&quot;, :iba=&gt;&quot;Iban&quot;, :id=&gt;&quot;Indonesian&quot;, :ie=&gt;&quot;Interlingue&quot;, :ig=&gt;&quot;Igbo&quot;, :ii=&gt;&quot;Sichuan Yi&quot;, :ijo=&gt;&quot;Ijo&quot;, :ik=&gt;&quot;Inupiaq&quot;, :ilo=&gt;&quot;Iloko&quot;, :inc=&gt;&quot;Indic Language&quot;, :ine=&gt;&quot;Indo-European Language&quot;, :inh=&gt;&quot;Ingush&quot;, :io=&gt;&quot;Ido&quot;, :ira=&gt;&quot;Iranian Language&quot;, :iro=&gt;&quot;Iroquoian Language&quot;, :is=&gt;&quot;Icelandic&quot;, :it=&gt;&quot;Italian&quot;, :iu=&gt;&quot;Inuktitut&quot;, :ja=&gt;&quot;Japanese&quot;, :jbo=&gt;&quot;Lojban&quot;, :jpr=&gt;&quot;Judeo-Persian&quot;, :jrb=&gt;&quot;Judeo-Arabic&quot;, :jv=&gt;&quot;Javanese&quot;, :ka=&gt;&quot;Georgian&quot;, :kaa=&gt;&quot;Kara-Kalpak&quot;, :kab=&gt;&quot;Kabyle&quot;, :kac=&gt;&quot;Kachin&quot;, :kaj=&gt;&quot;Jju&quot;, :kam=&gt;&quot;Kamba&quot;, :kar=&gt;&quot;Karen&quot;, :kaw=&gt;&quot;Kawi&quot;, :kbd=&gt;&quot;Kabardian&quot;, :kcg=&gt;&quot;Tyap&quot;, :kfo=&gt;&quot;Koro&quot;, :kg=&gt;&quot;Kongo&quot;, :kha=&gt;&quot;Khasi&quot;, :khi=&gt;&quot;Khoisan Language&quot;, :kho=&gt;&quot;Khotanese&quot;, :ki=&gt;&quot;Kikuyu&quot;, :kj=&gt;&quot;Kuanyama&quot;, :kk=&gt;&quot;Kazakh&quot;, :kl=&gt;&quot;Kalaallisut&quot;, :km=&gt;&quot;Khmer&quot;, :kmb=&gt;&quot;Kimbundu&quot;, :kn=&gt;&quot;Kannada&quot;, :ko=&gt;&quot;Korean&quot;, :kok=&gt;&quot;Konkani&quot;, :kos=&gt;&quot;Kosraean&quot;, :kpe=&gt;&quot;Kpelle&quot;, :kr=&gt;&quot;Kanuri&quot;, :krc=&gt;&quot;Karachay-Balkar&quot;, :krl=&gt;&quot;Karelian&quot;, :kro=&gt;&quot;Kru&quot;, :kru=&gt;&quot;Kurukh&quot;, :ks=&gt;&quot;Kashmiri&quot;, :ku=&gt;&quot;Kurdish&quot;, :kum=&gt;&quot;Kumyk&quot;, :kut=&gt;&quot;Kutenai&quot;, :kv=&gt;&quot;Komi&quot;, :kw=&gt;&quot;Cornish&quot;, :ky=&gt;&quot;Kirghiz&quot;, :la=&gt;&quot;Latin&quot;, :lad=&gt;&quot;Ladino&quot;, :lah=&gt;&quot;Lahnda&quot;, :lam=&gt;&quot;Lamba&quot;, :lb=&gt;&quot;Luxembourgish&quot;, :lez=&gt;&quot;Lezghian&quot;, :lg=&gt;&quot;Ganda&quot;, :li=&gt;&quot;Limburgish&quot;, :ln=&gt;&quot;Lingala&quot;, :lo=&gt;&quot;Lao&quot;, :lol=&gt;&quot;Mongo&quot;, :loz=&gt;&quot;Lozi&quot;, :lt=&gt;&quot;Lithuanian&quot;, :lu=&gt;&quot;Luba-Katanga&quot;, :lua=&gt;&quot;Luba-Lulua&quot;, :lui=&gt;&quot;Luiseno&quot;, :lun=&gt;&quot;Lunda&quot;, :luo=&gt;&quot;Luo&quot;, :lus=&gt;&quot;Lushai&quot;, :lv=&gt;&quot;Latvian&quot;, :mad=&gt;&quot;Madurese&quot;, :mag=&gt;&quot;Magahi&quot;, :mai=&gt;&quot;Maithili&quot;, :mak=&gt;&quot;Makasar&quot;, :man=&gt;&quot;Mandingo&quot;, :map=&gt;&quot;Austronesian Language&quot;, :mas=&gt;&quot;Masai&quot;, :mdf=&gt;&quot;Moksha&quot;, :mdr=&gt;&quot;Mandar&quot;, :men=&gt;&quot;Mende&quot;, :mg=&gt;&quot;Malagasy&quot;, :mga=&gt;&quot;Middle Irish&quot;, :mh=&gt;&quot;Marshallese&quot;, :mi=&gt;&quot;Maori&quot;, :mic=&gt;&quot;Micmac&quot;, :min=&gt;&quot;Minangkabau&quot;, :mis=&gt;&quot;Miscellaneous Language&quot;, :mk=&gt;&quot;Macedonian&quot;, :mkh=&gt;&quot;Mon-Khmer Language&quot;, :ml=&gt;&quot;Malayalam&quot;, :mn=&gt;&quot;Mongolian&quot;, :mnc=&gt;&quot;Manchu&quot;, :mni=&gt;&quot;Manipuri&quot;, :mno=&gt;&quot;Manobo Language&quot;, :mo=&gt;&quot;Moldavian&quot;, :moh=&gt;&quot;Mohawk&quot;, :mos=&gt;&quot;Mossi&quot;, :mr=&gt;&quot;Marathi&quot;, :ms=&gt;&quot;Malay&quot;, :mt=&gt;&quot;Maltese&quot;, :mul=&gt;&quot;Multiple Languages&quot;, :mun=&gt;&quot;Munda Language&quot;, :mus=&gt;&quot;Creek&quot;, :mwl=&gt;&quot;Mirandese&quot;, :mwr=&gt;&quot;Marwari&quot;, :my=&gt;&quot;Burmese&quot;, :myn=&gt;&quot;Mayan Language&quot;, :myv=&gt;&quot;Erzya&quot;, :na=&gt;&quot;Nauru&quot;, :nah=&gt;&quot;Nahuatl&quot;, :nai=&gt;&quot;North American Indian Language&quot;, :nap=&gt;&quot;Neapolitan&quot;, :nb=&gt;&quot;Norwegian Bokmål&quot;, :nd=&gt;&quot;North Ndebele&quot;, :nds=&gt;&quot;Low German&quot;, :ne=&gt;&quot;Nepali&quot;, :new=&gt;&quot;Newari&quot;, :ng=&gt;&quot;Ndonga&quot;, :nia=&gt;&quot;Nias&quot;, :nic=&gt;&quot;Niger-Kordofanian Language&quot;, :niu=&gt;&quot;Niuean&quot;, :nl=&gt;&quot;Dutch&quot;, :&quot;nl-BE&quot;=&gt;&quot;Flemish&quot;, :nn=&gt;&quot;Norwegian Nynorsk&quot;, false=&gt;&quot;Norwegian&quot;, :nog=&gt;&quot;Nogai&quot;, :non=&gt;&quot;Old Norse&quot;, :nqo=&gt;&quot;N’Ko&quot;, :nr=&gt;&quot;South Ndebele&quot;, :nso=&gt;&quot;Northern Sotho&quot;, :nub=&gt;&quot;Nubian Language&quot;, :nv=&gt;&quot;Navajo&quot;, :nwc=&gt;&quot;Classical Newari&quot;, :ny=&gt;&quot;Nyanja&quot;, :nym=&gt;&quot;Nyamwezi&quot;, :nyn=&gt;&quot;Nyankole&quot;, :nyo=&gt;&quot;Nyoro&quot;, :nzi=&gt;&quot;Nzima&quot;, :oc=&gt;&quot;Occitan&quot;, :oj=&gt;&quot;Ojibwa&quot;, :om=&gt;&quot;Oromo&quot;, :or=&gt;&quot;Oriya&quot;, :os=&gt;&quot;Ossetic&quot;, :osa=&gt;&quot;Osage&quot;, :ota=&gt;&quot;Ottoman Turkish&quot;, :oto=&gt;&quot;Otomian Language&quot;, :pa=&gt;&quot;Punjabi&quot;, :paa=&gt;&quot;Papuan Language&quot;, :pag=&gt;&quot;Pangasinan&quot;, :pal=&gt;&quot;Pahlavi&quot;, :pam=&gt;&quot;Pampanga&quot;, :pap=&gt;&quot;Papiamento&quot;, :pau=&gt;&quot;Palauan&quot;, :peo=&gt;&quot;Old Persian&quot;, :phi=&gt;&quot;Philippine Language&quot;, :phn=&gt;&quot;Phoenician&quot;, :pi=&gt;&quot;Pali&quot;, :pl=&gt;&quot;Polish&quot;, :pon=&gt;&quot;Pohnpeian&quot;, :pra=&gt;&quot;Prakrit Language&quot;, :pro=&gt;&quot;Old Provençal&quot;, :ps=&gt;&quot;Pashto&quot;, :pt=&gt;&quot;Portuguese&quot;, :&quot;pt-BR&quot;=&gt;&quot;Brazilian Portuguese&quot;, :&quot;pt-PT&quot;=&gt;&quot;Iberian Portuguese&quot;, :qu=&gt;&quot;Quechua&quot;, :raj=&gt;&quot;Rajasthani&quot;, :rap=&gt;&quot;Rapanui&quot;, :rar=&gt;&quot;Rarotongan&quot;, :rm=&gt;&quot;Rhaeto-Romance&quot;, :rn=&gt;&quot;Rundi&quot;, :ro=&gt;&quot;Romanian&quot;, :roa=&gt;&quot;Romance Language&quot;, :rom=&gt;&quot;Romany&quot;, :ru=&gt;&quot;Russian&quot;, :rup=&gt;&quot;Aromanian&quot;, :rw=&gt;&quot;Kinyarwanda&quot;, :sa=&gt;&quot;Sanskrit&quot;, :sad=&gt;&quot;Sandawe&quot;, :sah=&gt;&quot;Yakut&quot;, :sai=&gt;&quot;South American Indian Language&quot;, :sal=&gt;&quot;Salishan Language&quot;, :sam=&gt;&quot;Samaritan Aramaic&quot;, :sas=&gt;&quot;Sasak&quot;, :sat=&gt;&quot;Santali&quot;, :sc=&gt;&quot;Sardinian&quot;, :scn=&gt;&quot;Sicilian&quot;, :sco=&gt;&quot;Scots&quot;, :sd=&gt;&quot;Sindhi&quot;, :se=&gt;&quot;Northern Sami&quot;, :sel=&gt;&quot;Selkup&quot;, :sem=&gt;&quot;Semitic Language&quot;, :sg=&gt;&quot;Sango&quot;, :sga=&gt;&quot;Old Irish&quot;, :sgn=&gt;&quot;Sign Language&quot;, :sh=&gt;&quot;Serbo-Croatian&quot;, :shn=&gt;&quot;Shan&quot;, :si=&gt;&quot;Sinhala&quot;, :sid=&gt;&quot;Sidamo&quot;, :sio=&gt;&quot;Siouan Language&quot;, :sit=&gt;&quot;Sino-Tibetan Language&quot;, :sk=&gt;&quot;Slovak&quot;, :sl=&gt;&quot;Slovenian&quot;, :sla=&gt;&quot;Slavic Language&quot;, :sm=&gt;&quot;Samoan&quot;, :sma=&gt;&quot;Southern Sami&quot;, :smi=&gt;&quot;Sami Language&quot;, :smj=&gt;&quot;Lule Sami&quot;, :smn=&gt;&quot;Inari Sami&quot;, :sms=&gt;&quot;Skolt Sami&quot;, :sn=&gt;&quot;Shona&quot;, :snk=&gt;&quot;Soninke&quot;, :so=&gt;&quot;Somali&quot;, :sog=&gt;&quot;Sogdien&quot;, :son=&gt;&quot;Songhai&quot;, :sq=&gt;&quot;Albanian&quot;, :sr=&gt;&quot;Serbian&quot;, :srn=&gt;&quot;Sranan Tongo&quot;, :srr=&gt;&quot;Serer&quot;, :ss=&gt;&quot;Swati&quot;, :ssa=&gt;&quot;Nilo-Saharan Language&quot;, :st=&gt;&quot;Southern Sotho&quot;, :su=&gt;&quot;Sundanese&quot;, :suk=&gt;&quot;Sukuma&quot;, :sus=&gt;&quot;Susu&quot;, :sux=&gt;&quot;Sumerian&quot;, :sv=&gt;&quot;Swedish&quot;, :sw=&gt;&quot;Swahili&quot;, :syc=&gt;&quot;Classical Syriac&quot;, :syr=&gt;&quot;Syriac&quot;, :ta=&gt;&quot;Tamil&quot;, :tai=&gt;&quot;Tai Language&quot;, :te=&gt;&quot;Telugu&quot;, :tem=&gt;&quot;Timne&quot;, :ter=&gt;&quot;Tereno&quot;, :tet=&gt;&quot;Tetum&quot;, :tg=&gt;&quot;Tajik&quot;, :th=&gt;&quot;Thai&quot;, :ti=&gt;&quot;Tigrinya&quot;, :tig=&gt;&quot;Tigre&quot;, :tiv=&gt;&quot;Tiv&quot;, :tk=&gt;&quot;Turkmen&quot;, :tkl=&gt;&quot;Tokelau&quot;, :tl=&gt;&quot;Tagalog&quot;, :tlh=&gt;&quot;Klingon&quot;, :tli=&gt;&quot;Tlingit&quot;, :tmh=&gt;&quot;Tamashek&quot;, :tn=&gt;&quot;Tswana&quot;, :to=&gt;&quot;Tonga&quot;, :tog=&gt;&quot;Nyasa Tonga&quot;, :tpi=&gt;&quot;Tok Pisin&quot;, :tr=&gt;&quot;Turkish&quot;, :trv=&gt;&quot;Taroko&quot;, :ts=&gt;&quot;Tsonga&quot;, :tsi=&gt;&quot;Tsimshian&quot;, :tt=&gt;&quot;Tatar&quot;, :tum=&gt;&quot;Tumbuka&quot;, :tup=&gt;&quot;Tupi Language&quot;, :tut=&gt;&quot;Altaic Language&quot;, :tvl=&gt;&quot;Tuvalu&quot;, :tw=&gt;&quot;Twi&quot;, :ty=&gt;&quot;Tahitian&quot;, :tyv=&gt;&quot;Tuvinian&quot;, :udm=&gt;&quot;Udmurt&quot;, :ug=&gt;&quot;Uighur&quot;, :uga=&gt;&quot;Ugaritic&quot;, :uk=&gt;&quot;Ukrainian&quot;, :umb=&gt;&quot;Umbundu&quot;, :und=&gt;&quot;Unknown or Invalid Language&quot;, :ur=&gt;&quot;Urdu&quot;, :uz=&gt;&quot;Uzbek&quot;, :vai=&gt;&quot;Vai&quot;, :ve=&gt;&quot;Venda&quot;, :vi=&gt;&quot;Vietnamese&quot;, :vo=&gt;&quot;Volapük&quot;, :vot=&gt;&quot;Votic&quot;, :wa=&gt;&quot;Walloon&quot;, :wak=&gt;&quot;Wakashan Language&quot;, :wal=&gt;&quot;Walamo&quot;, :war=&gt;&quot;Waray&quot;, :was=&gt;&quot;Washo&quot;, :wen=&gt;&quot;Sorbian Language&quot;, :wo=&gt;&quot;Wolof&quot;, :xal=&gt;&quot;Kalmyk&quot;, :xh=&gt;&quot;Xhosa&quot;, :yao=&gt;&quot;Yao&quot;, :yap=&gt;&quot;Yapese&quot;, :yi=&gt;&quot;Yiddish&quot;, :yo=&gt;&quot;Yoruba&quot;, :ypk=&gt;&quot;Yupik Language&quot;, :za=&gt;&quot;Zhuang&quot;, :zap=&gt;&quot;Zapotec&quot;, :zbl=&gt;&quot;Blissymbols&quot;, :zen=&gt;&quot;Zenaga&quot;, :zh=&gt;&quot;Chinese&quot;, :&quot;zh-Hans&quot;=&gt;&quot;Simplified Chinese&quot;, :&quot;zh-Hant&quot;=&gt;&quot;Traditional Chinese&quot;, :znd=&gt;&quot;Zande&quot;, :zu=&gt;&quot;Zulu&quot;, :zun=&gt;&quot;Zuni&quot;, :zxx=&gt;&quot;No linguistic content&quot;, :zza=&gt;&quot;Zaza&quot;}</pentabarf:language>
+<pentabarf:language-code></pentabarf:language-code>
+<dtstart>20140420T130000</dtstart>
+<dtend>20140420T134500</dtend>
+<duration>004500</duration>
+<summary>CNC machining for 3D printer users- </summary>
+<description>I'll bring my mobile CNC milling machine and will give an introduction to DIY CNC machining focusing on the differences to 3d printing.</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5721.html</url>
+<location>Degerloch</location>
+<attendee>Marcus Wolschon</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5722@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5722</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5722_-_de_-_workshopraum_-_201404191715_-_palava_tv_-_marius_melzer</pentabarf:event-slug>
+<pentabarf:title>palava.tv</pentabarf:title>
+<pentabarf:subtitle>Verschlüsselte und dezentrale Kommunikation im Web</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140419T171500</dtstart>
+<dtend>20140419T180000</dtend>
+<duration>004500</duration>
+<summary>palava.tv- Verschlüsselte und dezentrale Kommunikation im Web</summary>
+<description>Nach den Snowden-Enthüllungen erscheint der Notwendigkeit von geschützter Kommunikation wichtiger denn je. Wir möchten zeigen, dass dies nicht nur verschlüsselt und dezentral, sondern auch einfach benutzbar geht und werden die Technik hinter unserem freien (&quot;as in free speech&quot;) Videochat-Portal https://palava.tv beleuchten.</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5722.html</url>
+<location>Workshopraum</location>
+<attendee>Marius Melzer</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5723@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5723</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5723_-_de_-_workshopraum_-_201404201845_-_bausatze_in_hackerspaces_-_muzy</pentabarf:event-slug>
+<pentabarf:title>Bausätze in Hackerspaces</pentabarf:title>
+<pentabarf:subtitle>Von der Idee zur Einnahmequelle</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140420T184500</dtstart>
+<dtend>20140420T193000</dtend>
+<duration>004500</duration>
+<summary>Bausätze in Hackerspaces- Von der Idee zur Einnahmequelle</summary>
+<description>Aus einer kleinen Projektidee einen großen Erfolg zu produzieren ist nicht einfach. Wie das für Bausätze geht, erfahrt ihr in diesem Talk nebst vieler Anekdoten und Graphen.</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5723.html</url>
+<location>Workshopraum</location>
+<attendee>muzy</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5724@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5724</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5724_-_de_-_degerloch_-_201404201545_-_privatheit_und_trojaner_-_tom_twiddlebit</pentabarf:event-slug>
+<pentabarf:title>Privatheit und Trojaner</pentabarf:title>
+<pentabarf:subtitle>How to bridge the air gap</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140420T154500</dtstart>
+<dtend>20140420T161500</dtend>
+<duration>003000</duration>
+<summary>Privatheit und Trojaner- How to bridge the air gap</summary>
+<description>Auch mit Verschlüsselung sind wir nur dann vor Überwachung gefeit, wenn wir uns vor Trojanern schützen können. Es soll diskutiert werden, wieweit das mit zwei über den &quot;air gap&quot; verbundenen Rechnern und dem Einsatz von USB-Sticks als Kommunikationsmedium möglich ist. Geklärt werden soll, welche technischen Voraussetzungen solch ein USB-Stick und seine Treibersoftware erfüllen muss.</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5724.html</url>
+<location>Degerloch</location>
+<attendee>Tom Twiddlebit</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5725@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5725</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5725_-_de_-_shack-seminarraum_-_201404182115_-_sleep_ain_t_nobody_got_time_for_that_-_christina</pentabarf:event-slug>
+<pentabarf:title>Sleep? Ain't nobody got time for that!</pentabarf:title>
+<pentabarf:subtitle>Physiologie von Schlaf und Wachzustand</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140418T211500</dtstart>
+<dtend>20140418T220000</dtend>
+<duration>004500</duration>
+<summary>Sleep? Ain't nobody got time for that!- Physiologie von Schlaf und Wachzustand</summary>
+<description>Wie entsteht der Tag-Nacht-Rhythmus? Warum schläft man (nicht)? Was passiert im Schlaf, wie wird Schlaf gemessen, und wie wird in den natürlichen Ablauf eingegriffen?</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5725.html</url>
+<location>shack-Seminarraum</location>
+<attendee>Christina</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5726@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5726</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5726_-_de_-_hackcenter_-_201404211245_-_infrastructure_review_-_momo</pentabarf:event-slug>
+<pentabarf:title>infrastructure review</pentabarf:title>
+<pentabarf:subtitle>what happened, what went wrong</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140421T124500</dtstart>
+<dtend>20140421T133000</dtend>
+<duration>004500</duration>
+<summary>infrastructure review- what happened, what went wrong</summary>
+<description>numbers, graphs, pictures of easterhegg infrastructure</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5726.html</url>
+<location>Hackcenter</location>
+<attendee>momo</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5731@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5731</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5731_-_de_-_hackcenter_-_201404201845_-_gpg_pgp_key_signing_-_thomas_waldmann</pentabarf:event-slug>
+<pentabarf:title>GPG / PGP Key Signing</pentabarf:title>
+<pentabarf:subtitle></pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140420T184500</dtstart>
+<dtend>20140420T194500</dtend>
+<duration>010000</duration>
+<summary>GPG / PGP Key Signing- </summary>
+<description>Lasse Deinen GPG-Schluessel signieren / signiere anderer Leute's GPG-Schluessel.</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5731.html</url>
+<location>Hackcenter</location>
+<attendee>Thomas Waldmann</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5733@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5733</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5733_-_de_-_shack-seminarraum_-_201404201200_-_burokratielevel_9000_-_laird_dave</pentabarf:event-slug>
+<pentabarf:title>Bürokratielevel: &gt;9000</pentabarf:title>
+<pentabarf:subtitle>Vereinsverwaltung</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140420T120000</dtstart>
+<dtend>20140420T150000</dtend>
+<duration>030000</duration>
+<summary>Bürokratielevel: &gt;9000- Vereinsverwaltung</summary>
+<description>Ich bin da in so nem Verein - wir machen Verwaltung so und so</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5733.html</url>
+<location>shack-Seminarraum</location>
+<attendee>Laird_Dave</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5734@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5734</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5734_-_en_-_degerloch_-_201404202030_-_managing_containers_with_docker_-_johannes_fish_ziemke</pentabarf:event-slug>
+<pentabarf:title>Managing containers with Docker</pentabarf:title>
+<pentabarf:subtitle>...and why you'll love it</pentabarf:subtitle>
+<pentabarf:language>English</pentabarf:language>
+<pentabarf:language-code>en</pentabarf:language-code>
+<dtstart>20140420T203000</dtstart>
+<dtend>20140420T211500</dtend>
+<duration>004500</duration>
+<summary>Managing containers with Docker- ...and why you'll love it</summary>
+<description>What are the challenges of today's infrastructures, why containers are the right building blocks and Docker the right tool to manage those.</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5734.html</url>
+<location>Degerloch</location>
+<attendee>Johannes 'fish' Ziemke</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5735@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5735</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5735_-_de_-_workshopraum_-_201404191300_-_presenting_for_geeks_-_dirk_haun</pentabarf:event-slug>
+<pentabarf:title>Presenting for Geeks</pentabarf:title>
+<pentabarf:subtitle></pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140419T130000</dtstart>
+<dtend>20140419T151500</dtend>
+<duration>021500</duration>
+<summary>Presenting for Geeks- </summary>
+<description>Du bist also ein Geek und willst eine Präsentation über ein Thema geben, das Dir sehr am Herzen liegt. Du bist folglich sehr enthusiastisch. Du möchtest Deinem Publikum am liebsten alles über Dein Thema erzählen. Aber aus irgend einem Grund, obwohl Deine Präsentation doch alle Aspekte behandelt, zeigt sich das Publikum weit weniger enthusiastisch als erhofft. Woran liegt das? Kommt Dir diese Situation bekannt vor?</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5735.html</url>
+<location>Workshopraum</location>
+<attendee>Dirk Haun</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5736@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5736</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5736_-_de_-_workshopraum_-_201404201500_-_privacy_was_ist_das_kann_man_das_m_essen_-_annskaja</pentabarf:event-slug>
+<pentabarf:title>Privacy, was ist das? Kann man das (m)essen?</pentabarf:title>
+<pentabarf:subtitle></pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140420T150000</dtstart>
+<dtend>20140420T154500</dtend>
+<duration>004500</duration>
+<summary>Privacy, was ist das? Kann man das (m)essen?- </summary>
+<description>&quot;Privacy&quot; ist ein Begriff, der immer wieder auftaucht. So richtig gut ins Deutsche übersetzen lässt er sich aer nicht. &quot;Privatsphäre&quot; findet man oft als Synonym. Privatsphäre, das ist ein Menschenrecht, in Deutschland aus dem Persönlichkeitsrecht abgeleitet, das im Grundgesetz verankert ist. Aber auch &quot;Privatheit&quot; ist ein häufig auftauchendes Wort, das zur Übersetzung herangezogen wird. Ist &quot;Privatheit&quot; denn das gleiche wie &quot;Privatsphäre&quot;? Und was bedeutet das eigentlich? Kann man formalisieren und quantisieren, wie &quot;privat&quot; - im Wortsinn: &quot;für sich, im Eigenen&quot; - man ist? Oder ist Privacy ein abstraktes Konstrukt, das sich ständig neu definiert?</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5736.html</url>
+<location>Workshopraum</location>
+<attendee>annskaja</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5737@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5737</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5737_-_de_-_workshopraum_-_201404191800_-_hackerethik_2_0_-_y</pentabarf:event-slug>
+<pentabarf:title>Hackerethik 2.0</pentabarf:title>
+<pentabarf:subtitle></pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140419T180000</dtstart>
+<dtend>20140419T184500</dtend>
+<duration>004500</duration>
+<summary>Hackerethik 2.0- </summary>
+<description>In diesem Workshop sollen die Teilnehmenden über die Hackerethik und ihre mögliche Neufassung diskutieren.</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5737.html</url>
+<location>Workshopraum</location>
+<attendee>&gt;Y&lt;</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5738@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5738</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5738_-_de_-_workshopraum_-_201404201930_-_datenubertragung_per_ultraschall_im_turbomodus_-_esgeh</pentabarf:event-slug>
+<pentabarf:title>Datenübertragung per Ultraschall im Turbomodus</pentabarf:title>
+<pentabarf:subtitle>Moderne Modulations- und Kodierungstechniken und ihre mögliche Anwendung im Ultraschallbereich</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140420T193000</dtstart>
+<dtend>20140420T201500</dtend>
+<duration>004500</duration>
+<summary>Datenübertragung per Ultraschall im Turbomodus- Moderne Modulations- und Kodierungstechniken und ihre mögliche Anwendung im Ultraschallbereich</summary>
+<description>Ich möchte mit dem Vortrag den Hörern einen kurzen Überblick über die Probleme der Nachrichtenübermittlung geben, moderne Modulations- und Kodierungstechniken vorstellen, die heutzutage gerne für hohe Datenraten im Radiobereich benutzt (oder noch nicht benutzt) werden und zeigen, was man für Datenraten bekommen kann, wenn man diese Techniken in dem schmalen Frequenzbereich einsetzt, der in der Regel unhörbar aber noch von vielen Laptop-Mikrophonen und -Lautsprechern aufgenommen bzw. wiedergegeben werden können.</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5738.html</url>
+<location>Workshopraum</location>
+<attendee>esgeh</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5739@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5739</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5739_-_de_-_degerloch_-_201404191630_-_can_can-open_-_alex-k</pentabarf:event-slug>
+<pentabarf:title>CAN &amp; CAN-OPEN</pentabarf:title>
+<pentabarf:subtitle>Was hat ein Auto und eine Industrieanlage gemeinsam</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140419T163000</dtstart>
+<dtend>20140419T180000</dtend>
+<duration>013000</duration>
+<summary>CAN &amp; CAN-OPEN- Was hat ein Auto und eine Industrieanlage gemeinsam</summary>
+<description>Was hat die Kommunikation im Auto, Flurförderfahrzeugen automatische Schiebetüren gemeinsam.  Wie kann ich in diesen Systemen Mitspracherecht erhalten. </description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5739.html</url>
+<location>Degerloch</location>
+<attendee>alex-k</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5741@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5741</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5741_-_de_-_shack-seminarraum_-_201404191300_-_mitgliederversammlung_darc_ov_d23_-_freunde_des_ccc_-_tny</pentabarf:event-slug>
+<pentabarf:title>Mitgliederversammlung DARC OV D23 - Freunde des CCC</pentabarf:title>
+<pentabarf:subtitle></pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140419T130000</dtstart>
+<dtend>20140419T154500</dtend>
+<duration>024500</duration>
+<summary>Mitgliederversammlung DARC OV D23 - Freunde des CCC- </summary>
+<description>Mitgliederversammlung des DARC Ortsverein D23 - Freunde des CCC</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5741.html</url>
+<location>shack-Seminarraum</location>
+<attendee>Tny</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5742@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5742</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5742_-_de_-_workshopraum_-_201404201200_-_computer-aided_knitting_with_ayab_-_chris007</pentabarf:event-slug>
+<pentabarf:title>Computer-aided knitting with AYAB</pentabarf:title>
+<pentabarf:subtitle>How to hack Brother Knitting Machines to be controlled by your computer</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140420T120000</dtstart>
+<dtend>20140420T124500</dtend>
+<duration>004500</duration>
+<summary>Computer-aided knitting with AYAB- How to hack Brother Knitting Machines to be controlled by your computer</summary>
+<description>The goal of the AYAB project is to provide an alternative way to control the famous Brother KH-9xx knitting machines.</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5742.html</url>
+<location>Workshopraum</location>
+<attendee>chris007</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5743@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5743</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5743_-_de_-_shack-seminarraum_-_201404181915_-_nixos_als_serversystem_in_der_praxis_-_joachim_schiele</pentabarf:event-slug>
+<pentabarf:title>NixOS als Serversystem in der Praxis</pentabarf:title>
+<pentabarf:subtitle>Installation von NixOS, Konfiguration von Systemdiensten, einspielen von Updates und erweiterung von NixOS um eigene Dienste.</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140418T191500</dtstart>
+<dtend>20140418T201500</dtend>
+<duration>010000</duration>
+<summary>NixOS als Serversystem in der Praxis- Installation von NixOS, Konfiguration von Systemdiensten, einspielen von Updates und erweiterung von NixOS um eigene Dienste.</summary>
+<description>eine einführung in die verwendung von NixOS z.b. für den servereinsatz und um eigene dienste zu paketieren. </description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5743.html</url>
+<location>shack-Seminarraum</location>
+<attendee>Joachim Schiele</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5744@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5744</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5744_-_de_-_shack-seminarraum_-_201404201530_-_wie_kaputt_ist_tls_-_hanno</pentabarf:event-slug>
+<pentabarf:title>Wie kaputt ist TLS?</pentabarf:title>
+<pentabarf:subtitle>Das wichtigste Kryptoprotokoll unter der Lupe</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140420T153000</dtstart>
+<dtend>20140420T161500</dtend>
+<duration>004500</duration>
+<summary>Wie kaputt ist TLS?- Das wichtigste Kryptoprotokoll unter der Lupe</summary>
+<description>In TLS sind in letzter Zeit zahlreiche Probleme aufgetaucht, Die BEAST- und die Lucky Thirteen-Attacke, Probleme mit RC4 und Mißtrauen gegenüber Standards aus dem Hause NSA. Wo steht TLS heute und welche Verbesserungen stehen an?</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5744.html</url>
+<location>shack-Seminarraum</location>
+<attendee>hanno</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5746@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5746</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5746_-_de_-_shack-seminarraum_-_201404201045_-_hannibal_lecter_und_sauron_in_einer_totaluberwachten_welt_-_musevg</pentabarf:event-slug>
+<pentabarf:title>Hannibal Lecter und Sauron in einer totalüberwachten Welt</pentabarf:title>
+<pentabarf:subtitle></pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140420T104500</dtstart>
+<dtend>20140420T113000</dtend>
+<duration>004500</duration>
+<summary>Hannibal Lecter und Sauron in einer totalüberwachten Welt- </summary>
+<description>Wie würden &quot;Das Schweigen der Lämmer&quot; oder &quot;Der Herr Der Ringe&quot; oder $DeinLieblingsbuch in einer komplett überwachten Welt aussehen?
+Clarice Starling könnte Buffalo Bill einfach per Funkzellen-Auswertung finden und bräuchte gar keine die Hilfe von Hannibal Lecter.
+Und Sauron wüsste von Anfang an, wohin er Orks &amp; Nazgul schicken müsste, um die Gemeinschaft des Rings aufzubringen. </description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5746.html</url>
+<location>shack-Seminarraum</location>
+<attendee>musevg</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5747@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5747</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5747_-_de_-_shack-seminarraum_-_201404201500_-_prismcamp_-_musevg</pentabarf:event-slug>
+<pentabarf:title>PrismCamp</pentabarf:title>
+<pentabarf:subtitle>Politik, Technik und Gesellschaft in Zeiten der Totalüberwachung</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140420T150000</dtstart>
+<dtend>20140420T153000</dtend>
+<duration>003000</duration>
+<summary>PrismCamp- Politik, Technik und Gesellschaft in Zeiten der Totalüberwachung</summary>
+<description>PrismCamp - Wider die Ohnmacht.
+Warum wir ein Barcamp zu NSA-Überwachung, Vorratsdatenspeicherung etc. veranstalten.
+</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5747.html</url>
+<location>shack-Seminarraum</location>
+<attendee>musevg</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5748@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5748</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5748_-_en_-_degerloch_-_201404192045_-_the_limits_of_cryptography_-_benedikt_stockebrand</pentabarf:event-slug>
+<pentabarf:title>The Limits of Cryptography</pentabarf:title>
+<pentabarf:subtitle></pentabarf:subtitle>
+<pentabarf:language>English</pentabarf:language>
+<pentabarf:language-code>en</pentabarf:language-code>
+<dtstart>20140419T204500</dtstart>
+<dtend>20140419T221500</dtend>
+<duration>013000</duration>
+<summary>The Limits of Cryptography- </summary>
+<description>While recent events have finally made the world at large realize that the exhaustive deployment and use of cryptography throughout the Internet can no longer be deferred, there is now a good chance that people will be given a false sense of security once cryptographic support has been added and enabled.  This talk points out the limitations inherent in real-world cryptography, from its underlying principles to its operation,</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5748.html</url>
+<location>Degerloch</location>
+<attendee>Benedikt Stockebrand</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5749@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5749</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5749_-_de_-_degerloch_-_201404211200_-_frauen_in_der_it_-_jayneway</pentabarf:event-slug>
+<pentabarf:title>Frauen in der IT</pentabarf:title>
+<pentabarf:subtitle>Ein Erfahrungsbericht</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140421T120000</dtstart>
+<dtend>20140421T123000</dtend>
+<duration>003000</duration>
+<summary>Frauen in der IT- Ein Erfahrungsbericht</summary>
+<description>Erfahrungen mit und über Frauen in der Informatik und die große Fragen, warum so wenige Frauen dieses Fach studieren.
+</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5749.html</url>
+<location>Degerloch</location>
+<attendee>Jayneway</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5751@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5751</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5751_-_de_-_workshopraum_-_201404191100_-_semi_automatisierung_der_kardiopulmonalen_reanimation_als_-_abdo</pentabarf:event-slug>
+<pentabarf:title>(semi)Automatisierung der kardiopulmonalen Reanimation (ALS)</pentabarf:title>
+<pentabarf:subtitle>a work in progress</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140419T110000</dtstart>
+<dtend>20140419T111500</dtend>
+<duration>001500</duration>
+<summary>(semi)Automatisierung der kardiopulmonalen Reanimation (ALS)- a work in progress</summary>
+<description>Software- und hardwaregestütztes proof-of-concept. Umbau bestehender Medizintechnikprodukte zur Steuerung mittels eigens entwickeltem Softwareprogramm.</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5751.html</url>
+<location>Workshopraum</location>
+<attendee>Abdo</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5752@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5752</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5752_-_de_-_degerloch_-_201404201445_-_deklarativ_webservices_unter_nixos_beschreiben_-_joachim_schiele</pentabarf:event-slug>
+<pentabarf:title>Deklarativ Webservices unter NixOS beschreiben</pentabarf:title>
+<pentabarf:subtitle>Wie man LXC, virtualisierung und reverse proxies deklarativ einsetzt um Webservices zu hosten!</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140420T144500</dtstart>
+<dtend>20140420T154500</dtend>
+<duration>010000</duration>
+<summary>Deklarativ Webservices unter NixOS beschreiben- Wie man LXC, virtualisierung und reverse proxies deklarativ einsetzt um Webservices zu hosten!</summary>
+<description>vhosts einrichten und manuelles aufsetzen von webservices wie z.b. mediawiki ist von gestern! mit NixOS kann man LXC, virtualisierung und reverse proxies deklarativ einsetzen um auf einfache art einen komplexen webservice aufzusetzen.</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5752.html</url>
+<location>Degerloch</location>
+<attendee>Joachim Schiele</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5753@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5753</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5753_-_en_-_shackspace_kuche_-_201404201300_-_baozi_-_hadez</pentabarf:event-slug>
+<pentabarf:title>Baozi</pentabarf:title>
+<pentabarf:subtitle>Schnelles Gedämpfes für die Kauleiste</pentabarf:subtitle>
+<pentabarf:language>English</pentabarf:language>
+<pentabarf:language-code>en</pentabarf:language-code>
+<dtstart>20140420T130000</dtstart>
+<dtend>20140420T150000</dtend>
+<duration>020000</duration>
+<summary>Baozi- Schnelles Gedämpfes für die Kauleiste</summary>
+<description>In diesem Workshop lernt Ihr, wie man Baozi - chinesische gedämpfte Teigtaschen - schnell und einfach selbst zubereiten kann.
+Baozi lassen sich auch batchprocessen und puffern, was sie zum idealen Zwischendurchsnack oder Mittagessen für zeitknappe Hacker macht.
+Für Verbrauchsmaterial wird ein kleiner Unkostenbeitrag erhoben.</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5753.html</url>
+<location>shackspace Küche</location>
+<attendee>hadez</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5754@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5754</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5754_-_de_-_shack-seminarraum_-_201404191545_-_regiotreffen_-_martin_haase_maha</pentabarf:event-slug>
+<pentabarf:title>Regiotreffen</pentabarf:title>
+<pentabarf:subtitle>Erfa-Beirat und das regionale Chaos treffen sich</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140419T154500</dtstart>
+<dtend>20140419T184500</dtend>
+<duration>030000</duration>
+<summary>Regiotreffen- Erfa-Beirat und das regionale Chaos treffen sich</summary>
+<description>Auf dem Easterhegg soll wieder ein Regiotreffen stattfindet. Es treffen sich die Vertreter der Erfa-Kreise und Chaostreffs.</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5754.html</url>
+<location>shack-Seminarraum</location>
+<attendee>Martin Haase/maha</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5755@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5755</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5755_-_de_-_workshopraum_-_201404201545_-_reverse_engineering_can_in_autos_-_hk</pentabarf:event-slug>
+<pentabarf:title>Reverse Engineering CAN in Autos</pentabarf:title>
+<pentabarf:subtitle>information is hidden</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140420T154500</dtstart>
+<dtend>20140420T161500</dtend>
+<duration>003000</duration>
+<summary>Reverse Engineering CAN in Autos- information is hidden</summary>
+<description>Anhand eines Seat Ibiza wird ilustriert welche Informationen auf dem CAN-Bus zu finden sind und wie sie reverse engineert wurden. Es folgen Beispiele die Signale fuer eigene Zwecke zu nutzen. Es wird auch auf den Nutzen und die Gefahren von Schreibzugriffen eingegangen.</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5755.html</url>
+<location>Workshopraum</location>
+<attendee>hk</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5756@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5756</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5756_-_de_-_workshopraum_-_201404192045_-_survival_fur_softwareprojekte_-_h0uz3</pentabarf:event-slug>
+<pentabarf:title>Survival für Softwareprojekte</pentabarf:title>
+<pentabarf:subtitle>Leichte Unterhaltung für Developers, Developers, Developers</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140419T204500</dtstart>
+<dtend>20140419T213000</dtend>
+<duration>004500</duration>
+<summary>Survival für Softwareprojekte- Leichte Unterhaltung für Developers, Developers, Developers</summary>
+<description>WTF/Minute ist eine reale Metrik. Überhaupt, Metriken sind etwas Gutes. Aber nicht alle Metriken sind gut. Und andere Erkenntnisse.</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5756.html</url>
+<location>Workshopraum</location>
+<attendee>h0uz3</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5757@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5757</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5757_-_de_-_degerloch_-_201404191100_-_elite_trotz_hackerspace_-_h0uz3</pentabarf:event-slug>
+<pentabarf:title>Elite trotz Hackerspace</pentabarf:title>
+<pentabarf:subtitle>Inklusion bedeutet nicht, die eigene Filterbubble aufzugeben</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140419T110000</dtstart>
+<dtend>20140419T114500</dtend>
+<duration>004500</duration>
+<summary>Elite trotz Hackerspace- Inklusion bedeutet nicht, die eigene Filterbubble aufzugeben</summary>
+<description>Sie wurden laut, die Rufe nach einer neuen &quot;Hacker-Elite&quot;. Sie wird spürbar, die Ablehnung der &quot;DAUs&quot;. Der Konflikt ist da: Hackerelite gegen allgemein Technikinteressierte.</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5757.html</url>
+<location>Degerloch</location>
+<attendee>h0uz3</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5758@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5758</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5758_-_de_-_degerloch_-_201404202115_-_angriffe_auf_mikrochips_durch_die_rueckseite_-_starbug</pentabarf:event-slug>
+<pentabarf:title>Angriffe auf Mikrochips durch die Rueckseite</pentabarf:title>
+<pentabarf:subtitle></pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140420T211500</dtstart>
+<dtend>20140420T220000</dtend>
+<duration>004500</duration>
+<summary>Angriffe auf Mikrochips durch die Rueckseite- </summary>
+<description>Hersteller von Sicherheits-ICs haben in den letzten Jahren viel Arbeit in die Absicherung ihrer Produkte gesteckt. Dabei konzentrierten sie sich aber hauptsächlich auf die Vorderseite des Chips. Der Vortrag beschäftigt sich mit der nächsten großen Spielwiese von Chip-Hackern. Er beleuchtet Probingangriffe mittels Focused Ion Beam und die direkte Überwachung von schaltenden Transistoren durch die Analyse von optischen Seitenkanälen.</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5758.html</url>
+<location>Degerloch</location>
+<attendee>starbug</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5759@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5759</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5759_-_de_-_degerloch_-_201404201845_-_hacker_nerds_vs_people_-_mirirai</pentabarf:event-slug>
+<pentabarf:title>Hacker &amp; Nerds vs. People</pentabarf:title>
+<pentabarf:subtitle>Ergebnisse einer Umfrage unter Hacker und Nicht-Hacker</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140420T184500</dtstart>
+<dtend>20140420T193000</dtend>
+<duration>004500</duration>
+<summary>Hacker &amp; Nerds vs. People- Ergebnisse einer Umfrage unter Hacker und Nicht-Hacker</summary>
+<description>Emacs oder VIM? Foo oder Bar? Wie beantworten Hacker und Nicht-Hacker diese Fragen? Und sind wirklich die meisten Hacker My Little Pony Fans?</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5759.html</url>
+<location>Degerloch</location>
+<attendee>mirirai</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5760@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5760</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5760_-_de_-_degerloch_-_201404201930_-_die_geschichte_des_ccc_stuttgart_-_princess</pentabarf:event-slug>
+<pentabarf:title>Die Geschichte des CCC Stuttgart</pentabarf:title>
+<pentabarf:subtitle>Der lange Weg zum Ruhm ;-)</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140420T193000</dtstart>
+<dtend>20140420T201500</dtend>
+<duration>004500</duration>
+<summary>Die Geschichte des CCC Stuttgart- Der lange Weg zum Ruhm ;-)</summary>
+<description>Bereits seit dem Sommer 2001 gibt es den Stuttgarter Ableger des CCC. Was sich seitdem aus einem Stammtisch einmal im Monat bis zum heutigen Tage ereignet hat, soll am Easterhegg gewürdigt werden. Nicht zu kurz kommen soll auch die wechselhalfte Geschichte der Eintragung als Verein.</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5760.html</url>
+<location>Degerloch</location>
+<attendee>Princess</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5761@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5761</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5761_-_de_-_workshopraum_-_201404201115_-_mumble_workshop_-_fohlen</pentabarf:event-slug>
+<pentabarf:title>Mumble Workshop</pentabarf:title>
+<pentabarf:subtitle></pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140420T111500</dtstart>
+<dtend>20140420T114500</dtend>
+<duration>003000</duration>
+<summary>Mumble Workshop- </summary>
+<description>Eine Einführung in Mumble (sowohl technisch als auch für Anwender).</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5761.html</url>
+<location>Workshopraum</location>
+<attendee>Fohlen</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5762@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5762</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5762_-_de_-_degerloch_-_201404192230_-_chaosfamilienduell_-_muzy_-_jiska</pentabarf:event-slug>
+<pentabarf:title>ChaosFamilienDuell</pentabarf:title>
+<pentabarf:subtitle>Wir haben 100 Hacker und Haecksen gefragt</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140419T223000</dtstart>
+<dtend>20140420T000000</dtend>
+<duration>013000</duration>
+<summary>ChaosFamilienDuell- Wir haben 100 Hacker und Haecksen gefragt</summary>
+<description></description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5762.html</url>
+<location>Degerloch</location>
+<attendee>muzy</attendee>
+<attendee>jiska</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5763@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5763</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5763_-_en_-_workshopraum_-_201404202115_-_security_aspects_of_bitcoin_-_myshkin</pentabarf:event-slug>
+<pentabarf:title>Security aspects of Bitcoin</pentabarf:title>
+<pentabarf:subtitle></pentabarf:subtitle>
+<pentabarf:language>English</pentabarf:language>
+<pentabarf:language-code>en</pentabarf:language-code>
+<dtstart>20140420T211500</dtstart>
+<dtend>20140420T221500</dtend>
+<duration>010000</duration>
+<summary>Security aspects of Bitcoin- </summary>
+<description>This talk is supposed to introduce the current discussion regarding Bitcoins security. We want to give an overview of cryptographic issues, wallet security etc. We also want to discuss some of the more recent events regardig Bitcoins (Mt. Gox etc.)</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5763.html</url>
+<location>Workshopraum</location>
+<attendee>Myshkin</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5764@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5764</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5764_-_de_-_degerloch_-_201404201200_-_einfuhrung_in_django_-_arne_schauf</pentabarf:event-slug>
+<pentabarf:title>Einführung in Django</pentabarf:title>
+<pentabarf:subtitle>Was ist Django und wofür braucht man das?</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140420T120000</dtstart>
+<dtend>20140420T123000</dtend>
+<duration>003000</duration>
+<summary>Einführung in Django- Was ist Django und wofür braucht man das?</summary>
+<description>Ein kurzer Überblick über das Python-Webframework Django. Was nimmt einem das Framework ab - was muss man selber machen?</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5764.html</url>
+<location>Degerloch</location>
+<attendee>Arne Schauf</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5765@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5765</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5765_-_de_-_shack-seminarraum_-_201404181700_-_hakel_workshop_-_kerstin</pentabarf:event-slug>
+<pentabarf:title>Häkel Workshop</pentabarf:title>
+<pentabarf:subtitle></pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140418T170000</dtstart>
+<dtend>20140418T174500</dtend>
+<duration>004500</duration>
+<summary>Häkel Workshop- </summary>
+<description>Anfänger Häkel Workshop.. Boshis-Beanies leicht gehäkelt</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5765.html</url>
+<location>shack-Seminarraum</location>
+<attendee>kerstin</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5766@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5766</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5766_-__-_shack-seminarraum_-_201404201645_-_das_irc-protokoll_-_hc</pentabarf:event-slug>
+<pentabarf:title>Das IRC-Protokoll</pentabarf:title>
+<pentabarf:subtitle></pentabarf:subtitle>
+<pentabarf:language>{:ab=&gt;&quot;Abkhazian&quot;, :ace=&gt;&quot;Achinese&quot;, :ach=&gt;&quot;Acoli&quot;, :ada=&gt;&quot;Adangme&quot;, :ady=&gt;&quot;Adyghe&quot;, :ae=&gt;&quot;Avestan&quot;, :af=&gt;&quot;Afrikaans&quot;, :afa=&gt;&quot;Afro-Asiatic Language&quot;, :afh=&gt;&quot;Afrihili&quot;, :ain=&gt;&quot;Ainu&quot;, :ak=&gt;&quot;Akan&quot;, :akk=&gt;&quot;Akkadian&quot;, :ale=&gt;&quot;Aleut&quot;, :alg=&gt;&quot;Algonquian Language&quot;, :alt=&gt;&quot;Southern Altai&quot;, :am=&gt;&quot;Amharic&quot;, :an=&gt;&quot;Aragonese&quot;, :ang=&gt;&quot;Old English&quot;, :anp=&gt;&quot;Angika&quot;, :apa=&gt;&quot;Apache Language&quot;, :ar=&gt;&quot;Arabic&quot;, :arc=&gt;&quot;Aramaic&quot;, :arn=&gt;&quot;Araucanian&quot;, :arp=&gt;&quot;Arapaho&quot;, :art=&gt;&quot;Artificial Language&quot;, :arw=&gt;&quot;Arawak&quot;, :as=&gt;&quot;Assamese&quot;, :ast=&gt;&quot;Asturian&quot;, :ath=&gt;&quot;Athapascan Language&quot;, :aus=&gt;&quot;Australian Language&quot;, :av=&gt;&quot;Avaric&quot;, :awa=&gt;&quot;Awadhi&quot;, :ay=&gt;&quot;Aymara&quot;, :az=&gt;&quot;Azerbaijani&quot;, :ba=&gt;&quot;Bashkir&quot;, :bad=&gt;&quot;Banda&quot;, :bai=&gt;&quot;Bamileke Language&quot;, :bal=&gt;&quot;Baluchi&quot;, :ban=&gt;&quot;Balinese&quot;, :bas=&gt;&quot;Basa&quot;, :bat=&gt;&quot;Baltic Language&quot;, :be=&gt;&quot;Belarusian&quot;, :bej=&gt;&quot;Beja&quot;, :bem=&gt;&quot;Bemba&quot;, :ber=&gt;&quot;Berber&quot;, :bg=&gt;&quot;Bulgarian&quot;, :bh=&gt;&quot;Bihari&quot;, :bho=&gt;&quot;Bhojpuri&quot;, :bi=&gt;&quot;Bislama&quot;, :bik=&gt;&quot;Bikol&quot;, :bin=&gt;&quot;Bini&quot;, :bla=&gt;&quot;Siksika&quot;, :bm=&gt;&quot;Bambara&quot;, :bn=&gt;&quot;Bengali&quot;, :bnt=&gt;&quot;Bantu&quot;, :bo=&gt;&quot;Tibetan&quot;, :br=&gt;&quot;Breton&quot;, :bra=&gt;&quot;Braj&quot;, :bs=&gt;&quot;Bosnian&quot;, :btk=&gt;&quot;Batak&quot;, :bua=&gt;&quot;Buriat&quot;, :bug=&gt;&quot;Buginese&quot;, :byn=&gt;&quot;Blin&quot;, :ca=&gt;&quot;Catalan&quot;, :cad=&gt;&quot;Caddo&quot;, :cai=&gt;&quot;Central American Indian Language&quot;, :car=&gt;&quot;Carib&quot;, :cau=&gt;&quot;Caucasian Language&quot;, :cch=&gt;&quot;Atsam&quot;, :ce=&gt;&quot;Chechen&quot;, :ceb=&gt;&quot;Cebuano&quot;, :cel=&gt;&quot;Celtic Language&quot;, :ch=&gt;&quot;Chamorro&quot;, :chb=&gt;&quot;Chibcha&quot;, :chg=&gt;&quot;Chagatai&quot;, :chk=&gt;&quot;Chuukese&quot;, :chm=&gt;&quot;Mari&quot;, :chn=&gt;&quot;Chinook Jargon&quot;, :cho=&gt;&quot;Choctaw&quot;, :chp=&gt;&quot;Chipewyan&quot;, :chr=&gt;&quot;Cherokee&quot;, :chy=&gt;&quot;Cheyenne&quot;, :cmc=&gt;&quot;Chamic Language&quot;, :co=&gt;&quot;Corsican&quot;, :cop=&gt;&quot;Coptic&quot;, :cpe=&gt;&quot;English-based Creole or Pidgin&quot;, :cpf=&gt;&quot;French-based Creole or Pidgin&quot;, :cpp=&gt;&quot;Portuguese-based Creole or Pidgin&quot;, :cr=&gt;&quot;Cree&quot;, :crh=&gt;&quot;Crimean Turkish&quot;, :crp=&gt;&quot;Creole or Pidgin&quot;, :cs=&gt;&quot;Czech&quot;, :csb=&gt;&quot;Kashubian&quot;, :cu=&gt;&quot;Church Slavic&quot;, :cus=&gt;&quot;Cushitic Language&quot;, :cv=&gt;&quot;Chuvash&quot;, :cy=&gt;&quot;Welsh&quot;, :da=&gt;&quot;Danish&quot;, :dak=&gt;&quot;Dakota&quot;, :dar=&gt;&quot;Dargwa&quot;, :day=&gt;&quot;Dayak&quot;, :de=&gt;&quot;German&quot;, :&quot;de-AT&quot;=&gt;&quot;Austrian German&quot;, :&quot;de-CH&quot;=&gt;&quot;Swiss High German&quot;, :del=&gt;&quot;Delaware&quot;, :den=&gt;&quot;Slave&quot;, :dgr=&gt;&quot;Dogrib&quot;, :din=&gt;&quot;Dinka&quot;, :doi=&gt;&quot;Dogri&quot;, :dra=&gt;&quot;Dravidian Language&quot;, :dsb=&gt;&quot;Lower Sorbian&quot;, :dua=&gt;&quot;Duala&quot;, :dum=&gt;&quot;Middle Dutch&quot;, :dv=&gt;&quot;Divehi&quot;, :dyu=&gt;&quot;Dyula&quot;, :dz=&gt;&quot;Dzongkha&quot;, :ee=&gt;&quot;Ewe&quot;, :efi=&gt;&quot;Efik&quot;, :egy=&gt;&quot;Ancient Egyptian&quot;, :eka=&gt;&quot;Ekajuk&quot;, :el=&gt;&quot;Greek&quot;, :elx=&gt;&quot;Elamite&quot;, :en=&gt;&quot;English&quot;, :&quot;en-AU&quot;=&gt;&quot;Australian English&quot;, :&quot;en-CA&quot;=&gt;&quot;Canadian English&quot;, :&quot;en-GB&quot;=&gt;&quot;British English&quot;, :&quot;en-US&quot;=&gt;&quot;U.S. English&quot;, :enm=&gt;&quot;Middle English&quot;, :eo=&gt;&quot;Esperanto&quot;, :es=&gt;&quot;Spanish&quot;, :&quot;es-ES&quot;=&gt;&quot;Iberian Spanish&quot;, :et=&gt;&quot;Estonian&quot;, :eu=&gt;&quot;Basque&quot;, :ewo=&gt;&quot;Ewondo&quot;, :fa=&gt;&quot;Persian&quot;, :fan=&gt;&quot;Fang&quot;, :fat=&gt;&quot;Fanti&quot;, :ff=&gt;&quot;Fulah&quot;, :fi=&gt;&quot;Finnish&quot;, :fil=&gt;&quot;Filipino&quot;, :fiu=&gt;&quot;Finno-Ugrian Language&quot;, :fj=&gt;&quot;Fijian&quot;, :fo=&gt;&quot;Faroese&quot;, :fon=&gt;&quot;Fon&quot;, :fr=&gt;&quot;French&quot;, :&quot;fr-CA&quot;=&gt;&quot;Canadian French&quot;, :&quot;fr-CH&quot;=&gt;&quot;Swiss French&quot;, :frm=&gt;&quot;Middle French&quot;, :fro=&gt;&quot;Old French&quot;, :frr=&gt;&quot;Northern Frisian&quot;, :frs=&gt;&quot;Eastern Frisian&quot;, :fur=&gt;&quot;Friulian&quot;, :fy=&gt;&quot;Western Frisian&quot;, :ga=&gt;&quot;Irish&quot;, :gaa=&gt;&quot;Ga&quot;, :gay=&gt;&quot;Gayo&quot;, :gba=&gt;&quot;Gbaya&quot;, :gd=&gt;&quot;Scottish Gaelic&quot;, :gem=&gt;&quot;Germanic Language&quot;, :gez=&gt;&quot;Geez&quot;, :gil=&gt;&quot;Gilbertese&quot;, :gl=&gt;&quot;Galician&quot;, :gmh=&gt;&quot;Middle High German&quot;, :gn=&gt;&quot;Guarani&quot;, :goh=&gt;&quot;Old High German&quot;, :gon=&gt;&quot;Gondi&quot;, :gor=&gt;&quot;Gorontalo&quot;, :got=&gt;&quot;Gothic&quot;, :grb=&gt;&quot;Grebo&quot;, :grc=&gt;&quot;Ancient Greek&quot;, :gsw=&gt;&quot;Swiss German&quot;, :gu=&gt;&quot;Gujarati&quot;, :gv=&gt;&quot;Manx&quot;, :gwi=&gt;&quot;Gwichʼin&quot;, :ha=&gt;&quot;Hausa&quot;, :hai=&gt;&quot;Haida&quot;, :haw=&gt;&quot;Hawaiian&quot;, :he=&gt;&quot;Hebrew&quot;, :hi=&gt;&quot;Hindi&quot;, :hil=&gt;&quot;Hiligaynon&quot;, :him=&gt;&quot;Himachali&quot;, :hit=&gt;&quot;Hittite&quot;, :hmn=&gt;&quot;Hmong&quot;, :ho=&gt;&quot;Hiri Motu&quot;, :hr=&gt;&quot;Croatian&quot;, :hsb=&gt;&quot;Upper Sorbian&quot;, :ht=&gt;&quot;Haitian&quot;, :hu=&gt;&quot;Hungarian&quot;, :hup=&gt;&quot;Hupa&quot;, :hy=&gt;&quot;Armenian&quot;, :hz=&gt;&quot;Herero&quot;, :ia=&gt;&quot;Interlingua&quot;, :iba=&gt;&quot;Iban&quot;, :id=&gt;&quot;Indonesian&quot;, :ie=&gt;&quot;Interlingue&quot;, :ig=&gt;&quot;Igbo&quot;, :ii=&gt;&quot;Sichuan Yi&quot;, :ijo=&gt;&quot;Ijo&quot;, :ik=&gt;&quot;Inupiaq&quot;, :ilo=&gt;&quot;Iloko&quot;, :inc=&gt;&quot;Indic Language&quot;, :ine=&gt;&quot;Indo-European Language&quot;, :inh=&gt;&quot;Ingush&quot;, :io=&gt;&quot;Ido&quot;, :ira=&gt;&quot;Iranian Language&quot;, :iro=&gt;&quot;Iroquoian Language&quot;, :is=&gt;&quot;Icelandic&quot;, :it=&gt;&quot;Italian&quot;, :iu=&gt;&quot;Inuktitut&quot;, :ja=&gt;&quot;Japanese&quot;, :jbo=&gt;&quot;Lojban&quot;, :jpr=&gt;&quot;Judeo-Persian&quot;, :jrb=&gt;&quot;Judeo-Arabic&quot;, :jv=&gt;&quot;Javanese&quot;, :ka=&gt;&quot;Georgian&quot;, :kaa=&gt;&quot;Kara-Kalpak&quot;, :kab=&gt;&quot;Kabyle&quot;, :kac=&gt;&quot;Kachin&quot;, :kaj=&gt;&quot;Jju&quot;, :kam=&gt;&quot;Kamba&quot;, :kar=&gt;&quot;Karen&quot;, :kaw=&gt;&quot;Kawi&quot;, :kbd=&gt;&quot;Kabardian&quot;, :kcg=&gt;&quot;Tyap&quot;, :kfo=&gt;&quot;Koro&quot;, :kg=&gt;&quot;Kongo&quot;, :kha=&gt;&quot;Khasi&quot;, :khi=&gt;&quot;Khoisan Language&quot;, :kho=&gt;&quot;Khotanese&quot;, :ki=&gt;&quot;Kikuyu&quot;, :kj=&gt;&quot;Kuanyama&quot;, :kk=&gt;&quot;Kazakh&quot;, :kl=&gt;&quot;Kalaallisut&quot;, :km=&gt;&quot;Khmer&quot;, :kmb=&gt;&quot;Kimbundu&quot;, :kn=&gt;&quot;Kannada&quot;, :ko=&gt;&quot;Korean&quot;, :kok=&gt;&quot;Konkani&quot;, :kos=&gt;&quot;Kosraean&quot;, :kpe=&gt;&quot;Kpelle&quot;, :kr=&gt;&quot;Kanuri&quot;, :krc=&gt;&quot;Karachay-Balkar&quot;, :krl=&gt;&quot;Karelian&quot;, :kro=&gt;&quot;Kru&quot;, :kru=&gt;&quot;Kurukh&quot;, :ks=&gt;&quot;Kashmiri&quot;, :ku=&gt;&quot;Kurdish&quot;, :kum=&gt;&quot;Kumyk&quot;, :kut=&gt;&quot;Kutenai&quot;, :kv=&gt;&quot;Komi&quot;, :kw=&gt;&quot;Cornish&quot;, :ky=&gt;&quot;Kirghiz&quot;, :la=&gt;&quot;Latin&quot;, :lad=&gt;&quot;Ladino&quot;, :lah=&gt;&quot;Lahnda&quot;, :lam=&gt;&quot;Lamba&quot;, :lb=&gt;&quot;Luxembourgish&quot;, :lez=&gt;&quot;Lezghian&quot;, :lg=&gt;&quot;Ganda&quot;, :li=&gt;&quot;Limburgish&quot;, :ln=&gt;&quot;Lingala&quot;, :lo=&gt;&quot;Lao&quot;, :lol=&gt;&quot;Mongo&quot;, :loz=&gt;&quot;Lozi&quot;, :lt=&gt;&quot;Lithuanian&quot;, :lu=&gt;&quot;Luba-Katanga&quot;, :lua=&gt;&quot;Luba-Lulua&quot;, :lui=&gt;&quot;Luiseno&quot;, :lun=&gt;&quot;Lunda&quot;, :luo=&gt;&quot;Luo&quot;, :lus=&gt;&quot;Lushai&quot;, :lv=&gt;&quot;Latvian&quot;, :mad=&gt;&quot;Madurese&quot;, :mag=&gt;&quot;Magahi&quot;, :mai=&gt;&quot;Maithili&quot;, :mak=&gt;&quot;Makasar&quot;, :man=&gt;&quot;Mandingo&quot;, :map=&gt;&quot;Austronesian Language&quot;, :mas=&gt;&quot;Masai&quot;, :mdf=&gt;&quot;Moksha&quot;, :mdr=&gt;&quot;Mandar&quot;, :men=&gt;&quot;Mende&quot;, :mg=&gt;&quot;Malagasy&quot;, :mga=&gt;&quot;Middle Irish&quot;, :mh=&gt;&quot;Marshallese&quot;, :mi=&gt;&quot;Maori&quot;, :mic=&gt;&quot;Micmac&quot;, :min=&gt;&quot;Minangkabau&quot;, :mis=&gt;&quot;Miscellaneous Language&quot;, :mk=&gt;&quot;Macedonian&quot;, :mkh=&gt;&quot;Mon-Khmer Language&quot;, :ml=&gt;&quot;Malayalam&quot;, :mn=&gt;&quot;Mongolian&quot;, :mnc=&gt;&quot;Manchu&quot;, :mni=&gt;&quot;Manipuri&quot;, :mno=&gt;&quot;Manobo Language&quot;, :mo=&gt;&quot;Moldavian&quot;, :moh=&gt;&quot;Mohawk&quot;, :mos=&gt;&quot;Mossi&quot;, :mr=&gt;&quot;Marathi&quot;, :ms=&gt;&quot;Malay&quot;, :mt=&gt;&quot;Maltese&quot;, :mul=&gt;&quot;Multiple Languages&quot;, :mun=&gt;&quot;Munda Language&quot;, :mus=&gt;&quot;Creek&quot;, :mwl=&gt;&quot;Mirandese&quot;, :mwr=&gt;&quot;Marwari&quot;, :my=&gt;&quot;Burmese&quot;, :myn=&gt;&quot;Mayan Language&quot;, :myv=&gt;&quot;Erzya&quot;, :na=&gt;&quot;Nauru&quot;, :nah=&gt;&quot;Nahuatl&quot;, :nai=&gt;&quot;North American Indian Language&quot;, :nap=&gt;&quot;Neapolitan&quot;, :nb=&gt;&quot;Norwegian Bokmål&quot;, :nd=&gt;&quot;North Ndebele&quot;, :nds=&gt;&quot;Low German&quot;, :ne=&gt;&quot;Nepali&quot;, :new=&gt;&quot;Newari&quot;, :ng=&gt;&quot;Ndonga&quot;, :nia=&gt;&quot;Nias&quot;, :nic=&gt;&quot;Niger-Kordofanian Language&quot;, :niu=&gt;&quot;Niuean&quot;, :nl=&gt;&quot;Dutch&quot;, :&quot;nl-BE&quot;=&gt;&quot;Flemish&quot;, :nn=&gt;&quot;Norwegian Nynorsk&quot;, false=&gt;&quot;Norwegian&quot;, :nog=&gt;&quot;Nogai&quot;, :non=&gt;&quot;Old Norse&quot;, :nqo=&gt;&quot;N’Ko&quot;, :nr=&gt;&quot;South Ndebele&quot;, :nso=&gt;&quot;Northern Sotho&quot;, :nub=&gt;&quot;Nubian Language&quot;, :nv=&gt;&quot;Navajo&quot;, :nwc=&gt;&quot;Classical Newari&quot;, :ny=&gt;&quot;Nyanja&quot;, :nym=&gt;&quot;Nyamwezi&quot;, :nyn=&gt;&quot;Nyankole&quot;, :nyo=&gt;&quot;Nyoro&quot;, :nzi=&gt;&quot;Nzima&quot;, :oc=&gt;&quot;Occitan&quot;, :oj=&gt;&quot;Ojibwa&quot;, :om=&gt;&quot;Oromo&quot;, :or=&gt;&quot;Oriya&quot;, :os=&gt;&quot;Ossetic&quot;, :osa=&gt;&quot;Osage&quot;, :ota=&gt;&quot;Ottoman Turkish&quot;, :oto=&gt;&quot;Otomian Language&quot;, :pa=&gt;&quot;Punjabi&quot;, :paa=&gt;&quot;Papuan Language&quot;, :pag=&gt;&quot;Pangasinan&quot;, :pal=&gt;&quot;Pahlavi&quot;, :pam=&gt;&quot;Pampanga&quot;, :pap=&gt;&quot;Papiamento&quot;, :pau=&gt;&quot;Palauan&quot;, :peo=&gt;&quot;Old Persian&quot;, :phi=&gt;&quot;Philippine Language&quot;, :phn=&gt;&quot;Phoenician&quot;, :pi=&gt;&quot;Pali&quot;, :pl=&gt;&quot;Polish&quot;, :pon=&gt;&quot;Pohnpeian&quot;, :pra=&gt;&quot;Prakrit Language&quot;, :pro=&gt;&quot;Old Provençal&quot;, :ps=&gt;&quot;Pashto&quot;, :pt=&gt;&quot;Portuguese&quot;, :&quot;pt-BR&quot;=&gt;&quot;Brazilian Portuguese&quot;, :&quot;pt-PT&quot;=&gt;&quot;Iberian Portuguese&quot;, :qu=&gt;&quot;Quechua&quot;, :raj=&gt;&quot;Rajasthani&quot;, :rap=&gt;&quot;Rapanui&quot;, :rar=&gt;&quot;Rarotongan&quot;, :rm=&gt;&quot;Rhaeto-Romance&quot;, :rn=&gt;&quot;Rundi&quot;, :ro=&gt;&quot;Romanian&quot;, :roa=&gt;&quot;Romance Language&quot;, :rom=&gt;&quot;Romany&quot;, :ru=&gt;&quot;Russian&quot;, :rup=&gt;&quot;Aromanian&quot;, :rw=&gt;&quot;Kinyarwanda&quot;, :sa=&gt;&quot;Sanskrit&quot;, :sad=&gt;&quot;Sandawe&quot;, :sah=&gt;&quot;Yakut&quot;, :sai=&gt;&quot;South American Indian Language&quot;, :sal=&gt;&quot;Salishan Language&quot;, :sam=&gt;&quot;Samaritan Aramaic&quot;, :sas=&gt;&quot;Sasak&quot;, :sat=&gt;&quot;Santali&quot;, :sc=&gt;&quot;Sardinian&quot;, :scn=&gt;&quot;Sicilian&quot;, :sco=&gt;&quot;Scots&quot;, :sd=&gt;&quot;Sindhi&quot;, :se=&gt;&quot;Northern Sami&quot;, :sel=&gt;&quot;Selkup&quot;, :sem=&gt;&quot;Semitic Language&quot;, :sg=&gt;&quot;Sango&quot;, :sga=&gt;&quot;Old Irish&quot;, :sgn=&gt;&quot;Sign Language&quot;, :sh=&gt;&quot;Serbo-Croatian&quot;, :shn=&gt;&quot;Shan&quot;, :si=&gt;&quot;Sinhala&quot;, :sid=&gt;&quot;Sidamo&quot;, :sio=&gt;&quot;Siouan Language&quot;, :sit=&gt;&quot;Sino-Tibetan Language&quot;, :sk=&gt;&quot;Slovak&quot;, :sl=&gt;&quot;Slovenian&quot;, :sla=&gt;&quot;Slavic Language&quot;, :sm=&gt;&quot;Samoan&quot;, :sma=&gt;&quot;Southern Sami&quot;, :smi=&gt;&quot;Sami Language&quot;, :smj=&gt;&quot;Lule Sami&quot;, :smn=&gt;&quot;Inari Sami&quot;, :sms=&gt;&quot;Skolt Sami&quot;, :sn=&gt;&quot;Shona&quot;, :snk=&gt;&quot;Soninke&quot;, :so=&gt;&quot;Somali&quot;, :sog=&gt;&quot;Sogdien&quot;, :son=&gt;&quot;Songhai&quot;, :sq=&gt;&quot;Albanian&quot;, :sr=&gt;&quot;Serbian&quot;, :srn=&gt;&quot;Sranan Tongo&quot;, :srr=&gt;&quot;Serer&quot;, :ss=&gt;&quot;Swati&quot;, :ssa=&gt;&quot;Nilo-Saharan Language&quot;, :st=&gt;&quot;Southern Sotho&quot;, :su=&gt;&quot;Sundanese&quot;, :suk=&gt;&quot;Sukuma&quot;, :sus=&gt;&quot;Susu&quot;, :sux=&gt;&quot;Sumerian&quot;, :sv=&gt;&quot;Swedish&quot;, :sw=&gt;&quot;Swahili&quot;, :syc=&gt;&quot;Classical Syriac&quot;, :syr=&gt;&quot;Syriac&quot;, :ta=&gt;&quot;Tamil&quot;, :tai=&gt;&quot;Tai Language&quot;, :te=&gt;&quot;Telugu&quot;, :tem=&gt;&quot;Timne&quot;, :ter=&gt;&quot;Tereno&quot;, :tet=&gt;&quot;Tetum&quot;, :tg=&gt;&quot;Tajik&quot;, :th=&gt;&quot;Thai&quot;, :ti=&gt;&quot;Tigrinya&quot;, :tig=&gt;&quot;Tigre&quot;, :tiv=&gt;&quot;Tiv&quot;, :tk=&gt;&quot;Turkmen&quot;, :tkl=&gt;&quot;Tokelau&quot;, :tl=&gt;&quot;Tagalog&quot;, :tlh=&gt;&quot;Klingon&quot;, :tli=&gt;&quot;Tlingit&quot;, :tmh=&gt;&quot;Tamashek&quot;, :tn=&gt;&quot;Tswana&quot;, :to=&gt;&quot;Tonga&quot;, :tog=&gt;&quot;Nyasa Tonga&quot;, :tpi=&gt;&quot;Tok Pisin&quot;, :tr=&gt;&quot;Turkish&quot;, :trv=&gt;&quot;Taroko&quot;, :ts=&gt;&quot;Tsonga&quot;, :tsi=&gt;&quot;Tsimshian&quot;, :tt=&gt;&quot;Tatar&quot;, :tum=&gt;&quot;Tumbuka&quot;, :tup=&gt;&quot;Tupi Language&quot;, :tut=&gt;&quot;Altaic Language&quot;, :tvl=&gt;&quot;Tuvalu&quot;, :tw=&gt;&quot;Twi&quot;, :ty=&gt;&quot;Tahitian&quot;, :tyv=&gt;&quot;Tuvinian&quot;, :udm=&gt;&quot;Udmurt&quot;, :ug=&gt;&quot;Uighur&quot;, :uga=&gt;&quot;Ugaritic&quot;, :uk=&gt;&quot;Ukrainian&quot;, :umb=&gt;&quot;Umbundu&quot;, :und=&gt;&quot;Unknown or Invalid Language&quot;, :ur=&gt;&quot;Urdu&quot;, :uz=&gt;&quot;Uzbek&quot;, :vai=&gt;&quot;Vai&quot;, :ve=&gt;&quot;Venda&quot;, :vi=&gt;&quot;Vietnamese&quot;, :vo=&gt;&quot;Volapük&quot;, :vot=&gt;&quot;Votic&quot;, :wa=&gt;&quot;Walloon&quot;, :wak=&gt;&quot;Wakashan Language&quot;, :wal=&gt;&quot;Walamo&quot;, :war=&gt;&quot;Waray&quot;, :was=&gt;&quot;Washo&quot;, :wen=&gt;&quot;Sorbian Language&quot;, :wo=&gt;&quot;Wolof&quot;, :xal=&gt;&quot;Kalmyk&quot;, :xh=&gt;&quot;Xhosa&quot;, :yao=&gt;&quot;Yao&quot;, :yap=&gt;&quot;Yapese&quot;, :yi=&gt;&quot;Yiddish&quot;, :yo=&gt;&quot;Yoruba&quot;, :ypk=&gt;&quot;Yupik Language&quot;, :za=&gt;&quot;Zhuang&quot;, :zap=&gt;&quot;Zapotec&quot;, :zbl=&gt;&quot;Blissymbols&quot;, :zen=&gt;&quot;Zenaga&quot;, :zh=&gt;&quot;Chinese&quot;, :&quot;zh-Hans&quot;=&gt;&quot;Simplified Chinese&quot;, :&quot;zh-Hant&quot;=&gt;&quot;Traditional Chinese&quot;, :znd=&gt;&quot;Zande&quot;, :zu=&gt;&quot;Zulu&quot;, :zun=&gt;&quot;Zuni&quot;, :zxx=&gt;&quot;No linguistic content&quot;, :zza=&gt;&quot;Zaza&quot;}</pentabarf:language>
+<pentabarf:language-code></pentabarf:language-code>
+<dtstart>20140420T164500</dtstart>
+<dtend>20140420T173000</dtend>
+<duration>004500</duration>
+<summary>Das IRC-Protokoll- </summary>
+<description>IRC gibt's schon lange, aber zum Teil ist bis heute relativ wenig ueber die Details des Protokolls bekannt, obwohl es IMHO zu einem der faszinierenderen gehoert. Das IRC hatte im Laufe der Zeit mit vielen Probleme zu kaempfen, und fuer viele davon hat man sich technische Loesungen einfallen lassen. Bis heute sind viele Dinge im IRC aber nicht perfekt geloest, und manches wuerde ein komplettes Redesign des Protokolls erfordern.
+
+Ausserdem: Wie ist ein IRC-Netzwerk heutzutage aufgebaut, was sind User- und Channelmodes? Was ist im modernen IRC noch uebrig vom urspruenglichen Protokoll? Was ist Splitriding, wie funktionieren Netsplits, was verbirgt sich hinter &quot;TS6&quot; und wozu braucht man &quot;Services&quot;?
+
+hc ist seit 2008 admin im hackint, und hat dort unter anderem an der Umstellung von anope auf atheme und von hybrid 7 auf ein aktuelles charybdis mitgewirkt, und betreibt ein paar eigene Services dort, die sich frueher ums Blacklisting und heute nur noch um stats und die Vergabe von Hostnamen fuer Tor- und i2p-Nutzer kuemmert. Der Code dazu ist groesstenteils unter github.com/hce/erlstats zu finden.</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5766.html</url>
+<location>shack-Seminarraum</location>
+<attendee>hc</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5767@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5767</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5767_-_en_-_shack-seminarraum_-_201404182215_-_zero-cost_netsecmon_-_noaircon</pentabarf:event-slug>
+<pentabarf:title>zero-cost netsecmon</pentabarf:title>
+<pentabarf:subtitle>network security monitoring (with Icinga)</pentabarf:subtitle>
+<pentabarf:language>English</pentabarf:language>
+<pentabarf:language-code>en</pentabarf:language-code>
+<dtstart>20140418T221500</dtstart>
+<dtend>20140418T230000</dtend>
+<duration>004500</duration>
+<summary>zero-cost netsecmon- network security monitoring (with Icinga)</summary>
+<description>Make your network (slightly) more secure by pimping your Icinga/Nagios-based monitoring system.</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5767.html</url>
+<location>shack-Seminarraum</location>
+<attendee>noaircon</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5771@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5771</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5771_-_de_-_parkplatz_-_201404191100_-_fuhrung_und_kommunikation_-_laird_dave</pentabarf:event-slug>
+<pentabarf:title>Führung und Kommunikation</pentabarf:title>
+<pentabarf:subtitle>Der Katastrophenschutz im Einsatz</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140419T110000</dtstart>
+<dtend>20140419T140000</dtend>
+<duration>030000</duration>
+<summary>Führung und Kommunikation- Der Katastrophenschutz im Einsatz</summary>
+<description>Wir zeigen euch die Arbeit und die Ausstattung der THW-Fachgruppe Führung und Kommunikation</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5771.html</url>
+<location>Parkplatz</location>
+<attendee>Laird_Dave</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5772@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5772</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5772_-_de_-_workshopraum_-_201404201645_-_dmx_workshop_-_dritter</pentabarf:event-slug>
+<pentabarf:title>DMX Workshop</pentabarf:title>
+<pentabarf:subtitle>Was ist DMX, wozu braucht man das, was macht es, ist es nicht der der Musik macht? Naja...fast. Damit steuert man Licht in der Veranstaltungstechnik. wenn euch der Name was sagt, aber nicht wisst was weiter passiert, kommt in den workshop.</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140420T164500</dtstart>
+<dtend>20140420T181500</dtend>
+<duration>013000</duration>
+<summary>DMX Workshop- Was ist DMX, wozu braucht man das, was macht es, ist es nicht der der Musik macht? Naja...fast. Damit steuert man Licht in der Veranstaltungstechnik. wenn euch der Name was sagt, aber nicht wisst was weiter passiert, kommt in den workshop.</summary>
+<description>Um in der Lichttechnik wie sie in Discos hängt  die Strahler, Lichter, Scheinwerfer anzusteuern gibt es das DMX Protokoll.
+Für was gibt es das? Was kann man damit machen?
+Erklärung dazu im Workshop mit praktischen Beispielen und Hardware zum anfassen.</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5772.html</url>
+<location>Workshopraum</location>
+<attendee>dritter</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5773@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5773</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5773_-_de_-_shack-seminarraum_-_201404192130_-_noestimates_-_robert_we</pentabarf:event-slug>
+<pentabarf:title>#NoEstimates</pentabarf:title>
+<pentabarf:subtitle>Why estimates are bad for your software &amp; team &amp; management</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140419T213000</dtstart>
+<dtend>20140419T221500</dtend>
+<duration>004500</duration>
+<summary>#NoEstimates- Why estimates are bad for your software &amp; team &amp; management</summary>
+<description>Estimates are part of our daily live. Every single day we ask and answer questions like: &quot;when will it be done?&quot;, &quot;how much does it cost?&quot; and use that &quot;data&quot; to plan the future of our projects. Some of us using rigorously formalised processes with heaps of excel sheets, some applying more agile methods like planning poker. While doing that, we do not realise, how estimates are harmful!
+#NoEstimates is about exploring alternative ways of planning our work, of assigning value to features and a different approach about what we want to deliver.</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5773.html</url>
+<location>shack-Seminarraum</location>
+<attendee>robert_we</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5774@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5774</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5774_-_de_-_shack-seminarraum_-_201404202115_-_bettercrypto_org_-_maclemon</pentabarf:event-slug>
+<pentabarf:title>BetterCrypto.org</pentabarf:title>
+<pentabarf:subtitle>Applied Crypto Hardening</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140420T211500</dtstart>
+<dtend>20140420T221500</dtend>
+<duration>010000</duration>
+<summary>BetterCrypto.org- Applied Crypto Hardening</summary>
+<description>Starke Kryptografie für Server korrekt konfiguriert. Ein Leitfaden für die Systemadministration.</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5774.html</url>
+<location>shack-Seminarraum</location>
+<attendee>@MacLemon</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5776@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5776</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5776_-_de_-_shackspace_kuche_-_201404191845_-_dinge_fermentieren_-_musevg</pentabarf:event-slug>
+<pentabarf:title>Dinge fermentieren</pentabarf:title>
+<pentabarf:subtitle>Tej, Kombucha und/oder Kefir</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140419T184500</dtstart>
+<dtend>20140419T193000</dtend>
+<duration>004500</duration>
+<summary>Dinge fermentieren- Tej, Kombucha und/oder Kefir</summary>
+<description>Ich serviere selbstgemachten Tej und Kombucha und plaudere über meine Erfahrungen bei der Herstellung.</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5776.html</url>
+<location>shackspace Küche</location>
+<attendee>musevg</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5778@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5778</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5778_-_de_-_shack-seminarraum_-_201404201130_-_flask_-_andreas_madsack</pentabarf:event-slug>
+<pentabarf:title>Flask</pentabarf:title>
+<pentabarf:subtitle>Wenn Django zu groß ist.</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140420T113000</dtstart>
+<dtend>20140420T114500</dtend>
+<duration>001500</duration>
+<summary>Flask- Wenn Django zu groß ist.</summary>
+<description>Wann nehme ich ein Micro-Webframework (am Beispiel von Flask) und wann ein volles Webframework (z.B. Django)?</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5778.html</url>
+<location>shack-Seminarraum</location>
+<attendee>Andreas Madsack</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5779@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5779</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5779_-_de_-_workshopraum_-_201404192130_-_hack_er_spaces_und_kulturpolitik_-_forschungstorte</pentabarf:event-slug>
+<pentabarf:title>Hack(er)spaces und Kulturpolitik</pentabarf:title>
+<pentabarf:subtitle>Ein Bericht zum Hackerspace-Förderprojekt der Piratenfraktion im NRW-Landtag</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140419T213000</dtstart>
+<dtend>20140419T221500</dtend>
+<duration>004500</duration>
+<summary>Hack(er)spaces und Kulturpolitik- Ein Bericht zum Hackerspace-Förderprojekt der Piratenfraktion im NRW-Landtag</summary>
+<description>Die Kulturmenschen der Piratenfraktion im NRW-Landtag wollen den Hacker- und Makerspaces sowie den Fablabs gerne die Möglichkeit bieten, von staatlicher Förderung zu profitieren. Doch das soll nicht ohne die Community geschehen. In diesem Vortrag sollen die Schritte von der Idee über Diskussionen und Verhandlungen bishin zu einem Haushaltsänderungsantrag für einen Fördertopf erläutert und auch besprochen werden. </description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5779.html</url>
+<location>Workshopraum</location>
+<attendee>forschungstorte</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5781@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5781</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5781_-_de_-_workshopraum_-_201404201300_-_untertitel-workshop_-_c3subtitles</pentabarf:event-slug>
+<pentabarf:title>Untertitel-Workshop</pentabarf:title>
+<pentabarf:subtitle>Erstellung von Untertiteln für Vorträge</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140420T130000</dtstart>
+<dtend>20140420T140000</dtend>
+<duration>010000</duration>
+<summary>Untertitel-Workshop- Erstellung von Untertiteln für Vorträge</summary>
+<description>Erstellung von Untertiteln für Vorträge.</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5781.html</url>
+<location>Workshopraum</location>
+<attendee>c3subtitles</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5782@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5782</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5782_-_de_-_workshopraum_-_201404191600_-_science_i_love_it_-_bronsen</pentabarf:event-slug>
+<pentabarf:title>Science! I love it!</pentabarf:title>
+<pentabarf:subtitle>Das Institut für angewandte Futuristik versucht sich an Aufklärung</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140419T160000</dtstart>
+<dtend>20140419T163000</dtend>
+<duration>003000</duration>
+<summary>Science! I love it!- Das Institut für angewandte Futuristik versucht sich an Aufklärung</summary>
+<description>&lt;p&gt;Das Infuanfu will durch seine Aufklärungsarbeit dem Unsinn der Welt Widerstand leisten.&lt;/p&gt; &lt;p&gt;Hier stellen wir unsere erste Studie vor. Dabei erläutern wir die Geschichte und Entstehung des Instituts und die Durchführung der Studie.&lt;/p&gt;</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5782.html</url>
+<location>Workshopraum</location>
+<attendee>bronsen</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5783@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5783</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5783_-_de_-_workshopraum_-_201404201400_-_pycharm_fur_vim-user_-_bronsen</pentabarf:event-slug>
+<pentabarf:title>PyCharm für vim-user</pentabarf:title>
+<pentabarf:subtitle>Wie man die kommerzielle Pycharm-IDE auch als vim-user bedienen kann</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140420T140000</dtstart>
+<dtend>20140420T143000</dtend>
+<duration>003000</duration>
+<summary>PyCharm für vim-user- Wie man die kommerzielle Pycharm-IDE auch als vim-user bedienen kann</summary>
+<description>Ich zeige die Plugins IdeaVIM und  KeyPromoter unter PyCharm im praktischen Einsatz.</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5783.html</url>
+<location>Workshopraum</location>
+<attendee>bronsen</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5784@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5784</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5784_-_en_-_shack-seminarraum_-_201404182030_-_reading_and_writing_landscape_framing_reality_with_data_-_benedikt_gross</pentabarf:event-slug>
+<pentabarf:title>Reading and Writing Landscape – Framing Reality with Data</pentabarf:title>
+<pentabarf:subtitle>How many swimming pools are in Los Angeles? And can you print landscapes?</pentabarf:subtitle>
+<pentabarf:language>English</pentabarf:language>
+<pentabarf:language-code>en</pentabarf:language-code>
+<dtstart>20140418T203000</dtstart>
+<dtend>20140418T210000</dtend>
+<duration>003000</duration>
+<summary>Reading and Writing Landscape – Framing Reality with Data- How many swimming pools are in Los Angeles? And can you print landscapes?</summary>
+<description>The talk is about the process of mapping (reading) and shaping (writing) reality with data in the contemporary age of big data, open data, crowdsourcing, citizen science, agriculture and precision farming.</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5784.html</url>
+<location>shack-Seminarraum</location>
+<attendee>Benedikt Groß</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5788@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5788</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5788_-_de_-_degerloch_-_201404191945_-_anti_-cyber-realitatsabgleich_-_robert_haist</pentabarf:event-slug>
+<pentabarf:title>(Anti)-Cyber-Realitätsabgleich</pentabarf:title>
+<pentabarf:subtitle>HowTo not suck at Incident Response</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140419T194500</dtstart>
+<dtend>20140419T203000</dtend>
+<duration>004500</duration>
+<summary>(Anti)-Cyber-Realitätsabgleich- HowTo not suck at Incident Response</summary>
+<description>Anhand realitätsnaher Beispiele wird erklärt, auf was man bei einem Sicherheitsvorfall im Netzwerk und dessen Behandlung (Incident Response) zu Beginn achten sollte. Hierbei spielen vor allem die bestmögliche Nutzung vorhandener Ressourcen und die Einforderung von Marketingversprechen eine große Rolle.
+
+Also eine Art: &amp;lt;buzzwords&amp;gt; First-Response Best-Practice Guide &amp;lt;/buzzwords&amp;gt;
+
+Gute Ironie- und Sarkasmusdetektoren werden unbedingt vorausgesetzt.</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5788.html</url>
+<location>Degerloch</location>
+<attendee>Robert Haist</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5790@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5790</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5790_-_de_-_degerloch_-_201404202230_-_nerd-tabu_-_skyr</pentabarf:event-slug>
+<pentabarf:title>Nerd-Tabu</pentabarf:title>
+<pentabarf:subtitle>Das Gesellschaftsspiel für Nerds</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140420T223000</dtstart>
+<dtend>20140420T234500</dtend>
+<duration>011500</duration>
+<summary>Nerd-Tabu- Das Gesellschaftsspiel für Nerds</summary>
+<description>Das Gesellschaftsspiel &quot;Tabu&quot; für Nerds!</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5790.html</url>
+<location>Degerloch</location>
+<attendee>Skyr</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5791@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5791</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5791_-_en_-_hackcenter_-_201404181600_-_opening_welcome</pentabarf:event-slug>
+<pentabarf:title>Opening &amp; Welcome</pentabarf:title>
+<pentabarf:subtitle></pentabarf:subtitle>
+<pentabarf:language>English</pentabarf:language>
+<pentabarf:language-code>en</pentabarf:language-code>
+<dtstart>20140418T160000</dtstart>
+<dtend>20140418T170000</dtend>
+<duration>010000</duration>
+<summary>Opening &amp; Welcome- </summary>
+<description></description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5791.html</url>
+<location>Hackcenter</location>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5792@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5792</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5792_-_en_-_hackcenter_-_201404211330_-_closing_event</pentabarf:event-slug>
+<pentabarf:title>Closing Event</pentabarf:title>
+<pentabarf:subtitle></pentabarf:subtitle>
+<pentabarf:language>English</pentabarf:language>
+<pentabarf:language-code>en</pentabarf:language-code>
+<dtstart>20140421T133000</dtstart>
+<dtend>20140421T140000</dtend>
+<duration>003000</duration>
+<summary>Closing Event- </summary>
+<description></description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5792.html</url>
+<location>Hackcenter</location>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5797@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5797</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5797_-_de_-_degerloch_-_201404201045_-_wau_holland_stiftung_-_tom_twiddlebit</pentabarf:event-slug>
+<pentabarf:title>Wau Holland Stiftung</pentabarf:title>
+<pentabarf:subtitle>Das Jahr 2013</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140420T104500</dtstart>
+<dtend>20140420T114500</dtend>
+<duration>010000</duration>
+<summary>Wau Holland Stiftung- Das Jahr 2013</summary>
+<description>Rechenschaftsbericht und Zukunftsvisionen der Wau Holland Stiftung</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5797.html</url>
+<location>Degerloch</location>
+<attendee>Tom Twiddlebit</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5798@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5798</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5798_-_de_-_workshopraum_-_201404191115_-_fun_with_responsive_tables_-_kathrin_holzmann</pentabarf:event-slug>
+<pentabarf:title>Fun with responsive tables</pentabarf:title>
+<pentabarf:subtitle>Eine crossdevice Lösung für tabelarische Datendarstellung</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140419T111500</dtstart>
+<dtend>20140419T114500</dtend>
+<duration>003000</duration>
+<summary>Fun with responsive tables- Eine crossdevice Lösung für tabelarische Datendarstellung</summary>
+<description>Tabellen, gleichermaßen gehasst wie geliebt. Vor allem wenn wir über responsive Design sprechen stoßen Tabellen schnell an ihre Grenzen. Ich werde eine mögliche Lösung für das Problem präsentieren die wir auf DaWanda einsetzen.</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5798.html</url>
+<location>Workshopraum</location>
+<attendee>Kathrin Holzmann</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5799@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5799</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5799_-_en_-_degerloch_-_201404191330_-_wikipedia_for_dummies_-_garfieldairlines</pentabarf:event-slug>
+<pentabarf:title>Wikipedia, for dummies</pentabarf:title>
+<pentabarf:subtitle>How do I edit wikipedia ?</pentabarf:subtitle>
+<pentabarf:language>English</pentabarf:language>
+<pentabarf:language-code>en</pentabarf:language-code>
+<dtstart>20140419T133000</dtstart>
+<dtend>20140419T163000</dtend>
+<duration>030000</duration>
+<summary>Wikipedia, for dummies- How do I edit wikipedia ?</summary>
+<description>Everyone use wikipedia to get information, but how do you edit it ?
+Speaker can understand german, but will answer (mainly) in english or french (if you want to).</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5799.html</url>
+<location>Degerloch</location>
+<attendee>garfieldairlines</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5800@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5800</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5800_-_de_-_shack-seminarraum_-_201404201845_-_moving_targets_aktuelle_themen_im_ccc-umfeld</pentabarf:event-slug>
+<pentabarf:title>Moving Targets: Aktuelle Themen im CCC-Umfeld</pentabarf:title>
+<pentabarf:subtitle>Auto-Vernetzung: Ist es Sicherheit oder Überwachung und welcher Art?</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140420T184500</dtstart>
+<dtend>20140420T204500</dtend>
+<duration>020000</duration>
+<summary>Moving Targets: Aktuelle Themen im CCC-Umfeld- Auto-Vernetzung: Ist es Sicherheit oder Überwachung und welcher Art?</summary>
+<description>Wir wollen im CCC über aktuelle Themen reden.</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5800.html</url>
+<location>shack-Seminarraum</location>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5802@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5802</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5802_-_de_-_shack-seminarraum_-_201404201730_-_smartos_-_drscream</pentabarf:event-slug>
+<pentabarf:title>SmartOS</pentabarf:title>
+<pentabarf:subtitle>Zones + ZFS + KVM + DTrace = Awesome</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140420T173000</dtstart>
+<dtend>20140420T181500</dtend>
+<duration>004500</duration>
+<summary>SmartOS- Zones + ZFS + KVM + DTrace = Awesome</summary>
+<description>Vorstellung von SmartOS eines Illumos basiertem Cloud OS mit KVM Support.</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5802.html</url>
+<location>shack-Seminarraum</location>
+<attendee>drscream</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5803@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5803</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5803_-_de_-_shack-seminarraum_-_201404192000_-_making_fair_hardware_-_xian</pentabarf:event-slug>
+<pentabarf:title>Making fair hardware</pentabarf:title>
+<pentabarf:subtitle>Entdecke deine Lieferkette</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140419T200000</dtstart>
+<dtend>20140419T213000</dtend>
+<duration>013000</duration>
+<summary>Making fair hardware- Entdecke deine Lieferkette</summary>
+<description>Wir alle wollen faire Hardware. Also sollten wir uns welche machen! Der Workshop soll dazu dienen, die praktischen Probleme auf dem Weg zu einer sozialverträglichen Lieferkette zu diskutieren und sich untereinander zu vernetzen.</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5803.html</url>
+<location>shack-Seminarraum</location>
+<attendee>xian</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5805@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5805</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5805_-_de_-_shack-seminarraum_-_201404191145_-_sepa_-_disaster_recovery_-_dan</pentabarf:event-slug>
+<pentabarf:title>SEPA - Disaster Recovery</pentabarf:title>
+<pentabarf:subtitle>Wie man eine Bank (fast) kaputt macht</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140419T114500</dtstart>
+<dtend>20140419T120000</dtend>
+<duration>001500</duration>
+<summary>SEPA - Disaster Recovery- Wie man eine Bank (fast) kaputt macht</summary>
+<description>Die Einfuehrung von SEPA war schlimm, bzw. ist immer noch schlimm.
+Ein kurzer Abriss darueber was passiert wenn eine Bank die Spezifikation nicht genau liest, anschliessend die Software falsch anpasst und dann der CCC kommt und ueberweisen will.</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5805.html</url>
+<location>shack-Seminarraum</location>
+<attendee>DaN</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5806@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5806</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5806_-_de_-_shack-seminarraum_-_201404191100_-_erfa_-_vereinssoftware_-_dan</pentabarf:event-slug>
+<pentabarf:title>Erfa - Vereinssoftware</pentabarf:title>
+<pentabarf:subtitle>Austausch ueber Vereinsarbeit</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140419T110000</dtstart>
+<dtend>20140419T114500</dtend>
+<duration>004500</duration>
+<summary>Erfa - Vereinssoftware- Austausch ueber Vereinsarbeit</summary>
+<description>Wir benutzen im Erfa verschiedene Software um Mitglieder und Konten zu fuehren. Sind aber nicht sonderlich gluecklich damit.
+Ein Treffen zum Erfahrungsaustausch und evtl. gemeinsam was voranzubringen.</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5806.html</url>
+<location>shack-Seminarraum</location>
+<attendee>DaN</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5808@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5808</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5808_-_de_-_degerloch_-_201404191800_-_we_ll_make_ourselves_a_gnu_one_-_tom_twiddlebit</pentabarf:event-slug>
+<pentabarf:title>We'll make ourselves a GNU one</pentabarf:title>
+<pentabarf:subtitle>#youbroketheinternet</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140419T180000</dtstart>
+<dtend>20140419T184500</dtend>
+<duration>004500</duration>
+<summary>We'll make ourselves a GNU one- #youbroketheinternet</summary>
+<description>Das Internet ist kaputt.
+
+Wir brauchen eine fundamentale Überarbeitung der Internetprotokolle, um die heute üblichen Dienste demokratiefähig zu machen.</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5808.html</url>
+<location>Degerloch</location>
+<attendee>Tom Twiddlebit</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5810@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5810</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5810_-_de_-_shack-seminarraum_-_201404191845_-_neues_aus_tor-land_-_mo</pentabarf:event-slug>
+<pentabarf:title>Neues aus Tor-Land</pentabarf:title>
+<pentabarf:subtitle></pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140419T184500</dtstart>
+<dtend>20140419T194500</dtend>
+<duration>010000</duration>
+<summary>Neues aus Tor-Land- </summary>
+<description>Lasset uns über Tor sprechen.</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5810.html</url>
+<location>shack-Seminarraum</location>
+<attendee>Mo</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5811@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5811</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5811_-_de_-_degerloch_-_201404201645_-_lightning_talks</pentabarf:event-slug>
+<pentabarf:title>Lightning talks</pentabarf:title>
+<pentabarf:subtitle></pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140420T164500</dtstart>
+<dtend>20140420T181500</dtend>
+<duration>013000</duration>
+<summary>Lightning talks- </summary>
+<description>Lighning talks</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5811.html</url>
+<location>Degerloch</location>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5812@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5812</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5812_-_en_-_workshopraum_-_201404201045_-_clatchian_combat_coffee_-_marcus_wolschon</pentabarf:event-slug>
+<pentabarf:title>Clatchian Combat Coffee</pentabarf:title>
+<pentabarf:subtitle>making strong, arabian mocca</pentabarf:subtitle>
+<pentabarf:language>English</pentabarf:language>
+<pentabarf:language-code>en</pentabarf:language-code>
+<dtstart>20140420T104500</dtstart>
+<dtend>20140420T111500</dtend>
+<duration>003000</duration>
+<summary>Clatchian Combat Coffee- making strong, arabian mocca</summary>
+<description>What: Making strong, arabian mocca.
+When: Morning. No specific time slot.
+</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5812.html</url>
+<location>Workshopraum</location>
+<attendee>Marcus Wolschon</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5813@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5813</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5813_-__-_degerloch_-_201404191845_-_tba_-_matt_hardy</pentabarf:event-slug>
+<pentabarf:title>TBA</pentabarf:title>
+<pentabarf:subtitle></pentabarf:subtitle>
+<pentabarf:language>{:ab=&gt;&quot;Abkhazian&quot;, :ace=&gt;&quot;Achinese&quot;, :ach=&gt;&quot;Acoli&quot;, :ada=&gt;&quot;Adangme&quot;, :ady=&gt;&quot;Adyghe&quot;, :ae=&gt;&quot;Avestan&quot;, :af=&gt;&quot;Afrikaans&quot;, :afa=&gt;&quot;Afro-Asiatic Language&quot;, :afh=&gt;&quot;Afrihili&quot;, :ain=&gt;&quot;Ainu&quot;, :ak=&gt;&quot;Akan&quot;, :akk=&gt;&quot;Akkadian&quot;, :ale=&gt;&quot;Aleut&quot;, :alg=&gt;&quot;Algonquian Language&quot;, :alt=&gt;&quot;Southern Altai&quot;, :am=&gt;&quot;Amharic&quot;, :an=&gt;&quot;Aragonese&quot;, :ang=&gt;&quot;Old English&quot;, :anp=&gt;&quot;Angika&quot;, :apa=&gt;&quot;Apache Language&quot;, :ar=&gt;&quot;Arabic&quot;, :arc=&gt;&quot;Aramaic&quot;, :arn=&gt;&quot;Araucanian&quot;, :arp=&gt;&quot;Arapaho&quot;, :art=&gt;&quot;Artificial Language&quot;, :arw=&gt;&quot;Arawak&quot;, :as=&gt;&quot;Assamese&quot;, :ast=&gt;&quot;Asturian&quot;, :ath=&gt;&quot;Athapascan Language&quot;, :aus=&gt;&quot;Australian Language&quot;, :av=&gt;&quot;Avaric&quot;, :awa=&gt;&quot;Awadhi&quot;, :ay=&gt;&quot;Aymara&quot;, :az=&gt;&quot;Azerbaijani&quot;, :ba=&gt;&quot;Bashkir&quot;, :bad=&gt;&quot;Banda&quot;, :bai=&gt;&quot;Bamileke Language&quot;, :bal=&gt;&quot;Baluchi&quot;, :ban=&gt;&quot;Balinese&quot;, :bas=&gt;&quot;Basa&quot;, :bat=&gt;&quot;Baltic Language&quot;, :be=&gt;&quot;Belarusian&quot;, :bej=&gt;&quot;Beja&quot;, :bem=&gt;&quot;Bemba&quot;, :ber=&gt;&quot;Berber&quot;, :bg=&gt;&quot;Bulgarian&quot;, :bh=&gt;&quot;Bihari&quot;, :bho=&gt;&quot;Bhojpuri&quot;, :bi=&gt;&quot;Bislama&quot;, :bik=&gt;&quot;Bikol&quot;, :bin=&gt;&quot;Bini&quot;, :bla=&gt;&quot;Siksika&quot;, :bm=&gt;&quot;Bambara&quot;, :bn=&gt;&quot;Bengali&quot;, :bnt=&gt;&quot;Bantu&quot;, :bo=&gt;&quot;Tibetan&quot;, :br=&gt;&quot;Breton&quot;, :bra=&gt;&quot;Braj&quot;, :bs=&gt;&quot;Bosnian&quot;, :btk=&gt;&quot;Batak&quot;, :bua=&gt;&quot;Buriat&quot;, :bug=&gt;&quot;Buginese&quot;, :byn=&gt;&quot;Blin&quot;, :ca=&gt;&quot;Catalan&quot;, :cad=&gt;&quot;Caddo&quot;, :cai=&gt;&quot;Central American Indian Language&quot;, :car=&gt;&quot;Carib&quot;, :cau=&gt;&quot;Caucasian Language&quot;, :cch=&gt;&quot;Atsam&quot;, :ce=&gt;&quot;Chechen&quot;, :ceb=&gt;&quot;Cebuano&quot;, :cel=&gt;&quot;Celtic Language&quot;, :ch=&gt;&quot;Chamorro&quot;, :chb=&gt;&quot;Chibcha&quot;, :chg=&gt;&quot;Chagatai&quot;, :chk=&gt;&quot;Chuukese&quot;, :chm=&gt;&quot;Mari&quot;, :chn=&gt;&quot;Chinook Jargon&quot;, :cho=&gt;&quot;Choctaw&quot;, :chp=&gt;&quot;Chipewyan&quot;, :chr=&gt;&quot;Cherokee&quot;, :chy=&gt;&quot;Cheyenne&quot;, :cmc=&gt;&quot;Chamic Language&quot;, :co=&gt;&quot;Corsican&quot;, :cop=&gt;&quot;Coptic&quot;, :cpe=&gt;&quot;English-based Creole or Pidgin&quot;, :cpf=&gt;&quot;French-based Creole or Pidgin&quot;, :cpp=&gt;&quot;Portuguese-based Creole or Pidgin&quot;, :cr=&gt;&quot;Cree&quot;, :crh=&gt;&quot;Crimean Turkish&quot;, :crp=&gt;&quot;Creole or Pidgin&quot;, :cs=&gt;&quot;Czech&quot;, :csb=&gt;&quot;Kashubian&quot;, :cu=&gt;&quot;Church Slavic&quot;, :cus=&gt;&quot;Cushitic Language&quot;, :cv=&gt;&quot;Chuvash&quot;, :cy=&gt;&quot;Welsh&quot;, :da=&gt;&quot;Danish&quot;, :dak=&gt;&quot;Dakota&quot;, :dar=&gt;&quot;Dargwa&quot;, :day=&gt;&quot;Dayak&quot;, :de=&gt;&quot;German&quot;, :&quot;de-AT&quot;=&gt;&quot;Austrian German&quot;, :&quot;de-CH&quot;=&gt;&quot;Swiss High German&quot;, :del=&gt;&quot;Delaware&quot;, :den=&gt;&quot;Slave&quot;, :dgr=&gt;&quot;Dogrib&quot;, :din=&gt;&quot;Dinka&quot;, :doi=&gt;&quot;Dogri&quot;, :dra=&gt;&quot;Dravidian Language&quot;, :dsb=&gt;&quot;Lower Sorbian&quot;, :dua=&gt;&quot;Duala&quot;, :dum=&gt;&quot;Middle Dutch&quot;, :dv=&gt;&quot;Divehi&quot;, :dyu=&gt;&quot;Dyula&quot;, :dz=&gt;&quot;Dzongkha&quot;, :ee=&gt;&quot;Ewe&quot;, :efi=&gt;&quot;Efik&quot;, :egy=&gt;&quot;Ancient Egyptian&quot;, :eka=&gt;&quot;Ekajuk&quot;, :el=&gt;&quot;Greek&quot;, :elx=&gt;&quot;Elamite&quot;, :en=&gt;&quot;English&quot;, :&quot;en-AU&quot;=&gt;&quot;Australian English&quot;, :&quot;en-CA&quot;=&gt;&quot;Canadian English&quot;, :&quot;en-GB&quot;=&gt;&quot;British English&quot;, :&quot;en-US&quot;=&gt;&quot;U.S. English&quot;, :enm=&gt;&quot;Middle English&quot;, :eo=&gt;&quot;Esperanto&quot;, :es=&gt;&quot;Spanish&quot;, :&quot;es-ES&quot;=&gt;&quot;Iberian Spanish&quot;, :et=&gt;&quot;Estonian&quot;, :eu=&gt;&quot;Basque&quot;, :ewo=&gt;&quot;Ewondo&quot;, :fa=&gt;&quot;Persian&quot;, :fan=&gt;&quot;Fang&quot;, :fat=&gt;&quot;Fanti&quot;, :ff=&gt;&quot;Fulah&quot;, :fi=&gt;&quot;Finnish&quot;, :fil=&gt;&quot;Filipino&quot;, :fiu=&gt;&quot;Finno-Ugrian Language&quot;, :fj=&gt;&quot;Fijian&quot;, :fo=&gt;&quot;Faroese&quot;, :fon=&gt;&quot;Fon&quot;, :fr=&gt;&quot;French&quot;, :&quot;fr-CA&quot;=&gt;&quot;Canadian French&quot;, :&quot;fr-CH&quot;=&gt;&quot;Swiss French&quot;, :frm=&gt;&quot;Middle French&quot;, :fro=&gt;&quot;Old French&quot;, :frr=&gt;&quot;Northern Frisian&quot;, :frs=&gt;&quot;Eastern Frisian&quot;, :fur=&gt;&quot;Friulian&quot;, :fy=&gt;&quot;Western Frisian&quot;, :ga=&gt;&quot;Irish&quot;, :gaa=&gt;&quot;Ga&quot;, :gay=&gt;&quot;Gayo&quot;, :gba=&gt;&quot;Gbaya&quot;, :gd=&gt;&quot;Scottish Gaelic&quot;, :gem=&gt;&quot;Germanic Language&quot;, :gez=&gt;&quot;Geez&quot;, :gil=&gt;&quot;Gilbertese&quot;, :gl=&gt;&quot;Galician&quot;, :gmh=&gt;&quot;Middle High German&quot;, :gn=&gt;&quot;Guarani&quot;, :goh=&gt;&quot;Old High German&quot;, :gon=&gt;&quot;Gondi&quot;, :gor=&gt;&quot;Gorontalo&quot;, :got=&gt;&quot;Gothic&quot;, :grb=&gt;&quot;Grebo&quot;, :grc=&gt;&quot;Ancient Greek&quot;, :gsw=&gt;&quot;Swiss German&quot;, :gu=&gt;&quot;Gujarati&quot;, :gv=&gt;&quot;Manx&quot;, :gwi=&gt;&quot;Gwichʼin&quot;, :ha=&gt;&quot;Hausa&quot;, :hai=&gt;&quot;Haida&quot;, :haw=&gt;&quot;Hawaiian&quot;, :he=&gt;&quot;Hebrew&quot;, :hi=&gt;&quot;Hindi&quot;, :hil=&gt;&quot;Hiligaynon&quot;, :him=&gt;&quot;Himachali&quot;, :hit=&gt;&quot;Hittite&quot;, :hmn=&gt;&quot;Hmong&quot;, :ho=&gt;&quot;Hiri Motu&quot;, :hr=&gt;&quot;Croatian&quot;, :hsb=&gt;&quot;Upper Sorbian&quot;, :ht=&gt;&quot;Haitian&quot;, :hu=&gt;&quot;Hungarian&quot;, :hup=&gt;&quot;Hupa&quot;, :hy=&gt;&quot;Armenian&quot;, :hz=&gt;&quot;Herero&quot;, :ia=&gt;&quot;Interlingua&quot;, :iba=&gt;&quot;Iban&quot;, :id=&gt;&quot;Indonesian&quot;, :ie=&gt;&quot;Interlingue&quot;, :ig=&gt;&quot;Igbo&quot;, :ii=&gt;&quot;Sichuan Yi&quot;, :ijo=&gt;&quot;Ijo&quot;, :ik=&gt;&quot;Inupiaq&quot;, :ilo=&gt;&quot;Iloko&quot;, :inc=&gt;&quot;Indic Language&quot;, :ine=&gt;&quot;Indo-European Language&quot;, :inh=&gt;&quot;Ingush&quot;, :io=&gt;&quot;Ido&quot;, :ira=&gt;&quot;Iranian Language&quot;, :iro=&gt;&quot;Iroquoian Language&quot;, :is=&gt;&quot;Icelandic&quot;, :it=&gt;&quot;Italian&quot;, :iu=&gt;&quot;Inuktitut&quot;, :ja=&gt;&quot;Japanese&quot;, :jbo=&gt;&quot;Lojban&quot;, :jpr=&gt;&quot;Judeo-Persian&quot;, :jrb=&gt;&quot;Judeo-Arabic&quot;, :jv=&gt;&quot;Javanese&quot;, :ka=&gt;&quot;Georgian&quot;, :kaa=&gt;&quot;Kara-Kalpak&quot;, :kab=&gt;&quot;Kabyle&quot;, :kac=&gt;&quot;Kachin&quot;, :kaj=&gt;&quot;Jju&quot;, :kam=&gt;&quot;Kamba&quot;, :kar=&gt;&quot;Karen&quot;, :kaw=&gt;&quot;Kawi&quot;, :kbd=&gt;&quot;Kabardian&quot;, :kcg=&gt;&quot;Tyap&quot;, :kfo=&gt;&quot;Koro&quot;, :kg=&gt;&quot;Kongo&quot;, :kha=&gt;&quot;Khasi&quot;, :khi=&gt;&quot;Khoisan Language&quot;, :kho=&gt;&quot;Khotanese&quot;, :ki=&gt;&quot;Kikuyu&quot;, :kj=&gt;&quot;Kuanyama&quot;, :kk=&gt;&quot;Kazakh&quot;, :kl=&gt;&quot;Kalaallisut&quot;, :km=&gt;&quot;Khmer&quot;, :kmb=&gt;&quot;Kimbundu&quot;, :kn=&gt;&quot;Kannada&quot;, :ko=&gt;&quot;Korean&quot;, :kok=&gt;&quot;Konkani&quot;, :kos=&gt;&quot;Kosraean&quot;, :kpe=&gt;&quot;Kpelle&quot;, :kr=&gt;&quot;Kanuri&quot;, :krc=&gt;&quot;Karachay-Balkar&quot;, :krl=&gt;&quot;Karelian&quot;, :kro=&gt;&quot;Kru&quot;, :kru=&gt;&quot;Kurukh&quot;, :ks=&gt;&quot;Kashmiri&quot;, :ku=&gt;&quot;Kurdish&quot;, :kum=&gt;&quot;Kumyk&quot;, :kut=&gt;&quot;Kutenai&quot;, :kv=&gt;&quot;Komi&quot;, :kw=&gt;&quot;Cornish&quot;, :ky=&gt;&quot;Kirghiz&quot;, :la=&gt;&quot;Latin&quot;, :lad=&gt;&quot;Ladino&quot;, :lah=&gt;&quot;Lahnda&quot;, :lam=&gt;&quot;Lamba&quot;, :lb=&gt;&quot;Luxembourgish&quot;, :lez=&gt;&quot;Lezghian&quot;, :lg=&gt;&quot;Ganda&quot;, :li=&gt;&quot;Limburgish&quot;, :ln=&gt;&quot;Lingala&quot;, :lo=&gt;&quot;Lao&quot;, :lol=&gt;&quot;Mongo&quot;, :loz=&gt;&quot;Lozi&quot;, :lt=&gt;&quot;Lithuanian&quot;, :lu=&gt;&quot;Luba-Katanga&quot;, :lua=&gt;&quot;Luba-Lulua&quot;, :lui=&gt;&quot;Luiseno&quot;, :lun=&gt;&quot;Lunda&quot;, :luo=&gt;&quot;Luo&quot;, :lus=&gt;&quot;Lushai&quot;, :lv=&gt;&quot;Latvian&quot;, :mad=&gt;&quot;Madurese&quot;, :mag=&gt;&quot;Magahi&quot;, :mai=&gt;&quot;Maithili&quot;, :mak=&gt;&quot;Makasar&quot;, :man=&gt;&quot;Mandingo&quot;, :map=&gt;&quot;Austronesian Language&quot;, :mas=&gt;&quot;Masai&quot;, :mdf=&gt;&quot;Moksha&quot;, :mdr=&gt;&quot;Mandar&quot;, :men=&gt;&quot;Mende&quot;, :mg=&gt;&quot;Malagasy&quot;, :mga=&gt;&quot;Middle Irish&quot;, :mh=&gt;&quot;Marshallese&quot;, :mi=&gt;&quot;Maori&quot;, :mic=&gt;&quot;Micmac&quot;, :min=&gt;&quot;Minangkabau&quot;, :mis=&gt;&quot;Miscellaneous Language&quot;, :mk=&gt;&quot;Macedonian&quot;, :mkh=&gt;&quot;Mon-Khmer Language&quot;, :ml=&gt;&quot;Malayalam&quot;, :mn=&gt;&quot;Mongolian&quot;, :mnc=&gt;&quot;Manchu&quot;, :mni=&gt;&quot;Manipuri&quot;, :mno=&gt;&quot;Manobo Language&quot;, :mo=&gt;&quot;Moldavian&quot;, :moh=&gt;&quot;Mohawk&quot;, :mos=&gt;&quot;Mossi&quot;, :mr=&gt;&quot;Marathi&quot;, :ms=&gt;&quot;Malay&quot;, :mt=&gt;&quot;Maltese&quot;, :mul=&gt;&quot;Multiple Languages&quot;, :mun=&gt;&quot;Munda Language&quot;, :mus=&gt;&quot;Creek&quot;, :mwl=&gt;&quot;Mirandese&quot;, :mwr=&gt;&quot;Marwari&quot;, :my=&gt;&quot;Burmese&quot;, :myn=&gt;&quot;Mayan Language&quot;, :myv=&gt;&quot;Erzya&quot;, :na=&gt;&quot;Nauru&quot;, :nah=&gt;&quot;Nahuatl&quot;, :nai=&gt;&quot;North American Indian Language&quot;, :nap=&gt;&quot;Neapolitan&quot;, :nb=&gt;&quot;Norwegian Bokmål&quot;, :nd=&gt;&quot;North Ndebele&quot;, :nds=&gt;&quot;Low German&quot;, :ne=&gt;&quot;Nepali&quot;, :new=&gt;&quot;Newari&quot;, :ng=&gt;&quot;Ndonga&quot;, :nia=&gt;&quot;Nias&quot;, :nic=&gt;&quot;Niger-Kordofanian Language&quot;, :niu=&gt;&quot;Niuean&quot;, :nl=&gt;&quot;Dutch&quot;, :&quot;nl-BE&quot;=&gt;&quot;Flemish&quot;, :nn=&gt;&quot;Norwegian Nynorsk&quot;, false=&gt;&quot;Norwegian&quot;, :nog=&gt;&quot;Nogai&quot;, :non=&gt;&quot;Old Norse&quot;, :nqo=&gt;&quot;N’Ko&quot;, :nr=&gt;&quot;South Ndebele&quot;, :nso=&gt;&quot;Northern Sotho&quot;, :nub=&gt;&quot;Nubian Language&quot;, :nv=&gt;&quot;Navajo&quot;, :nwc=&gt;&quot;Classical Newari&quot;, :ny=&gt;&quot;Nyanja&quot;, :nym=&gt;&quot;Nyamwezi&quot;, :nyn=&gt;&quot;Nyankole&quot;, :nyo=&gt;&quot;Nyoro&quot;, :nzi=&gt;&quot;Nzima&quot;, :oc=&gt;&quot;Occitan&quot;, :oj=&gt;&quot;Ojibwa&quot;, :om=&gt;&quot;Oromo&quot;, :or=&gt;&quot;Oriya&quot;, :os=&gt;&quot;Ossetic&quot;, :osa=&gt;&quot;Osage&quot;, :ota=&gt;&quot;Ottoman Turkish&quot;, :oto=&gt;&quot;Otomian Language&quot;, :pa=&gt;&quot;Punjabi&quot;, :paa=&gt;&quot;Papuan Language&quot;, :pag=&gt;&quot;Pangasinan&quot;, :pal=&gt;&quot;Pahlavi&quot;, :pam=&gt;&quot;Pampanga&quot;, :pap=&gt;&quot;Papiamento&quot;, :pau=&gt;&quot;Palauan&quot;, :peo=&gt;&quot;Old Persian&quot;, :phi=&gt;&quot;Philippine Language&quot;, :phn=&gt;&quot;Phoenician&quot;, :pi=&gt;&quot;Pali&quot;, :pl=&gt;&quot;Polish&quot;, :pon=&gt;&quot;Pohnpeian&quot;, :pra=&gt;&quot;Prakrit Language&quot;, :pro=&gt;&quot;Old Provençal&quot;, :ps=&gt;&quot;Pashto&quot;, :pt=&gt;&quot;Portuguese&quot;, :&quot;pt-BR&quot;=&gt;&quot;Brazilian Portuguese&quot;, :&quot;pt-PT&quot;=&gt;&quot;Iberian Portuguese&quot;, :qu=&gt;&quot;Quechua&quot;, :raj=&gt;&quot;Rajasthani&quot;, :rap=&gt;&quot;Rapanui&quot;, :rar=&gt;&quot;Rarotongan&quot;, :rm=&gt;&quot;Rhaeto-Romance&quot;, :rn=&gt;&quot;Rundi&quot;, :ro=&gt;&quot;Romanian&quot;, :roa=&gt;&quot;Romance Language&quot;, :rom=&gt;&quot;Romany&quot;, :ru=&gt;&quot;Russian&quot;, :rup=&gt;&quot;Aromanian&quot;, :rw=&gt;&quot;Kinyarwanda&quot;, :sa=&gt;&quot;Sanskrit&quot;, :sad=&gt;&quot;Sandawe&quot;, :sah=&gt;&quot;Yakut&quot;, :sai=&gt;&quot;South American Indian Language&quot;, :sal=&gt;&quot;Salishan Language&quot;, :sam=&gt;&quot;Samaritan Aramaic&quot;, :sas=&gt;&quot;Sasak&quot;, :sat=&gt;&quot;Santali&quot;, :sc=&gt;&quot;Sardinian&quot;, :scn=&gt;&quot;Sicilian&quot;, :sco=&gt;&quot;Scots&quot;, :sd=&gt;&quot;Sindhi&quot;, :se=&gt;&quot;Northern Sami&quot;, :sel=&gt;&quot;Selkup&quot;, :sem=&gt;&quot;Semitic Language&quot;, :sg=&gt;&quot;Sango&quot;, :sga=&gt;&quot;Old Irish&quot;, :sgn=&gt;&quot;Sign Language&quot;, :sh=&gt;&quot;Serbo-Croatian&quot;, :shn=&gt;&quot;Shan&quot;, :si=&gt;&quot;Sinhala&quot;, :sid=&gt;&quot;Sidamo&quot;, :sio=&gt;&quot;Siouan Language&quot;, :sit=&gt;&quot;Sino-Tibetan Language&quot;, :sk=&gt;&quot;Slovak&quot;, :sl=&gt;&quot;Slovenian&quot;, :sla=&gt;&quot;Slavic Language&quot;, :sm=&gt;&quot;Samoan&quot;, :sma=&gt;&quot;Southern Sami&quot;, :smi=&gt;&quot;Sami Language&quot;, :smj=&gt;&quot;Lule Sami&quot;, :smn=&gt;&quot;Inari Sami&quot;, :sms=&gt;&quot;Skolt Sami&quot;, :sn=&gt;&quot;Shona&quot;, :snk=&gt;&quot;Soninke&quot;, :so=&gt;&quot;Somali&quot;, :sog=&gt;&quot;Sogdien&quot;, :son=&gt;&quot;Songhai&quot;, :sq=&gt;&quot;Albanian&quot;, :sr=&gt;&quot;Serbian&quot;, :srn=&gt;&quot;Sranan Tongo&quot;, :srr=&gt;&quot;Serer&quot;, :ss=&gt;&quot;Swati&quot;, :ssa=&gt;&quot;Nilo-Saharan Language&quot;, :st=&gt;&quot;Southern Sotho&quot;, :su=&gt;&quot;Sundanese&quot;, :suk=&gt;&quot;Sukuma&quot;, :sus=&gt;&quot;Susu&quot;, :sux=&gt;&quot;Sumerian&quot;, :sv=&gt;&quot;Swedish&quot;, :sw=&gt;&quot;Swahili&quot;, :syc=&gt;&quot;Classical Syriac&quot;, :syr=&gt;&quot;Syriac&quot;, :ta=&gt;&quot;Tamil&quot;, :tai=&gt;&quot;Tai Language&quot;, :te=&gt;&quot;Telugu&quot;, :tem=&gt;&quot;Timne&quot;, :ter=&gt;&quot;Tereno&quot;, :tet=&gt;&quot;Tetum&quot;, :tg=&gt;&quot;Tajik&quot;, :th=&gt;&quot;Thai&quot;, :ti=&gt;&quot;Tigrinya&quot;, :tig=&gt;&quot;Tigre&quot;, :tiv=&gt;&quot;Tiv&quot;, :tk=&gt;&quot;Turkmen&quot;, :tkl=&gt;&quot;Tokelau&quot;, :tl=&gt;&quot;Tagalog&quot;, :tlh=&gt;&quot;Klingon&quot;, :tli=&gt;&quot;Tlingit&quot;, :tmh=&gt;&quot;Tamashek&quot;, :tn=&gt;&quot;Tswana&quot;, :to=&gt;&quot;Tonga&quot;, :tog=&gt;&quot;Nyasa Tonga&quot;, :tpi=&gt;&quot;Tok Pisin&quot;, :tr=&gt;&quot;Turkish&quot;, :trv=&gt;&quot;Taroko&quot;, :ts=&gt;&quot;Tsonga&quot;, :tsi=&gt;&quot;Tsimshian&quot;, :tt=&gt;&quot;Tatar&quot;, :tum=&gt;&quot;Tumbuka&quot;, :tup=&gt;&quot;Tupi Language&quot;, :tut=&gt;&quot;Altaic Language&quot;, :tvl=&gt;&quot;Tuvalu&quot;, :tw=&gt;&quot;Twi&quot;, :ty=&gt;&quot;Tahitian&quot;, :tyv=&gt;&quot;Tuvinian&quot;, :udm=&gt;&quot;Udmurt&quot;, :ug=&gt;&quot;Uighur&quot;, :uga=&gt;&quot;Ugaritic&quot;, :uk=&gt;&quot;Ukrainian&quot;, :umb=&gt;&quot;Umbundu&quot;, :und=&gt;&quot;Unknown or Invalid Language&quot;, :ur=&gt;&quot;Urdu&quot;, :uz=&gt;&quot;Uzbek&quot;, :vai=&gt;&quot;Vai&quot;, :ve=&gt;&quot;Venda&quot;, :vi=&gt;&quot;Vietnamese&quot;, :vo=&gt;&quot;Volapük&quot;, :vot=&gt;&quot;Votic&quot;, :wa=&gt;&quot;Walloon&quot;, :wak=&gt;&quot;Wakashan Language&quot;, :wal=&gt;&quot;Walamo&quot;, :war=&gt;&quot;Waray&quot;, :was=&gt;&quot;Washo&quot;, :wen=&gt;&quot;Sorbian Language&quot;, :wo=&gt;&quot;Wolof&quot;, :xal=&gt;&quot;Kalmyk&quot;, :xh=&gt;&quot;Xhosa&quot;, :yao=&gt;&quot;Yao&quot;, :yap=&gt;&quot;Yapese&quot;, :yi=&gt;&quot;Yiddish&quot;, :yo=&gt;&quot;Yoruba&quot;, :ypk=&gt;&quot;Yupik Language&quot;, :za=&gt;&quot;Zhuang&quot;, :zap=&gt;&quot;Zapotec&quot;, :zbl=&gt;&quot;Blissymbols&quot;, :zen=&gt;&quot;Zenaga&quot;, :zh=&gt;&quot;Chinese&quot;, :&quot;zh-Hans&quot;=&gt;&quot;Simplified Chinese&quot;, :&quot;zh-Hant&quot;=&gt;&quot;Traditional Chinese&quot;, :znd=&gt;&quot;Zande&quot;, :zu=&gt;&quot;Zulu&quot;, :zun=&gt;&quot;Zuni&quot;, :zxx=&gt;&quot;No linguistic content&quot;, :zza=&gt;&quot;Zaza&quot;}</pentabarf:language>
+<pentabarf:language-code></pentabarf:language-code>
+<dtstart>20140419T184500</dtstart>
+<dtend>20140419T193000</dtend>
+<duration>004500</duration>
+<summary>TBA- </summary>
+<description></description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5813.html</url>
+<location>Degerloch</location>
+<attendee>Matt Hardy</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5814@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5814</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5814_-__-_workshopraum_-_201404191845_-_workshop_zu_we_ll_make_ourselves_a_gnu_one</pentabarf:event-slug>
+<pentabarf:title>Workshop zu We'll make ourselves a GNU one</pentabarf:title>
+<pentabarf:subtitle></pentabarf:subtitle>
+<pentabarf:language>{:ab=&gt;&quot;Abkhazian&quot;, :ace=&gt;&quot;Achinese&quot;, :ach=&gt;&quot;Acoli&quot;, :ada=&gt;&quot;Adangme&quot;, :ady=&gt;&quot;Adyghe&quot;, :ae=&gt;&quot;Avestan&quot;, :af=&gt;&quot;Afrikaans&quot;, :afa=&gt;&quot;Afro-Asiatic Language&quot;, :afh=&gt;&quot;Afrihili&quot;, :ain=&gt;&quot;Ainu&quot;, :ak=&gt;&quot;Akan&quot;, :akk=&gt;&quot;Akkadian&quot;, :ale=&gt;&quot;Aleut&quot;, :alg=&gt;&quot;Algonquian Language&quot;, :alt=&gt;&quot;Southern Altai&quot;, :am=&gt;&quot;Amharic&quot;, :an=&gt;&quot;Aragonese&quot;, :ang=&gt;&quot;Old English&quot;, :anp=&gt;&quot;Angika&quot;, :apa=&gt;&quot;Apache Language&quot;, :ar=&gt;&quot;Arabic&quot;, :arc=&gt;&quot;Aramaic&quot;, :arn=&gt;&quot;Araucanian&quot;, :arp=&gt;&quot;Arapaho&quot;, :art=&gt;&quot;Artificial Language&quot;, :arw=&gt;&quot;Arawak&quot;, :as=&gt;&quot;Assamese&quot;, :ast=&gt;&quot;Asturian&quot;, :ath=&gt;&quot;Athapascan Language&quot;, :aus=&gt;&quot;Australian Language&quot;, :av=&gt;&quot;Avaric&quot;, :awa=&gt;&quot;Awadhi&quot;, :ay=&gt;&quot;Aymara&quot;, :az=&gt;&quot;Azerbaijani&quot;, :ba=&gt;&quot;Bashkir&quot;, :bad=&gt;&quot;Banda&quot;, :bai=&gt;&quot;Bamileke Language&quot;, :bal=&gt;&quot;Baluchi&quot;, :ban=&gt;&quot;Balinese&quot;, :bas=&gt;&quot;Basa&quot;, :bat=&gt;&quot;Baltic Language&quot;, :be=&gt;&quot;Belarusian&quot;, :bej=&gt;&quot;Beja&quot;, :bem=&gt;&quot;Bemba&quot;, :ber=&gt;&quot;Berber&quot;, :bg=&gt;&quot;Bulgarian&quot;, :bh=&gt;&quot;Bihari&quot;, :bho=&gt;&quot;Bhojpuri&quot;, :bi=&gt;&quot;Bislama&quot;, :bik=&gt;&quot;Bikol&quot;, :bin=&gt;&quot;Bini&quot;, :bla=&gt;&quot;Siksika&quot;, :bm=&gt;&quot;Bambara&quot;, :bn=&gt;&quot;Bengali&quot;, :bnt=&gt;&quot;Bantu&quot;, :bo=&gt;&quot;Tibetan&quot;, :br=&gt;&quot;Breton&quot;, :bra=&gt;&quot;Braj&quot;, :bs=&gt;&quot;Bosnian&quot;, :btk=&gt;&quot;Batak&quot;, :bua=&gt;&quot;Buriat&quot;, :bug=&gt;&quot;Buginese&quot;, :byn=&gt;&quot;Blin&quot;, :ca=&gt;&quot;Catalan&quot;, :cad=&gt;&quot;Caddo&quot;, :cai=&gt;&quot;Central American Indian Language&quot;, :car=&gt;&quot;Carib&quot;, :cau=&gt;&quot;Caucasian Language&quot;, :cch=&gt;&quot;Atsam&quot;, :ce=&gt;&quot;Chechen&quot;, :ceb=&gt;&quot;Cebuano&quot;, :cel=&gt;&quot;Celtic Language&quot;, :ch=&gt;&quot;Chamorro&quot;, :chb=&gt;&quot;Chibcha&quot;, :chg=&gt;&quot;Chagatai&quot;, :chk=&gt;&quot;Chuukese&quot;, :chm=&gt;&quot;Mari&quot;, :chn=&gt;&quot;Chinook Jargon&quot;, :cho=&gt;&quot;Choctaw&quot;, :chp=&gt;&quot;Chipewyan&quot;, :chr=&gt;&quot;Cherokee&quot;, :chy=&gt;&quot;Cheyenne&quot;, :cmc=&gt;&quot;Chamic Language&quot;, :co=&gt;&quot;Corsican&quot;, :cop=&gt;&quot;Coptic&quot;, :cpe=&gt;&quot;English-based Creole or Pidgin&quot;, :cpf=&gt;&quot;French-based Creole or Pidgin&quot;, :cpp=&gt;&quot;Portuguese-based Creole or Pidgin&quot;, :cr=&gt;&quot;Cree&quot;, :crh=&gt;&quot;Crimean Turkish&quot;, :crp=&gt;&quot;Creole or Pidgin&quot;, :cs=&gt;&quot;Czech&quot;, :csb=&gt;&quot;Kashubian&quot;, :cu=&gt;&quot;Church Slavic&quot;, :cus=&gt;&quot;Cushitic Language&quot;, :cv=&gt;&quot;Chuvash&quot;, :cy=&gt;&quot;Welsh&quot;, :da=&gt;&quot;Danish&quot;, :dak=&gt;&quot;Dakota&quot;, :dar=&gt;&quot;Dargwa&quot;, :day=&gt;&quot;Dayak&quot;, :de=&gt;&quot;German&quot;, :&quot;de-AT&quot;=&gt;&quot;Austrian German&quot;, :&quot;de-CH&quot;=&gt;&quot;Swiss High German&quot;, :del=&gt;&quot;Delaware&quot;, :den=&gt;&quot;Slave&quot;, :dgr=&gt;&quot;Dogrib&quot;, :din=&gt;&quot;Dinka&quot;, :doi=&gt;&quot;Dogri&quot;, :dra=&gt;&quot;Dravidian Language&quot;, :dsb=&gt;&quot;Lower Sorbian&quot;, :dua=&gt;&quot;Duala&quot;, :dum=&gt;&quot;Middle Dutch&quot;, :dv=&gt;&quot;Divehi&quot;, :dyu=&gt;&quot;Dyula&quot;, :dz=&gt;&quot;Dzongkha&quot;, :ee=&gt;&quot;Ewe&quot;, :efi=&gt;&quot;Efik&quot;, :egy=&gt;&quot;Ancient Egyptian&quot;, :eka=&gt;&quot;Ekajuk&quot;, :el=&gt;&quot;Greek&quot;, :elx=&gt;&quot;Elamite&quot;, :en=&gt;&quot;English&quot;, :&quot;en-AU&quot;=&gt;&quot;Australian English&quot;, :&quot;en-CA&quot;=&gt;&quot;Canadian English&quot;, :&quot;en-GB&quot;=&gt;&quot;British English&quot;, :&quot;en-US&quot;=&gt;&quot;U.S. English&quot;, :enm=&gt;&quot;Middle English&quot;, :eo=&gt;&quot;Esperanto&quot;, :es=&gt;&quot;Spanish&quot;, :&quot;es-ES&quot;=&gt;&quot;Iberian Spanish&quot;, :et=&gt;&quot;Estonian&quot;, :eu=&gt;&quot;Basque&quot;, :ewo=&gt;&quot;Ewondo&quot;, :fa=&gt;&quot;Persian&quot;, :fan=&gt;&quot;Fang&quot;, :fat=&gt;&quot;Fanti&quot;, :ff=&gt;&quot;Fulah&quot;, :fi=&gt;&quot;Finnish&quot;, :fil=&gt;&quot;Filipino&quot;, :fiu=&gt;&quot;Finno-Ugrian Language&quot;, :fj=&gt;&quot;Fijian&quot;, :fo=&gt;&quot;Faroese&quot;, :fon=&gt;&quot;Fon&quot;, :fr=&gt;&quot;French&quot;, :&quot;fr-CA&quot;=&gt;&quot;Canadian French&quot;, :&quot;fr-CH&quot;=&gt;&quot;Swiss French&quot;, :frm=&gt;&quot;Middle French&quot;, :fro=&gt;&quot;Old French&quot;, :frr=&gt;&quot;Northern Frisian&quot;, :frs=&gt;&quot;Eastern Frisian&quot;, :fur=&gt;&quot;Friulian&quot;, :fy=&gt;&quot;Western Frisian&quot;, :ga=&gt;&quot;Irish&quot;, :gaa=&gt;&quot;Ga&quot;, :gay=&gt;&quot;Gayo&quot;, :gba=&gt;&quot;Gbaya&quot;, :gd=&gt;&quot;Scottish Gaelic&quot;, :gem=&gt;&quot;Germanic Language&quot;, :gez=&gt;&quot;Geez&quot;, :gil=&gt;&quot;Gilbertese&quot;, :gl=&gt;&quot;Galician&quot;, :gmh=&gt;&quot;Middle High German&quot;, :gn=&gt;&quot;Guarani&quot;, :goh=&gt;&quot;Old High German&quot;, :gon=&gt;&quot;Gondi&quot;, :gor=&gt;&quot;Gorontalo&quot;, :got=&gt;&quot;Gothic&quot;, :grb=&gt;&quot;Grebo&quot;, :grc=&gt;&quot;Ancient Greek&quot;, :gsw=&gt;&quot;Swiss German&quot;, :gu=&gt;&quot;Gujarati&quot;, :gv=&gt;&quot;Manx&quot;, :gwi=&gt;&quot;Gwichʼin&quot;, :ha=&gt;&quot;Hausa&quot;, :hai=&gt;&quot;Haida&quot;, :haw=&gt;&quot;Hawaiian&quot;, :he=&gt;&quot;Hebrew&quot;, :hi=&gt;&quot;Hindi&quot;, :hil=&gt;&quot;Hiligaynon&quot;, :him=&gt;&quot;Himachali&quot;, :hit=&gt;&quot;Hittite&quot;, :hmn=&gt;&quot;Hmong&quot;, :ho=&gt;&quot;Hiri Motu&quot;, :hr=&gt;&quot;Croatian&quot;, :hsb=&gt;&quot;Upper Sorbian&quot;, :ht=&gt;&quot;Haitian&quot;, :hu=&gt;&quot;Hungarian&quot;, :hup=&gt;&quot;Hupa&quot;, :hy=&gt;&quot;Armenian&quot;, :hz=&gt;&quot;Herero&quot;, :ia=&gt;&quot;Interlingua&quot;, :iba=&gt;&quot;Iban&quot;, :id=&gt;&quot;Indonesian&quot;, :ie=&gt;&quot;Interlingue&quot;, :ig=&gt;&quot;Igbo&quot;, :ii=&gt;&quot;Sichuan Yi&quot;, :ijo=&gt;&quot;Ijo&quot;, :ik=&gt;&quot;Inupiaq&quot;, :ilo=&gt;&quot;Iloko&quot;, :inc=&gt;&quot;Indic Language&quot;, :ine=&gt;&quot;Indo-European Language&quot;, :inh=&gt;&quot;Ingush&quot;, :io=&gt;&quot;Ido&quot;, :ira=&gt;&quot;Iranian Language&quot;, :iro=&gt;&quot;Iroquoian Language&quot;, :is=&gt;&quot;Icelandic&quot;, :it=&gt;&quot;Italian&quot;, :iu=&gt;&quot;Inuktitut&quot;, :ja=&gt;&quot;Japanese&quot;, :jbo=&gt;&quot;Lojban&quot;, :jpr=&gt;&quot;Judeo-Persian&quot;, :jrb=&gt;&quot;Judeo-Arabic&quot;, :jv=&gt;&quot;Javanese&quot;, :ka=&gt;&quot;Georgian&quot;, :kaa=&gt;&quot;Kara-Kalpak&quot;, :kab=&gt;&quot;Kabyle&quot;, :kac=&gt;&quot;Kachin&quot;, :kaj=&gt;&quot;Jju&quot;, :kam=&gt;&quot;Kamba&quot;, :kar=&gt;&quot;Karen&quot;, :kaw=&gt;&quot;Kawi&quot;, :kbd=&gt;&quot;Kabardian&quot;, :kcg=&gt;&quot;Tyap&quot;, :kfo=&gt;&quot;Koro&quot;, :kg=&gt;&quot;Kongo&quot;, :kha=&gt;&quot;Khasi&quot;, :khi=&gt;&quot;Khoisan Language&quot;, :kho=&gt;&quot;Khotanese&quot;, :ki=&gt;&quot;Kikuyu&quot;, :kj=&gt;&quot;Kuanyama&quot;, :kk=&gt;&quot;Kazakh&quot;, :kl=&gt;&quot;Kalaallisut&quot;, :km=&gt;&quot;Khmer&quot;, :kmb=&gt;&quot;Kimbundu&quot;, :kn=&gt;&quot;Kannada&quot;, :ko=&gt;&quot;Korean&quot;, :kok=&gt;&quot;Konkani&quot;, :kos=&gt;&quot;Kosraean&quot;, :kpe=&gt;&quot;Kpelle&quot;, :kr=&gt;&quot;Kanuri&quot;, :krc=&gt;&quot;Karachay-Balkar&quot;, :krl=&gt;&quot;Karelian&quot;, :kro=&gt;&quot;Kru&quot;, :kru=&gt;&quot;Kurukh&quot;, :ks=&gt;&quot;Kashmiri&quot;, :ku=&gt;&quot;Kurdish&quot;, :kum=&gt;&quot;Kumyk&quot;, :kut=&gt;&quot;Kutenai&quot;, :kv=&gt;&quot;Komi&quot;, :kw=&gt;&quot;Cornish&quot;, :ky=&gt;&quot;Kirghiz&quot;, :la=&gt;&quot;Latin&quot;, :lad=&gt;&quot;Ladino&quot;, :lah=&gt;&quot;Lahnda&quot;, :lam=&gt;&quot;Lamba&quot;, :lb=&gt;&quot;Luxembourgish&quot;, :lez=&gt;&quot;Lezghian&quot;, :lg=&gt;&quot;Ganda&quot;, :li=&gt;&quot;Limburgish&quot;, :ln=&gt;&quot;Lingala&quot;, :lo=&gt;&quot;Lao&quot;, :lol=&gt;&quot;Mongo&quot;, :loz=&gt;&quot;Lozi&quot;, :lt=&gt;&quot;Lithuanian&quot;, :lu=&gt;&quot;Luba-Katanga&quot;, :lua=&gt;&quot;Luba-Lulua&quot;, :lui=&gt;&quot;Luiseno&quot;, :lun=&gt;&quot;Lunda&quot;, :luo=&gt;&quot;Luo&quot;, :lus=&gt;&quot;Lushai&quot;, :lv=&gt;&quot;Latvian&quot;, :mad=&gt;&quot;Madurese&quot;, :mag=&gt;&quot;Magahi&quot;, :mai=&gt;&quot;Maithili&quot;, :mak=&gt;&quot;Makasar&quot;, :man=&gt;&quot;Mandingo&quot;, :map=&gt;&quot;Austronesian Language&quot;, :mas=&gt;&quot;Masai&quot;, :mdf=&gt;&quot;Moksha&quot;, :mdr=&gt;&quot;Mandar&quot;, :men=&gt;&quot;Mende&quot;, :mg=&gt;&quot;Malagasy&quot;, :mga=&gt;&quot;Middle Irish&quot;, :mh=&gt;&quot;Marshallese&quot;, :mi=&gt;&quot;Maori&quot;, :mic=&gt;&quot;Micmac&quot;, :min=&gt;&quot;Minangkabau&quot;, :mis=&gt;&quot;Miscellaneous Language&quot;, :mk=&gt;&quot;Macedonian&quot;, :mkh=&gt;&quot;Mon-Khmer Language&quot;, :ml=&gt;&quot;Malayalam&quot;, :mn=&gt;&quot;Mongolian&quot;, :mnc=&gt;&quot;Manchu&quot;, :mni=&gt;&quot;Manipuri&quot;, :mno=&gt;&quot;Manobo Language&quot;, :mo=&gt;&quot;Moldavian&quot;, :moh=&gt;&quot;Mohawk&quot;, :mos=&gt;&quot;Mossi&quot;, :mr=&gt;&quot;Marathi&quot;, :ms=&gt;&quot;Malay&quot;, :mt=&gt;&quot;Maltese&quot;, :mul=&gt;&quot;Multiple Languages&quot;, :mun=&gt;&quot;Munda Language&quot;, :mus=&gt;&quot;Creek&quot;, :mwl=&gt;&quot;Mirandese&quot;, :mwr=&gt;&quot;Marwari&quot;, :my=&gt;&quot;Burmese&quot;, :myn=&gt;&quot;Mayan Language&quot;, :myv=&gt;&quot;Erzya&quot;, :na=&gt;&quot;Nauru&quot;, :nah=&gt;&quot;Nahuatl&quot;, :nai=&gt;&quot;North American Indian Language&quot;, :nap=&gt;&quot;Neapolitan&quot;, :nb=&gt;&quot;Norwegian Bokmål&quot;, :nd=&gt;&quot;North Ndebele&quot;, :nds=&gt;&quot;Low German&quot;, :ne=&gt;&quot;Nepali&quot;, :new=&gt;&quot;Newari&quot;, :ng=&gt;&quot;Ndonga&quot;, :nia=&gt;&quot;Nias&quot;, :nic=&gt;&quot;Niger-Kordofanian Language&quot;, :niu=&gt;&quot;Niuean&quot;, :nl=&gt;&quot;Dutch&quot;, :&quot;nl-BE&quot;=&gt;&quot;Flemish&quot;, :nn=&gt;&quot;Norwegian Nynorsk&quot;, false=&gt;&quot;Norwegian&quot;, :nog=&gt;&quot;Nogai&quot;, :non=&gt;&quot;Old Norse&quot;, :nqo=&gt;&quot;N’Ko&quot;, :nr=&gt;&quot;South Ndebele&quot;, :nso=&gt;&quot;Northern Sotho&quot;, :nub=&gt;&quot;Nubian Language&quot;, :nv=&gt;&quot;Navajo&quot;, :nwc=&gt;&quot;Classical Newari&quot;, :ny=&gt;&quot;Nyanja&quot;, :nym=&gt;&quot;Nyamwezi&quot;, :nyn=&gt;&quot;Nyankole&quot;, :nyo=&gt;&quot;Nyoro&quot;, :nzi=&gt;&quot;Nzima&quot;, :oc=&gt;&quot;Occitan&quot;, :oj=&gt;&quot;Ojibwa&quot;, :om=&gt;&quot;Oromo&quot;, :or=&gt;&quot;Oriya&quot;, :os=&gt;&quot;Ossetic&quot;, :osa=&gt;&quot;Osage&quot;, :ota=&gt;&quot;Ottoman Turkish&quot;, :oto=&gt;&quot;Otomian Language&quot;, :pa=&gt;&quot;Punjabi&quot;, :paa=&gt;&quot;Papuan Language&quot;, :pag=&gt;&quot;Pangasinan&quot;, :pal=&gt;&quot;Pahlavi&quot;, :pam=&gt;&quot;Pampanga&quot;, :pap=&gt;&quot;Papiamento&quot;, :pau=&gt;&quot;Palauan&quot;, :peo=&gt;&quot;Old Persian&quot;, :phi=&gt;&quot;Philippine Language&quot;, :phn=&gt;&quot;Phoenician&quot;, :pi=&gt;&quot;Pali&quot;, :pl=&gt;&quot;Polish&quot;, :pon=&gt;&quot;Pohnpeian&quot;, :pra=&gt;&quot;Prakrit Language&quot;, :pro=&gt;&quot;Old Provençal&quot;, :ps=&gt;&quot;Pashto&quot;, :pt=&gt;&quot;Portuguese&quot;, :&quot;pt-BR&quot;=&gt;&quot;Brazilian Portuguese&quot;, :&quot;pt-PT&quot;=&gt;&quot;Iberian Portuguese&quot;, :qu=&gt;&quot;Quechua&quot;, :raj=&gt;&quot;Rajasthani&quot;, :rap=&gt;&quot;Rapanui&quot;, :rar=&gt;&quot;Rarotongan&quot;, :rm=&gt;&quot;Rhaeto-Romance&quot;, :rn=&gt;&quot;Rundi&quot;, :ro=&gt;&quot;Romanian&quot;, :roa=&gt;&quot;Romance Language&quot;, :rom=&gt;&quot;Romany&quot;, :ru=&gt;&quot;Russian&quot;, :rup=&gt;&quot;Aromanian&quot;, :rw=&gt;&quot;Kinyarwanda&quot;, :sa=&gt;&quot;Sanskrit&quot;, :sad=&gt;&quot;Sandawe&quot;, :sah=&gt;&quot;Yakut&quot;, :sai=&gt;&quot;South American Indian Language&quot;, :sal=&gt;&quot;Salishan Language&quot;, :sam=&gt;&quot;Samaritan Aramaic&quot;, :sas=&gt;&quot;Sasak&quot;, :sat=&gt;&quot;Santali&quot;, :sc=&gt;&quot;Sardinian&quot;, :scn=&gt;&quot;Sicilian&quot;, :sco=&gt;&quot;Scots&quot;, :sd=&gt;&quot;Sindhi&quot;, :se=&gt;&quot;Northern Sami&quot;, :sel=&gt;&quot;Selkup&quot;, :sem=&gt;&quot;Semitic Language&quot;, :sg=&gt;&quot;Sango&quot;, :sga=&gt;&quot;Old Irish&quot;, :sgn=&gt;&quot;Sign Language&quot;, :sh=&gt;&quot;Serbo-Croatian&quot;, :shn=&gt;&quot;Shan&quot;, :si=&gt;&quot;Sinhala&quot;, :sid=&gt;&quot;Sidamo&quot;, :sio=&gt;&quot;Siouan Language&quot;, :sit=&gt;&quot;Sino-Tibetan Language&quot;, :sk=&gt;&quot;Slovak&quot;, :sl=&gt;&quot;Slovenian&quot;, :sla=&gt;&quot;Slavic Language&quot;, :sm=&gt;&quot;Samoan&quot;, :sma=&gt;&quot;Southern Sami&quot;, :smi=&gt;&quot;Sami Language&quot;, :smj=&gt;&quot;Lule Sami&quot;, :smn=&gt;&quot;Inari Sami&quot;, :sms=&gt;&quot;Skolt Sami&quot;, :sn=&gt;&quot;Shona&quot;, :snk=&gt;&quot;Soninke&quot;, :so=&gt;&quot;Somali&quot;, :sog=&gt;&quot;Sogdien&quot;, :son=&gt;&quot;Songhai&quot;, :sq=&gt;&quot;Albanian&quot;, :sr=&gt;&quot;Serbian&quot;, :srn=&gt;&quot;Sranan Tongo&quot;, :srr=&gt;&quot;Serer&quot;, :ss=&gt;&quot;Swati&quot;, :ssa=&gt;&quot;Nilo-Saharan Language&quot;, :st=&gt;&quot;Southern Sotho&quot;, :su=&gt;&quot;Sundanese&quot;, :suk=&gt;&quot;Sukuma&quot;, :sus=&gt;&quot;Susu&quot;, :sux=&gt;&quot;Sumerian&quot;, :sv=&gt;&quot;Swedish&quot;, :sw=&gt;&quot;Swahili&quot;, :syc=&gt;&quot;Classical Syriac&quot;, :syr=&gt;&quot;Syriac&quot;, :ta=&gt;&quot;Tamil&quot;, :tai=&gt;&quot;Tai Language&quot;, :te=&gt;&quot;Telugu&quot;, :tem=&gt;&quot;Timne&quot;, :ter=&gt;&quot;Tereno&quot;, :tet=&gt;&quot;Tetum&quot;, :tg=&gt;&quot;Tajik&quot;, :th=&gt;&quot;Thai&quot;, :ti=&gt;&quot;Tigrinya&quot;, :tig=&gt;&quot;Tigre&quot;, :tiv=&gt;&quot;Tiv&quot;, :tk=&gt;&quot;Turkmen&quot;, :tkl=&gt;&quot;Tokelau&quot;, :tl=&gt;&quot;Tagalog&quot;, :tlh=&gt;&quot;Klingon&quot;, :tli=&gt;&quot;Tlingit&quot;, :tmh=&gt;&quot;Tamashek&quot;, :tn=&gt;&quot;Tswana&quot;, :to=&gt;&quot;Tonga&quot;, :tog=&gt;&quot;Nyasa Tonga&quot;, :tpi=&gt;&quot;Tok Pisin&quot;, :tr=&gt;&quot;Turkish&quot;, :trv=&gt;&quot;Taroko&quot;, :ts=&gt;&quot;Tsonga&quot;, :tsi=&gt;&quot;Tsimshian&quot;, :tt=&gt;&quot;Tatar&quot;, :tum=&gt;&quot;Tumbuka&quot;, :tup=&gt;&quot;Tupi Language&quot;, :tut=&gt;&quot;Altaic Language&quot;, :tvl=&gt;&quot;Tuvalu&quot;, :tw=&gt;&quot;Twi&quot;, :ty=&gt;&quot;Tahitian&quot;, :tyv=&gt;&quot;Tuvinian&quot;, :udm=&gt;&quot;Udmurt&quot;, :ug=&gt;&quot;Uighur&quot;, :uga=&gt;&quot;Ugaritic&quot;, :uk=&gt;&quot;Ukrainian&quot;, :umb=&gt;&quot;Umbundu&quot;, :und=&gt;&quot;Unknown or Invalid Language&quot;, :ur=&gt;&quot;Urdu&quot;, :uz=&gt;&quot;Uzbek&quot;, :vai=&gt;&quot;Vai&quot;, :ve=&gt;&quot;Venda&quot;, :vi=&gt;&quot;Vietnamese&quot;, :vo=&gt;&quot;Volapük&quot;, :vot=&gt;&quot;Votic&quot;, :wa=&gt;&quot;Walloon&quot;, :wak=&gt;&quot;Wakashan Language&quot;, :wal=&gt;&quot;Walamo&quot;, :war=&gt;&quot;Waray&quot;, :was=&gt;&quot;Washo&quot;, :wen=&gt;&quot;Sorbian Language&quot;, :wo=&gt;&quot;Wolof&quot;, :xal=&gt;&quot;Kalmyk&quot;, :xh=&gt;&quot;Xhosa&quot;, :yao=&gt;&quot;Yao&quot;, :yap=&gt;&quot;Yapese&quot;, :yi=&gt;&quot;Yiddish&quot;, :yo=&gt;&quot;Yoruba&quot;, :ypk=&gt;&quot;Yupik Language&quot;, :za=&gt;&quot;Zhuang&quot;, :zap=&gt;&quot;Zapotec&quot;, :zbl=&gt;&quot;Blissymbols&quot;, :zen=&gt;&quot;Zenaga&quot;, :zh=&gt;&quot;Chinese&quot;, :&quot;zh-Hans&quot;=&gt;&quot;Simplified Chinese&quot;, :&quot;zh-Hant&quot;=&gt;&quot;Traditional Chinese&quot;, :znd=&gt;&quot;Zande&quot;, :zu=&gt;&quot;Zulu&quot;, :zun=&gt;&quot;Zuni&quot;, :zxx=&gt;&quot;No linguistic content&quot;, :zza=&gt;&quot;Zaza&quot;}</pentabarf:language>
+<pentabarf:language-code></pentabarf:language-code>
+<dtstart>20140419T184500</dtstart>
+<dtend>20140419T204500</dtend>
+<duration>020000</duration>
+<summary>Workshop zu We'll make ourselves a GNU one- </summary>
+<description></description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5814.html</url>
+<location>Workshopraum</location>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5816@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5816</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5816_-_de_-_workshopraum_-_201404202230_-_light_painting_-_coco</pentabarf:event-slug>
+<pentabarf:title>Light Painting</pentabarf:title>
+<pentabarf:subtitle></pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140420T223000</dtstart>
+<dtend>20140420T233000</dtend>
+<duration>010000</duration>
+<summary>Light Painting- </summary>
+<description>Auf dem Easterhegg 2013 war der Light-Painting-Workshop so gut besucht, dass er dieses Jahr wiederholt wird.</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5816.html</url>
+<location>Workshopraum</location>
+<attendee>coco</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5817@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5817</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5817_-_de_-_shack-seminarraum_-_201404181815_-_karfreitagsandacht_-_timm</pentabarf:event-slug>
+<pentabarf:title>Karfreitagsandacht</pentabarf:title>
+<pentabarf:subtitle></pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140418T181500</dtstart>
+<dtend>20140418T190000</dtend>
+<duration>004500</duration>
+<summary>Karfreitagsandacht- </summary>
+<description>Karfreitagsandacht - Thema: tbd</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5817.html</url>
+<location>shack-Seminarraum</location>
+<attendee>timm</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5823@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5823</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5823_-_de_-_hackcenter_-_201404201945_-_cacert_assurer-treffen_-_rixx</pentabarf:event-slug>
+<pentabarf:title>CAcert Assurer-Treffen</pentabarf:title>
+<pentabarf:subtitle></pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140420T194500</dtstart>
+<dtend>20140420T204500</dtend>
+<duration>010000</duration>
+<summary>CAcert Assurer-Treffen- </summary>
+<description>Treffe dich mit CAcert-Assurern und sammle CAcert-Assurerpunkte.</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5823.html</url>
+<location>Hackcenter</location>
+<attendee>rixx</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5824@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5824</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5824_-_de_-_workshopraum_-_201404191515_-_podlove_und_die_matrix_-_empty</pentabarf:event-slug>
+<pentabarf:title>Podlove und die Matrix</pentabarf:title>
+<pentabarf:subtitle>Podcast und Conference Publishing</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140419T151500</dtstart>
+<dtend>20140419T160000</dtend>
+<duration>004500</duration>
+<summary>Podlove und die Matrix- Podcast und Conference Publishing</summary>
+<description>Podlove Publisher und Podlove Web Player machen das Veröffentlichen von Podcasts einfach und sollen künftig auch für Konferenzen das Leben einfacher machen.</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5824.html</url>
+<location>Workshopraum</location>
+<attendee>empty</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5825@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5825</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5825_-_de_-_degerloch_-_201404191200_-_wie_wollen_jugendschutzer_das_internet_beherrschen_-_alvar_freude</pentabarf:event-slug>
+<pentabarf:title>(Wie) wollen Jugendschützer das Internet beherrschen?</pentabarf:title>
+<pentabarf:subtitle>Politik für Hacker – Politik hacken!</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140419T120000</dtstart>
+<dtend>20140419T133000</dtend>
+<duration>013000</duration>
+<summary>(Wie) wollen Jugendschützer das Internet beherrschen?- Politik für Hacker – Politik hacken!</summary>
+<description>Die Bundesländer machen einen neuen Anlauf für neue Jugendschutz-Regeln im &lt;del&gt;Fernsehen&lt;/del&gt; &lt;add&gt;Internet&lt;/add&gt;. Und da das Internet wie Fernsehen aussieht, soll der Jugendschutz da genau so funktionieren. Warum das uns alle angeht und was zu tun ist zeigt dieser Vortrag.</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5825.html</url>
+<location>Degerloch</location>
+<attendee>Alvar Freude</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5826@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5826</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5826_-_de_-_workshopraum_-_201404191630_-_workshop_jugendmedienschutz_-_alvar_freude</pentabarf:event-slug>
+<pentabarf:title>Workshop Jugendmedienschutz</pentabarf:title>
+<pentabarf:subtitle>JMStV Reloaded, und die Bundesländer haben nichts gelernt.</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20140419T163000</dtstart>
+<dtend>20140419T171500</dtend>
+<duration>004500</duration>
+<summary>Workshop Jugendmedienschutz- JMStV Reloaded, und die Bundesländer haben nichts gelernt.</summary>
+<description>Wie können wir die Ideen der Bundesländer zum neuen Jugendmedienschutz-Staatsvertrag stoppen? Die Länder haben aus dem Debakel 2010 nichts gelernt, versuchen es wieder. Welche Antworten finden wir auf die Pläne der Bundesländer?</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5826.html</url>
+<location>Workshopraum</location>
+<attendee>Alvar Freude</attendee>
+</vevent>
+</vcalendar>
+</iCalendar>
