@@ -147,17 +147,6 @@ ORGANIZER:EH2014
 LOCATION:shack-Seminarraum
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T150000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T120000
-DTSTAMP;VALUE=DATE-TIME:20140412T182655Z
-UID:KANPsCX14nqSoSQihFC2hA@frab.cccv.de
-DESCRIPTION:Ich bin da in so nem Verein - wir machen Verwaltung so und so
-URL:/pages/fahrplan/events/5733.html
-SUMMARY:Bürokratielevel: >9000
-ORGANIZER:EH2014
-LOCATION:shack-Seminarraum
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T204500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T194500
 DTSTAMP;VALUE=DATE-TIME:20140415T114311Z
@@ -341,9 +330,9 @@ ORGANIZER:EH2014
 LOCATION:Workshopraum
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T123000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T124500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T120000
-DTSTAMP;VALUE=DATE-TIME:20140415T190334Z
+DTSTAMP;VALUE=DATE-TIME:20140418T131736Z
 UID:j7CaXrKoiL1iM3_CuDvkFg@frab.cccv.de
 DESCRIPTION:Ein kurzer Überblick über das Python-Webframework Django. Was
   nimmt einem das Framework ab - was muss man selber machen?
@@ -391,21 +380,9 @@ ORGANIZER:EH2014
 LOCATION:shack-Seminarraum
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140421T123000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140421T120000
-DTSTAMP;VALUE=DATE-TIME:20140318T091714Z
-UID:Ca5THaHLyWqIsy45P1lNXA@frab.cccv.de
-DESCRIPTION:Erfahrungen mit und über Frauen in der Informatik und die gro
- ße Fragen\, warum so wenige Frauen dieses Fach studieren.\n
-URL:/pages/fahrplan/events/5749.html
-SUMMARY:Frauen in der IT
-ORGANIZER:EH2014
-LOCATION:Degerloch
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T140000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T110000
-DTSTAMP;VALUE=DATE-TIME:20140410T212427Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T163000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T133000
+DTSTAMP;VALUE=DATE-TIME:20140418T115743Z
 UID:bulR4arlsKteT7IbNoGZMw@frab.cccv.de
 DESCRIPTION:Wir zeigen euch die Arbeit und die Ausstattung der THW-Fachgr
  uppe Führung und Kommunikation
@@ -743,26 +720,6 @@ ORGANIZER:EH2014
 LOCATION:shack-Seminarraum
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T154500
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T150000
-DTSTAMP;VALUE=DATE-TIME:20140409T175720Z
-UID:_GJy2kwqiFx3W88oOuCNCA@frab.cccv.de
-DESCRIPTION:"Privacy" ist ein Begriff\, der immer wieder auftaucht. So ri
- chtig gut ins Deutsche übersetzen lässt er sich aer nicht. "Privatsphäre
- " findet man oft als Synonym. Privatsphäre\, das ist ein Menschenrecht\,
-  in Deutschland aus dem Persönlichkeitsrecht abgeleitet\, das im Grundge
- setz verankert ist. Aber auch "Privatheit" ist ein häufig auftauchendes 
- Wort\, das zur Übersetzung herangezogen wird. Ist "Privatheit" denn das 
- gleiche wie "Privatsphäre"? Und was bedeutet das eigentlich? Kann man fo
- rmalisieren und quantisieren\, wie "privat" - im Wortsinn: "für sich\, i
- m Eigenen" - man ist? Oder ist Privacy ein abstraktes Konstrukt\, das si
- ch ständig neu definiert?
-URL:/pages/fahrplan/events/5736.html
-SUMMARY:Privacy\, was ist das? Kann man das (m)essen?
-ORGANIZER:EH2014
-LOCATION:Workshopraum
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T161500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T154500
 DTSTAMP;VALUE=DATE-TIME:20140409T175958Z
@@ -1024,17 +981,5 @@ URL:/pages/fahrplan/events/5814.html
 SUMMARY:Workshop zu We'll make ourselves a GNU one
 ORGANIZER:EH2014
 LOCATION:Workshopraum
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140418T230000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140418T221500
-DTSTAMP;VALUE=DATE-TIME:20140414T053623Z
-UID:lXEhQvkRJSVDLDofUnI4Pg@frab.cccv.de
-DESCRIPTION:Make your network (slightly) more secure by pimping your Icin
- ga/Nagios-based monitoring system.
-URL:/pages/fahrplan/events/5767.html
-SUMMARY:zero-cost netsecmon
-ORGANIZER:EH2014
-LOCATION:shack-Seminarraum
 END:VEVENT
 END:VCALENDAR

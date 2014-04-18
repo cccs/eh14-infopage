@@ -185,34 +185,6 @@ The second part tries to get on the abstract idea of reading and writing landsca
 <links>
 </links>
 </event>
-<event guid='lXEhQvkRJSVDLDofUnI4Pg' id='5767'>
-<date>2014-04-18T22:15:00+02:00</date>
-<start>22:15</start>
-<duration>00:45</duration>
-<room>shack-Seminarraum</room>
-<slug>EH2014_-_5767_-_en_-_shack-seminarraum_-_201404182215_-_zero-cost_netsecmon_-_noaircon</slug>
-<recording>
-<license></license>
-<optout>false</optout>
-</recording>
-<title>zero-cost netsecmon</title>
-<subtitle>network security monitoring (with Icinga)</subtitle>
-<track>Talk</track>
-<type>lecture</type>
-<language>en</language>
-<abstract>Make your network (slightly) more secure by pimping your Icinga/Nagios-based monitoring system.</abstract>
-<description>In this presentation we will discuss ideas for monitoring security relevant activity and events. This includes reminding on still outstanding maintenance operations, detecting anomalous activity, monitoring (and control) of brute force attacks running, and most certainly the security of Web, DNS, Email and other services in general.
-
-Given an existing Icinga monitoring system (like we documented in our 'Nagios/Icinga Kochbuch' recently published by O'Reilly) and not the resources to setup a proper security monitoring solution (like it is unfortunately under normal circumstances the case); why not at least improve network security by adding few more plugins?
-
-Following a short talk there will be a discussion were we will encourage interested individuals to propose (or even contribute) security relevant checks missing. The most interesting contributions might get implemented, documented and published. Resulting plugins will be made freely available.</description>
-<persons>
-<person id='4488'>noaircon</person>
-</persons>
-<links>
-<link href='http://monilog.info'>Webseiten des 'Nagios/Icinga Kochbuchs'</link>
-</links>
-</event>
 </room>
 <room name='shackspace Küche'>
 </room>
@@ -616,7 +588,7 @@ Am Ende der Präsentation können wir gerne über die Vor und Nachteile dieser L
 <start>15:15</start>
 <duration>00:45</duration>
 <room>Workshopraum</room>
-<slug>EH2014_-_5824_-_de_-_workshopraum_-_201404191515_-_podlove_und_die_matrix_-_empty</slug>
+<slug>EH2014_-_5824_-_de_-_workshopraum_-_201404191515_-_podlove_und_die_matrix_-_tim_pritlove</slug>
 <recording>
 <license>CC-BY</license>
 <optout>false</optout>
@@ -633,7 +605,7 @@ Im Vortrag möchte ich kurz auf Neuerungen des letzten halben Jahres eingehen un
 
 Die Weiterentwicklung des Podlove Web Players und die Idee der Podlove Matrix stehen hier im Zentrum wie auch die Entwicklung eines umfangreichen Konzepts für zeitbasierte Metadaten.</description>
 <persons>
-<person id='3809'>empty</person>
+<person id='3809'>Tim Pritlove</person>
 </persons>
 <links>
 <link href='http://podlove.org'>Podlove</link>
@@ -1045,11 +1017,11 @@ Teilnahme für jedes Alter, Verkostung erst ab 18. </description>
 </room>
 <room name='Parkplatz'>
 <event guid='bulR4arlsKteT7IbNoGZMw' id='5771'>
-<date>2014-04-19T11:00:00+02:00</date>
-<start>11:00</start>
+<date>2014-04-19T13:30:00+02:00</date>
+<start>13:30</start>
 <duration>03:00</duration>
 <room>Parkplatz</room>
-<slug>EH2014_-_5771_-_de_-_parkplatz_-_201404191100_-_fuhrung_und_kommunikation_-_laird_dave</slug>
+<slug>EH2014_-_5771_-_de_-_parkplatz_-_201404191330_-_fuhrung_und_kommunikation_-_laird_dave</slug>
 <recording>
 <license></license>
 <optout>false</optout>
@@ -1102,7 +1074,7 @@ Wir zeigen euch die Standard-Ausstattung nach STAN, was wir in Stuttgart sonst n
 <event guid='j7CaXrKoiL1iM3_CuDvkFg' id='5764'>
 <date>2014-04-20T12:00:00+02:00</date>
 <start>12:00</start>
-<duration>00:30</duration>
+<duration>00:45</duration>
 <room>Degerloch</room>
 <slug>EH2014_-_5764_-_de_-_degerloch_-_201404201200_-_einfuhrung_in_django_-_arne_schauf</slug>
 <recording>
@@ -1554,35 +1526,6 @@ Wenn du Lust hast zu erfahren wie ein Untertitel erstellt wird und wie du dazu b
 <link href='http://nrrd.de/'>Ich blogge hier vielleicht</link>
 </links>
 </event>
-<event guid='_GJy2kwqiFx3W88oOuCNCA' id='5736'>
-<date>2014-04-20T15:00:00+02:00</date>
-<start>15:00</start>
-<duration>00:45</duration>
-<room>Workshopraum</room>
-<slug>EH2014_-_5736_-_de_-_workshopraum_-_201404201500_-_privacy_was_ist_das_kann_man_das_m_essen_-_annskaja</slug>
-<recording>
-<license>CC BY-SA 3.0 DE</license>
-<optout>false</optout>
-</recording>
-<title>Privacy, was ist das? Kann man das (m)essen?</title>
-<subtitle></subtitle>
-<track>Talk</track>
-<type>lecture</type>
-<language>de</language>
-<abstract>&quot;Privacy&quot; ist ein Begriff, der immer wieder auftaucht. So richtig gut ins Deutsche übersetzen lässt er sich aer nicht. &quot;Privatsphäre&quot; findet man oft als Synonym. Privatsphäre, das ist ein Menschenrecht, in Deutschland aus dem Persönlichkeitsrecht abgeleitet, das im Grundgesetz verankert ist. Aber auch &quot;Privatheit&quot; ist ein häufig auftauchendes Wort, das zur Übersetzung herangezogen wird. Ist &quot;Privatheit&quot; denn das gleiche wie &quot;Privatsphäre&quot;? Und was bedeutet das eigentlich? Kann man formalisieren und quantisieren, wie &quot;privat&quot; - im Wortsinn: &quot;für sich, im Eigenen&quot; - man ist? Oder ist Privacy ein abstraktes Konstrukt, das sich ständig neu definiert?</abstract>
-<description>Der Vortrag wird am Anfang einen kurzen Überblick über die Historie des Begriffs &quot;Privacy&quot; geben. Vom &quot;Right to be let alone&quot;, das 1890 weit vor den Möglichkeiten der elektronischen Massenverarbeitung von Warren und Brandeis formuliert wurde, bis zum Konzept von &quot;Post-Privacy&quot;, in dem Privatsphäre angesichts der vernetzten Welt und dem vollständig online veröffentlichten Leben obsolet wird. 
-
-In der heutigen Zeit suggerieren uns soziale Netzwerke, ständig entstehende Datenpannen und Massenüberwachung durch Geheimdienstapparate, dass unsere Privatheit längst verloren gegangen ist. Dabei ist ersteinmal festzulegen, wann der Verlust von Privatheit überhaupt eintritt und ob es vielleicht doch mehr gibt als die binäre Kategorisierung von keiner und intakter Privatheit. Um das bewerten zu können, muss zunächst betrachtet werden, aus welchen Faktoren sich Privatheit zusammensetzt. Dazu liefern Gesetze, Gesellschaft und Informatik verschiedene Perspektiven und oftmals gibt es Verständnisprobleme zwischen den Vertretern der verschiedenen Bereiche.
-
-Es sollen Ansätze vorgestellt werden, Privacy zu messen und zu formalisieren. Denn das ist letztlich notwendig, um einen Rahmen zu schaffen, indem ein Nutzer einschätzen kann, wie privat er sich in der (digitalen) Welt bewegt; um dem Juristen ein Werkzeug an die Hand zu geben, das Grundrecht auf Privatsphäre wirksam einschätzen und durchsetzen zu können; um für den Entwickler eines Systems zu formulieren, was er wie umsetzen muss, um ein angemessenes Privacy-Niveau zu gewährleisten. 
-
-Hierfür braucht es einen multidiszplinären Dialog. Informationstheoretische Maße, juristische Definitionen und gesellschaftliche Konzepte von Privacy müssen zusammen betrachtet werden. Am Ende der Präsentation wird diskutiert, an welchem Punkt diese Diskussion sich zur Zeit befindet und am Ende steht die Frage, welche Schritte in Zukunft nötig sein werden, um eine gemeinsame Sprache zu finden.</description>
-<persons>
-<person id='4465'>annskaja</person>
-</persons>
-<links>
-</links>
-</event>
 <event guid='kaOF9Bjj3Bg1zEajbkaTkQ' id='5755'>
 <date>2014-04-20T15:45:00+02:00</date>
 <start>15:45</start>
@@ -1906,31 +1849,6 @@ Ich möchte in diesem experimentellen Workshop zusammen mit den Teilnehmern die 
 <links>
 </links>
 </event>
-<event guid='KANPsCX14nqSoSQihFC2hA' id='5733'>
-<date>2014-04-20T12:00:00+02:00</date>
-<start>12:00</start>
-<duration>03:00</duration>
-<room>shack-Seminarraum</room>
-<slug>EH2014_-_5733_-_de_-_shack-seminarraum_-_201404201200_-_burokratielevel_9000_-_laird_dave</slug>
-<recording>
-<license></license>
-<optout>false</optout>
-</recording>
-<title>Bürokratielevel: &gt;9000</title>
-<subtitle>Vereinsverwaltung</subtitle>
-<track>Workshop</track>
-<type>workshop</type>
-<language>de</language>
-<abstract>Ich bin da in so nem Verein - wir machen Verwaltung so und so</abstract>
-<description>Ein Workshop für all die armen Schweine, die in ihrem Hackerspace / Erfa / whatever einen Teil ihrer Zeit für den Verwaltungsfoo opfern müssen.
-
-Lasst uns über Best Practises reden und Ideen austauschen. Starker Fokus auf Erfahrungsaustausch, das soll KEIN Verwaltung 101 werden.</description>
-<persons>
-<person id='4464'>Laird_Dave</person>
-</persons>
-<links>
-</links>
-</event>
 <event guid='2v8guLMfWAGh50zRNrY8rg' id='5747'>
 <date>2014-04-20T15:00:00+02:00</date>
 <start>15:00</start>
@@ -2134,35 +2052,6 @@ Für Verbrauchsmaterial wird ein kleiner Unkostenbeitrag erhoben.</abstract>
 </day>
 <day date='2014-04-21' end='2014-04-21T15:00:00+02:00' index='4' start='2014-04-21T09:00:00+02:00'>
 <room name='Degerloch'>
-<event guid='Ca5THaHLyWqIsy45P1lNXA' id='5749'>
-<date>2014-04-21T12:00:00+02:00</date>
-<start>12:00</start>
-<duration>00:30</duration>
-<room>Degerloch</room>
-<slug>EH2014_-_5749_-_de_-_degerloch_-_201404211200_-_frauen_in_der_it_-_jayneway</slug>
-<recording>
-<license></license>
-<optout>false</optout>
-</recording>
-<title>Frauen in der IT</title>
-<subtitle>Ein Erfahrungsbericht</subtitle>
-<track>Sonstiges</track>
-<type>other</type>
-<language>de</language>
-<abstract>Erfahrungen mit und über Frauen in der Informatik und die große Fragen, warum so wenige Frauen dieses Fach studieren.
-</abstract>
-<description>Bericht über meine persönlichen Erfahrungen als Student und Profi in verschiedenen Unternehmen mit verschiedensten Aufgaben und Menschen.
-Ich stelle mir einen regen Austausch mit anderen Menschen zum Thema Akzeptanz und die Verbreitung von Frauen in IT und IT - nahen Berufen durch die Jahrzehnte bis heute vor. 
-Welche Frauen studieren und studierten warum Informatik?
-
-Und wie kriegt mehr davon?
-</description>
-<persons>
-<person id='4474'>Jayneway</person>
-</persons>
-<links>
-</links>
-</event>
 </room>
 <room name='Workshopraum'>
 </room>

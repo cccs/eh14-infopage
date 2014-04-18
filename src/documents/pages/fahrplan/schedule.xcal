@@ -216,27 +216,6 @@
 </vevent>
 <vevent>
 <method>PUBLISH</method>
-<uid>5733@EH2014@pentabarf.org</uid>
-<pentabarf:event-id>5733</pentabarf:event-id>
-<pentabarf:event-slug>EH2014_-_5733_-_de_-_shack-seminarraum_-_201404201200_-_burokratielevel_9000_-_laird_dave</pentabarf:event-slug>
-<pentabarf:title>Bürokratielevel: &gt;9000</pentabarf:title>
-<pentabarf:subtitle>Vereinsverwaltung</pentabarf:subtitle>
-<pentabarf:language>German</pentabarf:language>
-<pentabarf:language-code>de</pentabarf:language-code>
-<dtstart>20140420T120000</dtstart>
-<dtend>20140420T150000</dtend>
-<duration>030000</duration>
-<summary>Bürokratielevel: &gt;9000- Vereinsverwaltung</summary>
-<description>Ich bin da in so nem Verein - wir machen Verwaltung so und so</description>
-<class>PUBLIC</class>
-<status>CONFIRMED</status>
-<category>Lecture</category>
-<url>/pages/fahrplan/events/5733.html</url>
-<location>shack-Seminarraum</location>
-<attendee>Laird_Dave</attendee>
-</vevent>
-<vevent>
-<method>PUBLISH</method>
 <uid>5734@EH2014@pentabarf.org</uid>
 <pentabarf:event-id>5734</pentabarf:event-id>
 <pentabarf:event-slug>EH2014_-_5734_-_en_-_degerloch_-_201404202030_-_managing_containers_with_docker_-_johannes_fish_ziemke</pentabarf:event-slug>
@@ -276,27 +255,6 @@
 <url>/pages/fahrplan/events/5735.html</url>
 <location>Workshopraum</location>
 <attendee>Dirk Haun</attendee>
-</vevent>
-<vevent>
-<method>PUBLISH</method>
-<uid>5736@EH2014@pentabarf.org</uid>
-<pentabarf:event-id>5736</pentabarf:event-id>
-<pentabarf:event-slug>EH2014_-_5736_-_de_-_workshopraum_-_201404201500_-_privacy_was_ist_das_kann_man_das_m_essen_-_annskaja</pentabarf:event-slug>
-<pentabarf:title>Privacy, was ist das? Kann man das (m)essen?</pentabarf:title>
-<pentabarf:subtitle></pentabarf:subtitle>
-<pentabarf:language>German</pentabarf:language>
-<pentabarf:language-code>de</pentabarf:language-code>
-<dtstart>20140420T150000</dtstart>
-<dtend>20140420T154500</dtend>
-<duration>004500</duration>
-<summary>Privacy, was ist das? Kann man das (m)essen?- </summary>
-<description>&quot;Privacy&quot; ist ein Begriff, der immer wieder auftaucht. So richtig gut ins Deutsche übersetzen lässt er sich aer nicht. &quot;Privatsphäre&quot; findet man oft als Synonym. Privatsphäre, das ist ein Menschenrecht, in Deutschland aus dem Persönlichkeitsrecht abgeleitet, das im Grundgesetz verankert ist. Aber auch &quot;Privatheit&quot; ist ein häufig auftauchendes Wort, das zur Übersetzung herangezogen wird. Ist &quot;Privatheit&quot; denn das gleiche wie &quot;Privatsphäre&quot;? Und was bedeutet das eigentlich? Kann man formalisieren und quantisieren, wie &quot;privat&quot; - im Wortsinn: &quot;für sich, im Eigenen&quot; - man ist? Oder ist Privacy ein abstraktes Konstrukt, das sich ständig neu definiert?</description>
-<class>PUBLIC</class>
-<status>CONFIRMED</status>
-<category>Lecture</category>
-<url>/pages/fahrplan/events/5736.html</url>
-<location>Workshopraum</location>
-<attendee>annskaja</attendee>
 </vevent>
 <vevent>
 <method>PUBLISH</method>
@@ -511,28 +469,6 @@ Warum wir ein Barcamp zu NSA-Überwachung, Vorratsdatenspeicherung etc. veransta
 <url>/pages/fahrplan/events/5748.html</url>
 <location>Degerloch</location>
 <attendee>Benedikt Stockebrand</attendee>
-</vevent>
-<vevent>
-<method>PUBLISH</method>
-<uid>5749@EH2014@pentabarf.org</uid>
-<pentabarf:event-id>5749</pentabarf:event-id>
-<pentabarf:event-slug>EH2014_-_5749_-_de_-_degerloch_-_201404211200_-_frauen_in_der_it_-_jayneway</pentabarf:event-slug>
-<pentabarf:title>Frauen in der IT</pentabarf:title>
-<pentabarf:subtitle>Ein Erfahrungsbericht</pentabarf:subtitle>
-<pentabarf:language>German</pentabarf:language>
-<pentabarf:language-code>de</pentabarf:language-code>
-<dtstart>20140421T120000</dtstart>
-<dtend>20140421T123000</dtend>
-<duration>003000</duration>
-<summary>Frauen in der IT- Ein Erfahrungsbericht</summary>
-<description>Erfahrungen mit und über Frauen in der Informatik und die große Fragen, warum so wenige Frauen dieses Fach studieren.
-</description>
-<class>PUBLIC</class>
-<status>CONFIRMED</status>
-<category>Lecture</category>
-<url>/pages/fahrplan/events/5749.html</url>
-<location>Degerloch</location>
-<attendee>Jayneway</attendee>
 </vevent>
 <vevent>
 <method>PUBLISH</method>
@@ -820,8 +756,8 @@ Für Verbrauchsmaterial wird ein kleiner Unkostenbeitrag erhoben.</description>
 <pentabarf:language>German</pentabarf:language>
 <pentabarf:language-code>de</pentabarf:language-code>
 <dtstart>20140420T120000</dtstart>
-<dtend>20140420T123000</dtend>
-<duration>003000</duration>
+<dtend>20140420T124500</dtend>
+<duration>004500</duration>
 <summary>Einführung in Django- Was ist Django und wofür braucht man das?</summary>
 <description>Ein kurzer Überblick über das Python-Webframework Django. Was nimmt einem das Framework ab - was muss man selber machen?</description>
 <class>PUBLIC</class>
@@ -879,36 +815,15 @@ hc ist seit 2008 admin im hackint, und hat dort unter anderem an der Umstellung 
 </vevent>
 <vevent>
 <method>PUBLISH</method>
-<uid>5767@EH2014@pentabarf.org</uid>
-<pentabarf:event-id>5767</pentabarf:event-id>
-<pentabarf:event-slug>EH2014_-_5767_-_en_-_shack-seminarraum_-_201404182215_-_zero-cost_netsecmon_-_noaircon</pentabarf:event-slug>
-<pentabarf:title>zero-cost netsecmon</pentabarf:title>
-<pentabarf:subtitle>network security monitoring (with Icinga)</pentabarf:subtitle>
-<pentabarf:language>English</pentabarf:language>
-<pentabarf:language-code>en</pentabarf:language-code>
-<dtstart>20140418T221500</dtstart>
-<dtend>20140418T230000</dtend>
-<duration>004500</duration>
-<summary>zero-cost netsecmon- network security monitoring (with Icinga)</summary>
-<description>Make your network (slightly) more secure by pimping your Icinga/Nagios-based monitoring system.</description>
-<class>PUBLIC</class>
-<status>CONFIRMED</status>
-<category>Lecture</category>
-<url>/pages/fahrplan/events/5767.html</url>
-<location>shack-Seminarraum</location>
-<attendee>noaircon</attendee>
-</vevent>
-<vevent>
-<method>PUBLISH</method>
 <uid>5771@EH2014@pentabarf.org</uid>
 <pentabarf:event-id>5771</pentabarf:event-id>
-<pentabarf:event-slug>EH2014_-_5771_-_de_-_parkplatz_-_201404191100_-_fuhrung_und_kommunikation_-_laird_dave</pentabarf:event-slug>
+<pentabarf:event-slug>EH2014_-_5771_-_de_-_parkplatz_-_201404191330_-_fuhrung_und_kommunikation_-_laird_dave</pentabarf:event-slug>
 <pentabarf:title>Führung und Kommunikation</pentabarf:title>
 <pentabarf:subtitle>Der Katastrophenschutz im Einsatz</pentabarf:subtitle>
 <pentabarf:language>German</pentabarf:language>
 <pentabarf:language-code>de</pentabarf:language-code>
-<dtstart>20140419T110000</dtstart>
-<dtend>20140419T140000</dtend>
+<dtstart>20140419T133000</dtstart>
+<dtend>20140419T163000</dtend>
 <duration>030000</duration>
 <summary>Führung und Kommunikation- Der Katastrophenschutz im Einsatz</summary>
 <description>Wir zeigen euch die Arbeit und die Ausstattung der THW-Fachgruppe Führung und Kommunikation</description>
@@ -1583,7 +1498,7 @@ When: Morning. No specific time slot.
 <method>PUBLISH</method>
 <uid>5824@EH2014@pentabarf.org</uid>
 <pentabarf:event-id>5824</pentabarf:event-id>
-<pentabarf:event-slug>EH2014_-_5824_-_de_-_workshopraum_-_201404191515_-_podlove_und_die_matrix_-_empty</pentabarf:event-slug>
+<pentabarf:event-slug>EH2014_-_5824_-_de_-_workshopraum_-_201404191515_-_podlove_und_die_matrix_-_tim_pritlove</pentabarf:event-slug>
 <pentabarf:title>Podlove und die Matrix</pentabarf:title>
 <pentabarf:subtitle>Podcast und Conference Publishing</pentabarf:subtitle>
 <pentabarf:language>German</pentabarf:language>
@@ -1598,7 +1513,7 @@ When: Morning. No specific time slot.
 <category>Lecture</category>
 <url>/pages/fahrplan/events/5824.html</url>
 <location>Workshopraum</location>
-<attendee>empty</attendee>
+<attendee>Tim Pritlove</attendee>
 </vevent>
 <vevent>
 <method>PUBLISH</method>
