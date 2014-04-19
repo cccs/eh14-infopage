@@ -789,20 +789,6 @@ ORGANIZER:EH2014
 LOCATION:Workshopraum
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T221500
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T211500
-DTSTAMP;VALUE=DATE-TIME:20140409T195841Z
-UID:rkDHniUlFfF3l-9uRzoBBw@frab.cccv.de
-DESCRIPTION:This talk is supposed to introduce the current discussion reg
- arding Bitcoins security. We want to give an overview of cryptographic i
- ssues\, wallet security etc. We also want to discuss some of the more re
- cent events regardig Bitcoins (Mt. Gox etc.)
-URL:/pages/fahrplan/events/5763.html
-SUMMARY:Security aspects of Bitcoin
-ORGANIZER:EH2014
-LOCATION:Workshopraum
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140418T220000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140418T211500
 DTSTAMP;VALUE=DATE-TIME:20140410T211611Z
@@ -842,7 +828,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T221500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T204500
-DTSTAMP;VALUE=DATE-TIME:20140409T173250Z
+DTSTAMP;VALUE=DATE-TIME:20140419T204810Z
 UID:cw1kWo5jKcQug7gM1AvNGA@frab.cccv.de
 DESCRIPTION:While recent events have finally made the world at large real
  ize that the exhaustive deployment and use of cryptography throughout th

@@ -706,27 +706,6 @@ Für Verbrauchsmaterial wird ein kleiner Unkostenbeitrag erhoben.</description>
 </vevent>
 <vevent>
 <method>PUBLISH</method>
-<uid>5763@EH2014@pentabarf.org</uid>
-<pentabarf:event-id>5763</pentabarf:event-id>
-<pentabarf:event-slug>EH2014_-_5763_-_en_-_workshopraum_-_201404202115_-_security_aspects_of_bitcoin_-_myshkin</pentabarf:event-slug>
-<pentabarf:title>Security aspects of Bitcoin</pentabarf:title>
-<pentabarf:subtitle></pentabarf:subtitle>
-<pentabarf:language>English</pentabarf:language>
-<pentabarf:language-code>en</pentabarf:language-code>
-<dtstart>20140420T211500</dtstart>
-<dtend>20140420T221500</dtend>
-<duration>010000</duration>
-<summary>Security aspects of Bitcoin- </summary>
-<description>This talk is supposed to introduce the current discussion regarding Bitcoins security. We want to give an overview of cryptographic issues, wallet security etc. We also want to discuss some of the more recent events regardig Bitcoins (Mt. Gox etc.)</description>
-<class>PUBLIC</class>
-<status>CONFIRMED</status>
-<category>Lecture</category>
-<url>/pages/fahrplan/events/5763.html</url>
-<location>Workshopraum</location>
-<attendee>Myshkin</attendee>
-</vevent>
-<vevent>
-<method>PUBLISH</method>
 <uid>5764@EH2014@pentabarf.org</uid>
 <pentabarf:event-id>5764</pentabarf:event-id>
 <pentabarf:event-slug>EH2014_-_5764_-_de_-_degerloch_-_201404201200_-_einfuhrung_in_django_-_arne_schauf</pentabarf:event-slug>
