@@ -193,33 +193,51 @@ The second part tries to get on the abstract idea of reading and writing landsca
 </day>
 <day date='2014-04-19' end='2014-04-20T00:00:00+02:00' index='2' start='2014-04-19T09:00:00+02:00'>
 <room name='Degerloch'>
-<event guid='zHUMdREGj80m7zLS_xkzAg' id='5757'>
+<event guid='GnA8_-5g-pXihZxu381Vvw' id='5751'>
 <date>2014-04-19T11:00:00+02:00</date>
 <start>11:00</start>
-<duration>00:45</duration>
+<duration>00:15</duration>
 <room>Degerloch</room>
-<slug>EH2014_-_5757_-_de_-_degerloch_-_201404191100_-_elite_trotz_hackerspace_-_h0uz3</slug>
+<slug>EH2014_-_5751_-_de_-_degerloch_-_201404191100_-_semi_automatisierung_der_kardiopulmonalen_reanimation_als_-_abdo</slug>
 <recording>
-<license>CC-BY-NC</license>
+<license></license>
 <optout>false</optout>
 </recording>
-<title>Elite trotz Hackerspace</title>
-<subtitle>Inklusion bedeutet nicht, die eigene Filterbubble aufzugeben</subtitle>
+<title>(semi)Automatisierung der kardiopulmonalen Reanimation (ALS)</title>
+<subtitle>a work in progress</subtitle>
+<track>Talk</track>
+<type></type>
+<language>de</language>
+<abstract>Software- und hardwaregestütztes proof-of-concept. Umbau bestehender Medizintechnikprodukte zur Steuerung mittels eigens entwickeltem Softwareprogramm.</abstract>
+<description></description>
+<persons>
+<person id='4455'>Abdo</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='3QAXrIW9VSGsxgT6ivgZdA' id='5798'>
+<date>2014-04-19T11:15:00+02:00</date>
+<start>11:15</start>
+<duration>00:30</duration>
+<room>Degerloch</room>
+<slug>EH2014_-_5798_-_de_-_degerloch_-_201404191115_-_fun_with_responsive_tables_-_kathrin_holzmann</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Fun with responsive tables</title>
+<subtitle>Eine crossdevice Lösung für tabelarische Datendarstellung</subtitle>
 <track>Talk</track>
 <type>lecture</type>
 <language>de</language>
-<abstract>Sie wurden laut, die Rufe nach einer neuen &quot;Hacker-Elite&quot;. Sie wird spürbar, die Ablehnung der &quot;DAUs&quot;. Der Konflikt ist da: Hackerelite gegen allgemein Technikinteressierte.</abstract>
-<description>Für viele Jahre waren &quot;die Nerds&quot;, &quot;die Hacker&quot; und &quot;die Geeks&quot; eine geschonte Subkultur. In den letzten Jahren wurde dies aber durch Mode, Medien und die um sich greifende Vernetzung stark beeinflusst.
+<abstract>Tabellen, gleichermaßen gehasst wie geliebt. Vor allem wenn wir über responsive Design sprechen stoßen Tabellen schnell an ihre Grenzen. Ich werde eine mögliche Lösung für das Problem präsentieren die wir auf DaWanda einsetzen.</abstract>
+<description>In meiner Präsentation möchte ich eine Mögliche Lösung für die Darstellung von tabelarischen Daten vorstellen. Angefangen bei  der Design und Usability Problemstellung vor allem für kleinere devices wie z.B. smartphones. Anschließend werde ich das für die Lösung benötigte markup zeigen sowie das CSS, das am Ende den ganzen Zauber bewirkt. 
 
-Die Hacker sind nicht mehr nur unter sich, sie sind offener für Neulinge, leben ein weniger zurückgezogenes Leben und ihre Subkultur wird davon natürlich auch beeinflusst.
-
-Dies geschieht nicht ohne Konflikte: Hackergruppen fühlen sich in ihrer Elite-Ehre angegriffen, sozial engagierte Techniknutzer wollen die Eliten aufbrechen und Außenstehend können sich den Kampf nur kopfschüttelnd anschauen.
-
-Elitenbildung und Inklusion schließen sich jedoch nicht gegenseitig aus, beides sind keine aktiven Entscheidungen, sondern fortlaufende Prozesse.
-
-An Beispielen aus dem realen Leben will ich zeigen, dass das alles gar nicht so schlimm ist.</description>
+Am Ende der Präsentation können wir gerne über die Vor und Nachteile dieser Lösung, Verbesserungen oder andere Lösungansätze diskutieren.
+</description>
 <persons>
-<person id='2639'>h0uz3</person>
+<person id='4514'>Kathrin Holzmann</person>
 </persons>
 <links>
 </links>
@@ -337,12 +355,12 @@ Auf dem Podium: Carlo von lynX, Daniel Reusche, Tom Twiddlebit</description>
 <start>18:45</start>
 <duration>00:45</duration>
 <room>Degerloch</room>
-<slug>EH2014_-_5813_-__-_degerloch_-_201404191845_-_tba_-_matt_hardy</slug>
+<slug>EH2014_-_5813_-__-_degerloch_-_201404191845_-_wireless_fundamentals_and_rf_theory_-_matt_hardy</slug>
 <recording>
 <license></license>
 <optout>false</optout>
 </recording>
-<title>TBA</title>
+<title>wireless fundamentals and RF theory</title>
 <subtitle></subtitle>
 <track>Talk</track>
 <type>lecture</type>
@@ -479,55 +497,6 @@ Bitte meldet dazu eure Gruppe per Mail an muzy [no spam plz!] chaosdorf.de an. W
 </event>
 </room>
 <room name='Workshopraum'>
-<event guid='GnA8_-5g-pXihZxu381Vvw' id='5751'>
-<date>2014-04-19T11:00:00+02:00</date>
-<start>11:00</start>
-<duration>00:15</duration>
-<room>Workshopraum</room>
-<slug>EH2014_-_5751_-_de_-_workshopraum_-_201404191100_-_semi_automatisierung_der_kardiopulmonalen_reanimation_als_-_abdo</slug>
-<recording>
-<license></license>
-<optout>false</optout>
-</recording>
-<title>(semi)Automatisierung der kardiopulmonalen Reanimation (ALS)</title>
-<subtitle>a work in progress</subtitle>
-<track>Talk</track>
-<type></type>
-<language>de</language>
-<abstract>Software- und hardwaregestütztes proof-of-concept. Umbau bestehender Medizintechnikprodukte zur Steuerung mittels eigens entwickeltem Softwareprogramm.</abstract>
-<description></description>
-<persons>
-<person id='4455'>Abdo</person>
-</persons>
-<links>
-</links>
-</event>
-<event guid='3QAXrIW9VSGsxgT6ivgZdA' id='5798'>
-<date>2014-04-19T11:15:00+02:00</date>
-<start>11:15</start>
-<duration>00:30</duration>
-<room>Workshopraum</room>
-<slug>EH2014_-_5798_-_de_-_workshopraum_-_201404191115_-_fun_with_responsive_tables_-_kathrin_holzmann</slug>
-<recording>
-<license></license>
-<optout>false</optout>
-</recording>
-<title>Fun with responsive tables</title>
-<subtitle>Eine crossdevice Lösung für tabelarische Datendarstellung</subtitle>
-<track>Talk</track>
-<type>lecture</type>
-<language>de</language>
-<abstract>Tabellen, gleichermaßen gehasst wie geliebt. Vor allem wenn wir über responsive Design sprechen stoßen Tabellen schnell an ihre Grenzen. Ich werde eine mögliche Lösung für das Problem präsentieren die wir auf DaWanda einsetzen.</abstract>
-<description>In meiner Präsentation möchte ich eine Mögliche Lösung für die Darstellung von tabelarischen Daten vorstellen. Angefangen bei  der Design und Usability Problemstellung vor allem für kleinere devices wie z.B. smartphones. Anschließend werde ich das für die Lösung benötigte markup zeigen sowie das CSS, das am Ende den ganzen Zauber bewirkt. 
-
-Am Ende der Präsentation können wir gerne über die Vor und Nachteile dieser Lösung, Verbesserungen oder andere Lösungansätze diskutieren.
-</description>
-<persons>
-<person id='4514'>Kathrin Holzmann</person>
-</persons>
-<links>
-</links>
-</event>
 <event guid='AGyCAyesmbxDsIf1BrE-qA' id='5735'>
 <date>2014-04-19T13:00:00+02:00</date>
 <start>13:00</start>
@@ -560,18 +529,18 @@ Am Ende der Präsentation können wir gerne über die Vor und Nachteile dieser L
 
 &lt;p&gt;Folien:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Die wichtigen und die unwichtigen Folien&lt;/li&gt;
-&lt;li&gt;Wie man die Bullet Points los wird&lt;/li&gt;
-&lt;li&gt;Bilder und Visualisierungen&lt;/li&gt;
-&lt;li&gt;3 einfache Designregeln&lt;/li&gt;
+&lt;li&gt;Die wichtigen und die unwichtigen Folien
+&lt;li&gt;Wie man die Bullet Points los wird
+&lt;li&gt;Bilder und Visualisierungen
+&lt;li&gt;3 einfache Designregeln
 &lt;/ul&gt;
 
 &lt;p&gt;Vortrag:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Früh ankommen&lt;/li&gt;
-&lt;li&gt;The Show must go on&lt;/li&gt;
-&lt;li&gt;Mit Fragen und Diskussionen umgehen&lt;/li&gt;
-&lt;li&gt;Nicht überziehen&lt;/li&gt;
+&lt;li&gt;Früh ankommen
+&lt;li&gt;The Show must go on
+&lt;li&gt;Mit Fragen und Diskussionen umgehen
+&lt;li&gt;Nicht überziehen
 &lt;/ul&gt;
 
 &lt;p&gt;Der Workshop enthält Theorie- und Praxisteile, mit Einzel- und Gruppenübungen. Mitzubringen ist lediglich etwas zum Schreiben und Zeichnen (Notizblock und/oder lose Seiten) - ein Laptop wird nicht benötigt.&lt;/p&gt;
@@ -690,32 +659,6 @@ Die Weiterentwicklung des Podlove Web Players und die Idee der Podlove Matrix st
 <link href='https://blog.palava.tv'>Blog</link>
 </links>
 </event>
-<event guid='Lxcqxvik445Gr-GsvHBFyQ' id='5737'>
-<date>2014-04-19T18:00:00+02:00</date>
-<start>18:00</start>
-<duration>00:45</duration>
-<room>Workshopraum</room>
-<slug>EH2014_-_5737_-_de_-_workshopraum_-_201404191800_-_hackerethik_2_0_-_y</slug>
-<recording>
-<license>CC-BY-SA</license>
-<optout>false</optout>
-</recording>
-<title>Hackerethik 2.0</title>
-<subtitle></subtitle>
-<track>Workshop</track>
-<type>workshop</type>
-<language>de</language>
-<abstract>In diesem Workshop sollen die Teilnehmenden über die Hackerethik und ihre mögliche Neufassung diskutieren.</abstract>
-<description>Seit längerem arbeitet die Wau Holland Stiftung an einer Neufassung der Hackerethik. Der aktuelle Vorschlag wurde von der WHS in Zusammenarbeit mit verschiedenen Intressierten aus der Hacker-Community entwickelt und findet sich unter https://www.wauland.de/de/projekte/HackerEthik2.0.html
-Auf dem Workshop soll die Neufassung vorgestellt und diskutiert werden: Fehlen wichtige Punkte? Sind Punkte überflüssig oder gar unangemessen?
-Ziel ist es, ggf. eine Anpassung der Neufassung zu erstellen und für die weitere Diskussion aufzubereiten.</description>
-<persons>
-<person id='2965'>&gt;Y&lt;</person>
-</persons>
-<links>
-<link href='http://www.wauland.de/de/projekte/HackerEthik2.0.html'>Aktueller Arbeitsstand HE2.0</link>
-</links>
-</event>
 <event guid='fH1i8ZTMc9fi3uMV7DBjhw' id='5814'>
 <date>2014-04-19T18:45:00+02:00</date>
 <start>18:45</start>
@@ -738,37 +681,30 @@ Ziel ist es, ggf. eine Anpassung der Neufassung zu erstellen und für die weiter
 <links>
 </links>
 </event>
-<event guid='K98afM_8hVVxvDITqqzczQ' id='5756'>
+<event guid='Lxcqxvik445Gr-GsvHBFyQ' id='5737'>
 <date>2014-04-19T20:45:00+02:00</date>
 <start>20:45</start>
 <duration>00:45</duration>
 <room>Workshopraum</room>
-<slug>EH2014_-_5756_-_de_-_workshopraum_-_201404192045_-_survival_fur_softwareprojekte_-_h0uz3</slug>
+<slug>EH2014_-_5737_-_de_-_workshopraum_-_201404192045_-_hackerethik_2_0_-_y</slug>
 <recording>
-<license>CC-BY-NC</license>
+<license>CC-BY-SA</license>
 <optout>false</optout>
 </recording>
-<title>Survival für Softwareprojekte</title>
-<subtitle>Leichte Unterhaltung für Developers, Developers, Developers</subtitle>
-<track>Talk</track>
-<type>lecture</type>
+<title>Hackerethik 2.0</title>
+<subtitle></subtitle>
+<track>Workshop</track>
+<type>workshop</type>
 <language>de</language>
-<abstract>WTF/Minute ist eine reale Metrik. Überhaupt, Metriken sind etwas Gutes. Aber nicht alle Metriken sind gut. Und andere Erkenntnisse.</abstract>
-<description>Zur Vermeidung von Buzzwords wollte ich auf eine ausführliche Beschreibung verzichten, fürchte aber, dass sonst der Talk abgelehnt wird.
-
-In der Entwicklung von Multi-Tier-Applikationen im Enterprise-Umfeld ist es unmöglich, seinen Alltag zu bestreiten, ohne Collateral Damage anzurichten. Dabei ist es tatsächlich unerheblich, ob das Development für New Media Advertising oder Automotive Banking erfolgt, denn gemeinsam ist immer, dass die Code Quality unter den Beschränkungen für Time and Material leidet.
-
-Diese Erkenntnis kann auch in den bereichen One-Time-Usage-Application-Development und Enterprise Organisation bestätigt werden.
-
-Oft bleibt Object Oriented Analysis and Design auf der Strecke, das Version Control System wird unprofessionel benutzt (oder fehlt gänzlich) und das Augenmerk wird zugunsten von kurzfristigen Erfolgen vom Continual Service Improvement weggelenkt.
-
-Dies führt langfristig zu Frustration, Burn-Out, Bore-Out und trockener Haut, das Personal Commitment der Developer sinkt.
-
-Dieser Vortrag wird Beispiele aus dem Every Day Development anführen und gibt Anregungen, es besser zu machen.</description>
+<abstract>In diesem Workshop sollen die Teilnehmenden über die Hackerethik und ihre mögliche Neufassung diskutieren.</abstract>
+<description>Seit längerem arbeitet die Wau Holland Stiftung an einer Neufassung der Hackerethik. Der aktuelle Vorschlag wurde von der WHS in Zusammenarbeit mit verschiedenen Intressierten aus der Hacker-Community entwickelt und findet sich unter https://www.wauland.de/de/projekte/HackerEthik2.0.html
+Auf dem Workshop soll die Neufassung vorgestellt und diskutiert werden: Fehlen wichtige Punkte? Sind Punkte überflüssig oder gar unangemessen?
+Ziel ist es, ggf. eine Anpassung der Neufassung zu erstellen und für die weitere Diskussion aufzubereiten.</description>
 <persons>
-<person id='2639'>h0uz3</person>
+<person id='2965'>&gt;Y&lt;</person>
 </persons>
 <links>
+<link href='http://www.wauland.de/de/projekte/HackerEthik2.0.html'>Aktueller Arbeitsstand HE2.0</link>
 </links>
 </event>
 <event guid='WmJOPc_l2FQAQOf5FE2XjQ' id='5779'>
@@ -798,60 +734,6 @@ Dieser Vortrag wird Beispiele aus dem Every Day Development anführen und gibt A
 <room name='Hackcenter'>
 </room>
 <room name='shack-Seminarraum'>
-<event guid='O5dZbewtyxtapS4NfNPysw' id='5806'>
-<date>2014-04-19T11:00:00+02:00</date>
-<start>11:00</start>
-<duration>00:45</duration>
-<room>shack-Seminarraum</room>
-<slug>EH2014_-_5806_-_de_-_shack-seminarraum_-_201404191100_-_erfa_-_vereinssoftware_-_dan</slug>
-<recording>
-<license>darf jeder sehen. Creative Commons oder so.</license>
-<optout>false</optout>
-</recording>
-<title>Erfa - Vereinssoftware</title>
-<subtitle>Austausch ueber Vereinsarbeit</subtitle>
-<track>Workshop</track>
-<type>workshop</type>
-<language>de</language>
-<abstract>Wir benutzen im Erfa verschiedene Software um Mitglieder und Konten zu fuehren. Sind aber nicht sonderlich gluecklich damit.
-Ein Treffen zum Erfahrungsaustausch und evtl. gemeinsam was voranzubringen.</abstract>
-<description>Ein Treffen der Erfa Schatzmeister und/oder Schriftfuehrer.
-Wir benutzen im Erfa verschiedene Software um Mitglieder und Konten zu fuehren. Sind aber nicht sonderlich gluecklich damit.
-Ein Treffen zum Erfahrungsaustausch und evtl. gemeinsam was voranzubringen.
-Vielleicht gelingt es ein gemeinsames Projekt zu stemmen um eigene Software zu schreiben die die Verwaltung vereinfacht und Datenschutzkonform ist. Wahlweise auch kommerzielle Software zu kaufen.</description>
-<persons>
-<person id='4536'>DaN</person>
-</persons>
-<links>
-</links>
-</event>
-<event guid='FQEHQ6j05XN39J5N-Dd56w' id='5805'>
-<date>2014-04-19T11:45:00+02:00</date>
-<start>11:45</start>
-<duration>00:15</duration>
-<room>shack-Seminarraum</room>
-<slug>EH2014_-_5805_-_de_-_shack-seminarraum_-_201404191145_-_sepa_-_disaster_recovery_-_dan</slug>
-<recording>
-<license></license>
-<optout>true</optout>
-</recording>
-<title>SEPA - Disaster Recovery</title>
-<subtitle>Wie man eine Bank (fast) kaputt macht</subtitle>
-<track>Talk</track>
-<type>lightning_talk</type>
-<language>de</language>
-<abstract>Die Einfuehrung von SEPA war schlimm, bzw. ist immer noch schlimm.
-Ein kurzer Abriss darueber was passiert wenn eine Bank die Spezifikation nicht genau liest, anschliessend die Software falsch anpasst und dann der CCC kommt und ueberweisen will.</abstract>
-<description>Die Komplikationen der SEPA Umstellung mit dem Vereinskonto.
-Bei der Umstellung des Vereinskonto auf SEPA, im speziellen, das Lastschriftverfahren, sind einige Fehler aufgetaucht die bei der Umsetzung der Software in der Bank wohl so nicht bedacht waren.
-Dies fuehrte zu mehrere Komplikationen und letztendlich sogar zu Verdaechtigungen boeswilliger Absicht die Bank zu sabotieren.
-Die Geschichte wie aus einer vermeintlich einfachen Umstellung ein monatelanger Streit bis hin zu Bundesbank wurde mit teilweise amuesanten aber auch ernsten Stellen.</description>
-<persons>
-<person id='4536'>DaN</person>
-</persons>
-<links>
-</links>
-</event>
 <event guid='cA4WgW51r4mor9eBBTkMOQ' id='5741'>
 <date>2014-04-19T13:00:00+02:00</date>
 <start>13:00</start>
@@ -1845,6 +1727,67 @@ Ich möchte in diesem experimentellen Workshop zusammen mit den Teilnehmern die 
 <description></description>
 <persons>
 <person id='4494'>Andreas Madsack</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='O5dZbewtyxtapS4NfNPysw' id='5806'>
+<date>2014-04-20T12:00:00+02:00</date>
+<start>12:00</start>
+<duration>01:00</duration>
+<room>shack-Seminarraum</room>
+<slug>EH2014_-_5806_-_de_-_shack-seminarraum_-_201404201200_-_erfa_-_vereinssoftware_-_laird_dave_-_dan</slug>
+<recording>
+<license>darf jeder sehen. Creative Commons oder so.</license>
+<optout>false</optout>
+</recording>
+<title>Erfa - Vereinssoftware</title>
+<subtitle>Austausch ueber Vereinsarbeit</subtitle>
+<track>Workshop</track>
+<type>workshop</type>
+<language>de</language>
+<abstract>Wir benutzen im Erfa verschiedene Software um Mitglieder und Konten zu fuehren. Sind aber nicht sonderlich gluecklich damit.
+Ein Treffen zum Erfahrungsaustausch und evtl. gemeinsam was voranzubringen.</abstract>
+<description>Ein Treffen der Erfa Schatzmeister und/oder Schriftfuehrer.
+Wir benutzen im Erfa verschiedene Software um Mitglieder und Konten zu fuehren. Sind aber nicht sonderlich gluecklich damit.
+Ein Treffen zum Erfahrungsaustausch und evtl. gemeinsam was voranzubringen.
+Vielleicht gelingt es ein gemeinsames Projekt zu stemmen um eigene Software zu schreiben die die Verwaltung vereinfacht und Datenschutzkonform ist. Wahlweise auch kommerzielle Software zu kaufen.</description>
+<persons>
+<person id='4464'>Laird_Dave</person>
+<person id='4536'>DaN</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='K98afM_8hVVxvDITqqzczQ' id='5756'>
+<date>2014-04-20T13:45:00+02:00</date>
+<start>13:45</start>
+<duration>00:45</duration>
+<room>shack-Seminarraum</room>
+<slug>EH2014_-_5756_-_de_-_shack-seminarraum_-_201404201345_-_survival_fur_softwareprojekte_-_h0uz3</slug>
+<recording>
+<license>CC-BY-NC</license>
+<optout>false</optout>
+</recording>
+<title>Survival für Softwareprojekte</title>
+<subtitle>Leichte Unterhaltung für Developers, Developers, Developers</subtitle>
+<track>Talk</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>WTF/Minute ist eine reale Metrik. Überhaupt, Metriken sind etwas Gutes. Aber nicht alle Metriken sind gut. Und andere Erkenntnisse.</abstract>
+<description>Zur Vermeidung von Buzzwords wollte ich auf eine ausführliche Beschreibung verzichten, fürchte aber, dass sonst der Talk abgelehnt wird.
+
+In der Entwicklung von Multi-Tier-Applikationen im Enterprise-Umfeld ist es unmöglich, seinen Alltag zu bestreiten, ohne Collateral Damage anzurichten. Dabei ist es tatsächlich unerheblich, ob das Development für New Media Advertising oder Automotive Banking erfolgt, denn gemeinsam ist immer, dass die Code Quality unter den Beschränkungen für Time and Material leidet.
+
+Diese Erkenntnis kann auch in den bereichen One-Time-Usage-Application-Development und Enterprise Organisation bestätigt werden.
+
+Oft bleibt Object Oriented Analysis and Design auf der Strecke, das Version Control System wird unprofessionel benutzt (oder fehlt gänzlich) und das Augenmerk wird zugunsten von kurzfristigen Erfolgen vom Continual Service Improvement weggelenkt.
+
+Dies führt langfristig zu Frustration, Burn-Out, Bore-Out und trockener Haut, das Personal Commitment der Developer sinkt.
+
+Dieser Vortrag wird Beispiele aus dem Every Day Development anführen und gibt Anregungen, es besser zu machen.</description>
+<persons>
+<person id='2639'>h0uz3</person>
 </persons>
 <links>
 </links>

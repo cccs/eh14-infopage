@@ -15,7 +15,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T114500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T111500
-DTSTAMP;VALUE=DATE-TIME:20140410T202841Z
+DTSTAMP;VALUE=DATE-TIME:20140418T213259Z
 UID:3QAXrIW9VSGsxgT6ivgZdA@frab.cccv.de
 DESCRIPTION:Tabellen\, gleichermaßen gehasst wie geliebt. Vor allem wenn 
  wir über responsive Design sprechen stoßen Tabellen schnell an ihre Gren
@@ -24,6 +24,6 @@ DESCRIPTION:Tabellen\, gleichermaßen gehasst wie geliebt. Vor allem wenn
 URL:/pages/fahrplan/events/5798.html
 SUMMARY:Fun with responsive tables
 ORGANIZER:EH2014
-LOCATION:Workshopraum
+LOCATION:Degerloch
 END:VEVENT
 END:VCALENDAR

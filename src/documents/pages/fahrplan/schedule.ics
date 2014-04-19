@@ -32,7 +32,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T111500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T110000
-DTSTAMP;VALUE=DATE-TIME:20140410T202930Z
+DTSTAMP;VALUE=DATE-TIME:20140418T213203Z
 UID:GnA8_-5g-pXihZxu381Vvw@frab.cccv.de
 DESCRIPTION:Software- und hardwaregestütztes proof-of-concept. Umbau best
  ehender Medizintechnikprodukte zur Steuerung mittels eigens entwickeltem
@@ -40,7 +40,7 @@ DESCRIPTION:Software- und hardwaregestütztes proof-of-concept. Umbau best
 URL:/pages/fahrplan/events/5751.html
 SUMMARY:(semi)Automatisierung der kardiopulmonalen Reanimation (ALS)
 ORGANIZER:EH2014
-LOCATION:Workshopraum
+LOCATION:Degerloch
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T133000
@@ -342,22 +342,9 @@ ORGANIZER:EH2014
 LOCATION:Degerloch
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T114500
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T110000
-DTSTAMP;VALUE=DATE-TIME:20140410T202837Z
-UID:zHUMdREGj80m7zLS_xkzAg@frab.cccv.de
-DESCRIPTION:Sie wurden laut\, die Rufe nach einer neuen "Hacker-Elite". S
- ie wird spürbar\, die Ablehnung der "DAUs". Der Konflikt ist da: Hackere
- lite gegen allgemein Technikinteressierte.
-URL:/pages/fahrplan/events/5757.html
-SUMMARY:Elite trotz Hackerspace
-ORGANIZER:EH2014
-LOCATION:Degerloch
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T114500
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T110000
-DTSTAMP;VALUE=DATE-TIME:20140411T173559Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T130000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T120000
+DTSTAMP;VALUE=DATE-TIME:20140419T083808Z
 UID:O5dZbewtyxtapS4NfNPysw@frab.cccv.de
 DESCRIPTION:Wir benutzen im Erfa verschiedene Software um Mitglieder und 
  Konten zu fuehren. Sind aber nicht sonderlich gluecklich damit.\nEin Tre
@@ -394,7 +381,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T114500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T111500
-DTSTAMP;VALUE=DATE-TIME:20140410T202841Z
+DTSTAMP;VALUE=DATE-TIME:20140418T213259Z
 UID:3QAXrIW9VSGsxgT6ivgZdA@frab.cccv.de
 DESCRIPTION:Tabellen\, gleichermaßen gehasst wie geliebt. Vor allem wenn 
  wir über responsive Design sprechen stoßen Tabellen schnell an ihre Gren
@@ -403,7 +390,7 @@ DESCRIPTION:Tabellen\, gleichermaßen gehasst wie geliebt. Vor allem wenn
 URL:/pages/fahrplan/events/5798.html
 SUMMARY:Fun with responsive tables
 ORGANIZER:EH2014
-LOCATION:Workshopraum
+LOCATION:Degerloch
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T150000
@@ -459,9 +446,9 @@ ORGANIZER:EH2014
 LOCATION:Degerloch
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T184500
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T180000
-DTSTAMP;VALUE=DATE-TIME:20140417T055104Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T213000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T204500
+DTSTAMP;VALUE=DATE-TIME:20140418T211032Z
 UID:Lxcqxvik445Gr-GsvHBFyQ@frab.cccv.de
 DESCRIPTION:In diesem Workshop sollen die Teilnehmenden über die Hackeret
  hik und ihre mögliche Neufassung diskutieren.
@@ -694,7 +681,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T151500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T130000
-DTSTAMP;VALUE=DATE-TIME:20140412T182824Z
+DTSTAMP;VALUE=DATE-TIME:20140418T172006Z
 UID:AGyCAyesmbxDsIf1BrE-qA@frab.cccv.de
 DESCRIPTION:Du bist also ein Geek und willst eine Präsentation über ein T
  hema geben\, das Dir sehr am Herzen liegt. Du bist folglich sehr enthusi
@@ -816,20 +803,6 @@ ORGANIZER:EH2014
 LOCATION:Workshopraum
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T120000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T114500
-DTSTAMP;VALUE=DATE-TIME:20140414T174816Z
-UID:FQEHQ6j05XN39J5N-Dd56w@frab.cccv.de
-DESCRIPTION:Die Einfuehrung von SEPA war schlimm\, bzw. ist immer noch sc
- hlimm.\nEin kurzer Abriss darueber was passiert wenn eine Bank die Spezi
- fikation nicht genau liest\, anschliessend die Software falsch anpasst u
- nd dann der CCC kommt und ueberweisen will.
-URL:/pages/fahrplan/events/5805.html
-SUMMARY:SEPA - Disaster Recovery
-ORGANIZER:EH2014
-LOCATION:shack-Seminarraum
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140418T220000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140418T211500
 DTSTAMP;VALUE=DATE-TIME:20140410T211611Z
@@ -855,27 +828,16 @@ ORGANIZER:EH2014
 LOCATION:shack-Seminarraum
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T213000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T204500
-DTSTAMP;VALUE=DATE-TIME:20140409T193022Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T143000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T134500
+DTSTAMP;VALUE=DATE-TIME:20140418T172212Z
 UID:K98afM_8hVVxvDITqqzczQ@frab.cccv.de
 DESCRIPTION:WTF/Minute ist eine reale Metrik. Überhaupt\, Metriken sind e
  twas Gutes. Aber nicht alle Metriken sind gut. Und andere Erkenntnisse.
 URL:/pages/fahrplan/events/5756.html
 SUMMARY:Survival für Softwareprojekte
 ORGANIZER:EH2014
-LOCATION:Workshopraum
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T193000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T184500
-DTSTAMP;VALUE=DATE-TIME:20140411T083537Z
-UID:X-LlUJ210vf4NMvww86DhQ@frab.cccv.de
-DESCRIPTION:
-URL:/pages/fahrplan/events/5813.html
-SUMMARY:TBA
-ORGANIZER:EH2014
-LOCATION:Degerloch
+LOCATION:shack-Seminarraum
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T221500
@@ -954,6 +916,17 @@ DESCRIPTION:Everyone use wikipedia to get information\, but how do you ed
  lish or french (if you want to).
 URL:/pages/fahrplan/events/5799.html
 SUMMARY:Wikipedia\, for dummies
+ORGANIZER:EH2014
+LOCATION:Degerloch
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T193000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T184500
+DTSTAMP;VALUE=DATE-TIME:20140419T083330Z
+UID:X-LlUJ210vf4NMvww86DhQ@frab.cccv.de
+DESCRIPTION:
+URL:/pages/fahrplan/events/5813.html
+SUMMARY:wireless fundamentals and RF theory
 ORGANIZER:EH2014
 LOCATION:Degerloch
 END:VEVENT
