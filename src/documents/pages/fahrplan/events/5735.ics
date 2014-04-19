@@ -15,7 +15,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T151500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T130000
-DTSTAMP;VALUE=DATE-TIME:20140418T172006Z
+DTSTAMP;VALUE=DATE-TIME:20140419T125104Z
 UID:AGyCAyesmbxDsIf1BrE-qA@frab.cccv.de
 DESCRIPTION:Du bist also ein Geek und willst eine Präsentation über ein T
  hema geben\, das Dir sehr am Herzen liegt. Du bist folglich sehr enthusi

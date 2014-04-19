@@ -50,7 +50,7 @@
 <method>PUBLISH</method>
 <uid>5720@EH2014@pentabarf.org</uid>
 <pentabarf:event-id>5720</pentabarf:event-id>
-<pentabarf:event-slug>EH2014_-_5720_-_de_-_hackcenter_-_201404201200_-_geocaching_-_martl</pentabarf:event-slug>
+<pentabarf:event-slug>EH2014_-_5720_-_de_-_parkplatz_-_201404201200_-_geocaching_-_martl</pentabarf:event-slug>
 <pentabarf:title>Geocaching</pentabarf:title>
 <pentabarf:subtitle>Schatzsuche via GPS</pentabarf:subtitle>
 <pentabarf:language>German</pentabarf:language>
@@ -64,7 +64,7 @@
 <status>CONFIRMED</status>
 <category>Lecture</category>
 <url>/pages/fahrplan/events/5720.html</url>
-<location>Hackcenter</location>
+<location>Parkplatz</location>
 <attendee>martl</attendee>
 </vevent>
 <vevent>
@@ -581,13 +581,13 @@ Für Verbrauchsmaterial wird ein kleiner Unkostenbeitrag erhoben.</description>
 <method>PUBLISH</method>
 <uid>5756@EH2014@pentabarf.org</uid>
 <pentabarf:event-id>5756</pentabarf:event-id>
-<pentabarf:event-slug>EH2014_-_5756_-_de_-_shack-seminarraum_-_201404201345_-_survival_fur_softwareprojekte_-_h0uz3</pentabarf:event-slug>
+<pentabarf:event-slug>EH2014_-_5756_-_de_-_workshopraum_-_201404201500_-_survival_fur_softwareprojekte_-_h0uz3</pentabarf:event-slug>
 <pentabarf:title>Survival für Softwareprojekte</pentabarf:title>
 <pentabarf:subtitle>Leichte Unterhaltung für Developers, Developers, Developers</pentabarf:subtitle>
 <pentabarf:language>German</pentabarf:language>
 <pentabarf:language-code>de</pentabarf:language-code>
-<dtstart>20140420T134500</dtstart>
-<dtend>20140420T143000</dtend>
+<dtstart>20140420T150000</dtstart>
+<dtend>20140420T154500</dtend>
 <duration>004500</duration>
 <summary>Survival für Softwareprojekte- Leichte Unterhaltung für Developers, Developers, Developers</summary>
 <description>WTF/Minute ist eine reale Metrik. Überhaupt, Metriken sind etwas Gutes. Aber nicht alle Metriken sind gut. Und andere Erkenntnisse.</description>
@@ -595,7 +595,7 @@ Für Verbrauchsmaterial wird ein kleiner Unkostenbeitrag erhoben.</description>
 <status>CONFIRMED</status>
 <category>Lecture</category>
 <url>/pages/fahrplan/events/5756.html</url>
-<location>shack-Seminarraum</location>
+<location>Workshopraum</location>
 <attendee>h0uz3</attendee>
 </vevent>
 <vevent>
@@ -1242,7 +1242,7 @@ Speaker can understand german, but will answer (mainly) in english or french (if
 <method>PUBLISH</method>
 <uid>5806@EH2014@pentabarf.org</uid>
 <pentabarf:event-id>5806</pentabarf:event-id>
-<pentabarf:event-slug>EH2014_-_5806_-_de_-_shack-seminarraum_-_201404201200_-_erfa_-_vereinssoftware_-_laird_dave_-_dan</pentabarf:event-slug>
+<pentabarf:event-slug>EH2014_-_5806_-_de_-_shack-seminarraum_-_201404201200_-_erfa_-_vereinssoftware_-_laird_dave</pentabarf:event-slug>
 <pentabarf:title>Erfa - Vereinssoftware</pentabarf:title>
 <pentabarf:subtitle>Austausch ueber Vereinsarbeit</pentabarf:subtitle>
 <pentabarf:language>German</pentabarf:language>
@@ -1259,7 +1259,6 @@ Ein Treffen zum Erfahrungsaustausch und evtl. gemeinsam was voranzubringen.</des
 <url>/pages/fahrplan/events/5806.html</url>
 <location>shack-Seminarraum</location>
 <attendee>Laird_Dave</attendee>
-<attendee>DaN</attendee>
 </vevent>
 <vevent>
 <method>PUBLISH</method>

@@ -235,11 +235,20 @@ The second part tries to get on the abstract idea of reading and writing landsca
 <description>In meiner Präsentation möchte ich eine Mögliche Lösung für die Darstellung von tabelarischen Daten vorstellen. Angefangen bei  der Design und Usability Problemstellung vor allem für kleinere devices wie z.B. smartphones. Anschließend werde ich das für die Lösung benötigte markup zeigen sowie das CSS, das am Ende den ganzen Zauber bewirkt. 
 
 Am Ende der Präsentation können wir gerne über die Vor und Nachteile dieser Lösung, Verbesserungen oder andere Lösungansätze diskutieren.
-</description>
+
+------------------------
+Hallo ihr lieben,
+wie im Vortrag versprochen habe ich ein github repo mit dem code angelegt. Ich habe versucht es etwas offensichtlicher zu machen wohin welche elemente im jeweiligen breakpoint gehen.
+ https://github.com/Lelith/flex-table
+
+forkt es, sendet mir pull requests oder schreibt einfach einen kommentar :) fröhliches browser quetschen.
+
+ihr könnt mir sonst auch gerne eine e-mail schreiben: kathrin.holzmann(at)dawanda.com </description>
 <persons>
 <person id='4514'>Kathrin Holzmann</person>
 </persons>
 <links>
+<link href='https://github.com/Lelith/flex-table'>github repo</link>
 </links>
 </event>
 <event guid='j432N3wlKqrpSsInhgY5JQ' id='5825'>
@@ -393,13 +402,7 @@ Auf dem Podium: Carlo von lynX, Daniel Reusche, Tom Twiddlebit</description>
 Also eine Art: &amp;lt;buzzwords&amp;gt; First-Response Best-Practice Guide &amp;lt;/buzzwords&amp;gt;
 
 Gute Ironie- und Sarkasmusdetektoren werden unbedingt vorausgesetzt.</abstract>
-<description>&lt;strong&gt;Agenda&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;Inventur der Waffenkammer&lt;/li&gt;
-&lt;li&gt;Aktuelle Bedrohungslage&lt;/li&gt;
-&lt;li&gt;Erste-Hilfe ohne Opfer&lt;/li&gt;
-&lt;li&gt;Fragen / Diskussion&lt;/li&gt;
-&lt;/ul&gt;</description>
+<description></description>
 <persons>
 <person id='4505'>Robert Haist</person>
 </persons>
@@ -1408,6 +1411,39 @@ Wenn du Lust hast zu erfahren wie ein Untertitel erstellt wird und wie du dazu b
 <link href='http://nrrd.de/'>Ich blogge hier vielleicht</link>
 </links>
 </event>
+<event guid='K98afM_8hVVxvDITqqzczQ' id='5756'>
+<date>2014-04-20T15:00:00+02:00</date>
+<start>15:00</start>
+<duration>00:45</duration>
+<room>Workshopraum</room>
+<slug>EH2014_-_5756_-_de_-_workshopraum_-_201404201500_-_survival_fur_softwareprojekte_-_h0uz3</slug>
+<recording>
+<license>CC-BY-NC</license>
+<optout>false</optout>
+</recording>
+<title>Survival für Softwareprojekte</title>
+<subtitle>Leichte Unterhaltung für Developers, Developers, Developers</subtitle>
+<track>Talk</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>WTF/Minute ist eine reale Metrik. Überhaupt, Metriken sind etwas Gutes. Aber nicht alle Metriken sind gut. Und andere Erkenntnisse.</abstract>
+<description>Zur Vermeidung von Buzzwords wollte ich auf eine ausführliche Beschreibung verzichten, fürchte aber, dass sonst der Talk abgelehnt wird.
+
+In der Entwicklung von Multi-Tier-Applikationen im Enterprise-Umfeld ist es unmöglich, seinen Alltag zu bestreiten, ohne Collateral Damage anzurichten. Dabei ist es tatsächlich unerheblich, ob das Development für New Media Advertising oder Automotive Banking erfolgt, denn gemeinsam ist immer, dass die Code Quality unter den Beschränkungen für Time and Material leidet.
+
+Diese Erkenntnis kann auch in den bereichen One-Time-Usage-Application-Development und Enterprise Organisation bestätigt werden.
+
+Oft bleibt Object Oriented Analysis and Design auf der Strecke, das Version Control System wird unprofessionel benutzt (oder fehlt gänzlich) und das Augenmerk wird zugunsten von kurzfristigen Erfolgen vom Continual Service Improvement weggelenkt.
+
+Dies führt langfristig zu Frustration, Burn-Out, Bore-Out und trockener Haut, das Personal Commitment der Developer sinkt.
+
+Dieser Vortrag wird Beispiele aus dem Every Day Development anführen und gibt Anregungen, es besser zu machen.</description>
+<persons>
+<person id='2639'>h0uz3</person>
+</persons>
+<links>
+</links>
+</event>
 <event guid='kaOF9Bjj3Bg1zEajbkaTkQ' id='5755'>
 <date>2014-04-20T15:45:00+02:00</date>
 <start>15:45</start>
@@ -1595,41 +1631,6 @@ Bringt alles mit was leuchten kann! Wirklich alles. Eigene Kameras und Stative e
 </event>
 </room>
 <room name='Hackcenter'>
-<event guid='3u_SQuKFB067VX3mNMn8iw' id='5720'>
-<date>2014-04-20T12:00:00+02:00</date>
-<start>12:00</start>
-<duration>03:00</duration>
-<room>Hackcenter</room>
-<slug>EH2014_-_5720_-_de_-_hackcenter_-_201404201200_-_geocaching_-_martl</slug>
-<recording>
-<license></license>
-<optout>false</optout>
-</recording>
-<title>Geocaching</title>
-<subtitle>Schatzsuche via GPS</subtitle>
-<track>Workshop</track>
-<type>workshop</type>
-<language>de</language>
-<abstract>Ca. 3-stündiger Workshop im Freien, wo wir Geocaches in der Umgebung der Eventlocation suchen werden. </abstract>
-<description>Ca. 3-stündiger Workshop im Freien, wo wir Geocaches in der Umgebung der Eventlocation suchen werden. Sowohl absolute Neulinge als auch erfahrere Cacher können mitmachen. 
-
-Bitte mitbringen: 
-- Feste Schuhe
-- Was zu trinken
-- Stift
-- Tauschgegenstände (wenn vorhanden)
-- GPS &amp; Taschenlampe (wenn vorhanden)
-
-Treffpunkt ist vor dem Haupteingang der Eventlocation. 
-Eine vorherige Anmeldung ist nicht erforderlich. </description>
-<persons>
-<person id='3804'>martl</person>
-</persons>
-<links>
-<link href='http://geocaching.com'>Geocaching.com</link>
-<link href='http://opencaching.de'>Opencaching.de</link>
-</links>
-</event>
 <event guid='rcvpfBO76J9o_SbjN5iakg' id='5731'>
 <date>2014-04-20T18:45:00+02:00</date>
 <start>18:45</start>
@@ -1736,7 +1737,7 @@ Ich möchte in diesem experimentellen Workshop zusammen mit den Teilnehmern die 
 <start>12:00</start>
 <duration>01:00</duration>
 <room>shack-Seminarraum</room>
-<slug>EH2014_-_5806_-_de_-_shack-seminarraum_-_201404201200_-_erfa_-_vereinssoftware_-_laird_dave_-_dan</slug>
+<slug>EH2014_-_5806_-_de_-_shack-seminarraum_-_201404201200_-_erfa_-_vereinssoftware_-_laird_dave</slug>
 <recording>
 <license>darf jeder sehen. Creative Commons oder so.</license>
 <optout>false</optout>
@@ -1754,40 +1755,6 @@ Ein Treffen zum Erfahrungsaustausch und evtl. gemeinsam was voranzubringen.
 Vielleicht gelingt es ein gemeinsames Projekt zu stemmen um eigene Software zu schreiben die die Verwaltung vereinfacht und Datenschutzkonform ist. Wahlweise auch kommerzielle Software zu kaufen.</description>
 <persons>
 <person id='4464'>Laird_Dave</person>
-<person id='4536'>DaN</person>
-</persons>
-<links>
-</links>
-</event>
-<event guid='K98afM_8hVVxvDITqqzczQ' id='5756'>
-<date>2014-04-20T13:45:00+02:00</date>
-<start>13:45</start>
-<duration>00:45</duration>
-<room>shack-Seminarraum</room>
-<slug>EH2014_-_5756_-_de_-_shack-seminarraum_-_201404201345_-_survival_fur_softwareprojekte_-_h0uz3</slug>
-<recording>
-<license>CC-BY-NC</license>
-<optout>false</optout>
-</recording>
-<title>Survival für Softwareprojekte</title>
-<subtitle>Leichte Unterhaltung für Developers, Developers, Developers</subtitle>
-<track>Talk</track>
-<type>lecture</type>
-<language>de</language>
-<abstract>WTF/Minute ist eine reale Metrik. Überhaupt, Metriken sind etwas Gutes. Aber nicht alle Metriken sind gut. Und andere Erkenntnisse.</abstract>
-<description>Zur Vermeidung von Buzzwords wollte ich auf eine ausführliche Beschreibung verzichten, fürchte aber, dass sonst der Talk abgelehnt wird.
-
-In der Entwicklung von Multi-Tier-Applikationen im Enterprise-Umfeld ist es unmöglich, seinen Alltag zu bestreiten, ohne Collateral Damage anzurichten. Dabei ist es tatsächlich unerheblich, ob das Development für New Media Advertising oder Automotive Banking erfolgt, denn gemeinsam ist immer, dass die Code Quality unter den Beschränkungen für Time and Material leidet.
-
-Diese Erkenntnis kann auch in den bereichen One-Time-Usage-Application-Development und Enterprise Organisation bestätigt werden.
-
-Oft bleibt Object Oriented Analysis and Design auf der Strecke, das Version Control System wird unprofessionel benutzt (oder fehlt gänzlich) und das Augenmerk wird zugunsten von kurzfristigen Erfolgen vom Continual Service Improvement weggelenkt.
-
-Dies führt langfristig zu Frustration, Burn-Out, Bore-Out und trockener Haut, das Personal Commitment der Developer sinkt.
-
-Dieser Vortrag wird Beispiele aus dem Every Day Development anführen und gibt Anregungen, es besser zu machen.</description>
-<persons>
-<person id='2639'>h0uz3</person>
 </persons>
 <links>
 </links>
@@ -1991,6 +1958,41 @@ Für Verbrauchsmaterial wird ein kleiner Unkostenbeitrag erhoben.</abstract>
 </event>
 </room>
 <room name='Parkplatz'>
+<event guid='3u_SQuKFB067VX3mNMn8iw' id='5720'>
+<date>2014-04-20T12:00:00+02:00</date>
+<start>12:00</start>
+<duration>03:00</duration>
+<room>Parkplatz</room>
+<slug>EH2014_-_5720_-_de_-_parkplatz_-_201404201200_-_geocaching_-_martl</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Geocaching</title>
+<subtitle>Schatzsuche via GPS</subtitle>
+<track>Workshop</track>
+<type>workshop</type>
+<language>de</language>
+<abstract>Ca. 3-stündiger Workshop im Freien, wo wir Geocaches in der Umgebung der Eventlocation suchen werden. </abstract>
+<description>Ca. 3-stündiger Workshop im Freien, wo wir Geocaches in der Umgebung der Eventlocation suchen werden. Sowohl absolute Neulinge als auch erfahrere Cacher können mitmachen. 
+
+Bitte mitbringen: 
+- Feste Schuhe
+- Was zu trinken
+- Stift
+- Tauschgegenstände (wenn vorhanden)
+- GPS &amp; Taschenlampe (wenn vorhanden)
+
+Treffpunkt ist vor dem Haupteingang der Eventlocation. 
+Eine vorherige Anmeldung ist nicht erforderlich. </description>
+<persons>
+<person id='3804'>martl</person>
+</persons>
+<links>
+<link href='http://geocaching.com'>Geocaching.com</link>
+<link href='http://opencaching.de'>Opencaching.de</link>
+</links>
+</event>
 </room>
 </day>
 <day date='2014-04-21' end='2014-04-21T15:00:00+02:00' index='4' start='2014-04-21T09:00:00+02:00'>
