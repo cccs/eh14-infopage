@@ -1791,16 +1791,16 @@ www.prismcamp.de
 <start>15:30</start>
 <duration>00:45</duration>
 <room>shack-Seminarraum</room>
-<slug>EH2014_-_5744_-_de_-_shack-seminarraum_-_201404201530_-_wie_kaputt_ist_tls_-_hanno</slug>
+<slug>EH2014_-_5744_-_en_-_shack-seminarraum_-_201404201530_-_how_broken_is_tls_-_hanno</slug>
 <recording>
 <license>CC0</license>
 <optout>false</optout>
 </recording>
-<title>Wie kaputt ist TLS?</title>
-<subtitle>Das wichtigste Kryptoprotokoll unter der Lupe</subtitle>
+<title>How broken is TLS?</title>
+<subtitle>The most important crypto protocol</subtitle>
 <track>Talk</track>
 <type>lecture</type>
-<language>de</language>
+<language>en</language>
 <abstract>In TLS sind in letzter Zeit zahlreiche Probleme aufgetaucht, Die BEAST- und die Lucky Thirteen-Attacke, Probleme mit RC4 und Mißtrauen gegenüber Standards aus dem Hause NSA. Wo steht TLS heute und welche Verbesserungen stehen an?</abstract>
 <description>TLS (früher SSL) ist das wichtigste und meistgenutzte Verschlüsselungsprotokoll. HTTPS-Verbindungen nutzen wir alltäglich zum Kommunizieren, um Geld zu überweisen oder einzukaufen.
 

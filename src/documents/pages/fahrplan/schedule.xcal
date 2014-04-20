@@ -386,15 +386,15 @@
 <method>PUBLISH</method>
 <uid>5744@EH2014@pentabarf.org</uid>
 <pentabarf:event-id>5744</pentabarf:event-id>
-<pentabarf:event-slug>EH2014_-_5744_-_de_-_shack-seminarraum_-_201404201530_-_wie_kaputt_ist_tls_-_hanno</pentabarf:event-slug>
-<pentabarf:title>Wie kaputt ist TLS?</pentabarf:title>
-<pentabarf:subtitle>Das wichtigste Kryptoprotokoll unter der Lupe</pentabarf:subtitle>
-<pentabarf:language>German</pentabarf:language>
-<pentabarf:language-code>de</pentabarf:language-code>
+<pentabarf:event-slug>EH2014_-_5744_-_en_-_shack-seminarraum_-_201404201530_-_how_broken_is_tls_-_hanno</pentabarf:event-slug>
+<pentabarf:title>How broken is TLS?</pentabarf:title>
+<pentabarf:subtitle>The most important crypto protocol</pentabarf:subtitle>
+<pentabarf:language>English</pentabarf:language>
+<pentabarf:language-code>en</pentabarf:language-code>
 <dtstart>20140420T153000</dtstart>
 <dtend>20140420T161500</dtend>
 <duration>004500</duration>
-<summary>Wie kaputt ist TLS?- Das wichtigste Kryptoprotokoll unter der Lupe</summary>
+<summary>How broken is TLS?- The most important crypto protocol</summary>
 <description>In TLS sind in letzter Zeit zahlreiche Probleme aufgetaucht, Die BEAST- und die Lucky Thirteen-Attacke, Probleme mit RC4 und Mißtrauen gegenüber Standards aus dem Hause NSA. Wo steht TLS heute und welche Verbesserungen stehen an?</description>
 <class>PUBLIC</class>
 <status>CONFIRMED</status>
