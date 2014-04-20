@@ -15,7 +15,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T211500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T203000
-DTSTAMP;VALUE=DATE-TIME:20140409T195812Z
+DTSTAMP;VALUE=DATE-TIME:20140420T093951Z
 UID:iGfZkp0SYGQfeKbb-WgS7w@frab.cccv.de
 DESCRIPTION:The talks presents a journey through digital forensics\, name
  ly non-volatile and volatile analysis. It will show how one can analyze 

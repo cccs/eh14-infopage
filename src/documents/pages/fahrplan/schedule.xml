@@ -932,30 +932,6 @@ Wir zeigen euch die Standard-Ausstattung nach STAN, was wir in Stuttgart sonst n
 </day>
 <day date='2014-04-20' end='2014-04-21T00:30:00+02:00' index='3' start='2014-04-20T09:00:00+02:00'>
 <room name='Degerloch'>
-<event guid='sGBdBCEv_aj6_yrYCvKWuA' id='5797'>
-<date>2014-04-20T10:45:00+02:00</date>
-<start>10:45</start>
-<duration>01:00</duration>
-<room>Degerloch</room>
-<slug>EH2014_-_5797_-_de_-_degerloch_-_201404201045_-_wau_holland_stiftung_-_tom_twiddlebit</slug>
-<recording>
-<license></license>
-<optout>false</optout>
-</recording>
-<title>Wau Holland Stiftung</title>
-<subtitle>Das Jahr 2013</subtitle>
-<track>Sonstiges</track>
-<type>podium</type>
-<language>de</language>
-<abstract>Rechenschaftsbericht und Zukunftsvisionen der Wau Holland Stiftung</abstract>
-<description>Es ist inzwischen schon fast eine Tradition: Die Vorstandsmitglieder der Wau Holland Stiftung erklimmen das Podium und berichten von den Stiftungsaktivitäten. Und wir nehmen natürlich gerne Anregungen für zukünftige Aktivitäten auf...</description>
-<persons>
-<person id='4459'>Tom Twiddlebit</person>
-</persons>
-<links>
-<link href='www.wauland.de'>Wau Holland Stiftung</link>
-</links>
-</event>
 <event guid='j7CaXrKoiL1iM3_CuDvkFg' id='5764'>
 <date>2014-04-20T12:00:00+02:00</date>
 <start>12:00</start>
@@ -1111,36 +1087,41 @@ js@lastlog.de</description>
 <links>
 </links>
 </event>
-<event guid='GTBrWgOJPQ5ymKm_ASGn9w' id='5811'>
+<event guid='Flzrumwrj-VRdCRoKzwufQ' id='5772'>
 <date>2014-04-20T16:45:00+02:00</date>
 <start>16:45</start>
 <duration>01:30</duration>
 <room>Degerloch</room>
-<slug>EH2014_-_5811_-_de_-_degerloch_-_201404201645_-_lightning_talks</slug>
+<slug>EH2014_-_5772_-_de_-_degerloch_-_201404201645_-_dmx_workshop_-_dritter</slug>
 <recording>
-<license></license>
+<license>is allowed</license>
 <optout>false</optout>
 </recording>
-<title>Lightning talks</title>
-<subtitle></subtitle>
-<track>Talk</track>
-<type>lightning_talk</type>
+<title>DMX Workshop</title>
+<subtitle>Was ist DMX, wozu braucht man das, was macht es, ist es nicht der der Musik macht? Naja...fast. Damit steuert man Licht in der Veranstaltungstechnik. wenn euch der Name was sagt, aber nicht wisst was weiter passiert, kommt in den workshop.</subtitle>
+<track>Workshop</track>
+<type>workshop</type>
 <language>de</language>
-<abstract>Lighning talks</abstract>
-<description>8-fach Relaisschaltung 230V mit Tinkerforge und node.js implementieren: https://frab.cccv.de/en/EH2014/events/5745
+<abstract>Um in der Lichttechnik wie sie in Discos hängt  die Strahler, Lichter, Scheinwerfer anzusteuern gibt es das DMX Protokoll.
+Für was gibt es das? Was kann man damit machen?
+Erklärung dazu im Workshop mit praktischen Beispielen und Hardware zum anfassen.</abstract>
+<description>Im Workshop wird erklärt was es mit dem DMX aufsich hat und anhand praktischer beispiele gezeigt.
+Equipment wird ohnehin vorhanden sein an dem einiges gezeigt werden kann.
+Desweiteren wird Hardware vorhanden sein um mal zu sehen was an Technik in dem einen oder anderen Gerät steckt.
+Wie kommt aus einem Scanner z.B. der fast 20 Jahre alte Roboscan 1220 pro licht raus, was passiert im Gerät, was steckt an Technik drin.
+Was sind Gobos, Was sind Farbräder, was sind Shutter ect.
+Die Technik allgemein.
 
-Papierlos: https://frab.cccv.de/en/EH2014/events/5750
+Gezeigt wird wie Licht über ein Lichtpult (creation2 GLP) gesteuert wird. 
 
-bepasty: https://frab.cccv.de/en/EH2014/events/5775
-
-Space API Hosting: https://frab.cccv.de/en/EH2014/events/5777
-
-machinetalk.cc: https://frab.cccv.de/en/EH2014/events/5793
-
-SEPA - Disaster Recovery: https://frab.cccv.de/en/EH2014/events/5805</description>
+Leider wird es voraussichtlich nur ein Lichtpult geben. Dadurch wird die anzahl der Leute begrenzt die damit selbst mal was bedienen bzw programmieren wollen.
+</description>
 <persons>
+<person id='4492'>dritter</person>
 </persons>
 <links>
+<link href='http://www.creationforum.de/download/creation2_release2.jpg'>Lichtpult</link>
+<link href='http://www.gearsourcecdn.com/shared/image/listing/normal/fe04f6e0-aa27-4bca-add4-21fc2e154af0.jpg'>Roboscan1220</link>
 </links>
 </event>
 <event guid='BMHG--qlBegRyPZpO85-ng' id='5759'>
@@ -1333,11 +1314,11 @@ und schlußendlich auch das portable QT-Konzept zu erwähnen, welches sich z.B: 
 </links>
 </event>
 <event guid='IwCebCSIG3MUYG0ILVF_Mw' id='5742'>
-<date>2014-04-20T12:00:00+02:00</date>
-<start>12:00</start>
+<date>2014-04-20T12:30:00+02:00</date>
+<start>12:30</start>
 <duration>00:45</duration>
 <room>Workshopraum</room>
-<slug>EH2014_-_5742_-_de_-_workshopraum_-_201404201200_-_computer-aided_knitting_with_ayab_-_chris007</slug>
+<slug>EH2014_-_5742_-_de_-_workshopraum_-_201404201230_-_computer-aided_knitting_with_ayab_-_chris007</slug>
 <recording>
 <license></license>
 <optout>false</optout>
@@ -1467,41 +1448,26 @@ Dieser Vortrag wird Beispiele aus dem Every Day Development anführen und gibt A
 <links>
 </links>
 </event>
-<event guid='Flzrumwrj-VRdCRoKzwufQ' id='5772'>
+<event guid='rjEcUCfQC0HhbRJib1bfjQ' id='5830'>
 <date>2014-04-20T16:45:00+02:00</date>
 <start>16:45</start>
-<duration>01:30</duration>
+<duration>01:00</duration>
 <room>Workshopraum</room>
-<slug>EH2014_-_5772_-_de_-_workshopraum_-_201404201645_-_dmx_workshop_-_dritter</slug>
+<slug>EH2014_-_5830_-__-_workshopraum_-_201404201645_-_dj_workshop</slug>
 <recording>
-<license>is allowed</license>
+<license></license>
 <optout>false</optout>
 </recording>
-<title>DMX Workshop</title>
-<subtitle>Was ist DMX, wozu braucht man das, was macht es, ist es nicht der der Musik macht? Naja...fast. Damit steuert man Licht in der Veranstaltungstechnik. wenn euch der Name was sagt, aber nicht wisst was weiter passiert, kommt in den workshop.</subtitle>
-<track>Workshop</track>
-<type>workshop</type>
-<language>de</language>
-<abstract>Um in der Lichttechnik wie sie in Discos hängt  die Strahler, Lichter, Scheinwerfer anzusteuern gibt es das DMX Protokoll.
-Für was gibt es das? Was kann man damit machen?
-Erklärung dazu im Workshop mit praktischen Beispielen und Hardware zum anfassen.</abstract>
-<description>Im Workshop wird erklärt was es mit dem DMX aufsich hat und anhand praktischer beispiele gezeigt.
-Equipment wird ohnehin vorhanden sein an dem einiges gezeigt werden kann.
-Desweiteren wird Hardware vorhanden sein um mal zu sehen was an Technik in dem einen oder anderen Gerät steckt.
-Wie kommt aus einem Scanner z.B. der fast 20 Jahre alte Roboscan 1220 pro licht raus, was passiert im Gerät, was steckt an Technik drin.
-Was sind Gobos, Was sind Farbräder, was sind Shutter ect.
-Die Technik allgemein.
-
-Gezeigt wird wie Licht über ein Lichtpult (creation2 GLP) gesteuert wird. 
-
-Leider wird es voraussichtlich nur ein Lichtpult geben. Dadurch wird die anzahl der Leute begrenzt die damit selbst mal was bedienen bzw programmieren wollen.
-</description>
+<title>DJ Workshop</title>
+<subtitle></subtitle>
+<track></track>
+<type></type>
+<language></language>
+<abstract>Für Leute, die einfach mal ihre Lieblingsmusik auflegen wollen, kleine Tips, damit die Übergänge auch ohne große Kenntnisse okay sind. Und für andere, die gerne beatmatching lernen wollen, also schicke Club-Übergänge zu machen.  :-D</abstract>
+<description>Only CC music</description>
 <persons>
-<person id='4492'>dritter</person>
 </persons>
 <links>
-<link href='http://www.creationforum.de/download/creation2_release2.jpg'>Lichtpult</link>
-<link href='http://www.gearsourcecdn.com/shared/image/listing/normal/fe04f6e0-aa27-4bca-add4-21fc2e154af0.jpg'>Roboscan1220</link>
 </links>
 </event>
 <event guid='S7UkbUP51mZC_pZ6JhuPIA' id='5723'>
@@ -1566,7 +1532,7 @@ Einen kleinen Ausblick auf die Inhalte gibt es bereits im RaumZeitLabor Blog (si
 <optout>false</optout>
 </recording>
 <title>Adventures in Digital Forensics</title>
-<subtitle></subtitle>
+<subtitle>A journey through digital forensics</subtitle>
 <track>Talk</track>
 <type>lecture</type>
 <language>en</language>
@@ -1576,6 +1542,30 @@ Einen kleinen Ausblick auf die Inhalte gibt es bereits im RaumZeitLabor Blog (si
 <person id='173'>xhr</person>
 </persons>
 <links>
+</links>
+</event>
+<event guid='sGBdBCEv_aj6_yrYCvKWuA' id='5797'>
+<date>2014-04-20T21:15:00+02:00</date>
+<start>21:15</start>
+<duration>01:00</duration>
+<room>Workshopraum</room>
+<slug>EH2014_-_5797_-_de_-_workshopraum_-_201404202115_-_wau_holland_stiftung_-_tom_twiddlebit</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Wau Holland Stiftung</title>
+<subtitle>Das Jahr 2013</subtitle>
+<track>Sonstiges</track>
+<type>podium</type>
+<language>de</language>
+<abstract>Rechenschaftsbericht und Zukunftsvisionen der Wau Holland Stiftung</abstract>
+<description>Es ist inzwischen schon fast eine Tradition: Die Vorstandsmitglieder der Wau Holland Stiftung erklimmen das Podium und berichten von den Stiftungsaktivitäten. Und wir nehmen natürlich gerne Anregungen für zukünftige Aktivitäten auf...</description>
+<persons>
+<person id='4459'>Tom Twiddlebit</person>
+</persons>
+<links>
+<link href='www.wauland.de'>Wau Holland Stiftung</link>
 </links>
 </event>
 <event guid='zAMH8NqahK6Us4P7C1q0MA' id='5816'>
@@ -1608,6 +1598,36 @@ Bringt alles mit was leuchten kann! Wirklich alles. Eigene Kameras und Stative e
 </event>
 </room>
 <room name='Hackcenter'>
+<event guid='GTBrWgOJPQ5ymKm_ASGn9w' id='5811'>
+<date>2014-04-20T16:45:00+02:00</date>
+<start>16:45</start>
+<duration>01:00</duration>
+<room>Hackcenter</room>
+<slug>EH2014_-_5811_-_de_-_hackcenter_-_201404201645_-_lightning_talks</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Lightning talks</title>
+<subtitle></subtitle>
+<track>Talk</track>
+<type>lightning_talk</type>
+<language>de</language>
+<abstract>Lighning talks</abstract>
+<description>8-fach Relaisschaltung 230V mit Tinkerforge und node.js implementieren: https://frab.cccv.de/en/EH2014/events/5745
+
+Papierlos: https://frab.cccv.de/en/EH2014/events/5750
+
+bepasty: https://frab.cccv.de/en/EH2014/events/5775
+
+Space API Hosting: https://frab.cccv.de/en/EH2014/events/5777
+
+machinetalk.cc: https://frab.cccv.de/en/EH2014/events/5793</description>
+<persons>
+</persons>
+<links>
+</links>
+</event>
 <event guid='rcvpfBO76J9o_SbjN5iakg' id='5731'>
 <date>2014-04-20T18:45:00+02:00</date>
 <start>18:45</start>

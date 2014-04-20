@@ -31,13 +31,13 @@
 <pentabarf:event-id>5719</pentabarf:event-id>
 <pentabarf:event-slug>EH2014_-_5719_-_en_-_workshopraum_-_201404202030_-_adventures_in_digital_forensics_-_xhr</pentabarf:event-slug>
 <pentabarf:title>Adventures in Digital Forensics</pentabarf:title>
-<pentabarf:subtitle></pentabarf:subtitle>
+<pentabarf:subtitle>A journey through digital forensics</pentabarf:subtitle>
 <pentabarf:language>English</pentabarf:language>
 <pentabarf:language-code>en</pentabarf:language-code>
 <dtstart>20140420T203000</dtstart>
 <dtend>20140420T211500</dtend>
 <duration>004500</duration>
-<summary>Adventures in Digital Forensics- </summary>
+<summary>Adventures in Digital Forensics- A journey through digital forensics</summary>
 <description>The talks presents a journey through digital forensics, namely non-volatile and volatile analysis. It will show how one can analyze Linux servers after a successful compromise as well as Windows machines infected with malware. Further, I'll present some goodies found during real-life analyses.</description>
 <class>PUBLIC</class>
 <status>CONFIRMED</status>
@@ -344,13 +344,13 @@
 <method>PUBLISH</method>
 <uid>5742@EH2014@pentabarf.org</uid>
 <pentabarf:event-id>5742</pentabarf:event-id>
-<pentabarf:event-slug>EH2014_-_5742_-_de_-_workshopraum_-_201404201200_-_computer-aided_knitting_with_ayab_-_chris007</pentabarf:event-slug>
+<pentabarf:event-slug>EH2014_-_5742_-_de_-_workshopraum_-_201404201230_-_computer-aided_knitting_with_ayab_-_chris007</pentabarf:event-slug>
 <pentabarf:title>Computer-aided knitting with AYAB</pentabarf:title>
 <pentabarf:subtitle>How to hack Brother Knitting Machines to be controlled by your computer</pentabarf:subtitle>
 <pentabarf:language>German</pentabarf:language>
 <pentabarf:language-code>de</pentabarf:language-code>
-<dtstart>20140420T120000</dtstart>
-<dtend>20140420T124500</dtend>
+<dtstart>20140420T123000</dtstart>
+<dtend>20140420T131500</dtend>
 <duration>004500</duration>
 <summary>Computer-aided knitting with AYAB- How to hack Brother Knitting Machines to be controlled by your computer</summary>
 <description>The goal of the AYAB project is to provide an alternative way to control the famous Brother KH-9xx knitting machines.</description>
@@ -796,7 +796,7 @@ hc ist seit 2008 admin im hackint, und hat dort unter anderem an der Umstellung 
 <method>PUBLISH</method>
 <uid>5772@EH2014@pentabarf.org</uid>
 <pentabarf:event-id>5772</pentabarf:event-id>
-<pentabarf:event-slug>EH2014_-_5772_-_de_-_workshopraum_-_201404201645_-_dmx_workshop_-_dritter</pentabarf:event-slug>
+<pentabarf:event-slug>EH2014_-_5772_-_de_-_degerloch_-_201404201645_-_dmx_workshop_-_dritter</pentabarf:event-slug>
 <pentabarf:title>DMX Workshop</pentabarf:title>
 <pentabarf:subtitle>Was ist DMX, wozu braucht man das, was macht es, ist es nicht der der Musik macht? Naja...fast. Damit steuert man Licht in der Veranstaltungstechnik. wenn euch der Name was sagt, aber nicht wisst was weiter passiert, kommt in den workshop.</pentabarf:subtitle>
 <pentabarf:language>German</pentabarf:language>
@@ -812,7 +812,7 @@ Erklärung dazu im Workshop mit praktischen Beispielen und Hardware zum anfassen
 <status>CONFIRMED</status>
 <category>Lecture</category>
 <url>/pages/fahrplan/events/5772.html</url>
-<location>Workshopraum</location>
+<location>Degerloch</location>
 <attendee>dritter</attendee>
 </vevent>
 <vevent>
@@ -1095,13 +1095,13 @@ Gute Ironie- und Sarkasmusdetektoren werden unbedingt vorausgesetzt.</descriptio
 <method>PUBLISH</method>
 <uid>5797@EH2014@pentabarf.org</uid>
 <pentabarf:event-id>5797</pentabarf:event-id>
-<pentabarf:event-slug>EH2014_-_5797_-_de_-_degerloch_-_201404201045_-_wau_holland_stiftung_-_tom_twiddlebit</pentabarf:event-slug>
+<pentabarf:event-slug>EH2014_-_5797_-_de_-_workshopraum_-_201404202115_-_wau_holland_stiftung_-_tom_twiddlebit</pentabarf:event-slug>
 <pentabarf:title>Wau Holland Stiftung</pentabarf:title>
 <pentabarf:subtitle>Das Jahr 2013</pentabarf:subtitle>
 <pentabarf:language>German</pentabarf:language>
 <pentabarf:language-code>de</pentabarf:language-code>
-<dtstart>20140420T104500</dtstart>
-<dtend>20140420T114500</dtend>
+<dtstart>20140420T211500</dtstart>
+<dtend>20140420T221500</dtend>
 <duration>010000</duration>
 <summary>Wau Holland Stiftung- Das Jahr 2013</summary>
 <description>Rechenschaftsbericht und Zukunftsvisionen der Wau Holland Stiftung</description>
@@ -1109,7 +1109,7 @@ Gute Ironie- und Sarkasmusdetektoren werden unbedingt vorausgesetzt.</descriptio
 <status>CONFIRMED</status>
 <category>Lecture</category>
 <url>/pages/fahrplan/events/5797.html</url>
-<location>Degerloch</location>
+<location>Workshopraum</location>
 <attendee>Tom Twiddlebit</attendee>
 </vevent>
 <vevent>
@@ -1287,21 +1287,21 @@ Wir brauchen eine fundamentale Überarbeitung der Internetprotokolle, um die heu
 <method>PUBLISH</method>
 <uid>5811@EH2014@pentabarf.org</uid>
 <pentabarf:event-id>5811</pentabarf:event-id>
-<pentabarf:event-slug>EH2014_-_5811_-_de_-_degerloch_-_201404201645_-_lightning_talks</pentabarf:event-slug>
+<pentabarf:event-slug>EH2014_-_5811_-_de_-_hackcenter_-_201404201645_-_lightning_talks</pentabarf:event-slug>
 <pentabarf:title>Lightning talks</pentabarf:title>
 <pentabarf:subtitle></pentabarf:subtitle>
 <pentabarf:language>German</pentabarf:language>
 <pentabarf:language-code>de</pentabarf:language-code>
 <dtstart>20140420T164500</dtstart>
-<dtend>20140420T181500</dtend>
-<duration>013000</duration>
+<dtend>20140420T174500</dtend>
+<duration>010000</duration>
 <summary>Lightning talks- </summary>
 <description>Lighning talks</description>
 <class>PUBLIC</class>
 <status>CONFIRMED</status>
 <category>Lecture</category>
 <url>/pages/fahrplan/events/5811.html</url>
-<location>Degerloch</location>
+<location>Hackcenter</location>
 </vevent>
 <vevent>
 <method>PUBLISH</method>
@@ -1492,6 +1492,26 @@ When: Morning. No specific time slot.
 <url>/pages/fahrplan/events/5826.html</url>
 <location>Workshopraum</location>
 <attendee>Alvar Freude</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>5830@EH2014@pentabarf.org</uid>
+<pentabarf:event-id>5830</pentabarf:event-id>
+<pentabarf:event-slug>EH2014_-_5830_-__-_workshopraum_-_201404201645_-_dj_workshop</pentabarf:event-slug>
+<pentabarf:title>DJ Workshop</pentabarf:title>
+<pentabarf:subtitle></pentabarf:subtitle>
+<pentabarf:language>{:ab=&gt;&quot;Abkhazian&quot;, :ace=&gt;&quot;Achinese&quot;, :ach=&gt;&quot;Acoli&quot;, :ada=&gt;&quot;Adangme&quot;, :ady=&gt;&quot;Adyghe&quot;, :ae=&gt;&quot;Avestan&quot;, :af=&gt;&quot;Afrikaans&quot;, :afa=&gt;&quot;Afro-Asiatic Language&quot;, :afh=&gt;&quot;Afrihili&quot;, :ain=&gt;&quot;Ainu&quot;, :ak=&gt;&quot;Akan&quot;, :akk=&gt;&quot;Akkadian&quot;, :ale=&gt;&quot;Aleut&quot;, :alg=&gt;&quot;Algonquian Language&quot;, :alt=&gt;&quot;Southern Altai&quot;, :am=&gt;&quot;Amharic&quot;, :an=&gt;&quot;Aragonese&quot;, :ang=&gt;&quot;Old English&quot;, :anp=&gt;&quot;Angika&quot;, :apa=&gt;&quot;Apache Language&quot;, :ar=&gt;&quot;Arabic&quot;, :arc=&gt;&quot;Aramaic&quot;, :arn=&gt;&quot;Araucanian&quot;, :arp=&gt;&quot;Arapaho&quot;, :art=&gt;&quot;Artificial Language&quot;, :arw=&gt;&quot;Arawak&quot;, :as=&gt;&quot;Assamese&quot;, :ast=&gt;&quot;Asturian&quot;, :ath=&gt;&quot;Athapascan Language&quot;, :aus=&gt;&quot;Australian Language&quot;, :av=&gt;&quot;Avaric&quot;, :awa=&gt;&quot;Awadhi&quot;, :ay=&gt;&quot;Aymara&quot;, :az=&gt;&quot;Azerbaijani&quot;, :ba=&gt;&quot;Bashkir&quot;, :bad=&gt;&quot;Banda&quot;, :bai=&gt;&quot;Bamileke Language&quot;, :bal=&gt;&quot;Baluchi&quot;, :ban=&gt;&quot;Balinese&quot;, :bas=&gt;&quot;Basa&quot;, :bat=&gt;&quot;Baltic Language&quot;, :be=&gt;&quot;Belarusian&quot;, :bej=&gt;&quot;Beja&quot;, :bem=&gt;&quot;Bemba&quot;, :ber=&gt;&quot;Berber&quot;, :bg=&gt;&quot;Bulgarian&quot;, :bh=&gt;&quot;Bihari&quot;, :bho=&gt;&quot;Bhojpuri&quot;, :bi=&gt;&quot;Bislama&quot;, :bik=&gt;&quot;Bikol&quot;, :bin=&gt;&quot;Bini&quot;, :bla=&gt;&quot;Siksika&quot;, :bm=&gt;&quot;Bambara&quot;, :bn=&gt;&quot;Bengali&quot;, :bnt=&gt;&quot;Bantu&quot;, :bo=&gt;&quot;Tibetan&quot;, :br=&gt;&quot;Breton&quot;, :bra=&gt;&quot;Braj&quot;, :bs=&gt;&quot;Bosnian&quot;, :btk=&gt;&quot;Batak&quot;, :bua=&gt;&quot;Buriat&quot;, :bug=&gt;&quot;Buginese&quot;, :byn=&gt;&quot;Blin&quot;, :ca=&gt;&quot;Catalan&quot;, :cad=&gt;&quot;Caddo&quot;, :cai=&gt;&quot;Central American Indian Language&quot;, :car=&gt;&quot;Carib&quot;, :cau=&gt;&quot;Caucasian Language&quot;, :cch=&gt;&quot;Atsam&quot;, :ce=&gt;&quot;Chechen&quot;, :ceb=&gt;&quot;Cebuano&quot;, :cel=&gt;&quot;Celtic Language&quot;, :ch=&gt;&quot;Chamorro&quot;, :chb=&gt;&quot;Chibcha&quot;, :chg=&gt;&quot;Chagatai&quot;, :chk=&gt;&quot;Chuukese&quot;, :chm=&gt;&quot;Mari&quot;, :chn=&gt;&quot;Chinook Jargon&quot;, :cho=&gt;&quot;Choctaw&quot;, :chp=&gt;&quot;Chipewyan&quot;, :chr=&gt;&quot;Cherokee&quot;, :chy=&gt;&quot;Cheyenne&quot;, :cmc=&gt;&quot;Chamic Language&quot;, :co=&gt;&quot;Corsican&quot;, :cop=&gt;&quot;Coptic&quot;, :cpe=&gt;&quot;English-based Creole or Pidgin&quot;, :cpf=&gt;&quot;French-based Creole or Pidgin&quot;, :cpp=&gt;&quot;Portuguese-based Creole or Pidgin&quot;, :cr=&gt;&quot;Cree&quot;, :crh=&gt;&quot;Crimean Turkish&quot;, :crp=&gt;&quot;Creole or Pidgin&quot;, :cs=&gt;&quot;Czech&quot;, :csb=&gt;&quot;Kashubian&quot;, :cu=&gt;&quot;Church Slavic&quot;, :cus=&gt;&quot;Cushitic Language&quot;, :cv=&gt;&quot;Chuvash&quot;, :cy=&gt;&quot;Welsh&quot;, :da=&gt;&quot;Danish&quot;, :dak=&gt;&quot;Dakota&quot;, :dar=&gt;&quot;Dargwa&quot;, :day=&gt;&quot;Dayak&quot;, :de=&gt;&quot;German&quot;, :&quot;de-AT&quot;=&gt;&quot;Austrian German&quot;, :&quot;de-CH&quot;=&gt;&quot;Swiss High German&quot;, :del=&gt;&quot;Delaware&quot;, :den=&gt;&quot;Slave&quot;, :dgr=&gt;&quot;Dogrib&quot;, :din=&gt;&quot;Dinka&quot;, :doi=&gt;&quot;Dogri&quot;, :dra=&gt;&quot;Dravidian Language&quot;, :dsb=&gt;&quot;Lower Sorbian&quot;, :dua=&gt;&quot;Duala&quot;, :dum=&gt;&quot;Middle Dutch&quot;, :dv=&gt;&quot;Divehi&quot;, :dyu=&gt;&quot;Dyula&quot;, :dz=&gt;&quot;Dzongkha&quot;, :ee=&gt;&quot;Ewe&quot;, :efi=&gt;&quot;Efik&quot;, :egy=&gt;&quot;Ancient Egyptian&quot;, :eka=&gt;&quot;Ekajuk&quot;, :el=&gt;&quot;Greek&quot;, :elx=&gt;&quot;Elamite&quot;, :en=&gt;&quot;English&quot;, :&quot;en-AU&quot;=&gt;&quot;Australian English&quot;, :&quot;en-CA&quot;=&gt;&quot;Canadian English&quot;, :&quot;en-GB&quot;=&gt;&quot;British English&quot;, :&quot;en-US&quot;=&gt;&quot;U.S. English&quot;, :enm=&gt;&quot;Middle English&quot;, :eo=&gt;&quot;Esperanto&quot;, :es=&gt;&quot;Spanish&quot;, :&quot;es-ES&quot;=&gt;&quot;Iberian Spanish&quot;, :et=&gt;&quot;Estonian&quot;, :eu=&gt;&quot;Basque&quot;, :ewo=&gt;&quot;Ewondo&quot;, :fa=&gt;&quot;Persian&quot;, :fan=&gt;&quot;Fang&quot;, :fat=&gt;&quot;Fanti&quot;, :ff=&gt;&quot;Fulah&quot;, :fi=&gt;&quot;Finnish&quot;, :fil=&gt;&quot;Filipino&quot;, :fiu=&gt;&quot;Finno-Ugrian Language&quot;, :fj=&gt;&quot;Fijian&quot;, :fo=&gt;&quot;Faroese&quot;, :fon=&gt;&quot;Fon&quot;, :fr=&gt;&quot;French&quot;, :&quot;fr-CA&quot;=&gt;&quot;Canadian French&quot;, :&quot;fr-CH&quot;=&gt;&quot;Swiss French&quot;, :frm=&gt;&quot;Middle French&quot;, :fro=&gt;&quot;Old French&quot;, :frr=&gt;&quot;Northern Frisian&quot;, :frs=&gt;&quot;Eastern Frisian&quot;, :fur=&gt;&quot;Friulian&quot;, :fy=&gt;&quot;Western Frisian&quot;, :ga=&gt;&quot;Irish&quot;, :gaa=&gt;&quot;Ga&quot;, :gay=&gt;&quot;Gayo&quot;, :gba=&gt;&quot;Gbaya&quot;, :gd=&gt;&quot;Scottish Gaelic&quot;, :gem=&gt;&quot;Germanic Language&quot;, :gez=&gt;&quot;Geez&quot;, :gil=&gt;&quot;Gilbertese&quot;, :gl=&gt;&quot;Galician&quot;, :gmh=&gt;&quot;Middle High German&quot;, :gn=&gt;&quot;Guarani&quot;, :goh=&gt;&quot;Old High German&quot;, :gon=&gt;&quot;Gondi&quot;, :gor=&gt;&quot;Gorontalo&quot;, :got=&gt;&quot;Gothic&quot;, :grb=&gt;&quot;Grebo&quot;, :grc=&gt;&quot;Ancient Greek&quot;, :gsw=&gt;&quot;Swiss German&quot;, :gu=&gt;&quot;Gujarati&quot;, :gv=&gt;&quot;Manx&quot;, :gwi=&gt;&quot;Gwichʼin&quot;, :ha=&gt;&quot;Hausa&quot;, :hai=&gt;&quot;Haida&quot;, :haw=&gt;&quot;Hawaiian&quot;, :he=&gt;&quot;Hebrew&quot;, :hi=&gt;&quot;Hindi&quot;, :hil=&gt;&quot;Hiligaynon&quot;, :him=&gt;&quot;Himachali&quot;, :hit=&gt;&quot;Hittite&quot;, :hmn=&gt;&quot;Hmong&quot;, :ho=&gt;&quot;Hiri Motu&quot;, :hr=&gt;&quot;Croatian&quot;, :hsb=&gt;&quot;Upper Sorbian&quot;, :ht=&gt;&quot;Haitian&quot;, :hu=&gt;&quot;Hungarian&quot;, :hup=&gt;&quot;Hupa&quot;, :hy=&gt;&quot;Armenian&quot;, :hz=&gt;&quot;Herero&quot;, :ia=&gt;&quot;Interlingua&quot;, :iba=&gt;&quot;Iban&quot;, :id=&gt;&quot;Indonesian&quot;, :ie=&gt;&quot;Interlingue&quot;, :ig=&gt;&quot;Igbo&quot;, :ii=&gt;&quot;Sichuan Yi&quot;, :ijo=&gt;&quot;Ijo&quot;, :ik=&gt;&quot;Inupiaq&quot;, :ilo=&gt;&quot;Iloko&quot;, :inc=&gt;&quot;Indic Language&quot;, :ine=&gt;&quot;Indo-European Language&quot;, :inh=&gt;&quot;Ingush&quot;, :io=&gt;&quot;Ido&quot;, :ira=&gt;&quot;Iranian Language&quot;, :iro=&gt;&quot;Iroquoian Language&quot;, :is=&gt;&quot;Icelandic&quot;, :it=&gt;&quot;Italian&quot;, :iu=&gt;&quot;Inuktitut&quot;, :ja=&gt;&quot;Japanese&quot;, :jbo=&gt;&quot;Lojban&quot;, :jpr=&gt;&quot;Judeo-Persian&quot;, :jrb=&gt;&quot;Judeo-Arabic&quot;, :jv=&gt;&quot;Javanese&quot;, :ka=&gt;&quot;Georgian&quot;, :kaa=&gt;&quot;Kara-Kalpak&quot;, :kab=&gt;&quot;Kabyle&quot;, :kac=&gt;&quot;Kachin&quot;, :kaj=&gt;&quot;Jju&quot;, :kam=&gt;&quot;Kamba&quot;, :kar=&gt;&quot;Karen&quot;, :kaw=&gt;&quot;Kawi&quot;, :kbd=&gt;&quot;Kabardian&quot;, :kcg=&gt;&quot;Tyap&quot;, :kfo=&gt;&quot;Koro&quot;, :kg=&gt;&quot;Kongo&quot;, :kha=&gt;&quot;Khasi&quot;, :khi=&gt;&quot;Khoisan Language&quot;, :kho=&gt;&quot;Khotanese&quot;, :ki=&gt;&quot;Kikuyu&quot;, :kj=&gt;&quot;Kuanyama&quot;, :kk=&gt;&quot;Kazakh&quot;, :kl=&gt;&quot;Kalaallisut&quot;, :km=&gt;&quot;Khmer&quot;, :kmb=&gt;&quot;Kimbundu&quot;, :kn=&gt;&quot;Kannada&quot;, :ko=&gt;&quot;Korean&quot;, :kok=&gt;&quot;Konkani&quot;, :kos=&gt;&quot;Kosraean&quot;, :kpe=&gt;&quot;Kpelle&quot;, :kr=&gt;&quot;Kanuri&quot;, :krc=&gt;&quot;Karachay-Balkar&quot;, :krl=&gt;&quot;Karelian&quot;, :kro=&gt;&quot;Kru&quot;, :kru=&gt;&quot;Kurukh&quot;, :ks=&gt;&quot;Kashmiri&quot;, :ku=&gt;&quot;Kurdish&quot;, :kum=&gt;&quot;Kumyk&quot;, :kut=&gt;&quot;Kutenai&quot;, :kv=&gt;&quot;Komi&quot;, :kw=&gt;&quot;Cornish&quot;, :ky=&gt;&quot;Kirghiz&quot;, :la=&gt;&quot;Latin&quot;, :lad=&gt;&quot;Ladino&quot;, :lah=&gt;&quot;Lahnda&quot;, :lam=&gt;&quot;Lamba&quot;, :lb=&gt;&quot;Luxembourgish&quot;, :lez=&gt;&quot;Lezghian&quot;, :lg=&gt;&quot;Ganda&quot;, :li=&gt;&quot;Limburgish&quot;, :ln=&gt;&quot;Lingala&quot;, :lo=&gt;&quot;Lao&quot;, :lol=&gt;&quot;Mongo&quot;, :loz=&gt;&quot;Lozi&quot;, :lt=&gt;&quot;Lithuanian&quot;, :lu=&gt;&quot;Luba-Katanga&quot;, :lua=&gt;&quot;Luba-Lulua&quot;, :lui=&gt;&quot;Luiseno&quot;, :lun=&gt;&quot;Lunda&quot;, :luo=&gt;&quot;Luo&quot;, :lus=&gt;&quot;Lushai&quot;, :lv=&gt;&quot;Latvian&quot;, :mad=&gt;&quot;Madurese&quot;, :mag=&gt;&quot;Magahi&quot;, :mai=&gt;&quot;Maithili&quot;, :mak=&gt;&quot;Makasar&quot;, :man=&gt;&quot;Mandingo&quot;, :map=&gt;&quot;Austronesian Language&quot;, :mas=&gt;&quot;Masai&quot;, :mdf=&gt;&quot;Moksha&quot;, :mdr=&gt;&quot;Mandar&quot;, :men=&gt;&quot;Mende&quot;, :mg=&gt;&quot;Malagasy&quot;, :mga=&gt;&quot;Middle Irish&quot;, :mh=&gt;&quot;Marshallese&quot;, :mi=&gt;&quot;Maori&quot;, :mic=&gt;&quot;Micmac&quot;, :min=&gt;&quot;Minangkabau&quot;, :mis=&gt;&quot;Miscellaneous Language&quot;, :mk=&gt;&quot;Macedonian&quot;, :mkh=&gt;&quot;Mon-Khmer Language&quot;, :ml=&gt;&quot;Malayalam&quot;, :mn=&gt;&quot;Mongolian&quot;, :mnc=&gt;&quot;Manchu&quot;, :mni=&gt;&quot;Manipuri&quot;, :mno=&gt;&quot;Manobo Language&quot;, :mo=&gt;&quot;Moldavian&quot;, :moh=&gt;&quot;Mohawk&quot;, :mos=&gt;&quot;Mossi&quot;, :mr=&gt;&quot;Marathi&quot;, :ms=&gt;&quot;Malay&quot;, :mt=&gt;&quot;Maltese&quot;, :mul=&gt;&quot;Multiple Languages&quot;, :mun=&gt;&quot;Munda Language&quot;, :mus=&gt;&quot;Creek&quot;, :mwl=&gt;&quot;Mirandese&quot;, :mwr=&gt;&quot;Marwari&quot;, :my=&gt;&quot;Burmese&quot;, :myn=&gt;&quot;Mayan Language&quot;, :myv=&gt;&quot;Erzya&quot;, :na=&gt;&quot;Nauru&quot;, :nah=&gt;&quot;Nahuatl&quot;, :nai=&gt;&quot;North American Indian Language&quot;, :nap=&gt;&quot;Neapolitan&quot;, :nb=&gt;&quot;Norwegian Bokmål&quot;, :nd=&gt;&quot;North Ndebele&quot;, :nds=&gt;&quot;Low German&quot;, :ne=&gt;&quot;Nepali&quot;, :new=&gt;&quot;Newari&quot;, :ng=&gt;&quot;Ndonga&quot;, :nia=&gt;&quot;Nias&quot;, :nic=&gt;&quot;Niger-Kordofanian Language&quot;, :niu=&gt;&quot;Niuean&quot;, :nl=&gt;&quot;Dutch&quot;, :&quot;nl-BE&quot;=&gt;&quot;Flemish&quot;, :nn=&gt;&quot;Norwegian Nynorsk&quot;, false=&gt;&quot;Norwegian&quot;, :nog=&gt;&quot;Nogai&quot;, :non=&gt;&quot;Old Norse&quot;, :nqo=&gt;&quot;N’Ko&quot;, :nr=&gt;&quot;South Ndebele&quot;, :nso=&gt;&quot;Northern Sotho&quot;, :nub=&gt;&quot;Nubian Language&quot;, :nv=&gt;&quot;Navajo&quot;, :nwc=&gt;&quot;Classical Newari&quot;, :ny=&gt;&quot;Nyanja&quot;, :nym=&gt;&quot;Nyamwezi&quot;, :nyn=&gt;&quot;Nyankole&quot;, :nyo=&gt;&quot;Nyoro&quot;, :nzi=&gt;&quot;Nzima&quot;, :oc=&gt;&quot;Occitan&quot;, :oj=&gt;&quot;Ojibwa&quot;, :om=&gt;&quot;Oromo&quot;, :or=&gt;&quot;Oriya&quot;, :os=&gt;&quot;Ossetic&quot;, :osa=&gt;&quot;Osage&quot;, :ota=&gt;&quot;Ottoman Turkish&quot;, :oto=&gt;&quot;Otomian Language&quot;, :pa=&gt;&quot;Punjabi&quot;, :paa=&gt;&quot;Papuan Language&quot;, :pag=&gt;&quot;Pangasinan&quot;, :pal=&gt;&quot;Pahlavi&quot;, :pam=&gt;&quot;Pampanga&quot;, :pap=&gt;&quot;Papiamento&quot;, :pau=&gt;&quot;Palauan&quot;, :peo=&gt;&quot;Old Persian&quot;, :phi=&gt;&quot;Philippine Language&quot;, :phn=&gt;&quot;Phoenician&quot;, :pi=&gt;&quot;Pali&quot;, :pl=&gt;&quot;Polish&quot;, :pon=&gt;&quot;Pohnpeian&quot;, :pra=&gt;&quot;Prakrit Language&quot;, :pro=&gt;&quot;Old Provençal&quot;, :ps=&gt;&quot;Pashto&quot;, :pt=&gt;&quot;Portuguese&quot;, :&quot;pt-BR&quot;=&gt;&quot;Brazilian Portuguese&quot;, :&quot;pt-PT&quot;=&gt;&quot;Iberian Portuguese&quot;, :qu=&gt;&quot;Quechua&quot;, :raj=&gt;&quot;Rajasthani&quot;, :rap=&gt;&quot;Rapanui&quot;, :rar=&gt;&quot;Rarotongan&quot;, :rm=&gt;&quot;Rhaeto-Romance&quot;, :rn=&gt;&quot;Rundi&quot;, :ro=&gt;&quot;Romanian&quot;, :roa=&gt;&quot;Romance Language&quot;, :rom=&gt;&quot;Romany&quot;, :ru=&gt;&quot;Russian&quot;, :rup=&gt;&quot;Aromanian&quot;, :rw=&gt;&quot;Kinyarwanda&quot;, :sa=&gt;&quot;Sanskrit&quot;, :sad=&gt;&quot;Sandawe&quot;, :sah=&gt;&quot;Yakut&quot;, :sai=&gt;&quot;South American Indian Language&quot;, :sal=&gt;&quot;Salishan Language&quot;, :sam=&gt;&quot;Samaritan Aramaic&quot;, :sas=&gt;&quot;Sasak&quot;, :sat=&gt;&quot;Santali&quot;, :sc=&gt;&quot;Sardinian&quot;, :scn=&gt;&quot;Sicilian&quot;, :sco=&gt;&quot;Scots&quot;, :sd=&gt;&quot;Sindhi&quot;, :se=&gt;&quot;Northern Sami&quot;, :sel=&gt;&quot;Selkup&quot;, :sem=&gt;&quot;Semitic Language&quot;, :sg=&gt;&quot;Sango&quot;, :sga=&gt;&quot;Old Irish&quot;, :sgn=&gt;&quot;Sign Language&quot;, :sh=&gt;&quot;Serbo-Croatian&quot;, :shn=&gt;&quot;Shan&quot;, :si=&gt;&quot;Sinhala&quot;, :sid=&gt;&quot;Sidamo&quot;, :sio=&gt;&quot;Siouan Language&quot;, :sit=&gt;&quot;Sino-Tibetan Language&quot;, :sk=&gt;&quot;Slovak&quot;, :sl=&gt;&quot;Slovenian&quot;, :sla=&gt;&quot;Slavic Language&quot;, :sm=&gt;&quot;Samoan&quot;, :sma=&gt;&quot;Southern Sami&quot;, :smi=&gt;&quot;Sami Language&quot;, :smj=&gt;&quot;Lule Sami&quot;, :smn=&gt;&quot;Inari Sami&quot;, :sms=&gt;&quot;Skolt Sami&quot;, :sn=&gt;&quot;Shona&quot;, :snk=&gt;&quot;Soninke&quot;, :so=&gt;&quot;Somali&quot;, :sog=&gt;&quot;Sogdien&quot;, :son=&gt;&quot;Songhai&quot;, :sq=&gt;&quot;Albanian&quot;, :sr=&gt;&quot;Serbian&quot;, :srn=&gt;&quot;Sranan Tongo&quot;, :srr=&gt;&quot;Serer&quot;, :ss=&gt;&quot;Swati&quot;, :ssa=&gt;&quot;Nilo-Saharan Language&quot;, :st=&gt;&quot;Southern Sotho&quot;, :su=&gt;&quot;Sundanese&quot;, :suk=&gt;&quot;Sukuma&quot;, :sus=&gt;&quot;Susu&quot;, :sux=&gt;&quot;Sumerian&quot;, :sv=&gt;&quot;Swedish&quot;, :sw=&gt;&quot;Swahili&quot;, :syc=&gt;&quot;Classical Syriac&quot;, :syr=&gt;&quot;Syriac&quot;, :ta=&gt;&quot;Tamil&quot;, :tai=&gt;&quot;Tai Language&quot;, :te=&gt;&quot;Telugu&quot;, :tem=&gt;&quot;Timne&quot;, :ter=&gt;&quot;Tereno&quot;, :tet=&gt;&quot;Tetum&quot;, :tg=&gt;&quot;Tajik&quot;, :th=&gt;&quot;Thai&quot;, :ti=&gt;&quot;Tigrinya&quot;, :tig=&gt;&quot;Tigre&quot;, :tiv=&gt;&quot;Tiv&quot;, :tk=&gt;&quot;Turkmen&quot;, :tkl=&gt;&quot;Tokelau&quot;, :tl=&gt;&quot;Tagalog&quot;, :tlh=&gt;&quot;Klingon&quot;, :tli=&gt;&quot;Tlingit&quot;, :tmh=&gt;&quot;Tamashek&quot;, :tn=&gt;&quot;Tswana&quot;, :to=&gt;&quot;Tonga&quot;, :tog=&gt;&quot;Nyasa Tonga&quot;, :tpi=&gt;&quot;Tok Pisin&quot;, :tr=&gt;&quot;Turkish&quot;, :trv=&gt;&quot;Taroko&quot;, :ts=&gt;&quot;Tsonga&quot;, :tsi=&gt;&quot;Tsimshian&quot;, :tt=&gt;&quot;Tatar&quot;, :tum=&gt;&quot;Tumbuka&quot;, :tup=&gt;&quot;Tupi Language&quot;, :tut=&gt;&quot;Altaic Language&quot;, :tvl=&gt;&quot;Tuvalu&quot;, :tw=&gt;&quot;Twi&quot;, :ty=&gt;&quot;Tahitian&quot;, :tyv=&gt;&quot;Tuvinian&quot;, :udm=&gt;&quot;Udmurt&quot;, :ug=&gt;&quot;Uighur&quot;, :uga=&gt;&quot;Ugaritic&quot;, :uk=&gt;&quot;Ukrainian&quot;, :umb=&gt;&quot;Umbundu&quot;, :und=&gt;&quot;Unknown or Invalid Language&quot;, :ur=&gt;&quot;Urdu&quot;, :uz=&gt;&quot;Uzbek&quot;, :vai=&gt;&quot;Vai&quot;, :ve=&gt;&quot;Venda&quot;, :vi=&gt;&quot;Vietnamese&quot;, :vo=&gt;&quot;Volapük&quot;, :vot=&gt;&quot;Votic&quot;, :wa=&gt;&quot;Walloon&quot;, :wak=&gt;&quot;Wakashan Language&quot;, :wal=&gt;&quot;Walamo&quot;, :war=&gt;&quot;Waray&quot;, :was=&gt;&quot;Washo&quot;, :wen=&gt;&quot;Sorbian Language&quot;, :wo=&gt;&quot;Wolof&quot;, :xal=&gt;&quot;Kalmyk&quot;, :xh=&gt;&quot;Xhosa&quot;, :yao=&gt;&quot;Yao&quot;, :yap=&gt;&quot;Yapese&quot;, :yi=&gt;&quot;Yiddish&quot;, :yo=&gt;&quot;Yoruba&quot;, :ypk=&gt;&quot;Yupik Language&quot;, :za=&gt;&quot;Zhuang&quot;, :zap=&gt;&quot;Zapotec&quot;, :zbl=&gt;&quot;Blissymbols&quot;, :zen=&gt;&quot;Zenaga&quot;, :zh=&gt;&quot;Chinese&quot;, :&quot;zh-Hans&quot;=&gt;&quot;Simplified Chinese&quot;, :&quot;zh-Hant&quot;=&gt;&quot;Traditional Chinese&quot;, :znd=&gt;&quot;Zande&quot;, :zu=&gt;&quot;Zulu&quot;, :zun=&gt;&quot;Zuni&quot;, :zxx=&gt;&quot;No linguistic content&quot;, :zza=&gt;&quot;Zaza&quot;}</pentabarf:language>
+<pentabarf:language-code></pentabarf:language-code>
+<dtstart>20140420T164500</dtstart>
+<dtend>20140420T174500</dtend>
+<duration>010000</duration>
+<summary>DJ Workshop- </summary>
+<description>Für Leute, die einfach mal ihre Lieblingsmusik auflegen wollen, kleine Tips, damit die Übergänge auch ohne große Kenntnisse okay sind. Und für andere, die gerne beatmatching lernen wollen, also schicke Club-Übergänge zu machen.  :-D</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>/pages/fahrplan/events/5830.html</url>
+<location>Workshopraum</location>
 </vevent>
 </vcalendar>
 </iCalendar>
