@@ -709,7 +709,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T151500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T130000
-DTSTAMP;VALUE=DATE-TIME:20140419T125104Z
+DTSTAMP;VALUE=DATE-TIME:20140420T120031Z
 UID:AGyCAyesmbxDsIf1BrE-qA@frab.cccv.de
 DESCRIPTION:Du bist also ein Geek und willst eine Präsentation über ein T
  hema geben\, das Dir sehr am Herzen liegt. Du bist folglich sehr enthusi
@@ -791,7 +791,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T161500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T154500
-DTSTAMP;VALUE=DATE-TIME:20140409T175741Z
+DTSTAMP;VALUE=DATE-TIME:20140420T115940Z
 UID:kaOF9Bjj3Bg1zEajbkaTkQ@frab.cccv.de
 DESCRIPTION:Anhand eines Seat Ibiza wird ilustriert welche Informationen 
  auf dem CAN-Bus zu finden sind und wie sie reverse engineert wurden. Es 
