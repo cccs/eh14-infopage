@@ -344,13 +344,13 @@
 <method>PUBLISH</method>
 <uid>5742@EH2014@pentabarf.org</uid>
 <pentabarf:event-id>5742</pentabarf:event-id>
-<pentabarf:event-slug>EH2014_-_5742_-_de_-_workshopraum_-_201404201230_-_computer-aided_knitting_with_ayab_-_chris007</pentabarf:event-slug>
+<pentabarf:event-slug>EH2014_-_5742_-_de_-_workshopraum_-_201404201130_-_computer-aided_knitting_with_ayab_-_chris007</pentabarf:event-slug>
 <pentabarf:title>Computer-aided knitting with AYAB</pentabarf:title>
 <pentabarf:subtitle>How to hack Brother Knitting Machines to be controlled by your computer</pentabarf:subtitle>
 <pentabarf:language>German</pentabarf:language>
 <pentabarf:language-code>de</pentabarf:language-code>
-<dtstart>20140420T123000</dtstart>
-<dtend>20140420T131500</dtend>
+<dtstart>20140420T113000</dtstart>
+<dtend>20140420T121500</dtend>
 <duration>004500</duration>
 <summary>Computer-aided knitting with AYAB- How to hack Brother Knitting Machines to be controlled by your computer</summary>
 <description>The goal of the AYAB project is to provide an alternative way to control the famous Brother KH-9xx knitting machines.</description>
@@ -1034,7 +1034,7 @@ Gute Ironie- und Sarkasmusdetektoren werden unbedingt vorausgesetzt.</descriptio
 <method>PUBLISH</method>
 <uid>5790@EH2014@pentabarf.org</uid>
 <pentabarf:event-id>5790</pentabarf:event-id>
-<pentabarf:event-slug>EH2014_-_5790_-_de_-_degerloch_-_201404202230_-_nerd-tabu_-_skyr</pentabarf:event-slug>
+<pentabarf:event-slug>EH2014_-_5790_-_de_-_hackcenter_-_201404202230_-_nerd-tabu_-_skyr</pentabarf:event-slug>
 <pentabarf:title>Nerd-Tabu</pentabarf:title>
 <pentabarf:subtitle>Das Gesellschaftsspiel für Nerds</pentabarf:subtitle>
 <pentabarf:language>German</pentabarf:language>
@@ -1048,7 +1048,7 @@ Gute Ironie- und Sarkasmusdetektoren werden unbedingt vorausgesetzt.</descriptio
 <status>CONFIRMED</status>
 <category>Lecture</category>
 <url>/pages/fahrplan/events/5790.html</url>
-<location>Degerloch</location>
+<location>Hackcenter</location>
 <attendee>Skyr</attendee>
 </vevent>
 <vevent>

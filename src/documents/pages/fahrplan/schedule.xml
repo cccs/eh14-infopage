@@ -1227,29 +1227,6 @@ Last but not least I'll show how to build, ship and run containers and real worl
 <links>
 </links>
 </event>
-<event guid='XgccTFEtnOihaFeuPBtVqw' id='5790'>
-<date>2014-04-20T22:30:00+02:00</date>
-<start>22:30</start>
-<duration>01:15</duration>
-<room>Degerloch</room>
-<slug>EH2014_-_5790_-_de_-_degerloch_-_201404202230_-_nerd-tabu_-_skyr</slug>
-<recording>
-<license></license>
-<optout>false</optout>
-</recording>
-<title>Nerd-Tabu</title>
-<subtitle>Das Gesellschaftsspiel für Nerds</subtitle>
-<track>Talk</track>
-<type>lecture</type>
-<language>de</language>
-<abstract>Das Gesellschaftsspiel &quot;Tabu&quot; für Nerds!</abstract>
-<description></description>
-<persons>
-<person id='4335'>Skyr</person>
-</persons>
-<links>
-</links>
-</event>
 </room>
 <room name='Workshopraum'>
 <event guid='57KK2aVaYXc9TL5nftKVRA' id='5812'>
@@ -1314,11 +1291,11 @@ und schlußendlich auch das portable QT-Konzept zu erwähnen, welches sich z.B: 
 </links>
 </event>
 <event guid='IwCebCSIG3MUYG0ILVF_Mw' id='5742'>
-<date>2014-04-20T12:30:00+02:00</date>
-<start>12:30</start>
+<date>2014-04-20T11:30:00+02:00</date>
+<start>11:30</start>
 <duration>00:45</duration>
 <room>Workshopraum</room>
-<slug>EH2014_-_5742_-_de_-_workshopraum_-_201404201230_-_computer-aided_knitting_with_ayab_-_chris007</slug>
+<slug>EH2014_-_5742_-_de_-_workshopraum_-_201404201130_-_computer-aided_knitting_with_ayab_-_chris007</slug>
 <recording>
 <license></license>
 <optout>false</optout>
@@ -1674,6 +1651,29 @@ machinetalk.cc: https://frab.cccv.de/en/EH2014/events/5793</description>
 <links>
 </links>
 </event>
+<event guid='XgccTFEtnOihaFeuPBtVqw' id='5790'>
+<date>2014-04-20T22:30:00+02:00</date>
+<start>22:30</start>
+<duration>01:15</duration>
+<room>Hackcenter</room>
+<slug>EH2014_-_5790_-_de_-_hackcenter_-_201404202230_-_nerd-tabu_-_skyr</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Nerd-Tabu</title>
+<subtitle>Das Gesellschaftsspiel für Nerds</subtitle>
+<track>Talk</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Das Gesellschaftsspiel &quot;Tabu&quot; für Nerds!</abstract>
+<description></description>
+<persons>
+<person id='4335'>Skyr</person>
+</persons>
+<links>
+</links>
+</event>
 </room>
 <room name='shack-Seminarraum'>
 <event guid='UZVtLmQsrCIKyrCz0fFyVA' id='5746'>
@@ -1971,7 +1971,17 @@ Für Verbrauchsmaterial wird ein kleiner Unkostenbeitrag erhoben.</abstract>
 <type>workshop</type>
 <language>de</language>
 <abstract>Ca. 3-stündiger Workshop im Freien, wo wir Geocaches in der Umgebung der Eventlocation suchen werden. </abstract>
-<description>Ca. 3-stündiger Workshop im Freien, wo wir Geocaches in der Umgebung der Eventlocation suchen werden. Sowohl absolute Neulinge als auch erfahrere Cacher können mitmachen. 
+<description>-----------------------------------------------
+
+Update 20.04.2014: Die GC-Tour mit allen Caches auf unserer Tour findet ihr hier: http://gctour.madd.in/tour/CHYT4L6F
+
+Zwei der Caches sind auch auf Opencaching gelistet, könnt ihr also doppelt loggen: 
+http://www.opencaching.de/viewcache.php?cacheid=171395
+http://www.opencaching.de/viewcache.php?cacheid=170309
+
+-----------------------------------------------
+
+Ca. 3-stündiger Workshop im Freien, wo wir Geocaches in der Umgebung der Eventlocation suchen werden. Sowohl absolute Neulinge als auch erfahrere Cacher können mitmachen. 
 
 Bitte mitbringen: 
 - Feste Schuhe
@@ -1981,7 +1991,8 @@ Bitte mitbringen:
 - GPS &amp; Taschenlampe (wenn vorhanden)
 
 Treffpunkt ist vor dem Haupteingang der Eventlocation. 
-Eine vorherige Anmeldung ist nicht erforderlich. </description>
+Eine vorherige Anmeldung ist nicht erforderlich. 
+</description>
 <persons>
 <person id='3804'>martl</person>
 </persons>
