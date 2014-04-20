@@ -1994,6 +1994,28 @@ Eine vorherige Anmeldung ist nicht erforderlich. </description>
 </day>
 <day date='2014-04-21' end='2014-04-21T15:00:00+02:00' index='4' start='2014-04-21T09:00:00+02:00'>
 <room name='Degerloch'>
+<event guid='Y5P_R28s_sFTUpRujhqHkw' id='5831'>
+<date>2014-04-21T12:00:00+02:00</date>
+<start>12:00</start>
+<duration>03:00</duration>
+<room>Degerloch</room>
+<slug>EH2014_-_5831_-__-_degerloch_-_201404211200_-_abbau_degerloch</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Abbau Degerloch</title>
+<subtitle></subtitle>
+<track></track>
+<type>other</type>
+<language></language>
+<abstract></abstract>
+<description></description>
+<persons>
+</persons>
+<links>
+</links>
+</event>
 </room>
 <room name='Workshopraum'>
 </room>
@@ -2036,6 +2058,28 @@ Eine vorherige Anmeldung ist nicht erforderlich. </description>
 <track>Sonstiges</track>
 <type>lecture</type>
 <language>en</language>
+<abstract></abstract>
+<description></description>
+<persons>
+</persons>
+<links>
+</links>
+</event>
+<event guid='Uoun2ukdd4EVK4Sx0WpW4A' id='5832'>
+<date>2014-04-21T14:00:00+02:00</date>
+<start>14:00</start>
+<duration>02:00</duration>
+<room>Hackcenter</room>
+<slug>EH2014_-_5832_-__-_hackcenter_-_201404211400_-_abbau_hackcenter</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Abbau Hackcenter</title>
+<subtitle></subtitle>
+<track></track>
+<type>other</type>
+<language></language>
 <abstract></abstract>
 <description></description>
 <persons>
