@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20140330T020000
+RDATE:20140330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T221500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T213000
+DTSTAMP;VALUE=DATE-TIME:20140409T173349Z
+UID:WmJOPc_l2FQAQOf5FE2XjQ@frab.cccv.de
+DESCRIPTION:Die Kulturmenschen der Piratenfraktion im NRW-Landtag wollen 
+ den Hacker- und Makerspaces sowie den Fablabs gerne die Möglichkeit biet
+ en\, von staatlicher Förderung zu profitieren. Doch das soll nicht ohne 
+ die Community geschehen. In diesem Vortrag sollen die Schritte von der I
+ dee über Diskussionen und Verhandlungen bishin zu einem Haushaltsänderun
+ gsantrag für einen Fördertopf erläutert und auch besprochen werden. 
+URL:/pages/fahrplan/events/5779.html
+SUMMARY:Hack(er)spaces und Kulturpolitik
+ORGANIZER:EH2014
+LOCATION:Workshopraum
+END:VEVENT
+END:VCALENDAR

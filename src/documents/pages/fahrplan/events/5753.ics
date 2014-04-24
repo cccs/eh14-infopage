@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20140330T020000
+RDATE:20140330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T150000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T130000
+DTSTAMP;VALUE=DATE-TIME:20140422T090933Z
+UID:djdxYuVfBW7vopEToCmqXQ@frab.cccv.de
+DESCRIPTION:In diesem Workshop lernt Ihr\, wie man Baozi - chinesische ge
+ dämpfte Teigtaschen - schnell und einfach selbst zubereiten kann.\nBaozi
+  lassen sich auch batchprocessen und puffern\, was sie zum idealen Zwisc
+ hendurchsnack oder Mittagessen für zeitknappe Hacker macht.\nFür Verbrau
+ chsmaterial wird ein kleiner Unkostenbeitrag erhoben.
+URL:/pages/fahrplan/events/5753.html
+SUMMARY:Baozi
+ORGANIZER:EH2014
+LOCATION:shackspace Küche
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20140330T020000
+RDATE:20140330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T161500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T153000
+DTSTAMP;VALUE=DATE-TIME:20140420T185802Z
+UID:MSQd41AhyJrm13_cCTRCYw@frab.cccv.de
+DESCRIPTION:TLS had various problems recently. The BEAST attack\, the CRI
+ ME attack\, the Lucky Thirteen attack\, problems with RC4 and of course 
+ Heartbleed. Standards from the NSA aren't trustworthy any more. Where is
+  TLS today and what improvements are planned?
+URL:/pages/fahrplan/events/5744.html
+SUMMARY:How broken is TLS?
+ORGANIZER:EH2014
+LOCATION:shack-Seminarraum
+END:VEVENT
+END:VCALENDAR

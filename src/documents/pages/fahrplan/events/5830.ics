@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20140330T020000
+RDATE:20140330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T174500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T164500
+DTSTAMP;VALUE=DATE-TIME:20140420T085443Z
+UID:rjEcUCfQC0HhbRJib1bfjQ@frab.cccv.de
+DESCRIPTION:Für Leute\, die einfach mal ihre Lieblingsmusik auflegen woll
+ en\, kleine Tips\, damit die Übergänge auch ohne große Kenntnisse okay s
+ ind. Und für andere\, die gerne beatmatching lernen wollen\, also schick
+ e Club-Übergänge zu machen.  :-D
+URL:/pages/fahrplan/events/5830.html
+SUMMARY:DJ Workshop
+ORGANIZER:EH2014
+LOCATION:Workshopraum
+END:VEVENT
+END:VCALENDAR
