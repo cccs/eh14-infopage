@@ -15,7 +15,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T173000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T164500
-DTSTAMP;VALUE=DATE-TIME:20140409T193512Z
+DTSTAMP;VALUE=DATE-TIME:20140421T070236Z
 UID:Q8j9xkOW_50eqh8kf62gkQ@frab.cccv.de
 DESCRIPTION:IRC gibt's schon lange\, aber zum Teil ist bis heute relativ 
  wenig ueber die Details des Protokolls bekannt\, obwohl es IMHO zu einem

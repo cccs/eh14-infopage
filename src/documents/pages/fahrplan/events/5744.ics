@@ -15,12 +15,12 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T161500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T153000
-DTSTAMP;VALUE=DATE-TIME:20140420T110439Z
+DTSTAMP;VALUE=DATE-TIME:20140420T185802Z
 UID:MSQd41AhyJrm13_cCTRCYw@frab.cccv.de
-DESCRIPTION:In TLS sind in letzter Zeit zahlreiche Probleme aufgetaucht\,
-  Die BEAST- und die Lucky Thirteen-Attacke\, Probleme mit RC4 und Mißtra
- uen gegenüber Standards aus dem Hause NSA. Wo steht TLS heute und welche
-  Verbesserungen stehen an?
+DESCRIPTION:TLS had various problems recently. The BEAST attack\, the CRI
+ ME attack\, the Lucky Thirteen attack\, problems with RC4 and of course 
+ Heartbleed. Standards from the NSA aren't trustworthy any more. Where is
+  TLS today and what improvements are planned?
 URL:/pages/fahrplan/events/5744.html
 SUMMARY:How broken is TLS?
 ORGANIZER:EH2014

@@ -351,7 +351,9 @@ Bei Bedarf würde alle Hardware auch für ein Workshop bereitstehen.
 Wir brauchen eine fundamentale Überarbeitung der Internetprotokolle, um die heute üblichen Dienste demokratiefähig zu machen.</abstract>
 <description>&quot;Redesigning the Internet for the 21st Century&quot; ist der Masterplan der Arbeitsgruppe YBTI: http://wauland.de/files/2014-03-25_InternetForThe21stCentury.pdf
 
-Auf dem Podium: Carlo von lynX, Daniel Reusche, Tom Twiddlebit</description>
+Die internationale Mailingliste zum Thema seit 2012: socialswarm-discussion@ml.foebud.org
+
+Auf dem Podium: Carlo von lynX, Nana Karlstetter, Tom Twiddlebit</description>
 <persons>
 <person id='4459'>Tom Twiddlebit</person>
 </persons>
@@ -953,6 +955,7 @@ Wir zeigen euch die Standard-Ausstattung nach STAN, was wir in Stuttgart sonst n
 <person id='4484'>Arne Schauf</person>
 </persons>
 <links>
+<link href='http://asmaps.github.io/django-presentation/'>Vortragsfolien</link>
 </links>
 </event>
 <event guid='Ojp_w3Q3JFeV8ubOtMkloQ' id='5721'>
@@ -1021,6 +1024,7 @@ Der Vortrag erzählt die Idee und den Hintergrund sowie die Geschichte der etwas
 <person id='4335'>Skyr</person>
 </persons>
 <links>
+<link href='https://github.com/Skyr/tracefp'>Sourcecode</link>
 </links>
 </event>
 <event guid='Pog-i70PJh9MHdjRklCL-A' id='5752'>
@@ -1146,6 +1150,7 @@ Ergebnisse, Gemeinsamkeiten und Unterschiede zwischen diesen beiden Gruppen werd
 <person id='4479'>mirirai</person>
 </persons>
 <links>
+<link href='http://pendelchaos.homenet.org/Hacker_vs_People_Umfrage/'>Video und Folien zum Vortrag</link>
 </links>
 </event>
 <event guid='yVDTF34ENlCW816DcsQnWw' id='5760'>
@@ -1496,6 +1501,7 @@ Einen kleinen Ausblick auf die Inhalte gibt es bereits im RaumZeitLabor Blog (si
 <person id='4467'>esgeh</person>
 </persons>
 <links>
+<link href='https://dl.dropboxusercontent.com/u/46560320/docs/eh14/eh14-datenuebertragung.pdf'>Vortragsfolien als PDF</link>
 </links>
 </event>
 <event guid='iGfZkp0SYGQfeKbb-WgS7w' id='5719'>
@@ -1801,14 +1807,10 @@ www.prismcamp.de
 <track>Talk</track>
 <type>lecture</type>
 <language>en</language>
-<abstract>In TLS sind in letzter Zeit zahlreiche Probleme aufgetaucht, Die BEAST- und die Lucky Thirteen-Attacke, Probleme mit RC4 und Mißtrauen gegenüber Standards aus dem Hause NSA. Wo steht TLS heute und welche Verbesserungen stehen an?</abstract>
-<description>TLS (früher SSL) ist das wichtigste und meistgenutzte Verschlüsselungsprotokoll. HTTPS-Verbindungen nutzen wir alltäglich zum Kommunizieren, um Geld zu überweisen oder einzukaufen.
+<abstract>TLS had various problems recently. The BEAST attack, the CRIME attack, the Lucky Thirteen attack, problems with RC4 and of course Heartbleed. Standards from the NSA aren't trustworthy any more. Where is TLS today and what improvements are planned?</abstract>
+<description>TLS or SSL is the most important and most used encryption protocol. We use HTTPS connections daily to communicate, transfer money or to shop.
 
-Man würde sich daher wünschen, dass TLS ein besonders sicheres Protokoll ist. Doch die Realität sieht anders aus: In den letzten Jahren sind zahlreiche Sicherheitsprobleme bekannt geworden. Das besondere an BEAST, Lucky Thirteen und anderen: Es handelt sich nicht um Softwarefehler, sondern um Fehler im Protokoll selbst. Viele der Probleme waren schon lange bekannt, die Schwäche, auf der die Lucky Thirteen-Attacke basiert, ist sogar im TLS 1.2-Standard selbst beschrieben.
-
-Die Probleme von TLS führten teils zu bizarren Situationen: Nachdem immer mehr Schwächen im CBC-Modus von TLS bekannt wurden, empfahlen Sicherheitsexperten einen Umstieg auf RC4. Als dann neue Schwächen in RC4 bekannt wurden, hieß es: Kommando zurück, RC4 ist unsicher, wir verwenden jetzt alle wieder CBC.
-
-Im Vortrag werfe ich einen Blick auf die aktueleln Probleme von TLS und mögliche Lösungsansätze.</description>
+TLS has problems on all different layers. Software implementations are of bad quality and far too bloated, certificate authorities are a hughe problem, weak cryptography endangers security and the protocol itself has various vulnerabilities.</description>
 <persons>
 <person id='2462'>hanno</person>
 </persons>
@@ -1864,12 +1866,20 @@ hc ist seit 2008 admin im hackint, und hat dort unter anderem an der Umstellung 
 - Was ist SmartOS?
 - Thinking SmartOS (Installation, Konfiguration, Tipps)
 - Paketmanagement in Zones
-- Project FiFo</description>
+- Project FiFo
+
+Folien:
+- http://people.skylime.net/tm/smartos_eh2014/slides.pdf
+
+Notizen:
+- http://people.skylime.net/tm/smartos_eh2014/notes.pdf</description>
 <persons>
 <person id='4519'>drscream</person>
 </persons>
 <links>
 <link href='http://smartos.org'>SmartOS</link>
+<link href='http://people.skylime.net/tm/smartos_eh2014/slides.pdf'>Folien</link>
+<link href='http://people.skylime.net/tm/smartos_eh2014/notes.pdf'>Notizen</link>
 </links>
 </event>
 <event guid='FigCrFi6FA4-1QWtOgucPA' id='5800'>

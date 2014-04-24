@@ -15,7 +15,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T221500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T213000
-DTSTAMP;VALUE=DATE-TIME:20140414T132525Z
+DTSTAMP;VALUE=DATE-TIME:20140421T090319Z
 UID:VkBGg2nUmqm32PqT7MkhSg@frab.cccv.de
 DESCRIPTION:Estimates are part of our daily live. Every single day we ask
   and answer questions like: "when will it be done?"\, "how much does it 

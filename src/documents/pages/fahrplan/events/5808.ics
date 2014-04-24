@@ -15,7 +15,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T184500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T180000
-DTSTAMP;VALUE=DATE-TIME:20140416T211720Z
+DTSTAMP;VALUE=DATE-TIME:20140423T210950Z
 UID:PQ-HhE1awzRaFzm0Zvzh5A@frab.cccv.de
 DESCRIPTION:Das Internet ist kaputt.\n\nWir brauchen eine fundamentale Üb
  erarbeitung der Internetprotokolle\, um die heute üblichen Dienste demok

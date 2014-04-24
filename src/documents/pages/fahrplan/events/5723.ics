@@ -15,7 +15,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T193000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T184500
-DTSTAMP;VALUE=DATE-TIME:20140409T181040Z
+DTSTAMP;VALUE=DATE-TIME:20140421T070408Z
 UID:S7UkbUP51mZC_pZ6JhuPIA@frab.cccv.de
 DESCRIPTION:Aus einer kleinen Projektidee einen großen Erfolg zu produzie
  ren ist nicht einfach. Wie das für Bausätze geht\, erfahrt ihr in diesem

@@ -15,7 +15,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T203000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T194500
-DTSTAMP;VALUE=DATE-TIME:20140419T092644Z
+DTSTAMP;VALUE=DATE-TIME:20140424T081328Z
 UID:SUy5iEpNWx9zyqfQIG7caQ@frab.cccv.de
 DESCRIPTION:Anhand realitätsnaher Beispiele wird erklärt\, auf was man be
  i einem Sicherheitsvorfall im Netzwerk und dessen Behandlung (Incident R
@@ -59,7 +59,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T221500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T213000
-DTSTAMP;VALUE=DATE-TIME:20140414T132525Z
+DTSTAMP;VALUE=DATE-TIME:20140421T090319Z
 UID:VkBGg2nUmqm32PqT7MkhSg@frab.cccv.de
 DESCRIPTION:Estimates are part of our daily live. Every single day we ask
   and answer questions like: "when will it be done?"\, "how much does it 
@@ -114,7 +114,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T220000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T211500
-DTSTAMP;VALUE=DATE-TIME:20140409T195834Z
+DTSTAMP;VALUE=DATE-TIME:20140421T085948Z
 UID:PWBg7vdclEAw8nNOeVAfFA@frab.cccv.de
 DESCRIPTION:Hersteller von Sicherheits-ICs haben in den letzten Jahren vi
  el Arbeit in die Absicherung ihrer Produkte gesteckt. Dabei konzentriert
@@ -131,7 +131,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T150000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T130000
-DTSTAMP;VALUE=DATE-TIME:20140414T204827Z
+DTSTAMP;VALUE=DATE-TIME:20140422T090933Z
 UID:djdxYuVfBW7vopEToCmqXQ@frab.cccv.de
 DESCRIPTION:In diesem Workshop lernt Ihr\, wie man Baozi - chinesische ge
  dämpfte Teigtaschen - schnell und einfach selbst zubereiten kann.\nBaozi
@@ -146,7 +146,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T193000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T184500
-DTSTAMP;VALUE=DATE-TIME:20140409T181040Z
+DTSTAMP;VALUE=DATE-TIME:20140421T070408Z
 UID:S7UkbUP51mZC_pZ6JhuPIA@frab.cccv.de
 DESCRIPTION:Aus einer kleinen Projektidee einen großen Erfolg zu produzie
  ren ist nicht einfach. Wie das für Bausätze geht\, erfahrt ihr in diesem
@@ -159,7 +159,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T221500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T211500
-DTSTAMP;VALUE=DATE-TIME:20140415T201349Z
+DTSTAMP;VALUE=DATE-TIME:20140424T100159Z
 UID:6SLKlOa2kCRT1Y2alwwCZA@frab.cccv.de
 DESCRIPTION:Starke Kryptografie für Server korrekt konfiguriert. Ein Leit
  faden für die Systemadministration.
@@ -183,7 +183,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T180000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T163000
-DTSTAMP;VALUE=DATE-TIME:20140416T211824Z
+DTSTAMP;VALUE=DATE-TIME:20140421T065854Z
 UID:i_2Q9xJIHxx4iu3WUcRfcg@frab.cccv.de
 DESCRIPTION:Was hat die Kommunikation im Auto\, Flurförderfahrzeugen auto
  matische Schiebetüren gemeinsam.  Wie kann ich in diesen Systemen Mitspr
@@ -196,7 +196,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T000000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T223000
-DTSTAMP;VALUE=DATE-TIME:20140412T124351Z
+DTSTAMP;VALUE=DATE-TIME:20140421T211735Z
 UID:-B0Dzw8Zh-3wzHsuOqtuLw@frab.cccv.de
 DESCRIPTION:
 URL:/pages/fahrplan/events/5762.html
@@ -255,7 +255,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T173000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T164500
-DTSTAMP;VALUE=DATE-TIME:20140409T193512Z
+DTSTAMP;VALUE=DATE-TIME:20140421T070236Z
 UID:Q8j9xkOW_50eqh8kf62gkQ@frab.cccv.de
 DESCRIPTION:IRC gibt's schon lange\, aber zum Teil ist bis heute relativ 
  wenig ueber die Details des Protokolls bekannt\, obwohl es IMHO zu einem
@@ -417,7 +417,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T114500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T111500
-DTSTAMP;VALUE=DATE-TIME:20140419T130802Z
+DTSTAMP;VALUE=DATE-TIME:20140421T121724Z
 UID:3QAXrIW9VSGsxgT6ivgZdA@frab.cccv.de
 DESCRIPTION:Tabellen\, gleichermaßen gehasst wie geliebt. Vor allem wenn 
  wir über responsive Design sprechen stoßen Tabellen schnell an ihre Gren
@@ -523,12 +523,12 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T161500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T153000
-DTSTAMP;VALUE=DATE-TIME:20140420T110439Z
+DTSTAMP;VALUE=DATE-TIME:20140420T185802Z
 UID:MSQd41AhyJrm13_cCTRCYw@frab.cccv.de
-DESCRIPTION:In TLS sind in letzter Zeit zahlreiche Probleme aufgetaucht\,
-  Die BEAST- und die Lucky Thirteen-Attacke\, Probleme mit RC4 und Mißtra
- uen gegenüber Standards aus dem Hause NSA. Wo steht TLS heute und welche
-  Verbesserungen stehen an?
+DESCRIPTION:TLS had various problems recently. The BEAST attack\, the CRI
+ ME attack\, the Lucky Thirteen attack\, problems with RC4 and of course 
+ Heartbleed. Standards from the NSA aren't trustworthy any more. Where is
+  TLS today and what improvements are planned?
 URL:/pages/fahrplan/events/5744.html
 SUMMARY:How broken is TLS?
 ORGANIZER:EH2014
@@ -548,7 +548,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T143000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T134500
-DTSTAMP;VALUE=DATE-TIME:20140416T184122Z
+DTSTAMP;VALUE=DATE-TIME:20140423T061140Z
 UID:ni7iin79iA9gscrnBMSJ7Q@frab.cccv.de
 DESCRIPTION:Was verrät der Stacktrace eines Java-Programms über die verwe
  ndeten Bibliotheken - und deren mögliche Schwachstellen? Eine Anekdote ü
@@ -610,7 +610,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T211500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T203000
-DTSTAMP;VALUE=DATE-TIME:20140409T195743Z
+DTSTAMP;VALUE=DATE-TIME:20140421T070431Z
 UID:yeqQQddWKSYSu-N6f-ReQQ@frab.cccv.de
 DESCRIPTION:What are the challenges of today's infrastructures\, why cont
  ainers are the right building blocks and Docker the right tool to manage
@@ -854,7 +854,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T181500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T173000
-DTSTAMP;VALUE=DATE-TIME:20140411T173331Z
+DTSTAMP;VALUE=DATE-TIME:20140421T121605Z
 UID:Wm57wGvjLxfiXcENn6XOdw@frab.cccv.de
 DESCRIPTION:Vorstellung von SmartOS eines Illumos basiertem Cloud OS mit 
  KVM Support.
@@ -878,7 +878,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T221500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T204500
-DTSTAMP;VALUE=DATE-TIME:20140419T204810Z
+DTSTAMP;VALUE=DATE-TIME:20140421T070038Z
 UID:cw1kWo5jKcQug7gM1AvNGA@frab.cccv.de
 DESCRIPTION:While recent events have finally made the world at large real
  ize that the exhaustive deployment and use of cryptography throughout th
@@ -918,7 +918,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T184500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T180000
-DTSTAMP;VALUE=DATE-TIME:20140416T211720Z
+DTSTAMP;VALUE=DATE-TIME:20140423T210950Z
 UID:PQ-HhE1awzRaFzm0Zvzh5A@frab.cccv.de
 DESCRIPTION:Das Internet ist kaputt.\n\nWir brauchen eine fundamentale Üb
  erarbeitung der Internetprotokolle\, um die heute üblichen Dienste demok
@@ -944,7 +944,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T193000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T184500
-DTSTAMP;VALUE=DATE-TIME:20140419T173355Z
+DTSTAMP;VALUE=DATE-TIME:20140421T065925Z
 UID:X-LlUJ210vf4NMvww86DhQ@frab.cccv.de
 DESCRIPTION:
 URL:/pages/fahrplan/events/5813.html

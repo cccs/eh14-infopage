@@ -15,7 +15,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T203000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T194500
-DTSTAMP;VALUE=DATE-TIME:20140419T092644Z
+DTSTAMP;VALUE=DATE-TIME:20140424T081328Z
 UID:SUy5iEpNWx9zyqfQIG7caQ@frab.cccv.de
 DESCRIPTION:Anhand realitätsnaher Beispiele wird erklärt\, auf was man be
  i einem Sicherheitsvorfall im Netzwerk und dessen Behandlung (Incident R

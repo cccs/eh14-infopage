@@ -15,7 +15,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T143000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T134500
-DTSTAMP;VALUE=DATE-TIME:20140416T184122Z
+DTSTAMP;VALUE=DATE-TIME:20140423T061140Z
 UID:ni7iin79iA9gscrnBMSJ7Q@frab.cccv.de
 DESCRIPTION:Was verrät der Stacktrace eines Java-Programms über die verwe
  ndeten Bibliotheken - und deren mögliche Schwachstellen? Eine Anekdote ü

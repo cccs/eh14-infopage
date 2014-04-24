@@ -395,7 +395,7 @@
 <dtend>20140420T161500</dtend>
 <duration>004500</duration>
 <summary>How broken is TLS?- The most important crypto protocol</summary>
-<description>In TLS sind in letzter Zeit zahlreiche Probleme aufgetaucht, Die BEAST- und die Lucky Thirteen-Attacke, Probleme mit RC4 und Mißtrauen gegenüber Standards aus dem Hause NSA. Wo steht TLS heute und welche Verbesserungen stehen an?</description>
+<description>TLS had various problems recently. The BEAST attack, the CRIME attack, the Lucky Thirteen attack, problems with RC4 and of course Heartbleed. Standards from the NSA aren't trustworthy any more. Where is TLS today and what improvements are planned?</description>
 <class>PUBLIC</class>
 <status>CONFIRMED</status>
 <category>Lecture</category>
