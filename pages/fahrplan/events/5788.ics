@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20140330T020000
+RDATE:20140330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T203000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T194500
+DTSTAMP;VALUE=DATE-TIME:20140424T081328Z
+UID:SUy5iEpNWx9zyqfQIG7caQ@frab.cccv.de
+DESCRIPTION:Anhand realitätsnaher Beispiele wird erklärt\, auf was man be
+ i einem Sicherheitsvorfall im Netzwerk und dessen Behandlung (Incident R
+ esponse) zu Beginn achten sollte. Hierbei spielen vor allem die bestmögl
+ iche Nutzung vorhandener Ressourcen und die Einforderung von Marketingve
+ rsprechen eine große Rolle.\n\nAlso eine Art: &lt\;buzzwords&gt\; First-
+ Response Best-Practice Guide &lt\;/buzzwords&gt\;\n\nGute Ironie- und Sa
+ rkasmusdetektoren werden unbedingt vorausgesetzt.
+URL:/pages/fahrplan/events/5788.html
+SUMMARY:(Anti)-Cyber-Realitätsabgleich
+ORGANIZER:EH2014
+LOCATION:Degerloch
+END:VEVENT
+END:VCALENDAR

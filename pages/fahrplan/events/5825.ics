@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20140330T020000
+RDATE:20140330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T133000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140419T120000
+DTSTAMP;VALUE=DATE-TIME:20140417T192221Z
+UID:j432N3wlKqrpSsInhgY5JQ@frab.cccv.de
+DESCRIPTION:Die Bundesländer machen einen neuen Anlauf für neue Jugendsch
+ utz-Regeln im <del>Fernsehen</del> <add>Internet</add>. Und da das Inter
+ net wie Fernsehen aussieht\, soll der Jugendschutz da genau so funktioni
+ eren. Warum das uns alle angeht und was zu tun ist zeigt dieser Vortrag.
+URL:/pages/fahrplan/events/5825.html
+SUMMARY:(Wie) wollen Jugendschützer das Internet beherrschen?
+ORGANIZER:EH2014
+LOCATION:Degerloch
+END:VEVENT
+END:VCALENDAR

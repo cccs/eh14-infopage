@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20140330T020000
+RDATE:20140330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T220000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140420T211500
+DTSTAMP;VALUE=DATE-TIME:20140421T085948Z
+UID:PWBg7vdclEAw8nNOeVAfFA@frab.cccv.de
+DESCRIPTION:Hersteller von Sicherheits-ICs haben in den letzten Jahren vi
+ el Arbeit in die Absicherung ihrer Produkte gesteckt. Dabei konzentriert
+ en sie sich aber hauptsächlich auf die Vorderseite des Chips. Der Vortra
+ g beschäftigt sich mit der nächsten großen Spielwiese von Chip-Hackern. 
+ Er beleuchtet Probingangriffe mittels Focused Ion Beam und die direkte Ü
+ berwachung von schaltenden Transistoren durch die Analyse von optischen 
+ Seitenkanälen.
+URL:/pages/fahrplan/events/5758.html
+SUMMARY:Angriffe auf Mikrochips durch die Rueckseite
+ORGANIZER:EH2014
+LOCATION:Degerloch
+END:VEVENT
+END:VCALENDAR

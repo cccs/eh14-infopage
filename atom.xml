@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Easterhegg 2014</title>
+  <link href="http://http://eh14.easterhegg.eu//atom.xml" rel="self"/>
+  <link href="http://http://eh14.easterhegg.eu/"/>
+  <updated>2013-12-22T14:43:17.414Z</updated>
+  <id>http://http://eh14.easterhegg.eu/</id>
+  <author>
+    <name>Your Name</name>
+    <email>your@email.com</email>
+  </author>
+
+  
+    <entry>
+      <title>This is a Blog Post</title>
+      <link href="http://http://eh14.easterhegg.eu//posts/hello"/>
+      <updated>2013-12-22T15:23:27.027Z</updated>
+      <id>http://http://eh14.easterhegg.eu//posts/hello</id>
+      <content type="html">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+  &lt;head&gt;
+    &lt;!-- Meta--&gt;
+    &lt;meta charset=&quot;utf-8&quot;&gt;
+    &lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot;&gt;
+    &lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot;&gt;
+    &lt;title&gt;This is a Blog Post | Easterhegg 2014&lt;/title&gt;
+    &lt;meta name=&quot;description&quot; content=&quot;When your website appears in search results in say Google, the text here will be shown underneath your website's title.&quot;&gt;
+    &lt;meta name=&quot;keywords&quot; content=&quot;place, your, website, keywoards, here, keep, them, related, to, the, content, of, your, website&quot;&gt;
+    &lt;meta name=&quot;author&quot; content=&quot;Your Name&quot;&gt;&lt;meta name=&quot;generator&quot; content=&quot;DocPad v6.59.6&quot; /&gt;
+    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot;&gt;
+    &lt;!-- Icons--&gt;
+    &lt;link rel=&quot;shortcut icon&quot; href=&quot;/ico/favicon.ico&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;144x144&quot; href=&quot;/ico/apple-touch-icon-144-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;114x114&quot; href=&quot;/ico/apple-touch-icon-114-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;72x72&quot; href=&quot;/ico/apple-touch-icon-72-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; href=&quot;/ico/apple-touch-icon-57-precomposed.png&quot;&gt;
+    &lt;!--[if lt IE 9]&gt;
+    &lt;script async src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
+    &lt;![endif]--&gt;
+    &lt;!-- Styles--&gt;&lt;style &gt;html.wait {
+	cursor: wait !important;
+	opacity: 0;
+	transition: opacity 0.5s ease;
+}&lt;/style&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/vendor/prettify.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/vendor/components-bootstrap/css/bootstrap.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;div class=&quot;wrap container&quot;&gt;
+      &lt;!-- Markup--&gt;
+      &lt;nav class=&quot;navbar navbar-default navbar-fixed-top&quot;&gt;
+        &lt;div class=&quot;container&quot;&gt;
+          &lt;div class=&quot;navbar-header&quot;&gt;&lt;a href=&quot;/&quot; class=&quot;navbar-brand&quot;&gt;EH14&lt;/a&gt;&lt;/div&gt;
+          &lt;ul class=&quot;nav navbar-nav&quot;&gt;
+            &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/hello&quot;&gt;&lt;a href=&quot;/pages/hello&quot; property=&quot;dc:title&quot;&gt;This is a Page&lt;/a&gt;&lt;/li&gt;
+            &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/posts&quot;&gt;&lt;a href=&quot;/pages/posts&quot; property=&quot;dc:title&quot;&gt;Posts&lt;/a&gt;&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/div&gt;
+      &lt;/nav&gt;
+      &lt;div id=&quot;main-container&quot; class=&quot;container&quot;&gt;
+        &lt;section id=&quot;content&quot; class=&quot;content&quot;&gt;
+&lt;article id=&quot;post&quot; class=&quot;post&quot;&gt;
+  &lt;h1&gt;This is a Blog Post&lt;/h1&gt;
+  &lt;div class=&quot;post-content&quot;&gt;&lt;p&gt;This is a &lt;strong&gt;blog post&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/article&gt;
+&lt;footer&gt;
+&lt;/footer&gt;&lt;/section&gt;
+        &lt;hr&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;footer class=&quot;container&quot;&gt;
+      &lt;div&gt;© Your Company 2013&lt;/div&gt;
+      &lt;div style=&quot;font-style:italic; font-size: 12px&quot;&gt;This website was last updated at Sun Dec 22 2013 15:43:17 GMT+0100 (CET)&lt;/div&gt;
+    &lt;/footer&gt;
+    &lt;!-- Scripts--&gt;&lt;script &gt;(function(){
+	/* Did we just livereload? */
+var log = !!(localStorage &amp;&amp; console &amp;&amp; console.log &amp;&amp; true);
+if ( log &amp;&amp; localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
+	localStorage.removeItem('/docpad-livereload/reloaded');
+	console.log('LiveReload completed at', new Date())
+}
+
+/* Listen for the regenerated event and perform a reload of the page when the event occurs */
+var listen = function(){
+	var primus = new Primus('/docpad-livereload');
+	primus.on('data', function(data){
+		if ( data &amp;&amp; data.message ) {
+			if ( data.message === 'generateBefore' ) {
+				if ( log ) {
+					console.log('LiveReload started at', new Date());
+				}
+				if ( typeof document.getElementsByTagName !== 'undefined' ) {
+	document.getElementsByTagName('html')[0].className += ' wait';
+}
+			}
+			else if ( data.message === 'generateAfter' ) {
+				if ( log ) {
+					localStorage.setItem('/docpad-livereload/reloaded', 'yes');
+				}
+				document.location.reload();
+			}
+		}
+	});
+};
+	/* Inject socket into our page */
+var inject = function(){
+	var t = document.createElement('script');
+	t.type = 'text/javascript';
+	t.async = 'async';
+	t.src = '/primus/primus.js';
+	t.onload = listen;
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(t, s);
+};
+	if ( typeof Primus !== 'undefined' ) {
+		listen();
+	} else {
+		inject();
+	}
+})();&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/prettify.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/jquery/jquery.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/components-bootstrap/js/bootstrap.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/log.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/modernizr.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
+  &lt;/body&gt;
+&lt;/html&gt;</content>
+    </entry>
+  
+</feed>
